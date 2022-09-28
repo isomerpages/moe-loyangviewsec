@@ -33,3 +33,5 @@ Our Secondary 3 to 5 Food & Nutrition students had an enriching hands-on baking 
 4.     Invigorating Morning Assembly into our F&N Curriculum
 
 “Our Grandfather Story” was invited to share timeless and overlooked stories on local hawker and food industries in Singapore. This is in line with Food Entrepreneurship where students appreciate the value of individuality, creativity, authenticity and enterprise of food products from different cultures. Our Secondary One are then tasked to create a healthy hawker dish for their Food & Consumer Education Project work that reflects our 2019 National Day Theme, "Our Singapore" using flipped classroom approach.
+
+![](/images/FandN3.png)
