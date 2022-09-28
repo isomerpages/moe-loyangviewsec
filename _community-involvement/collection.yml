@@ -2,7 +2,6 @@ collections:
   community-involvement:
     output: true
     order:
-      - Home Based Learning (HBL).md
       - Students COVID19 Vaccination.md
       - School Vendors.md
       - Purchase of Books and Uniforms (2022).md
@@ -13,3 +12,4 @@ collections:
       - Parents and Students/Travel Declaration.md
       - FamilyMatters @ School Programme.md
       - Parent Support Group @ LVSS.md
+      - Home Based Learning (HBL).md
