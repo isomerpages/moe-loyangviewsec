@@ -23,3 +23,7 @@ Students expose to hip hop beatbox music and a singing performance by the Skratc
 Our Secondary 1 students went for an Indian music learning journey. The learning journey is in line with our blended learning approach for lower secondary music. The students had an eye-opening experience as they watched live demonstrations by professional artistes in an Indian fine arts school, and had opportunities to try each of the instruments.
 
 ![](/images/Music1.png)
+
+3.     **Be Like a Pro in Audio Production**
+
+Our students learn the different stages of audio production, recognise the elements of sound as well as the use of recording software to set up a recording session to record their performances.
