@@ -17,3 +17,14 @@ This programme that started in 2019 hoped to enthuse students’ interest in the
   
 
 Here’s some examples of students’ work:
+
+
+
+In addition to that, the Sec 1 students had a hands-on session where they learnt how to make epok-epok using plasticine. They then feasted on real epok-epok and ondeh-ondeh provided by the school.
+
+![](/images/MalayLang1.png)
+
+### MTL Fortnight
+-------------
+
+In Term 1, Secondary 1 students got the chance to display their sculpting skills by making traditional Malay kuih out of plasticine.
