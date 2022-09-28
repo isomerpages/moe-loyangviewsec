@@ -115,3 +115,34 @@ Mathematics
   </tr>
 </tbody>
 </table>
+
+### Our Vision, Mission and Values
+------------------------------
+
+**Vision**
+
+Every LV Student a Competent and Confident Problem Solver
+
+**Mission**
+
+To provide a vibrant learning environment and joyful learning experiences for the learning of Mathematics
+
+**Values**
+
+Loyang View Mathematics Department believes that every child is unique and can learn. All Math teachers are committed to develop our students to be competent problem solvers. 
+
+### Our Team
+--------
+
+![](/images/Math%20Dept%20Photo.jpeg)
+
+### Mathematic Programmes
+---------------------
+
+By leveraging on varied exploratory and experiential learning platforms, we seek to cater to the diverse learning needs of our students to enable each of them to achieve his/her fullest potential and cultivate a deep interest in Math.
+
+We have two different types of programmes to cater to the learning needs of the levels and specific needs of students where required. Our programmes can be classified as:
+
+     I) Level Wide Programmes
+
+   II) Special Programmes
