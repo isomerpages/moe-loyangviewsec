@@ -275,3 +275,54 @@ Here’s some snippets of the winning videos:
   </tr>
 </tbody>
 </table>
+
+##### 3E Tangkas Terjemah (Swift Translator Competition)
+
+On Friday, 29 March 2019, our Sec 3 Express students participated in a Malay Language competition ‘Tangkas Terjemah’ (Swift Translator) organised by Meridian Secondary School (Cluster). The competition challenged students’ capacity to be effectively bilingual as they are required to translate words or phrases and texts from Malay to English and vice versa. Our students did us proud to win the 3rd placing, with Swiss Cottage Secondary School in 1st place and Hillgrove Secondary School in 2nd place.
+
+  
+
+The team comprised of:
+
+1) NURUL JANNAH BINTE MOHAMMAD (S3-E1)
+
+2) 'AIN SHAHIRAH BINTE MOHAMED AZRIN (S3-E1)
+
+3) NUR ERYNA FALISHA BINTE MUHAMED HERRY (S3-E1)
+
+4) SUMAYYAH BINTE NORAZNI (S3-E2)
+
+5) NURSYAHIDAH BINTE MOHAMMAD RIZAL (S3-E2)
+
+  
+
+##### MTL Department Key Programmes
+
+*   MTL Fortnight Carnival (across-culture)
+    
+*   Journalism and Broadcasting Programme for lower secondary
+    
+*   MTL Language Camp for upper secondary
+    
+*   Movie Appreciation for upper secondary
+    
+*   Chinese New Year Celebration Programme
+    
+*   Hari Raya Celebration Programme
+    
+*   Deepavali Celebration Programme
+    
+*   Exchange Programme with visiting schools
+    
+*   Tamil Festival Carnival (UPTLC)
+    
+
+##### Mother Tongue Fortnight Opening Ceremony
+
+On 21 January to 1 Feburary, LVSS held it’s second Mother Tongue Fortnight with numerous engaging activities that introduced our students to the world of cultures among the different races. The Mother Tongue Fortnight Opening Ceremony was held on 21 January, Mr Lee declared the official opening ceremony in the school hall during the special morning assembly with a series of interesting programmes lineup that include cultural performances and videos in relation to the different MTLs and playing of Kahoot Games. Students are engaged in the activities that is evident from their smiling faces.
+
+  
+
+##### Mother Tongue Fortnight Carnival
+
+On 30 January 2019, our lower secondary students participated in various engaging activities during the Mother Tongue Fortnight Carnival. Students had the chance to learn how to play a Malay traditional musical instrument, the kompang, a Malay traditional game of speed - tarik upih as well as the Chinese yoyo (扯铃). They also learnt how to make Indian flower garland and let their creative juices flow during the Chinese finger painting and Indian henna drawing
