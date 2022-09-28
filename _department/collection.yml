@@ -2,6 +2,6 @@ collections:
   department:
     output: true
     order:
-      - Craft & Technology/Art.md
-      - Craft & Technology/Craft & Technology.md
       - Craft & Technology/.keep
+      - Craft & Technology/Craft & Technology.md
+      - Craft & Technology/Art.md
