@@ -137,3 +137,55 @@ School Organisation Chart
 </table>
 
 ### Our Subject Heads and Level Heads
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-xxiv{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Planning Committee</span></th>
+    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Name</span></th>
+    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">E-Mail Address</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">SH/ PE &amp; CCA</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mr Raymond Tan Siew Heng</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">tan_siew_heng_raymond@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">SH / ICT</span><br></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mr Koe Soon Guan</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">koe_soon_guan@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">LH / Mathematics </span><br></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Ms Christina Chew Pei Jun </span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">chew_pei_jun_christina@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">LH/ English</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mdm Nazeeracany</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">nazeeracany_mohamed_husien@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Assistant Year Head (Upper Sec)<span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-y7qa">Ms Irene Lim<span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-y7qa">lim_irene@moe.edu.sg<span style="color:#222;background-color:#EAEAEA"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">SH /Character &amp; Citizenship Education </span><br></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Ms Rabiatuladawiyah Binte Mohd Razif</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">rabiatuladawiyah_mohd_razif@moe.edu.sg  </span></td>
+  </tr>
+</tbody>
+</table>
