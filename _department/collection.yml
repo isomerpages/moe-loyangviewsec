@@ -2,10 +2,10 @@ collections:
   department:
     output: true
     order:
-      - English.md
       - Craft & Technology/.keep
       - Craft & Technology/Craft & Technology.md
       - Craft & Technology/Art.md
       - Craft & Technology/Music.md
       - Craft & Technology/Food & Nutrition.md
       - Craft & Technology/Design & Technology.md
+      - English.md
