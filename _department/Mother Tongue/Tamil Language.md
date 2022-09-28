@@ -53,3 +53,37 @@ Our Tamil students participated in Navarasa Thiruvizha 2019. It is a Tamil Langu
 ### Achievements
 ------------
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">2015</span></th>
+    <th class="tg-citn"><span style="color:#000;background-color:transparent">Loyang Sec (LYSS) - Sec 2 students involved in MOE Research Project</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rdtm" rowspan="2"><span style="font-weight:700;color:#000;background-color:transparent">2016</span></td>
+    <td class="tg-citn"><span style="color:#000;background-color:transparent">Loyang Sec (LYSS) - Sec 1 Oratorical Competition @ UPTLC</span></td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><span style="color:#000;background-color:transparent">Loyang Sec (LYSS) - Sec 3 - Creative Writing Competition @MOE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">2017</span></td>
+    <td class="tg-citn"><span style="color:#000;background-color:transparent">Loyang Sec (LYSS) - Marketing Innovation Challenge 2017 - Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">2019</span></td>
+    <td class="tg-citn"><span style="color:#000;background-color:transparent">Navarasa Thiruvizha 2019</span></td>
+  </tr>
+</tbody>
+</table>
