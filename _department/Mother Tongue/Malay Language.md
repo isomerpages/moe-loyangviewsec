@@ -28,3 +28,7 @@ In addition to that, the Sec 1 students had a hands-on session where they learnt
 -------------
 
 In Term 1, Secondary 1 students got the chance to display their sculpting skills by making traditional Malay kuih out of plasticine.
+
+![](/images/MalayLang2.png)
+
+![](/images/MalayLang3.png)
