@@ -39,3 +39,11 @@ Our Secondary 3 to 5 Food & Nutrition students had an enriching hands-on baking 
 5.     Joy of Food & Consumer Education@ LVSS
 
 Food & Consumer education in the 21st century is designed with the social and economic landscape of Singapore in mind, both current and future. With _urban agriculture_ and aquaculture technology hub as the next wave in Singapore, our Secondary Two Project work provide opportunities for students to undertake projects which they are required to do planning, research, problem-solving and evaluation in line with this emerging food and health trend. Our project was invited to share at Nutrition and Food Science Seminar 2019.
+
+![](/images/FandN4.png)
+
+6.     Food & Nutrition is about sharing with the community
+
+The Food & Nutrition teachers and students are always actively sharing our joy of leanring with the community. Every year, our teacher will share our Singapore enthic dishes with students from overseas exchaneg programme.
+
+![](/images/FandN5.png)
