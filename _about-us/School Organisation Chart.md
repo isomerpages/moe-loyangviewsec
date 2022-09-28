@@ -7,3 +7,5 @@ School Organisation Chart
 =========================
 
 ![](/images/SchoolLeaders.png)
+
+### Our School Leaders
