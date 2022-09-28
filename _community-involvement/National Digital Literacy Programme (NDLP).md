@@ -65,3 +65,8 @@ An online briefing for parents was held in March to explain the details of the N
 Click on the link below for the briefing slides.
 
 [NDLP Briefing Slides for Parents LVSS.pdf](/files/NDLP%20Briefing%20Slides%20for%20Parents%20LVSS.pdf)
+
+##### **NDLP Resources for parents**
+
+[Parent Handbook I on Learning with a PLD.pdf](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
+
