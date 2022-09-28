@@ -23,3 +23,9 @@ Congratulations to our team of students who emerged champions in the "Insta-wort
 Loyang View Secondary School has been participating in this annual culinary competition organised by Keat Hong community Club. The theme for this year is “We are Singaporean” and participants were supposed to create a special sandwich related to the theme. Other than clinching one of the six prizes out of a total of 50 participating teams, all students have a memorable and meaning experience.
 
 ![](/images/FandN1.png)
+
+3.     F&N Learning Journey
+
+Our Secondary 3 to 5 Food & Nutrition students had an enriching hands-on baking experience at the Baking Industry Training College (BITC) on two recent Saturdays. The workshops helped to enhance the students' creativity and build on their passion and interest in baking. The students had an enjoyable time learning to craft mouth-watering desserts such as themed cakes and macaroons. The culinary sessions have been effective in fostering interaction and forging bonds, in addition to learning innovative baking techniques. It was a fun and interactive culinary experience that created fond memories which will last a lifetime!
+
+![](/images/FandN2.png)
