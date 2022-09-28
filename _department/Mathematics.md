@@ -241,7 +241,6 @@ A week of extended curriculum is planned for Secondary Three students in term fo
 
 
 
-
 <figure>
 
 ![](/images/Mathematics5.jpeg)
@@ -249,3 +248,21 @@ A week of extended curriculum is planned for Secondary Three students in term fo
 <figcaption> <strong> Student working on Math sums during Extended Curriculum </strong> </figcaption>
 
 </figure>
+
+
+
+**(II) Special Programmes**
+
+**(a) Mathematics Talent Development Programme**
+
+The Talent Development Programme aims to develop mathematical talents of all levels and streams to appreciate the beauty of Math through challenging activities. Students are trained for stimulating competitions and they participate in various competitions namely;
+
+1.     Singapore Mathematics Olympiad (SMO)
+
+2.     Singapore and Asian Schools Mathematics Olympiad (SASMO)
+
+3.     Australian Mathematics Competition (AMC)
+
+4.     Singapore Mathematics Kangaroo Competition (SMKC)
+
+5.     University of New South Wales Mathematics Competition (UNSW)
