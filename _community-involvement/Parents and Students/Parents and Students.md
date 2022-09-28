@@ -27,7 +27,7 @@ Submission of the appeal form can be made via the following means:
   
 1\. Hardcopy to be submitted to the school's General Office latest by 10 November 2021, 12 pm  
   
-2\. Download softcopy, fill in relevant details and send the scanned copy to Mr Tan Kia Hock at tan\_kia\_hock@moe.edu.sg latest by 10 November 2021, 12 pm.  
+2\. Download softcopy, fill in relevant details and send the scanned copy to Mr Tan Kia Hock at tan_kia_hock@moe.edu.sg latest by 10 November 2021, 12 pm.  
   
 Late submission will not be entertained.  
   
