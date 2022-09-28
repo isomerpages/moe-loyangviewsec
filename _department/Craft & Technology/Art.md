@@ -39,3 +39,9 @@ Besides that, the secondary 3 art students get to learn acrylic painting conduct
 Students were exposed to the beautiful art of marbling during morning assembly.
 
 ![](/images/Art5.png)
+
+5.     **Art Learning Journey**   
+
+Expose 90- In the spirit of learning from each other, our students attended the annual art exhibition, titled “Expose 90”, at Zhonghua Secondary School. The exhibition showcased artworks from ZHSS’s 2018 cohort.
+
+![](/images/Art6.png)
