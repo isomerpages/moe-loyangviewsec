@@ -21,3 +21,9 @@ During the ‘Joy of Developing Entrepreneurship through Design’, students wer
 2.     **D&T Learning Journey**
 
 Our D&T were also involved in the ‘Building Design Skills Workshop’ at Nanyang Polytechnic where they leanrt research, design and stop motion video animation skills. Students had an enjoyable time interacting with students from other schools.
+
+![](/images/DandT1.png)
+
+3.     **D&T sharing to the community**
+
+![](/images/DandT2.png)
