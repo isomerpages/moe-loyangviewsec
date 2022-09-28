@@ -16,3 +16,7 @@ Home-Based Learning will be done from 19 May 2021 to 28 May 2021.
 Guide on common features students will be using using HBL:
 
 [Guide for students](/files/Guide%20for%20students.pdf)
+
+For Sec 1 to 3 Students:
+
+Guide to using Google classroom (Sec 1 to Sec 3)
