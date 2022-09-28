@@ -179,3 +179,5 @@ To end the programme, each student was gifted with a Limited Edition tote bag. W
 --------------------------------
 
 In 2019, our lower secondary students participated in various engaging activities during the Mother Tongue Fortnight Carnival. Students had the chance to learn how to play a Malay traditional musical instrument, the **kompang**, a Malay traditional game of speed - **tarik upih** as well as the **Chinese yoyo** (扯铃). They also learnt how to make Indian **flower garland** and let their creative juices flow during the Chinese **finger painting** and Indian **henna drawing**.
+
+![](/images/MT.png)
