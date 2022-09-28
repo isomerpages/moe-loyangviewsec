@@ -6,3 +6,4 @@ description: ""
 School Organisation Chart
 =========================
 
+![](/images/SchoolLeaders.png)
