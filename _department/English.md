@@ -143,3 +143,14 @@ To encourage student ownership and instil a passion for learning, as part of the
 This year, our students had a magical week of fantasy-themed EL and Literature activities during our annual EL-Lit Week. Kicking off the exciting week was our Harry Potter-inspired ‘Who Said This Line’ competition that was hosted by our EL teachers, where each class pitted their listening skills against one another to win attractive prizes. During EL lessons, students participated in quizzes on Shakespeare’s famous quotes, went on a virtual AR literary scavenger hunt, and created visual representations of poetry on mythical creatures and magic. Secondary Two and Three students applied creative thinking to come up with 30-word stories based on pictures on fantasy. Students enjoyed themselves and learnt more about word play and language as a form of creative and artistic expression.
 
 ![](/images/EL05.png)
+
+**Post-exam English Language Enrichment**    
+  
+Ever wondered why English is such a complicated language? Our Secondary One students explored the origins of English language and learnt about various words in the English vocabulary that were borrowed from other languages through their post-exam activity, Round the World in Eighty Minutes.
+
+![](/images/EL06.jpeg)
+
+
+_Sec 1 Post-Exam EL Programme hosted on Google Sites:_
+
+[https://sites.google.com/moe.edu.sg/travel-the-world-with-english/home](https://sites.google.com/moe.edu.sg/travel-the-world-with-english/home)
