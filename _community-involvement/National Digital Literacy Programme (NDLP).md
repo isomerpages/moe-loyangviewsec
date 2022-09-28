@@ -63,3 +63,5 @@ Financial assistance is also available for Permanent Residents (PR), Internation
 An online briefing for parents was held in March to explain the details of the NDLP.  
 
 Click on the link below for the briefing slides.
+
+[NDLP Briefing Slides for Parents LVSS.pdf](/files/NDLP%20Briefing%20Slides%20for%20Parents%20LVSS.pdf)
