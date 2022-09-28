@@ -157,3 +157,30 @@ _Student learnt to make tapioca chips_
 ![](/images/Perth%201.jpeg)
 
 Students visited the Australia Botanic Garden.
+
+![](/images/Perth%202.jpeg)
+
+Students learnt about the way of life of aborigines in the Perth Overseas Educational Programme.
+
+![](/images/Perth%203.jpeg)
+
+Students visited the ArtGeo Gallery and Busselton Court House and
+
+Lock up to learn about the History of Busselton.
+
+
+**Secondary 4**
+
+  
+
+The Geography teachers brought students to places of interest in Singapore which aligned to the Sec 4 topic on tourism.  The students conducted their geographical investigation which allowed them to apply the content and skills learnt during lessons. Students completed the learning with greater confident to apply their learning in the GCE ‘O’ and ‘N’ level examinations.
+
+![](/images/MBS%201.jpeg)
+
+![](/images/MBS%202.jpeg)
+
+
+_The Secondary 4E, 4N(A) and 5N(A) students conducting Geographical Investigation at Marina Bay Sands (MBS)._
+
+![](/images/Humanities8.png)
+
