@@ -29,3 +29,7 @@ Loyang View Secondary School has been participating in this annual culinary comp
 Our Secondary 3 to 5 Food & Nutrition students had an enriching hands-on baking experience at the Baking Industry Training College (BITC) on two recent Saturdays. The workshops helped to enhance the students' creativity and build on their passion and interest in baking. The students had an enjoyable time learning to craft mouth-watering desserts such as themed cakes and macaroons. The culinary sessions have been effective in fostering interaction and forging bonds, in addition to learning innovative baking techniques. It was a fun and interactive culinary experience that created fond memories which will last a lifetime!
 
 ![](/images/FandN2.png)
+
+4.     Invigorating Morning Assembly into our F&N Curriculum
+
+“Our Grandfather Story” was invited to share timeless and overlooked stories on local hawker and food industries in Singapore. This is in line with Food Entrepreneurship where students appreciate the value of individuality, creativity, authenticity and enterprise of food products from different cultures. Our Secondary One are then tasked to create a healthy hawker dish for their Food & Consumer Education Project work that reflects our 2019 National Day Theme, "Our Singapore" using flipped classroom approach.
