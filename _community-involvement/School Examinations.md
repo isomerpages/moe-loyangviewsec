@@ -26,6 +26,6 @@ Please refer to the following PDF files with regards to our upcoming Sec 2, 4 an
 
 ##### Level: PDF File
 * Sec 2: [SEC 2 MYE TIMETABLE_3 MARCH 2022.pdf](/files/SEC%202%20MYE%20TIMETABLE_3%20MARCH%202022.pdf)
-* Sec 4/5
+* Sec 4/5: [SEC 4 5_MYE TIMETABLE_3 MARCH 2022.pdf](/files/SEC%204%20%205_MYE%20TIMETABLE_3%20MARCH%202022.pdf)
 
 There is **NO** Mid-Year Examinations for Sec 1 and 3.
