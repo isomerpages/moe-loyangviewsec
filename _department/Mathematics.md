@@ -203,3 +203,13 @@ We have two different types of programmes to cater to the learning needs of the 
 To enhance students’ Math learning experiences, Secondary One students participate in an in-house Math Fiesta where they have fun through playing Math games and puzzles organised by the seniors.
 
 ![](/images/Mathematics1.png)
+
+_Sec 1 Math Fiesta_
+
+**(aii)     Mathematics Trail**
+
+Secondary Two Students are also given opportunities to take part in Math Trails at external locations where they learn to apply Mathematical concepts in authentic settings.
+
+![](/images/Mathematics2.png)
+
+_Sec 2 Math Trail at Gardens by the Bay_
