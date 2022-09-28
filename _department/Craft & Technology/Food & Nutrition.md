@@ -21,3 +21,5 @@ Congratulations to our team of students who emerged champions in the "Insta-wort
 2.     Keat Hong Community Club Sandwich-Salad Making Competition.
 
 Loyang View Secondary School has been participating in this annual culinary competition organised by Keat Hong community Club. The theme for this year is “We are Singaporean” and participants were supposed to create a special sandwich related to the theme. Other than clinching one of the six prizes out of a total of 50 participating teams, all students have a memorable and meaning experience.
+
+![](/images/FandN1.png)
