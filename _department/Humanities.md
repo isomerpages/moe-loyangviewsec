@@ -133,3 +133,16 @@ The Humanities department led Humanities Overseas learning trips to promote joy 
 
 ### SCHOOL IMMERSION PROGRAMME JOGJAKARTA INDONESIA
 -----------------------------------------------
+
+![](/images/JOGJAKARTA.jpeg)
+
+_Mdm Chang (Geography teacher) explained the geographical concepts to students_
+
+![](/images/Humanities5.jpeg)
+
+"_I am impressed by how the people in the past had managed to build this huge monument using just simple tools and equipment.  It must have taken a lot of perseverance and commitment to complete this._"
+
+\- **A student’s reflection after the visit to Borobudur.**  
+
+Borobudur is the world’s largest Buddhist temple and has been listed as a UNESCO World Heritage Site.
+
