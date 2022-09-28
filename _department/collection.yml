@@ -2,11 +2,6 @@ collections:
   department:
     output: true
     order:
-      - Mother Tongue/.keep
-      - Mother Tongue/Mother Tongue.md
-      - Mother Tongue/Chinese Language.md
-      - Mother Tongue/Malay Language.md
-      - Mother Tongue/Tamil Language.md
       - Craft & Technology/.keep
       - Craft & Technology/Craft & Technology.md
       - Craft & Technology/Art.md
@@ -16,3 +11,8 @@ collections:
       - English.md
       - Humanities.md
       - Mathematics.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
