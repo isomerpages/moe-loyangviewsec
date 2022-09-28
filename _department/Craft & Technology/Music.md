@@ -27,3 +27,5 @@ Our Secondary 1 students went for an Indian music learning journey. The learning
 3.     **Be Like a Pro in Audio Production**
 
 Our students learn the different stages of audio production, recognise the elements of sound as well as the use of recording software to set up a recording session to record their performances.
+
+![](/images/Music2.png)
