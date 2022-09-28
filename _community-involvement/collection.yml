@@ -2,6 +2,7 @@ collections:
   community-involvement:
     output: true
     order:
+      - Parents and Students/Termly Letter.md
       - Parents and Students/Parents and Students.md
       - Parents and Students/.keep
       - Students COVID19 Vaccination.md
