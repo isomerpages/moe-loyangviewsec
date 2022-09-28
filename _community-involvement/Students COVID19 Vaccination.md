@@ -6,7 +6,7 @@ description: ""
 Students' COVID-19 Vaccination
 ==============================
 
-## COVID-19 Vaccination Exercise for Students in Schools and Institutes of Higher Learning
+### COVID-19 Vaccination Exercise for Students in Schools and Institutes of Higher Learning
 ---------------------------------------------------------------------------------------
 
 Dear Parents/Guardians,    
@@ -23,3 +23,5 @@ Zoom Webinar Link - [https://go.gov.sg/moevacwebinar](https://go.gov.sg/moevacw
 Survey on Questions about Student Vaccination - [https://go.gov.sg/moevacqn](https://go.gov.sg/moevacqn)
 
 Download more information below:
+
+[Resource 1 Press Release on Vaccination Exercise for Students.pdf](/files/Resource%201%20Press%20Release%20on%20Vaccination%20Exercise%20for%20Students.pdf)
