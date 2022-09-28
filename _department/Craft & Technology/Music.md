@@ -21,3 +21,5 @@ Students expose to hip hop beatbox music and a singing performance by the Skratc
 2.     **Sec 1 Music Learning Journey**
 
 Our Secondary 1 students went for an Indian music learning journey. The learning journey is in line with our blended learning approach for lower secondary music. The students had an eye-opening experience as they watched live demonstrations by professional artistes in an Indian fine arts school, and had opportunities to try each of the instruments.
+
+![](/images/Music1.png)
