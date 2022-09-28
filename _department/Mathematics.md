@@ -224,7 +224,6 @@ To create opportunities for students to apply concepts and skills learned in Mat
 
 
 
-
 <figure>
 
 ![](/images/Mathematics4.png)
@@ -233,3 +232,7 @@ To create opportunities for students to apply concepts and skills learned in Mat
 
 </figure>
 
+
+**(c)        Extended Curriculum**
+
+A week of extended curriculum is planned for Secondary Three students in term four during the school vacation. This is to prepare them for the rigour needed when they proceed to Secondary 4 the following year.
