@@ -181,3 +181,44 @@ To end the programme, each student was gifted with a Limited Edition tote bag. W
 In 2019, our lower secondary students participated in various engaging activities during the Mother Tongue Fortnight Carnival. Students had the chance to learn how to play a Malay traditional musical instrument, the **kompang**, a Malay traditional game of speed - **tarik upih** as well as the **Chinese yoyo** (扯铃). They also learnt how to make Indian **flower garland** and let their creative juices flow during the Chinese **finger painting** and Indian **henna drawing**.
 
 ![](/images/MT.png)
+
+A games corner was set up in the foyer to let students try out during their free time the various traditional games such as sepak takraw, congkak, batu seremban, capteh, gasing and many others.
+
+![](/images/MT1.png)
+
+### Internal Competition 2021
+-------------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Sec 1</span></th>
+    <th class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Sec 2</span></th>
+    <th class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Sec 3</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-citn"><span style="color:#000;background-color:transparent">Food Review Video Challenge</span></td>
+    <td class="tg-citn"><span style="color:#000;background-color:transparent">Creative Writing Expression</span></td>
+    <td class="tg-citn"><span style="color:#000;background-color:transparent">Cultural Arts Video Challenge</span></td>
+  </tr>
+</tbody>
+</table>
+
+The Mother Tongue Department acknowledges that it is crucial to help students associate the language with contexts and uses beyond the classroom. Hence, the department aims to cultivate a lifelong interest in the language among the students. For 2021, the department carried out 3 key internal competitions for its secondary 1 to 3 students. The secondary 1 and 3 students leverage on their IT skills and produce authentic and creative videos that centres on a common theme for the level. The secondary 2 students participated in the Creative Writing Competition that centres on the theme of Dedication for Our Teachers.
+
+
+Here’s some snippets of the winning videos:
+
+### Milestones for Staff
+--------------------
