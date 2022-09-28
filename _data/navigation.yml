@@ -2,9 +2,7 @@ logo: /images/logo.png
 links:
   - title: About Us
     collection: about-us
+  - title: Community Involvement
+    collection: community-involvement
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
