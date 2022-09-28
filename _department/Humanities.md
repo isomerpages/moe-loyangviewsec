@@ -96,3 +96,8 @@ The Humanities Department oversees 3 subjects: Social Studies, Geography and His
 The Humanities teachers promote students’ passion and joy in learning through designing engaging lessons and outdoor experiential learning aligned to curriculum objectives.
 
 Students who have shown keen interest in Humanities were identified for the Humanities programme. They were provided opportunities to participate in competitions at the zonal and national level. For example, students took part in NUS Geography Challenge and Inter-School History Challenge.
+
+
+![](/images/Humanities.png)
+
+_Congratulations to our Sec 4 students, Qu Tian Jiao, Kannan Prithikashri, Sharifah Sha’ista Bte Noorazmi and Chermaine Chia Si Min, for their achievements - Top 45 School Semi-Finalists and 2nd place for Best Application question. Two of our students were also awarded the Top 60 Performing individuals (Bronze)_
