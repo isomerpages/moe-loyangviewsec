@@ -32,3 +32,34 @@ In Term 1, Secondary 1 students got the chance to display their sculpting skills
 ![](/images/MalayLang2.png)
 
 ![](/images/MalayLang3.png)
+
+Secondary 2 students challenged each other when they played some traditional games such as congkak, capteh and five stones.  
+  
+In Term 4, Secondary 1 students were introduced to batik and for their hands-on activity, they painted batik masks.   
+  
+Secondary 2 students participated in sewing their own five stones after learning about Malay traditional games.
+
+### Hari Raya Celebration
+---------------------
+
+Since Hari Raya Aidilfitri was celebrated at home, the school organised a Kahoot quiz via Zoom. Prior to that, students dedicated Hari Raya greetings to one another by giving each other Hari Raya cards.
+
+![](/images/MalayLang4.png)
+
+### Home-Based Learning (HBL) Activities
+------------------------------------
+
+Students contributed some creative ideas via the Student Learning Space (SLS) during the Home-Based Learning (HBL) period. They doodled characters based on a song, crafted poems about the Covid-19 situation and also dedicated some Hari Raya e-Card messages to their peers.
+
+  
+
+Here’s some examples of students’ work:
+
+![](/images/HBL.png)
+![](/images/HBL2.png)
+![](/images/HBL3.png)
+
+### O Level Mid-Year MTL Intensive
+------------------------------
+
+The MTL department has prepared gifts to motivate all students sitting for the mid-year O level Mother Tongue examinations.
