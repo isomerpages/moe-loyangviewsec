@@ -101,3 +101,7 @@ Students who have shown keen interest in Humanities were identified for the Huma
 ![](/images/Humanities.png)
 
 _Congratulations to our Sec 4 students, Qu Tian Jiao, Kannan Prithikashri, Sharifah Sha’ista Bte Noorazmi and Chermaine Chia Si Min, for their achievements - Top 45 School Semi-Finalists and 2nd place for Best Application question. Two of our students were also awarded the Top 60 Performing individuals (Bronze)_
+
+![](/images/Humanities1.png)
+
+_One of our Geography teachers who guided and accompanied the students to NUS on Saturdays for the yearly NUS Geography Challenge_
