@@ -137,3 +137,7 @@ To encourage student ownership and instil a passion for learning, as part of the
 ![](/images/EL11.png)
 ![](/images/EL12.jpeg)
 ![](/images/EL13.png)
+
+**EL-Lit Week**  
+
+This year, our students had a magical week of fantasy-themed EL and Literature activities during our annual EL-Lit Week. Kicking off the exciting week was our Harry Potter-inspired ‘Who Said This Line’ competition that was hosted by our EL teachers, where each class pitted their listening skills against one another to win attractive prizes. During EL lessons, students participated in quizzes on Shakespeare’s famous quotes, went on a virtual AR literary scavenger hunt, and created visual representations of poetry on mythical creatures and magic. Secondary Two and Three students applied creative thinking to come up with 30-word stories based on pictures on fantasy. Students enjoyed themselves and learnt more about word play and language as a form of creative and artistic expression.
