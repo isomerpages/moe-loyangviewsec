@@ -2,6 +2,7 @@ collections:
   community-involvement:
     output: true
     order:
+      - NDLP/Guides to DMA.md
       - NDLP/.keep
       - NDLP/National Digital Literacy Programme (NDLP).md
       - NDLP/Device Management Application (DMA).md
