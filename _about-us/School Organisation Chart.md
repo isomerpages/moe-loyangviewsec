@@ -51,3 +51,5 @@ School Organisation Chart
   </tr>
 </tbody>
 </table>
+
+### Our Head of Departments
