@@ -15,7 +15,7 @@ Please refer to the following PDF files with regards to our upcoming Sec 1, 2 an
 
 * Sec 1: [LVSS_Sec 1_EOY Exam TT_Final.pdf](/files/LVSS_Sec%201_EOY%20Exam%20TT_Final.pdf)
 * Sec 2: [LVSS_Sec 2_EOY Exam TT_Final.pdf](/files/LVSS_Sec%202_EOY%20Exam%20TT_Final.pdf)
-* Sec 3
+* Sec 3: [LVSS_Sec 3_EOY Exam TT_Final.pdf ](/files/LVSS_Sec%203_EOY%20Exam%20TT_Final.pdf)
 
 ### Mid-Year Examinations 2022
 --------------------------
