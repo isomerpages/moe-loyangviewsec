@@ -106,5 +106,6 @@ _Congratulations to our Sec 4 students, Qu Tian Jiao, Kannan Prithikashri, Shari
 
 _One of our Geography teachers who guided and accompanied the students to NUS on Saturdays for the yearly NUS Geography Challenge_
 
+![](/images/Humanities2.png)
 
 _Our History teachers, Ms Suhailah and Ms Ada, guided and accompanied our students to take part in Inter-School History Challenge_
