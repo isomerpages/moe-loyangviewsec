@@ -17,3 +17,7 @@ Through positive learning experiences in art, students grow to become passionate
 Our volunteer, Ex-MP Mdm Cynthia Phua conducted a series of Ceramic Workshops for different groups of students to inspire them on the love of ceramic making. Students are inspired by her passion.
 
 ![](/images/Art.png)
+
+2. **Community Batik**
+
+All our ec2s students worked together to create a large traditional batik in the ‘gotong–royong’ spirit. Wishing our school ‘A Happy & Caring School’
