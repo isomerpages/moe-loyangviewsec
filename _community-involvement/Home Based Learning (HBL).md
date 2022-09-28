@@ -20,3 +20,11 @@ Guide on common features students will be using using HBL:
 For Sec 1 to 3 Students:
 
 Guide to using Google classroom (Sec 1 to Sec 3)
+
+
+For Sec 4/5 Students:
+
+Guide to using Google Classroom (Sec 4 and 5)
+
+  
+
