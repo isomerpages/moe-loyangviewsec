@@ -146,3 +146,14 @@ _Mdm Chang (Geography teacher) explained the geographical concepts to students_
 
 Borobudur is the world’s largest Buddhist temple and has been listed as a UNESCO World Heritage Site.
 
+![](/images/Humanities7.jpeg)
+
+_Student learnt to make tapioca chips_
+
+
+### SCHOOL IMMERSION PROGRAMME PERTH, AUSTRALIA
+-------------------------------------------
+
+![](/images/Perth%201.jpeg)
+
+Students visited the Australia Botanic Garden.
