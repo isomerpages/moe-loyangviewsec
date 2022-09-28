@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - DSA SEC EXERCISE.md
-      - Form Class 2022.md
-      - Contact Us.md
-      - School Virtual Tour.md
-      - Principal's Message.md
-      - Vision Mission Values.md
-      - Student Creed.md
-      - School Safety & Security Vision.md
-      - School Organisation Chart.md
       - School Crest.md
+      - School Organisation Chart.md
+      - School Safety & Security Vision.md
+      - Student Creed.md
+      - Vision Mission Values.md
+      - Principal's Message.md
+      - School Virtual Tour.md
+      - Contact Us.md
+      - Form Class 2022.md
+      - DSA SEC EXERCISE.md
