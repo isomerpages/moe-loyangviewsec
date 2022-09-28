@@ -193,3 +193,11 @@ We have two different types of programmes to cater to the learning needs of the 
   </tr>
 </tbody>
 </table>
+
+**Programme Details**
+
+**(I)        Level Wide Programmes** 
+
+**(ai)      Mathematics Fiesta**
+
+To enhance students’ Math learning experiences, Secondary One students participate in an in-house Math Fiesta where they have fun through playing Math games and puzzles organised by the seniors.
