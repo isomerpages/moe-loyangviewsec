@@ -278,3 +278,14 @@ The Talent Development Programme aims to develop mathematical talents of all lev
 
 </figure>
 
+
+
+
+<figure>
+
+![](/images/Mathematics8.jpeg)
+
+<figcaption> <strong> Receiving awards at the Math Challenge 2019 </strong> </figcaption>
+
+</figure>
+
