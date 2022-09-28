@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Vision Mission Values.md
       - Student Creed.md
       - School Safety & Security Vision.md
       - School Organisation Chart.md
