@@ -2,10 +2,10 @@ collections:
   community-involvement:
     output: true
     order:
-      - NDLP/Guides to DMA.md
       - NDLP/.keep
       - NDLP/National Digital Literacy Programme (NDLP).md
       - NDLP/Device Management Application (DMA).md
+      - NDLP/Guides to DMA.md
       - Students COVID19 Vaccination.md
       - School Vendors.md
       - Purchase of Books and Uniforms (2022).md
