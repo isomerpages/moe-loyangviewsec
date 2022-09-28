@@ -16,4 +16,8 @@ Our D&T curriculum ensures that students are engaged in fun design-and-make acti
 
 During the ‘Joy of Developing Entrepreneurship through Design’, students were exposed to  various design techniques and apply these skills to communicate their ideas through design works. They developed qualities and values that empower them to reflect and express their ideas through the lens of an entrepreneur.
 
+![](/images/DandT.png)
 
+2.     **D&T Learning Journey**
+
+Our D&T were also involved in the ‘Building Design Skills Workshop’ at Nanyang Polytechnic where they leanrt research, design and stop motion video animation skills. Students had an enjoyable time interacting with students from other schools.
