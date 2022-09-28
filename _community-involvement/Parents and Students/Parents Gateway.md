@@ -9,3 +9,9 @@ Parents Gateway
 
 ### Instructions to sign up for Parents Gateway
 -------------------------------------------
+
+![](/images/PG_Page_1.jpeg)
+
+![](/images/PG_Page_2.jpeg)
+
+![](/images/PG_Page_3.jpeg)
