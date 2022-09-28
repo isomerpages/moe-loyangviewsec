@@ -137,3 +137,70 @@ Form Class 2022
 </table>
 
 ### Secondary 4/5
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rdtm">Class</th>
+    <th class="tg-rdtm">Form Teachers</th>
+    <th class="tg-rdtm">E-Mail</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-citn">S4-E1</td>
+    <td class="tg-citn">Nurul Imma Wong<br>Ian Tay</td>
+    <td class="tg-7fd7">nurul_imma_wong@moe.edu.sg<br><br>tay_yuxiang@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">S4-E2</td>
+    <td class="tg-citn">Angelina Ng</td>
+    <td class="tg-7fd7">ng_mui_yun_angelina@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">S4-E3</td>
+    <td class="tg-citn">Wennie Ang<br>Hazel Lim</td>
+    <td class="tg-7fd7">ang_woon_nee_wennie@moe.edu.sg<br><br>lim_yan_chin_hazel@moe.edu.sg<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">S4-E4</td>
+    <td class="tg-citn">Josephine Oh<br>Yvonne Li</td>
+    <td class="tg-7fd7">oh_wan_ping@moe.edu.sg<br><br>li_jiayi_yvonne@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-7fd7">S5-A1 </td>
+    <td class="tg-7fd7">Kok Shu Ling</td>
+    <td class="tg-7fd7">kok_shu_ling@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">S4-A1</td>
+    <td class="tg-citn">Victoria Chang<br>Dennis Lim</td>
+    <td class="tg-7fd7">chang_ping_sze@moe.edu.sg<br><br>dennis_lim_teck_yong@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">S4-A2</td>
+    <td class="tg-7fd7">Sharina Nadia Suleiman</td>
+    <td class="tg-7fd7">sharina_nadia_suleiman@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">S4-A3</td>
+    <td class="tg-citn">Heng Ching Fei<br>Lim Chiang Siew</td>
+    <td class="tg-7fd7">heng_ching_fei@moe.edu.sg<br><br>lim_chiang_siew@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">S4-T1</td>
+    <td class="tg-citn"><span style="background-color:initial">Lee Hock Joo</span><br><span style="background-color:initial">Norsiah Semuni</span></td>
+    <td class="tg-7fd7">lee_hock_joo@moe.edu.sg<br></td>
+  </tr>
+</tbody>
+</table>
