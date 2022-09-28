@@ -2,5 +2,5 @@ collections:
   community-involvement:
     output: true
     order:
-      - School Vendors.md
       - Students COVID19 Vaccination.md
+      - School Vendors.md
