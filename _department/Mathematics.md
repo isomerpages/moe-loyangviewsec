@@ -148,34 +148,33 @@ We have two different types of programmes to cater to the learning needs of the 
    II) Special Programmes
 	 
 	 
-	 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-rj1p" colspan="5">PROGRAMMES</th>
+    <th class="tg-n4qt" colspan="5">PROGRAMMES</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-rj1p">Level</td>
-    <td class="tg-rj1p" colspan="2">Level Wide</td>
-    <td class="tg-rj1p" colspan="2">Special</td>
+    <td class="tg-n4qt">Level</td>
+    <td class="tg-n4qt" colspan="2">Level Wide</td>
+    <td class="tg-n4qt" colspan="2">Special</td>
   </tr>
   <tr>
     <td class="tg-ii8k">Sec 1</td>
     <td class="tg-y7qa"><br>Mathematics Fiesta<br></td>
     <td class="tg-ii8k" rowspan="4"><br><br><br><br><br><br><br>Mathematics Modelling and Problems in Real World Context Tasks<br></td>
-    <td class="tg-y7qa"><br>Foundation Math Bridging Programme<br></td>
+    <td class="tg-ii8k"><br>Foundation Math Bridging Programme<br></td>
     <td class="tg-ii8k" rowspan="4"><br><br><br><br><br><br><br>Mathematics Talent Development Programme <br></td>
   </tr>
   <tr>
@@ -190,7 +189,7 @@ We have two different types of programmes to cater to the learning needs of the 
   <tr>
     <td class="tg-ii8k"><br>Sec 4/5<br></td>
     <td class="tg-y7qa"><br>Intensive Revision for National Exams<br></td>
-    <td class="tg-y7qa"><br>Math Clinic Consultations</td>
+    <td class="tg-ii8k"><br>Math Clinic Consultations</td>
   </tr>
 </tbody>
 </table>
