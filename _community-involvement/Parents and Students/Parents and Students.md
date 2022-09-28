@@ -22,3 +22,13 @@ For amendments to Travel Declarations, please refer to the guide [here](/files/A
 Secondary 2 streaming results for 2021 will be released via students' Form Teacher and their student iCON email (ie. email ending with @students.edu.sg) by 8 November 2021, 12 pm. If you wish to appeal, you may download the softcopy of the appeal form as attached below or collect the hardcopy of the appeal form from the school's General Office from 8 November 2021, 12 pm onwards.
 
 [Streaming Appeal Form 2021.pdf](/files/Streaming%20Appeal%20Form%202021.pdf)
+
+Submission of the appeal form can be made via the following means:  
+  
+1\. Hardcopy to be submitted to the school's General Office latest by 10 November 2021, 12 pm  
+  
+2\. Download softcopy, fill in relevant details and send the scanned copy to Mr Tan Kia Hock at tan\_kia\_hock@moe.edu.sg latest by 10 November 2021, 12 pm.  
+  
+Late submission will not be entertained.  
+  
+All appeal results will be released via the same means by 12 November 2021, 12 pm.
