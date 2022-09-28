@@ -18,3 +18,7 @@ You may download the respective DMA guide to understand better how it works base
 ##### Profile A
 
 [DMA-Parent-Guide-v2.0-Option-A-iPadOS.pdf](/files/DMA-Parent-Guide-v2%200-Option-A-iPadOS.pdf)
+
+##### Profile B
+
+[DMA Parent Guide v2.0 - Option B iPadOS.pdf](/files/DMA%20Parent%20Guide%20v2%200%20-%20Option%20B%20iPadOS.pdf)
