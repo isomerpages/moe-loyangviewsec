@@ -96,11 +96,11 @@ Mother Tongue
 </table>
 
 
-### Vision
+##### Vision
 
 To nurture a new generation who love the learning of Mother Tongue Languages (MTL) and are highly proficient in their Mother Tongue.  
 
-### Curriculum / Subjects\* Offered
+##### Curriculum / Subjects\* Offered
 
 Express: CL / ML / TL 
 
@@ -118,7 +118,7 @@ Normal Technical : BCL / BML / BTL 
 
   
 
-### MTL Department Key Programmes, Events & Activities
+##### MTL Department Key Programmes, Events & Activities
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -153,3 +153,29 @@ Chinese Language
 Malay Language
 
 Tamil Language
+
+### Mother Tongue Fortnight 2021
+----------------------------
+
+Mother Tongue Fortnight 2021 programme was held in week 8 and 9 of Term 1. In line with the theme EXPLORE.EXPERIENCE.ENJOY, various activities were conducted for students and staff to immerse themselves in their Mother Tongue language.
+
+  
+
+EXPLORE – Through the static display at the foyer, students were introduced to 9 personalities, ranging from authors to political icons.
+
+  
+
+EXPERIENCE – Students took part in many interesting hands-on activities to learn more about their culture and language. Secondary 1 students learnt about the uses and benefits of herbs and spices. They made insect repellant, traditional delicacies and tea with these herbs. Secondary 2 students had a fun time making kites and flying them! Secondary 3 students also have a whale of a time making hand puppets.
+
+  
+
+ENJOY – Every morning, different genres of songs were played through the PA system. Not only did the students and staff sing along, they also took part in Kahoot! quizzes and won prizes! 
+
+  
+
+To end the programme, each student was gifted with a Limited Edition tote bag. We look forward to next year’s Mother Tongue Fortnight activities. In the meantime, continue to Explore, Experience and Enjoy our Mother Tongue Languages.
+
+### Mother Tongue Fortnight Carnival
+--------------------------------
+
+In 2019, our lower secondary students participated in various engaging activities during the Mother Tongue Fortnight Carnival. Students had the chance to learn how to play a Malay traditional musical instrument, the **kompang**, a Malay traditional game of speed - **tarik upih** as well as the **Chinese yoyo** (扯铃). They also learnt how to make Indian **flower garland** and let their creative juices flow during the Chinese **finger painting** and Indian **henna drawing**.
