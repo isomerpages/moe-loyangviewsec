@@ -85,3 +85,14 @@ Humanities
   </tr>
 </tbody>
 </table>
+
+The Humanities Department oversees 3 subjects: Social Studies, Geography and History.  The department teachers engage students through Humanities Explorations to hone their critical thinking skills as well as inculcate values of good citizens to develop students into wholesome individuals.
+
+  
+
+### HUMANITIES EXPLORATIONS
+-----------------------
+
+The Humanities teachers promote students’ passion and joy in learning through designing engaging lessons and outdoor experiential learning aligned to curriculum objectives.
+
+Students who have shown keen interest in Humanities were identified for the Humanities programme. They were provided opportunities to participate in competitions at the zonal and national level. For example, students took part in NUS Geography Challenge and Inter-School History Challenge.
