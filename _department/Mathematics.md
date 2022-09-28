@@ -266,3 +266,15 @@ The Talent Development Programme aims to develop mathematical talents of all lev
 4.     Singapore Mathematics Kangaroo Competition (SMKC)
 
 5.     University of New South Wales Mathematics Competition (UNSW)
+
+
+
+
+<figure>
+
+![](/images/Mathematics7.jpeg)
+
+<figcaption> <strong> Participants of the Math Challenge 2019 </strong> </figcaption>
+
+</figure>
+
