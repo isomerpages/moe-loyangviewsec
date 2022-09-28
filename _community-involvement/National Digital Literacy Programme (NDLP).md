@@ -70,3 +70,4 @@ Click on the link below for the briefing slides.
 
 [Parent Handbook I on Learning with a PLD.pdf](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
 
+Parent Handbook II on Learning with a Personal Learning Device.pdf
