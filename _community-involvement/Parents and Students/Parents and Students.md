@@ -15,3 +15,10 @@ Please do your travel declarations via Parents Gateway.
 If you are not onboard Parents Gateway yet, you may view the instructions to get onboard Parents Gateway (...)
 
 For amendments to Travel Declarations, please refer to the guide [here](/files/Amending%20Travel%20Declarations%20on%20PG.pdf).
+
+### Secondary 2 Streaming Exercise 2021
+-----------------------------------
+
+Secondary 2 streaming results for 2021 will be released via students' Form Teacher and their student iCON email (ie. email ending with @students.edu.sg) by 8 November 2021, 12 pm. If you wish to appeal, you may download the softcopy of the appeal form as attached below or collect the hardcopy of the appeal form from the school's General Office from 8 November 2021, 12 pm onwards.
+
+[Streaming Appeal Form 2021.pdf](/files/Streaming%20Appeal%20Form%202021.pdf)
