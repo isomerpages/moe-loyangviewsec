@@ -289,3 +289,22 @@ The Talent Development Programme aims to develop mathematical talents of all lev
 
 </figure>
 
+
+**(b) Low Progress Support Programme**  
+
+The Low Progress Support programme aims to support the learning needs of students who may need more time to understand concepts taught during curriculum time. Students will have opportunities to use manipulatives to help them grasp abstract concepts during the sessions.
+
+
+
+
+<figure>
+
+![](/images/Mathematics9.jpeg)
+
+<figcaption> <strong> Students use Algediscs to make sense of Algebra </strong> </figcaption>
+
+</figure>
+
+**(c) Foundation Math Bridging Programme (For Sec 1 only)**
+
+The programme serves to bridge the learning gaps for students who were doing Foundation Mathematics in primary school. This ensures that all students would have completed the pre-requisites to continue with the secondary Mathematics syllabus.
