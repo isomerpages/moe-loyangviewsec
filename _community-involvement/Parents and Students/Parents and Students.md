@@ -12,7 +12,7 @@ Parents and Students
 
 Please do your travel declarations via Parents Gateway.  
   
-If you are not onboard Parents Gateway yet, you may view the instructions to get onboard Parents Gateway (...)
+If you are not onboard Parents Gateway yet, you may view the instructions to get onboard Parents Gateway [here.](/community-involvement/Parents-and-Students/Parents-Gateway/permalink/)
 
 For amendments to Travel Declarations, please refer to the guide [here](/files/Amending%20Travel%20Declarations%20on%20PG.pdf).
 
