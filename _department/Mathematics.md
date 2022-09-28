@@ -226,11 +226,13 @@ To create opportunities for students to apply concepts and skills learned in Mat
 
 <figure>
 
-![](/images/Mathematics4.png)
+![](/images/Mathematics6.jpeg)
 
 <figcaption> <strong> Use of clinometer to estimate the height of flag pole </strong> </figcaption>
 
 </figure>
+
+
 
 
 **(c)        Extended Curriculum**
@@ -247,4 +249,3 @@ A week of extended curriculum is planned for Secondary Three students in term fo
 <figcaption> <strong> Student working on Math sums during Extended Curriculum </strong> </figcaption>
 
 </figure>
-
