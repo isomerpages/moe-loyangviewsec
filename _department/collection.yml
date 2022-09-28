@@ -2,6 +2,7 @@ collections:
   department:
     output: true
     order:
+      - Mother Tongue/Chinese Language.md
       - Mother Tongue/Mother Tongue.md
       - Mother Tongue/.keep
       - Craft & Technology/.keep
