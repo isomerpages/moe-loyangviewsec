@@ -132,3 +132,8 @@ Developing a healthy appetite for reading is key to strengthening literacy and c
 **Student-Initiated Learning (SIL)**  
 
 To encourage student ownership and instil a passion for learning, as part of the Home-Based Learning initiative, students explored their areas of interest during English lessons and worked on collaborative projects. During the post-exam period in Term 4, they showcased their learning in a variety of ways, through three-dimensional displays, posters and video presentations of their learning processes.
+
+![](/images/EL10.png)
+![](/images/EL11.png)
+![](/images/EL12.jpeg)
+![](/images/EL13.png)
