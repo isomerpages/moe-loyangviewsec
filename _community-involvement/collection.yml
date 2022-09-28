@@ -2,7 +2,6 @@ collections:
   community-involvement:
     output: true
     order:
-      - School Examinations.md
       - Students COVID19 Vaccination.md
       - School Vendors.md
       - Purchase of Books and Uniforms (2022).md
@@ -18,3 +17,4 @@ collections:
       - NDLP/National Digital Literacy Programme (NDLP).md
       - NDLP/Device Management Application (DMA).md
       - NDLP/Guides to DMA.md
+      - School Examinations.md
