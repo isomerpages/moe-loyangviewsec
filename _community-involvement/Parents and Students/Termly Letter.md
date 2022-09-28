@@ -61,4 +61,4 @@ Termly Letter
 *   [30 May 2019](https://drive.google.com/open?id=0B300llo1BpDVWGFoa2E2a3lCSDBZdFFGYUhsU1gyb25zS0Vr)
 
 
-For Semester 2 Termly Letters onwards, Please refer to the 
+For Semester 2 Termly Letters onwards, Please refer to the [Parents' Gateway App](/community-involvement/Parents-and-Students/Parents-Gateway/permalink/).
