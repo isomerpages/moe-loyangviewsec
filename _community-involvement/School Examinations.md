@@ -12,6 +12,7 @@ School Examinations
   
 Please refer to the following PDF files with regards to our upcoming Sec 1, 2 and 3 End-Of-Year Examinations for 2022.
 
+##### Level: PDF File
 
 * Sec 1: [LVSS_Sec 1_EOY Exam TT_Final.pdf](/files/LVSS_Sec%201_EOY%20Exam%20TT_Final.pdf)
 * Sec 2: [LVSS_Sec 2_EOY Exam TT_Final.pdf](/files/LVSS_Sec%202_EOY%20Exam%20TT_Final.pdf)
