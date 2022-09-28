@@ -8,6 +8,62 @@ Form Class 2022
 
 ### Secondary 1
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rdtm">Class</th>
+    <th class="tg-rdtm">Form Teachers</th>
+    <th class="tg-rdtm">E-Mail</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-citn">S1-E1</td>
+    <td class="tg-citn">Loo Hup Tee<br><span style="font-weight:400;font-style:normal">Chow Wei Yuan</span><br></td>
+    <td class="tg-citn"><span style="font-weight:400;font-style:normal">loo_hup_tee@moe.edu.sg</span><br><br><span style="font-weight:400;font-style:normal">chow_wei_yuan@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">S1-E2</td>
+    <td class="tg-citn">Karen Sing<br>Darien Chua (NIE)<br></td>
+    <td class="tg-citn"><span style="font-weight:400;font-style:normal">lai_siu_mey_karen@moe.edu.sg</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">S1-A1</td>
+    <td class="tg-citn">Gabriel Palai<br>Azlina Kassim<br></td>
+    <td class="tg-citn"><span style="font-weight:400;font-style:normal">gabriel_palai_anbu_nambi@moe.edu.sg</span><br><br><span style="font-weight:400;font-style:normal">azlina_kassim@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">S1-A2</td>
+    <td class="tg-citn">Nithia Devan<br>Naeem D/O Ahamed Ali Khan<br><br></td>
+    <td class="tg-citn"><span style="font-weight:400;font-style:normal">nithia_devan_sahadevan@moe.edu.sg</span><br><br><span style="font-weight:400;font-style:normal">naeem_ahamed_ali_khan@moe.edu.sg</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">S1-A3</td>
+    <td class="tg-citn">Wendy Siow<br>Gan Yee Seng<br></td>
+    <td class="tg-citn"><span style="font-weight:400;font-style:normal">siow_hui_yee@moe.edu.sg</span><br><br><span style="font-weight:400;font-style:normal">gan_yee_seng@moe.edu.sg</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">S1-T1</td>
+    <td class="tg-citn">Hamisah Shek Nahji<br><a href="https://www.loyangviewsec.moe.edu.sg/about-us/goog_917774204" target="_blank" rel="noopener noreferrer"><span style="color:#333">N</span></a><span style="font-weight:400;font-style:normal;color:#333">atarajan</span><span style="font-weight:400;font-style:normal"> Usha</span><br></td>
+    <td class="tg-citn"><span style="font-weight:400;font-style:normal">hamisah_shekh_nahji@moe.edu.sg</span><br><span style="font-weight:400;font-style:normal">	</span><br><span style="font-weight:400;font-style:normal">natarajan_usha@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">S1-T2</td>
+    <td class="tg-citn"><a href="https://www.loyangviewsec.moe.edu.sg/about-us/goog_917774204" target="_blank" rel="noopener noreferrer"><span style="color:#333">Ron</span></a><span style="color:#333">ald Tan</span><br></td>
+    <td class="tg-citn"><span style="font-weight:400;font-style:normal">tan_kok_yong_ronald@moe.edu.sg</span><br></td>
+  </tr>
+</tbody>
+</table>
+
 
 ### Secondary 2
 
