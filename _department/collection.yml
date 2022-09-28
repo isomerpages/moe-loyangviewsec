@@ -2,7 +2,6 @@ collections:
   department:
     output: true
     order:
-      - PE & CCA Department.md
       - Craft & Technology/.keep
       - Craft & Technology/Craft & Technology.md
       - Craft & Technology/Art.md
@@ -17,3 +16,4 @@ collections:
       - Mother Tongue/Chinese Language.md
       - Mother Tongue/Malay Language.md
       - Mother Tongue/Tamil Language.md
+      - PE & CCA Department.md
