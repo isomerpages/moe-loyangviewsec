@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - DSA SEC EXERCISE.md
       - Form Class 2022.md
       - Contact Us.md
       - School Virtual Tour.md
