@@ -35,3 +35,7 @@ Our Secondary 3 to 5 Food & Nutrition students had an enriching hands-on baking 
 “Our Grandfather Story” was invited to share timeless and overlooked stories on local hawker and food industries in Singapore. This is in line with Food Entrepreneurship where students appreciate the value of individuality, creativity, authenticity and enterprise of food products from different cultures. Our Secondary One are then tasked to create a healthy hawker dish for their Food & Consumer Education Project work that reflects our 2019 National Day Theme, "Our Singapore" using flipped classroom approach.
 
 ![](/images/FandN3.png)
+
+5.     Joy of Food & Consumer Education@ LVSS
+
+Food & Consumer education in the 21st century is designed with the social and economic landscape of Singapore in mind, both current and future. With _urban agriculture_ and aquaculture technology hub as the next wave in Singapore, our Secondary Two Project work provide opportunities for students to undertake projects which they are required to do planning, research, problem-solving and evaluation in line with this emerging food and health trend. Our project was invited to share at Nutrition and Food Science Seminar 2019.
