@@ -71,3 +71,11 @@ Click on the link below for the briefing slides.
 [Parent Handbook I on Learning with a PLD.pdf](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
 
 Parent Handbook II on Learning with a Personal Learning Device.pdf
+
+##### **Student Device Information Kit**
+
+Please refer to the following document for information pertaining to Service Centres and procedures to follow in event of damage, lost or replacement of device.
+
+[Student Device Information Kit.pdf](/files/Student%20Device%20Information%20Kit.pdf)
+
+For any queries on the PDLP and the PLD, please contact the SH ICT, Mr Koe Soon Guan via koe_soon_guan@moe.edu.sg
