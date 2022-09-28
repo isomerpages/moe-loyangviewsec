@@ -2,10 +2,10 @@ collections:
   community-involvement:
     output: true
     order:
-      - Parents and Students/Parents Gateway.md
       - Parents and Students/.keep
       - Parents and Students/Parents and Students.md
       - Parents and Students/Termly Letter.md
+      - Parents and Students/Parents Gateway.md
       - Students COVID19 Vaccination.md
       - School Vendors.md
       - Purchase of Books and Uniforms (2022).md
