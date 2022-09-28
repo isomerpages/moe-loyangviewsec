@@ -15,3 +15,5 @@ Through positive learning experiences in art, students grow to become passionate
 1. **Ceramic Programmes**
 
 Our volunteer, Ex-MP Mdm Cynthia Phua conducted a series of Ceramic Workshops for different groups of students to inspire them on the love of ceramic making. Students are inspired by her passion.
+
+![](/images/Art.png)
