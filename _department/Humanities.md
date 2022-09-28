@@ -109,3 +109,27 @@ _One of our Geography teachers who guided and accompanied the students to NUS on
 ![](/images/Humanities2.png)
 
 _Our History teachers, Ms Suhailah and Ms Ada, guided and accompanied our students to take part in Inter-School History Challenge_
+
+**Secondary 1**
+
+The department Geography teachers organised a Sec 1 outdoor water testing activity aligned to the chapter on water supply. Other than promoting collaborative experiential learning, students learnt the importance of conservation.
+
+![](/images/Humanities3.png)
+
+_The Sec 1 students conducting Geographical Investigations as part of the Sec 1 inquiry learning through collaborative group work._
+
+
+**Secondary 2**  
+
+The department History teachers organised trips to the museum for the students so that they can learn more about the topic on Japanese Occupation. For example, a collaborative History activity was conducted for the students at the Former Ford Factory.  The Geography teachers also designed a Geographical Investigation near the school in alignment to the Geography topic on housing for the students.
+
+![](/images/Humanities4.png)
+
+_The Sec 2 students learning more about History through a learning journey to the Former Ford Factory in February 2018_
+
+**Secondary 3**
+
+The Humanities department led Humanities Overseas learning trips to promote joy in Humanities learning and to learn more about our neighbours.  The Express, N(A) and N(T) students who were involved in the overseas learning programme reflected their rich learning on History and Geography.  Their reflections demonstrated that they have learnt to appreciate multi-culturalism.
+
+### SCHOOL IMMERSION PROGRAMME JOGJAKARTA INDONESIA
+-----------------------------------------------
