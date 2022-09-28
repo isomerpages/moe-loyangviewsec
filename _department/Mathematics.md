@@ -236,3 +236,15 @@ To create opportunities for students to apply concepts and skills learned in Mat
 **(c)        Extended Curriculum**
 
 A week of extended curriculum is planned for Secondary Three students in term four during the school vacation. This is to prepare them for the rigour needed when they proceed to Secondary 4 the following year.
+
+
+
+
+<figure>
+
+![](/images/Mathematics5.jpeg)
+
+<figcaption> <strong> Student working on Math sums during Extended Curriculum </strong> </figcaption>
+
+</figure>
+
