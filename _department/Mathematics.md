@@ -221,3 +221,15 @@ _Sec 3 Math Trail at Changi Airport_
 **b) Mathematics Modelling and Problems in Real World Context Tasks**  
 
 To create opportunities for students to apply concepts and skills learned in Math and other relevant subjects in their curriculum, students work collaboratively to solve real-world problems.
+
+
+
+
+<figure>
+
+![](/images/Mathematics4.png)
+
+<figcaption> <strong> Use of clinometer to estimate the height of flag pole </strong> </figcaption>
+
+</figure>
+
