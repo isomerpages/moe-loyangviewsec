@@ -145,3 +145,11 @@ Normal Technical : BCL / BML / BTL 
   </tr>
 </tbody>
 </table>
+
+For a separate look at our various languages offered, please click the following links below or at the side:  
+  
+Chinese Language
+
+Malay Language
+
+Tamil Language
