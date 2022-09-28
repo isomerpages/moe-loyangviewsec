@@ -1,4 +1,5 @@
 collections:
   department:
     output: true
-    order: []
+    order:
+      - Craft & Technology/.keep
