@@ -37,3 +37,5 @@ Besides that, the secondary 3 art students get to learn acrylic painting conduct
 "Great things are not done by impulse, but by a series of small things brought together. And great things are not accidental, but must certainly be willed." ~ Vincent van Gogh
 
 Students were exposed to the beautiful art of marbling during morning assembly.
+
+![](/images/Art5.png)
