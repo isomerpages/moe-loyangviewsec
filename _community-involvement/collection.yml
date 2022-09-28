@@ -1,0 +1,4 @@
+collections:
+  community-involvement:
+    output: true
+    order: []
