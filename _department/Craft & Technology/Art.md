@@ -21,3 +21,5 @@ Our volunteer, Ex-MP Mdm Cynthia Phua conducted a series of Ceramic Workshops fo
 2. **Community Batik**
 
 All our ec2s students worked together to create a large traditional batik in the ‘gotong–royong’ spirit. Wishing our school ‘A Happy & Caring School’
+
+![](/images/Art2.png)
