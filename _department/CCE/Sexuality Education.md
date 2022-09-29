@@ -171,7 +171,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
   </tr>
   <tr>
     <td class="tg-citn">2<br>(60 mins)</td>
-    <td class="tg-tlx9"><br><span style="font-weight:400;font-style:normal">• </span>Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them. <br><span style="font-weight:400;font-style:normal">• </span><span style="background-color:initial">Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</span><br></td>
+    <td class="tg-citn"><br><span style="font-weight:400;font-style:normal">• </span>Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them. <br><span style="font-weight:400;font-style:normal">• </span><span style="background-color:initial">Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</span><br></td>
     <td class="tg-citn">Term 2 Week 4</td>
   </tr>
 </tbody>
