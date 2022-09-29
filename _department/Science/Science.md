@@ -282,3 +282,5 @@ The Singapore Junior Physics Olympiad (SJPO) is a physics competition organized 
 2 students received Honourable Mentions in 2020, 7 students received Honourable Mentions in 2019 and 1 student received a Silver Award, 14 received Honourable Mentions in 2018 for the competition.
 
 ![](/images/science22.png)
+
+![](/images/science23.png)
