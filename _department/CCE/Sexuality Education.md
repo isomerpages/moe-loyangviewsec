@@ -178,3 +178,48 @@ Through the Sexuality Education lessons, secondary students will have the opport
 </table>
 
 **Secondary 4**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rdtm">UNIT</th>
+    <th class="tg-rdtm">LESSONS / DURATION</th>
+    <th class="tg-rdtm">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-rdtm">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-citn" rowspan="3"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Respectful Relationships &amp; Safety</td>
+    <td class="tg-citn">1<br>(60 mins)</td>
+    <td class="tg-tlx9"><br><span style="font-weight:400;font-style:normal">• </span>Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><span style="font-weight:400;font-style:normal">• </span>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><span style="font-weight:400;font-style:normal">• </span>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br><br></td>
+    <td class="tg-citn">Term 1 Week 6</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">2<br>(60 mins)</td>
+    <td class="tg-tlx9"><br><span style="font-weight:400;font-style:normal">• </span>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><span style="font-weight:400;font-style:normal">• </span>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br><span style="font-weight:400;font-style:normal">• </span>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br><span style="font-weight:400;font-style:normal">• </span>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.<br><br><br></td>
+    <td class="tg-citn">Term 1 Week 7</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">3<br>(60 mins)</td>
+    <td class="tg-tlx9"><br><span style="font-weight:400;font-style:normal">• </span>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br><span style="font-weight:400;font-style:normal">• </span>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br><span style="font-weight:400;font-style:normal">• </span>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.<br><br></td>
+    <td class="tg-citn">Term 1 Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-citn"> </td>
+    <td class="tg-citn">4<br>(60 mins)</td>
+    <td class="tg-citn"><br><span style="font-weight:400;font-style:normal">• </span>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.<br></td>
+    <td class="tg-citn">Term 1 Week 9</td>
+  </tr>
+</tbody>
+</table>
