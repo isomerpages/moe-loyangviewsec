@@ -78,7 +78,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 </thead>
 <tbody>
   <tr>
-    <td class="tg-citn" rowspan="3">Respectful Relationships &amp; Safety<br><br></td>
+    <td class="tg-citn" rowspan="3"><br><br><br><br><br><br><br><br><br><br>Respectful Relationships &amp; Safety<br><br></td>
     <td class="tg-citn">1<br>(60 mins)</td>
     <td class="tg-citn"><br>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br><br></td>
     <td class="tg-citn">Term 3 Week 3</td>
