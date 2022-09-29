@@ -182,3 +182,17 @@ Purpose            –     Students learn to apply the material science
 ![](/images/science07.png)
 
 ![](/images/science08.png)
+
+#### **WORKSHOPS & ENRICHMENT PROGRAMMES**
+
+To enrich their learning of Science beyond the curriculum, students attend workshops or enrichment programmes in school or those conducted by other institutions.
+
+**Biology Enrichment Programme**
+
+In 2019, the Secondary Four Pure Biology and Three Science (Biology) students went to the Singapore Science Centre for a hands-on experience of Genetic Engineering techniques to complement their theory lesson on Genetic Engineering.
+
+Students learnt to apply their knowledge of genetic engineering in the practical session. This session allowed the students to appreciate the methods used by scientists to create transgenic organisms for medical purposes. In addition, students learnt the sterile laboratory techniques to work with bacteria, including growing bacteria colonies via plating.
+
+![](/images/science09.png)
+
+![](/images/science10.png)
