@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Overseas Educational Programme.md
       - Applied Learning Programme (ALP).md
       - Learning For Life Programme (LLP).md
       - Education and Career Guidance.md
