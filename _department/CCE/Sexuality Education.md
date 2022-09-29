@@ -77,19 +77,19 @@ Through the Sexuality Education lessons, secondary students will have the opport
 </thead>
 <tbody>
   <tr>
-    <td class="tg-citn" rowspan="3"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Respectful Relationships &amp; Safety<br><br></td>
+    <td class="tg-citn" rowspan="3"><br><br><br><br><br><br><br><br><br><br><br><br>Respectful Relationships &amp; Safety<br><br></td>
     <td class="tg-citn">1<br>(60 mins)</td>
-    <td class="tg-tlx9"><br>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br><br></td>
+    <td class="tg-tlx9"><br><span style="font-weight:400;font-style:normal">• </span>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><span style="font-weight:400;font-style:normal">• </span>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><span style="font-weight:400;font-style:normal">• </span>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br><span style="font-weight:400;font-style:normal">• </span>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br><br></td>
     <td class="tg-citn">Term 3 Week 3</td>
   </tr>
   <tr>
     <td class="tg-citn">2<br>(60 mins)</td>
-    <td class="tg-tlx9"><br>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept<br></td>
+    <td class="tg-tlx9"><br><span style="font-weight:400;font-style:normal">• </span>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept<br></td>
     <td class="tg-citn">Term 3 Week 3</td>
   </tr>
   <tr>
     <td class="tg-citn">3<br>(60 mins)</td>
-    <td class="tg-citn"><br>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)<br></td>
+    <td class="tg-citn"><br><span style="font-weight:400;font-style:normal">• </span>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><span style="font-weight:400;font-style:normal">• </span>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)<br></td>
     <td class="tg-citn">Term 3 Week 4</td>
   </tr>
 </tbody>
