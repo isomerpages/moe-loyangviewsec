@@ -223,3 +223,33 @@ Through the Sexuality Education lessons, secondary students will have the opport
   </tr>
 </tbody>
 </table>
+
+**Secondary 5**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rdtm">UNIT</th>
+    <th class="tg-rdtm">LESSONS / DURATION</th>
+    <th class="tg-rdtm">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-rdtm">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-citn"><br><br><br><br>Respectful Relationships &amp; Safety</td>
+    <td class="tg-citn">1<br>(60 mins)</td>
+    <td class="tg-citn"><br><span style="font-weight:400;font-style:normal">• </span>Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><span style="font-weight:400;font-style:normal">• </span>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><span style="font-weight:400;font-style:normal">• </span>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br></td>
+    <td class="tg-citn">Term 1 Week 6</td>
+  </tr>
+</tbody>
+</table>
