@@ -196,3 +196,7 @@ Students learnt to apply their knowledge of genetic engineering in the practical
 ![](/images/science09.png)
 
 ![](/images/science10.png)
+
+**COLLABORATIONS**
+
+Students are also provided with opportunities to interact and collaborate with international students through various science activities.
