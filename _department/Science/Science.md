@@ -113,4 +113,4 @@ ECO-TREK @ SBWR is one key programme for our lower Secondary students. Here, stu
 
 The learning journey of the students does not end after the departure from the wetland reserves. Upon completion of the eco-trek, students integrate ICT in their assignment to showcase their knowledge in a photo story.
 
-![Eco-Trek 1.PNG](https://www-loyangviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u783/Joy%20of%20learning/Science/Eco-Trek%201.PNG)
+![](/images/Eco-Trek%201.png)
