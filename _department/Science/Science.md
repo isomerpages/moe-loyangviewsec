@@ -229,3 +229,11 @@ In 2019, with the objective of the competition to stretch the high ability Scien
 ![](/images/science15.png)
 
 ![](/images/science16.png)
+
+****NXplorer 2020****
+
+Kirsty, Ariqah, Qaisara, Sabrina and Harith from 2E3 worked relentlessly from January to October, getting through the preliminary and semi-final rounds to finally reach the final 5 teams of the NXplorers 2020 held via livestream on 30th October 2020. 
+
+NXplorers 2020 is a competition championed by Science Centre Singapore and Shell Singapore for young people to develop sustainable solutions to food, water and energy challenges. 
+
+Their proposed solution to reduce food waste led to them clinching 4th position out of 132 participating teams. The team also received more than 1000 votes from the online voting segment, making it the most popular team in the competition.
