@@ -54,3 +54,4 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 **At Loyang View Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
 
+**Secondary 1**
