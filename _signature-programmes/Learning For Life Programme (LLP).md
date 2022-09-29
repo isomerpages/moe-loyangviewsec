@@ -32,3 +32,11 @@ Through which students will also: -
 *   Lead a fuller, enjoyable school life
 
 ![](/images/LLP.png)
+
+Cross Country Meet
+
+The Loyang View Secondary School Sports & Outdoor Education Programme is a school-wide 4-year sports and outdoor education programme that is aligned with the MOE Physical Education and Sports curriculum.  
+
+Designed to suit our student profile, the programme is an exciting experiential programme that is layered throughout the 4 years at Loyang View Secondary School.
+
+![](/images/LLP3.png)
