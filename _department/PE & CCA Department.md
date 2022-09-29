@@ -70,3 +70,21 @@ The Sec 2 non-residential Camp this year was conducted in school premises (inste
 Check out snippets of their wonderful camp experiences here.
 
 ![](/images/PE.png)
+
+Below photos are taken pre-COVID-19.   
+
+#### **Sec 3 Outdoor Education**
+
+PE Lessons to prepare students for OBS. Students learning about the different knots and applying it to build structures and pitch tents.
+
+![](/images/PE2.png)
+
+#### **Sports Education Programme (SEP)**
+
+The SEP aims to advocate the importance of sports education, encourage sports participation in schools and increase sporting opportunities for the young. SEP sports programmes caters for development of skills and sports knowledge of students and help promote active participation of sports in schools.
+
+Helmed by the Enrichment and PE Department, the programmes planned in Loyang View also promote team spirit and character building, and aim to arouse interest in continual sports participation amongst students.
+
+Students experience joy of learning through weekly enrichment programmes designed to develop their skills and interests in various domains and help them grow holistically as wholesome Loyang View students.
+
+#### Kinball
