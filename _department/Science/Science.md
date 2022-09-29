@@ -176,3 +176,9 @@ Purpose            –     Students learn to apply the material science
 ![](/images/science04.png)
 
 ![](/images/science05.png)
+
+![](/images/science06.png)
+
+![](/images/science07.png)
+
+![](/images/science08.png)
