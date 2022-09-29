@@ -62,3 +62,52 @@ In Secondary One, students design and fabricate toy solar cars that are suitable
   </tr>
 </tbody>
 </table>
+
+
+
+
+<figure>
+
+![](/images/ALP3.jpeg)
+
+<figcaption> <strong> Learning about systems: Assembling the Wall-hugging Ladybug </strong> </figcaption>
+
+</figure>
+
+
+
+**
+
+<figure>
+
+<"![](/images/ALP4.jpeg)">
+
+<figcaption> <strong> Learning about Systems: Measuring and Calculating Speed </strong> </figcaption>
+
+</figure>
+
+**
+
+**
+
+<figure>
+
+<img src="/images/Heritage%2002%20Tian%20Kee%20Provision%20Shop.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+**
+
+**
+
+<figure>
+
+<img src="/images/Heritage%2002%20Tian%20Kee%20Provision%20Shop.jpg">
+
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+
+</figure>
+
+**
