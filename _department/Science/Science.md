@@ -91,3 +91,14 @@ Science
   </tr>
 </tbody>
 </table>
+
+### About Science Department
+------------------------
+
+_Vision – Every LV Student to have a strong foundation in Science for life, learning, citizenry and work._
+
+To enthuse and nurture all students to be scientifically literate and to provide students with strong Science foundation to innovate and pursue STEM for future learning and work.
+
+Our Science Department’s direction is driven by the Inquiry-Based Learning Approach, with teachers being the leaders of inquiry, within and outside the Science classroom. Teachers facilitate the learning of Science by constantly arousing students’ curiosity about the world and guiding them in the construction of new knowledge. 
+
+With this, we seek _to develop in every student the passion and joy of learning Science._
