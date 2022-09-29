@@ -92,9 +92,9 @@ In Secondary One, students design and fabricate toy solar cars that are suitable
 
 <figure>
 
-<img src="/images/Heritage%2002%20Tian%20Kee%20Provision%20Shop.jpg">
+<"![](/images/ALP5.jpeg)">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Learning about Systems: Investigating the effect of friction on movement </strong> </figcaption>
 
 </figure>
 
@@ -104,10 +104,11 @@ In Secondary One, students design and fabricate toy solar cars that are suitable
 
 <figure>
 
-<img src="/images/Heritage%2002%20Tian%20Kee%20Provision%20Shop.jpg">
+<img src="![](/images/ALP6.jpeg))">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Learning about Systems: Conducting investigative studies on speed as they put their assembled toys to the test </strong> </figcaption>
 
 </figure>
 
 **
+
