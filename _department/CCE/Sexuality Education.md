@@ -55,3 +55,42 @@ Through the Sexuality Education lessons, secondary students will have the opport
 **At Loyang View Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
 
 **Secondary 1**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rdtm">UNIT</th>
+    <th class="tg-rdtm">LESSONS / DURATION</th>
+    <th class="tg-rdtm">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-rdtm">TIME PERIOD<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-citn" rowspan="3"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Respectful Relationships &amp; Safety<br><br></td>
+    <td class="tg-citn">1<br>(60 mins)</td>
+    <td class="tg-tlx9"><br>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br><br></td>
+    <td class="tg-citn">Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">2<br>(60 mins)</td>
+    <td class="tg-tlx9"><br>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept<br></td>
+    <td class="tg-citn">Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">3<br>(60 mins)</td>
+    <td class="tg-citn"><br>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)<br></td>
+    <td class="tg-citn">Term 3 Week 4</td>
+  </tr>
+</tbody>
+</table>
