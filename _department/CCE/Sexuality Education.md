@@ -311,3 +311,13 @@ Students are taught skills such as decision-making, assertiveness and negotiatio
 *   Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable below. The completed form is to be submitted by 28/01/2022.
 
 [LVSS SEd Annex A 2022.pdf](/files/LVSS%20SEd%20Annex%20A%202022.pdf)
+
+*   Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable below.  The completed form is to be submitted by 28/01/2022.
+
+[LVSS SEd Annex B 2022.pdf](/files/LVSS%20SEd%20Annex%20B%202022.pdf)
+
+*   Parents can contact the school at 12 Pasir Ris Street 11 S(519073) ,Tel: 6582 1727, or email the school at  loyangview_ss@moe.edu.sg (Attention: Ms Premlatha / HOD CCE ) for discussion or to seek clarification about the school’s sexuality education programme.
+
+  
+
+*   Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangement.
