@@ -166,3 +166,5 @@ Purpose            –     Students learn to apply the material science
 7\. Balancing bike – build bike that can balance on a tight rope and can reach the end in the shortest amount of time.
 
 Purpose            –     Students learn to apply the material science in sticks and to build a unique bike that can balance itself and race.
+
+![](/images/science01.png)
