@@ -237,4 +237,5 @@ Kirsty, Ariqah, Qaisara, Sabrina and Harith from 2E3 worked relentlessly from Ja
 NXplorers 2020 is a competition championed by Science Centre Singapore and Shell Singapore for young people to develop sustainable solutions to food, water and energy challenges. 
 
 Their proposed solution to reduce food waste led to them clinching 4th position out of 132 participating teams. The team also received more than 1000 votes from the online voting segment, making it the most popular team in the competition.
+
 ![](/images/science17.jpeg)
