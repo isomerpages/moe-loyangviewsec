@@ -102,3 +102,15 @@ To enthuse and nurture all students to be scientifically literate and to provide
 Our Science Department’s direction is driven by the Inquiry-Based Learning Approach, with teachers being the leaders of inquiry, within and outside the Science classroom. Teachers facilitate the learning of Science by constantly arousing students’ curiosity about the world and guiding them in the construction of new knowledge. 
 
 With this, we seek _to develop in every student the passion and joy of learning Science._
+
+
+PROGRAMMES & ACTIVITIES
+-----------------------
+
+#### ECO-TREK @ Sungei Buloh Wetland Reserve (SBWR)
+
+ECO-TREK @ SBWR is one key programme for our lower Secondary students. Here, students are taken for an eco-trek into the heart of Sungei Buloh Wetland Reserve (SBWR). The slogan - “bringing our science textbook to life” – best sums up the objectives of this activity. This learning journey into the mangroves aims to integrate the curriculum-based content with a first-hand experience of our natural heritage and create environmental awareness amongst our students. Management of oneself in the nature reserve, using the five senses to experience and gathering information on mangrove flora and fauna are just some of the skills a student would be trained during this activity. 
+
+The learning journey of the students does not end after the departure from the wetland reserves. Upon completion of the eco-trek, students integrate ICT in their assignment to showcase their knowledge in a photo story.
+
+![Eco-Trek 1.PNG](https://www-loyangviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u783/Joy%20of%20learning/Science/Eco-Trek%201.PNG)
