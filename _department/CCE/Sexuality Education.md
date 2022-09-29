@@ -118,19 +118,19 @@ Through the Sexuality Education lessons, secondary students will have the opport
 </thead>
 <tbody>
   <tr>
-    <td class="tg-citn" rowspan="3"><br><br><br><br><br><br><br><br>Respectful Relationships &amp; Safety</td>
+    <td class="tg-citn" rowspan="3"><br><br><br><br><br><br><br><br><br><br>Respectful Relationships &amp; Safety</td>
     <td class="tg-citn">1<br>(60 mins)</td>
-    <td class="tg-tlx9"><br>Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>Understand what sexual orientation entails<br></td>
+    <td class="tg-tlx9"><br><span style="font-weight:400;font-style:normal">• </span>Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><span style="font-weight:400;font-style:normal">• </span>Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><span style="font-weight:400;font-style:normal">• </span>Understand what sexual orientation entails<br></td>
     <td class="tg-citn">Term 4 Week 1</td>
   </tr>
   <tr>
     <td class="tg-citn">2A<br>(60 mins)</td>
-    <td class="tg-tlx9"><br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline<br></td>
+    <td class="tg-tlx9"><br><span style="font-weight:400;font-style:normal">• </span>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline<br></td>
     <td class="tg-citn">Term 4 Week 2</td>
   </tr>
   <tr>
     <td class="tg-citn">2B<br>(60 mins)</td>
-    <td class="tg-tlx9"><br>Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online<br></td>
+    <td class="tg-tlx9"><br><span style="font-weight:400;font-style:normal">• </span>Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><span style="font-weight:400;font-style:normal">• </span>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online<br></td>
     <td class="tg-citn">Term 4 Week 3</td>
   </tr>
 </tbody>
