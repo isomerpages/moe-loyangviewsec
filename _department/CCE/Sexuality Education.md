@@ -309,3 +309,5 @@ Students are taught skills such as decision-making, assertiveness and negotiatio
   
 
 *   Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable below. The completed form is to be submitted by 28/01/2022.
+
+[LVSS SEd Annex A 2022.pdf](/files/LVSS%20SEd%20Annex%20A%202022.pdf)
