@@ -2,4 +2,5 @@ collections:
   happy-days-at-lvss:
     output: true
     order:
+      - 2019.md
       - Life in Loyang View Secondary School.md
