@@ -111,4 +111,3 @@ In Secondary One, students design and fabricate toy solar cars that are suitable
 </figure>
 
 **
-
