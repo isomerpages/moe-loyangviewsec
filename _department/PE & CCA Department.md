@@ -98,3 +98,5 @@ Students experience joy of learning through weekly enrichment programmes designe
 ##### Golf
 
 ![](/images/Golf.png)
+
+##### Inline Skating
