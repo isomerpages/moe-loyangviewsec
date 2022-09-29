@@ -2,8 +2,6 @@ collections:
   department:
     output: true
     order:
-      - Co Curricular Activities/Co Curricular Activities.md
-      - Co Curricular Activities/.keep
       - Craft & Technology/.keep
       - Craft & Technology/Craft & Technology.md
       - Craft & Technology/Art.md
@@ -22,3 +20,5 @@ collections:
       - Science & SET/.keep
       - Science & SET/Science.md
       - Science & SET/Smart Electrical Technology.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Co Curricular Activities.md
