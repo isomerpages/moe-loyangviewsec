@@ -27,3 +27,8 @@ This unique experience provides the opportunity for every Secondary 3 student to
 ------------------------------
 
 ![](/images/China.png)
+
+### OEP Trip to Kuantan
+-------------------
+
+![](/images/Kuantan.png)
