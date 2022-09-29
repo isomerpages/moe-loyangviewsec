@@ -2,6 +2,7 @@ collections:
   department:
     output: true
     order:
+      - CCE/NE Commemorative Events.md
       - CCE/.keep
       - CCE/CCE.md
       - CCE/Values in Education.md
