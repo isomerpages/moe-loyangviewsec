@@ -10,3 +10,12 @@ Education and Career Guidance (ECG) is about equipping students with the necessa
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/12ass4FSCcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+**ECG COUNSELLING**
+
+We have an ECG Counsellor to provide support to students (individually or in small groups). Students who would like to explore more in areas such as subject choices, course options or to find out more about their strengths and interests can have a chat with our school’s ECG Counsellor.
+
+To make an appointment with Ms Pauline Low, ECG Counsellor, please click on [https://go.gov.sg/hblecg](https://go.gov.sg/hblecg), or scan the QR code below.
+
+![](/images/ECG.png)
