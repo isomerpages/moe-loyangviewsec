@@ -87,4 +87,6 @@ Helmed by the Enrichment and PE Department, the programmes planned in Loyang Vie
 
 Students experience joy of learning through weekly enrichment programmes designed to develop their skills and interests in various domains and help them grow holistically as wholesome Loyang View students.
 
-#### Kinball
+##### Kinball
+
+![](/images/Kinball.png)
