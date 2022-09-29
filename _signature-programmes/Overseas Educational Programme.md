@@ -42,3 +42,8 @@ This unique experience provides the opportunity for every Secondary 3 student to
 --------------------
 
 ![](/images/Thailand.png)
+
+### OEP Trip to Vietnam
+-------------------
+
+![](/images/Vietnam.png)
