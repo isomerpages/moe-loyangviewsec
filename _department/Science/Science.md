@@ -272,3 +272,5 @@ The students had to put their knowledge of Chemistry, Biology, and Physics and a
 The Forensic Science Challenge is a competition that requires participants to make use of their knowledge in the field of biotechnology and molecular genetics to solve simulated crime scenarios. Students participating in the competition would undergo training workshops that introduce them to various technology used in forensic science, such as DNA fingerprinting.
 
 In 2018, one of the representing teams managed to clinch the top prize for the competition.
+
+![](/images/science21.png)
