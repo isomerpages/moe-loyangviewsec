@@ -4,7 +4,9 @@ links:
     collection: about-us
   - title: Community Involvement
     collection: community-involvement
-  - title: Contact Us
-    url: /contact-us/
   - title: Department
     collection: department
+  - title: " Signature Programmes"
+    collection: signature-programmes
+  - title: Contact Us
+    url: /contact-us/
