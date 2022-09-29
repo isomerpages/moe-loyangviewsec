@@ -94,3 +94,5 @@ Students experience joy of learning through weekly enrichment programmes designe
 ##### Archery
 
 ![](/images/Archery.png)
+
+##### Golf
