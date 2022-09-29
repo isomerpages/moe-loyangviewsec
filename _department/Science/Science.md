@@ -250,3 +250,17 @@ Their proposed solution to reduce food waste led to them clinching 4th position 
 
 </figure>
 
+
+**MARINE AQUASCAPING COMPETITION**
+
+In 2019, two teams of three lower secondary students each participated in the Marine Aquascaping Competition during the East Zone STEM Festival whereby each team had to set up a marine tank within a given time. Prior to the competition day, both teams put in a lot of hard work on research on issues affecting marine ecosystems and guidelines in setting up and maintaining healthy marine tanks. Their effort paid off as both teams were shortlisted by the judges, with one of the teams emerging as 2nd runner-up of the competition!
+
+The joy of learning is found not only within the classrooms but also in enriching moments like these when students learn knowledge and skills beyond the school curriculum.
+
+![](/images/science19.png)
+
+**AMAZING SCIENCE RACE**
+
+In 2019, students participated in The East Zone Amazing Science Race held on the day of the East Zone STEM Festival at Victoria Junior College.
+
+The students had to put their knowledge of Chemistry, Biology, and Physics and analytical skills to the test in the race against time. Each team was presented with several tasks or experiments to perform within the time given. Teams were briefed on the judging criteria on the day itself. Our students gave an excellent performance to emerge as the **Champion** team!
