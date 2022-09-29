@@ -123,3 +123,15 @@ In Secondary One, students design and fabricate toy solar cars that are suitable
 </figure>
 
 **
+
+**
+
+<figure>
+
+<img src="![](/images/ALP8.jpeg)">
+
+<figcaption> <strong> Learning about Systems: Investigating how angles affect the efficiency of the solar panel </strong> </figcaption>
+
+</figure>
+
+**
