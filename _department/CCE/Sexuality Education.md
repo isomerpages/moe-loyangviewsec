@@ -176,3 +176,5 @@ Through the Sexuality Education lessons, secondary students will have the opport
   </tr>
 </tbody>
 </table>
+
+**Secondary 4**
