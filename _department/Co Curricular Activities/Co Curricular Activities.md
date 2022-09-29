@@ -7,4 +7,4 @@ third_nav_title: Co Curricular Activities
 Co-Curricular Activities
 ========================
 
-![](/images/CCA.png)
+![](/images/CCA1.png)
