@@ -284,3 +284,11 @@ The Singapore Junior Physics Olympiad (SJPO) is a physics competition organized 
 ![](/images/science22.png)
 
 ![](/images/science23.png)
+
+**NANYANG POLYTECHNIC SCIENCE AND TECHNOLOGY CHALLENGE**  
+
+Organised since 2009, the NYP Science & Technology Challenge provides exciting challenges to fuel the students’ critical and creative thinking while promoting the benefits of an engineering and science education.
+
+In 2018, six teams participated in 6 different challenges and the team that participated in the Intelligent Innovator’s Fair was awarded the Most Innovative Prize.
+
+![](/images/science24.png)
