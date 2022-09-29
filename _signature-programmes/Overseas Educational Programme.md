@@ -32,3 +32,8 @@ This unique experience provides the opportunity for every Secondary 3 student to
 -------------------
 
 ![](/images/Kuantan.png)
+
+### OEP Trip to Selangor
+--------------------
+
+![](/images/Selangor.png)
