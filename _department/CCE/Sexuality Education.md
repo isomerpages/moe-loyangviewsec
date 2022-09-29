@@ -253,3 +253,59 @@ Through the Sexuality Education lessons, secondary students will have the opport
   </tr>
 </tbody>
 </table>
+
+
+_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._ 
+
+**_eTeens_** **Programme****:**
+
+eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Loyang View Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1098px">
+<colgroup>
+<col style="width: 236px">
+<col style="width: 754px">
+<col style="width: 108px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-apyk">Topics/Lessons</th>
+    <th class="tg-apyk">Programme Learning Objectives</th>
+    <th class="tg-apyk">Time Period<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-tlx9">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-tlx9"><br><span style="font-weight:400;font-style:normal">• </span>Awareness of the different STIs and HIV/AIDS<br><span style="font-weight:400;font-style:normal">• </span>Modes of transmission<br><span style="font-weight:400;font-style:normal">• </span>Modes of protection, specifically on how the condom is used<br><span style="font-weight:400;font-style:normal">• </span>Consequences and impact of STIs/HIV<br><br></td>
+    <td class="tg-citn">Term 2 Week 5</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Classroom-based Lesson</td>
+    <td class="tg-citn"><br><span style="font-weight:400;font-style:normal">• </span>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br><br></td>
+    <td class="tg-citn">Term 2 Week 6</td>
+  </tr>
+</tbody>
+</table>
+
+**Information for Parents**  
+
+*   Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
+
+  
+
+*   Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable below. The completed form is to be submitted by 28/01/2022.
