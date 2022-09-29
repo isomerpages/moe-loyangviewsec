@@ -208,3 +208,24 @@ Students are also provided with opportunities to interact and collaborate with i
 ![](/images/science13.png)
 
 ![](/images/science14.png)
+
+#### **COMPETITIONS & ACHIEVEMENTS**
+
+Participation in competitions is a key approach in the Science department to develop students to be critical thinkers, problem solvers and be socially confident beyond the curriculum. Students participate in STEM competitions under the Science Department or under the school’s Applied Learning Programme.  
+
+**COMPETITIONS UNDER APPLIED LEARNING PROGRAMME**
+
+Please click this [link] for some of the 2020 & 2021 competitions.
+
+
+**INTERNATIONAL BIOMEDICAL QUIZ**
+
+In 2021, students participated in the Biomedical Quiz organised by Anglo-Chinese Junior College. The theme for the year was Infectious Diseases. One student achieved a Bronze, one Honorable Mention and one merit award.
+
+In 2020, the theme for the quiz was Otorhinolaryngology. One student achieved a Bronze, one Honorable Mention and one merit award.
+
+In 2019, with the objective of the competition to stretch the high ability Science students by developing their aptitude and potential in Ophthalmology through critical thinking and problem solving, two students received the Bronze award and two attained a Merit award.
+
+![](/images/science15.png)
+
+![](/images/science16.png)
