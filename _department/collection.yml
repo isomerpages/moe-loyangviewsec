@@ -2,7 +2,6 @@ collections:
   department:
     output: true
     order:
-      - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/Co Curricular Activities.md
       - Co Curricular Activities/.keep
       - Craft & Technology/.keep
