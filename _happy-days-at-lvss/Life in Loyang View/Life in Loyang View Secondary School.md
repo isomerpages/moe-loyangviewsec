@@ -10,4 +10,4 @@ Life in Loyang View Secondary School
 ### Archives
 --------
 
-#### [2019](/happy-days-at-lvss/2019/permalink/)
+[2019](/happy-days-at-lvss/2019/permalink/)
