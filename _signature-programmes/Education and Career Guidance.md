@@ -107,3 +107,80 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click on [ht
 
 ### Other Useful Links
 ------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-a3n9{background-color:#EAEAEA;color:#EB0028;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">Title </th>
+    <th class="tg-n4qt">Links</th>
+    <th class="tg-n4qt">Remarks<br> </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k">2022 JAE Booklet</td>
+    <td class="tg-a3n9"><a href="https://www.moe.gov.sg/2022jaebooklet"><span style="text-decoration:none;color:#EB0028">https://www.moe.gov.sg/2022jaebooklet</span></a></td>
+    <td class="tg-ii8k">For O-level students, 4N students who are interested in PFP<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">2022 JIE Booklet<br></td>
+    <td class="tg-a3n9"><a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2022.pdf"><span style="text-decoration:none;color:#EB0028">https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2022.pdf</span></a><br></td>
+    <td class="tg-ii8k">For N-level students seeking admission to ITE College (NITEC, DPP etc.)</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">My-Skills-Future Portal (Secondary)</td>
+    <td class="tg-a3n9"><a href="https://go.gov.sg/mysfsec">https://go.gov.sg/mysfsec</a></td>
+    <td class="tg-ii8k">ECG Portal to explore the world of work and plan education pathways<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Singapore Industry Landscape</td>
+    <td class="tg-a3n9"><a href="https://go.gov.sg/industrylandscape-sec"><span style="text-decoration:none;color:#EB0028">https://go.gov.sg/industrylandscape-sec</span></a><br><a href="https://go.gov.sg/ecgportalvideos"><span style="text-decoration:none;color:#EB0028">https://go.gov.sg/ecgportalvideos</span></a><br><a href="https://go.gov.sg/ecgportalarticles"><span style="text-decoration:none;color:#EB0028">https://go.gov.sg/ecgportalarticles</span></a><br></td>
+    <td class="tg-ii8k">ECG Portal to explore the world of work<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">On My Way<br></td>
+    <td class="tg-a3n9"><a href="https://www.nyc.gov.sg/omw/home"><span style="text-decoration:none;color:#EB0028">https://www.nyc.gov.sg/omw/home</span></a></td>
+    <td class="tg-ii8k">On My Way (OMW) - learn about the different jobs and industries, connect with industry professionals and get a taster into various job roles of your interest<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Parent Guide<br></td>
+    <td class="tg-a3n9"><a href="https://www.moe.gov.sg/microsites/ecg-parent-guide/"><span style="text-decoration:none;color:#EB0028">https://www.moe.gov.sg/microsites/ecg-parent-guide/</span></a></td>
+    <td class="tg-ii8k">A guide for parents/guardians in ECG<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">The Next Step Forward</td>
+    <td class="tg-a3n9"><a href="https://www.go.gov.sg/next-step-forward"><span style="text-decoration:none;color:#EB0028">https://www.go.gov.sg/next-step-forward</span></a>  <br> </td>
+    <td class="tg-ii8k">An e-book that illustrates how 54 individuals go through diverse education and career pathways<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Scholarships</td>
+    <td class="tg-a3n9"><a href="https://go.gov.sg/admissions-scholarships"><span style="text-decoration:none;color:#EB0028">https://go.gov.sg/admissions-scholarships</span></a></td>
+    <td class="tg-ii8k">Learn about the different merit-based awards and scholarships<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">ECG Centre at MOE<br></td>
+    <td class="tg-ii8k">Email: MOE_ECG@moe.gov.sg<br>Phone: 6831 1420<br>E-appointment system: <a href="https://go.gov.sg/moe-ecg-centre"><span style="text-decoration:none;color:#EB0028">https://go.gov.sg/moe-ecg-centre</span></a></td>
+    <td class="tg-ii8k">The ECG Centre (51 Grange Road) provides ECG counselling services for students during periods such as the release of their GCE N-Level, O-Level and A-Level examination results.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Private Education Programme</td>
+    <td class="tg-a3n9"><a href="https://go.gov.sg/pei"><span style="text-decoration:none;color:#EB0028">https://go.gov.sg/pei</span></a></td>
+    <td class="tg-ii8k">Resources for private education programme<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Community-based Helplines</td>
+    <td class="tg-a3n9"><a href="https://www.mindline.sg/"><span style="text-decoration:none;color:#EB0028">https://www.mindline.sg/</span></a><br><a href="https://www.ec2.sg/"><span style="text-decoration:none;color:#EB0028">https://www.ec2.sg/</span></a><br></td>
+    <td class="tg-ii8k">For students who would like to have someone to talk to in times of need. Or approach the School Counsellor.<br> </td>
+  </tr>
+</tbody>
+</table>
