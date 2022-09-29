@@ -87,3 +87,48 @@ Outdoor Adventure Activities (Sec 2 Camp)
 ![](/images/LLP4.png)
 
 Japan Mount Fuji OEP
+
+Tier 1 (Masses)
+
+*   Sec 1 Talent Identification Process
+    
+*   Outdoor Education Modules during PE
+    
+*   Element of Climbing and Orienteering
+    
+*   Complete respective Level Camps (Sec 1 Orientation Camp, Sec 2 Adventure Camp, Sec 3 Outward Bound Singapore)
+    
+*   Sec 3 Overseas Education Programmes
+    
+*   Sports Enrichments
+    
+*   Continuation of Road Race, and Level Sports Carnivals
+    
+
+  
+
+Tier 2 (CCAs with Sports, OE elements)
+
+*   Sports talent development programme
+    
+*   Empowerment through Sports & OE activities.
+    
+*   Lead Tier 1 Activities for juniors
+    
+*   Organize school events in line with Sports & OE
+    
+*   Outdoor Adventure Activities (Both local and overseas)
+    
+
+  
+
+Tier 3 (Talented Few)
+
+*   Nurturing Talented Sports & Outdoor Enthusiasts e.g. National Youth Teams, Outstanding UG cadets
+    
+*   Provide platforms to nurture and realising maximum potential of our top talents
+    
+
+  
+
+Match the RIGHT TALENT to the RIGHT CCA/Student Leadership role to Maximise Potential!
