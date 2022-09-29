@@ -168,3 +168,9 @@ Purpose            –     Students learn to apply the material science
 Purpose            –     Students learn to apply the material science in sticks and to build a unique bike that can balance itself and race.
 
 ![](/images/science01.png)
+
+![](/images/science02.png)
+
+![](/images/science03.png)
+
+![](/images/science04.png)
