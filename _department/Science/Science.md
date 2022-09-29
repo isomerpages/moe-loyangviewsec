@@ -264,3 +264,5 @@ The joy of learning is found not only within the classrooms but also in enrichin
 In 2019, students participated in The East Zone Amazing Science Race held on the day of the East Zone STEM Festival at Victoria Junior College.
 
 The students had to put their knowledge of Chemistry, Biology, and Physics and analytical skills to the test in the race against time. Each team was presented with several tasks or experiments to perform within the time given. Teams were briefed on the judging criteria on the day itself. Our students gave an excellent performance to emerge as the **Champion** team!
+
+![](/images/science20.png)
