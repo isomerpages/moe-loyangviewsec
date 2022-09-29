@@ -187,3 +187,5 @@ To make an appointment with Ms Pauline Low, ECG Counsellor, please click on [ht
 
 
 ![](/images/ECG1.jpeg)
+
+![](/images/ECG2.jpeg)
