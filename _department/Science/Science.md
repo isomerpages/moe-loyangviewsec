@@ -280,3 +280,5 @@ In 2018, one of the representing teams managed to clinch the top prize for the c
 The Singapore Junior Physics Olympiad (SJPO) is a physics competition organized by the Institute of Physics, Singapore (IPS) for secondary school students. This annual competition aims to encourage the study and appreciation of physics beyond the school curriculum, by providing an opportunity for students to solve novel questions that require critical and inventive thinking. 
 
 2 students received Honourable Mentions in 2020, 7 students received Honourable Mentions in 2019 and 1 student received a Silver Award, 14 received Honourable Mentions in 2018 for the competition.
+
+![](/images/science22.png)
