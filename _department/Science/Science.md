@@ -114,3 +114,55 @@ ECO-TREK @ SBWR is one key programme for our lower Secondary students. Here, stu
 The learning journey of the students does not end after the departure from the wetland reserves. Upon completion of the eco-trek, students integrate ICT in their assignment to showcase their knowledge in a photo story.
 
 ![](/images/Eco-Trek%201.png)
+
+#### Science Challenge
+
+Our Science Challenge is one of our key department activities for our Secondary Two students. It challenges our students to apply scientific knowledge in solving novel problems. The challenge aims to develop our students to be lifelong and passionate leaners and be more interested in science. The challenge also cultivates team-spiritedness among our students and develops them in their socio-emotional skills.
+
+Students work together in teams to complete their challenge. For some of the activities, they used commonly found household items to design and build their own Vortex suspension objects, bottle rockets, balancing bikes, air cannon, catapults, paper stools and parachutes. As the students applied what they had learnt in their science lessons, many fascinated faces could be seen as the students tested their prototypes to see whether they would succeed.
+
+  
+
+Some of the stations for the challenge included
+
+  
+
+1\. Vortex Suspension - suspend an object at a designated height on top of a fan
+
+Purpose            –     Students learn to balance objects though the use of Physics of aerodynamics and Newton’s Law through trial and error as this simulates indoor skydiving
+
+  
+
+2\. Air cannon - design an air cannon that can hit the target over a distance using air as a projectile
+
+Purpose            –     Students learn to appreciate the transfer of energy in the process, learn that air has mass and hence can exert a force over a distance despite it being invisible to the eye!
+
+  
+
+3\. Projectile launcher - build a machine that can launch a ping pong ball over the greatest distance.
+
+Purpose            –     Students learn about projectile motion of objects and the energy conversion.
+
+  
+
+4\. Chemical powered Rocket - use chemicals to power a bottle to a fixed distance.
+
+Purpose            –     Students learn to quantify the chemicals used and discover the propulsion method using pressure!
+
+  
+
+5\. Parachute - build parachute to safely land an egg from 2 storeys
+
+Purpose            –     Students learn to apply the material science in plastic bags and strings to build a unique parachute to combat against gravity.
+
+  
+
+6\. Paper stool – build a stool out of newspaper and ensure it can support the weight of a person.
+
+Purpose            –     Students learn to apply the material science in newspaper and to build a unique stool to combat against the force due to gravity.
+
+  
+
+7\. Balancing bike – build bike that can balance on a tight rope and can reach the end in the shortest amount of time.
+
+Purpose            –     Students learn to apply the material science in sticks and to build a unique bike that can balance itself and race.
