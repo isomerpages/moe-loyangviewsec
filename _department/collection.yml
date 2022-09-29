@@ -2,12 +2,6 @@ collections:
   department:
     output: true
     order:
-      - CCE/.keep
-      - CCE/CCE.md
-      - CCE/Values in Education.md
-      - CCE/Cyber Wellness Programme.md
-      - CCE/Sexuality Education.md
-      - CCE/NE Commemorative Events.md
       - Craft & Technology/.keep
       - Craft & Technology/Craft & Technology.md
       - Craft & Technology/Art.md
@@ -28,3 +22,9 @@ collections:
       - Science & SET/Smart Electrical Technology.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Co Curricular Activities.md
+      - CCE/.keep
+      - CCE/CCE.md
+      - CCE/Values in Education.md
+      - CCE/Cyber Wellness Programme.md
+      - CCE/Sexuality Education.md
+      - CCE/NE Commemorative Events.md
