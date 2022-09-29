@@ -239,3 +239,14 @@ NXplorers 2020 is a competition championed by Science Centre Singapore and Shell
 Their proposed solution to reduce food waste led to them clinching 4th position out of 132 participating teams. The team also received more than 1000 votes from the online voting segment, making it the most popular team in the competition.
 
 ![](/images/science17.jpeg)
+
+
+
+<figure>
+
+![](/images/science18.jpeg)
+
+<figcaption> <strong> Team ‘Cereal Killer’ during the livestream of the Finals </strong> </figcaption>
+
+</figure>
+
