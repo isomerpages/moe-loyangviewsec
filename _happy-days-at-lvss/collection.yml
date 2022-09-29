@@ -2,6 +2,7 @@ collections:
   happy-days-at-lvss:
     output: true
     order:
+      - Student Achievements.md
       - Life in Loyang View/.keep
       - Life in Loyang View/Life in Loyang View Secondary School.md
       - Life in Loyang View/2019.md
