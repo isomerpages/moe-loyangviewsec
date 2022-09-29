@@ -19,3 +19,5 @@ Sustainability is the key theme of our programme, as we seek to instill mindset 
 Students make use of the Design Thinking framework and learn to solve problems using scientific knowledge. They collaborate and communicate with different stakeholders such as school, family and community as well as engineer solutions that add value and seek to solve problems in these areas.
 
 All these are accomplished through design-based science activities that the ALP Committee and Science Department has collaboratively crafted with STEM Inc.
+
+![](/images/ALP02.png)
