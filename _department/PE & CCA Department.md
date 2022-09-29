@@ -68,3 +68,5 @@ In Loyang View, we believe every child is unique and worthy; everyone can be a l
 The Sec 2 non-residential Camp this year was conducted in school premises (instead of overnight-camping style) following prevailing SMMs. Despite the restrictions and constraints, students had fun with the activities and bonded very well together. With bouldering-wall climbing as one of the activities in this year’s edition, participants managed to test their skills out safely and at the same time having fun with the support of their Secondary 3 Seniors from CCA Rock-climbing Club.
 
 Check out snippets of their wonderful camp experiences here.
+
+![](/images/PE.png)
