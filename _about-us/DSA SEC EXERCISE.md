@@ -12,4 +12,4 @@ We offer DSA in two of our signature programmes:
 
 2.      LLP – Sports & Outdoor Education (Character Through Sports Exposure, Sports Empowerment & Sports Excellence)
 
-Find out more about 
+Find out more about [ALP](/signature-programmes/Applied-Learning-Programme-ALP/permalink/)
