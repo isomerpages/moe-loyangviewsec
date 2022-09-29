@@ -8,3 +8,14 @@ Co-Curricular Activities
 ========================
 
 ![](/images/CCA1.png)
+
+#### LEAPS 2.0
+
+*   4 Domains
+*   Leadership
+*   Achievement
+*   Participation
+*   Service
+
+
+[Refer to attachment (LEAPS 2.0)](/files/leaps%202%200.pdf)
