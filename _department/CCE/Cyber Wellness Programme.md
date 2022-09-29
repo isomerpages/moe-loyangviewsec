@@ -17,3 +17,5 @@ Think – To analyse, evaluate and reflect on cyber wellness issues so as to res
 Act – To translate understanding into actions that keep them safe while online
 
 ![](/images/Cyber.png)
+
+Other than lessons conducted in class on cyber wellness, there are assembly programmes and other activities e.g. watching plays, which reinforce the messages of safety, respect and responsibility in the cyber world.
