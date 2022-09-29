@@ -1,4 +1,5 @@
 collections:
   happy-days-at-lvss:
     output: true
-    order: []
+    order:
+      - Life in Loyang View Secondary School.md
