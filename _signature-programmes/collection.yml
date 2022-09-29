@@ -2,6 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Education and Career Guidance.md
       - Applied Learning Programme (ALP).md
       - Learning For Life Programme (LLP).md
+      - Education and Career Guidance.md
