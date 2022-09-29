@@ -2,9 +2,9 @@ collections:
   department:
     output: true
     order:
-      - CCE/Values in Education.md
-      - CCE/CCE.md
       - CCE/.keep
+      - CCE/CCE.md
+      - CCE/Values in Education.md
       - Craft & Technology/.keep
       - Craft & Technology/Craft & Technology.md
       - Craft & Technology/Art.md
