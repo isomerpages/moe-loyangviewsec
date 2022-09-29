@@ -111,3 +111,15 @@ In Secondary One, students design and fabricate toy solar cars that are suitable
 </figure>
 
 **
+
+**
+
+<figure>
+
+<img src="![](/images/ALP7.jpeg)">
+
+<figcaption> <strong> Learning about Systems: Investigating the stiffness and weight of different materials </strong> </figcaption>
+
+</figure>
+
+**
