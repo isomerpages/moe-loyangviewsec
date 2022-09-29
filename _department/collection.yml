@@ -2,10 +2,10 @@ collections:
   department:
     output: true
     order:
-      - CCE/Cyber Wellness Programme.md
       - CCE/.keep
       - CCE/CCE.md
       - CCE/Values in Education.md
+      - CCE/Cyber Wellness Programme.md
       - Craft & Technology/.keep
       - Craft & Technology/Craft & Technology.md
       - Craft & Technology/Art.md
