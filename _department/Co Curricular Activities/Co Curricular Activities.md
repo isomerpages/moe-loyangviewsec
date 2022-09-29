@@ -4,3 +4,7 @@ permalink: /department/Co-Curricular-Activities/Co-Curricular-Activities/permali
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+Co-Curricular Activities
+========================
+
+![](/images/CCA.png)
