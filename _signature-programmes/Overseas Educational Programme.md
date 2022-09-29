@@ -37,3 +37,8 @@ This unique experience provides the opportunity for every Secondary 3 student to
 --------------------
 
 ![](/images/Selangor.png)
+
+### OEP Trip to Thailand
+--------------------
+
+![](/images/Thailand.png)
