@@ -19,3 +19,16 @@ Co-Curricular Activities
 
 
 [Refer to attachment (LEAPS 2.0)](/files/leaps%202%200.pdf)
+
+
+We believe “Every child can be a Leader”.
+
+Different Peaks of Excellence.
+
+All leaders “Serve by Leading, Lead by Serving”.
+
+Maximise Talents & Potential of each student in the Right CCA.
+
+
+### Our CCAs
+--------
