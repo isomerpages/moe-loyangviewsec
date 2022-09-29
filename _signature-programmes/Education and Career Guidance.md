@@ -3,3 +3,8 @@ title: Education and Career Guidance
 permalink: /signature-programmes/Education-and-Career-Guidance/permalink/
 description: ""
 ---
+Education and Career Guidance
+=============================
+
+Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work. At secondary schools, the focus is on exploration; to help students understand themselves better in their skills, interests and abilities and guide their exploration of different education and career pathways. Through ECG, social emotional competencies and qualities of proactivity, adaptability and resilience are developed to prepare students for the 21st century.
+
