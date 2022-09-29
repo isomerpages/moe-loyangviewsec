@@ -92,3 +92,5 @@ Students experience joy of learning through weekly enrichment programmes designe
 ![](/images/Kinball.png)
 
 ##### Archery
+
+![](/images/Archery.png)
