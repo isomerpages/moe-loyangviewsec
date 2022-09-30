@@ -6,6 +6,16 @@ description: ""
 School Crest
 ============
 
+
+
+<div>
+
+<div style="float: left">
+
+![](/images/Logo.png)
+
+</div><div>
+
 *   **The school crest is a unique symbol of our identity as students and staff of Loyang View. It comprises three core elements**:
 
 *   **Three figures in an embrace** \- school, parents and students working hand in hand to achieve our school vision
@@ -15,3 +25,6 @@ School Crest
   
 
 *   **White symbolises purity and blue represents trust and responsibility**
+
+</div></div>
+
