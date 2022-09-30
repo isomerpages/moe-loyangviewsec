@@ -153,7 +153,7 @@ For a separate look at our various languages offered, please click the following
 
 [Malay Language](/department/Mother-Tongue/Malay-Language/permalink/)
 
-Tamil Language
+[Tamil Language](/department/Mother-Tongue/Tamil-Language/permalink/)
 
 ### Mother Tongue Fortnight 2021
 ----------------------------
