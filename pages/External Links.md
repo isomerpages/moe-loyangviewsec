@@ -14,3 +14,5 @@ description: ""
 * #### [ACE Learning System](https://www.ace-learning.com/)
 
 * #### [Schoolbag](https://schoolbag.sg/)
+
+* #### [Sexuality Education Programme](/files/Sexuality%20Education%20in%20Loyang%20View%20updated%20dates%2009Jan.pdf)
