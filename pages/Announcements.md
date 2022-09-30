@@ -27,3 +27,9 @@ Information on purchasing of books and uniforms for the academic year 2022 is up
 ### Live On Festival 2021
 
 We are pleased to announce that our student has emerged as one of the winners for LOF 2021 – Essay Competition! You may click on this [link](/happy-days-at-lvss/Student-Achievements/permalink/) for more information.
+
+
+### COVID-19 Vaccination for Students
+
+The details for the COVID-19 Vaccination for students have been posted in the page below, thank you.
+
