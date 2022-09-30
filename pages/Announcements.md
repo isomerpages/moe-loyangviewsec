@@ -22,4 +22,4 @@ Welcome to our Happy and Caring School! Please refer to the following **[link](
 
 ### Purchase of Books and Uniform for Year 2022
 
-Information on purchasing of books and uniforms for the academic year 2022 is up! Click [here](https://www.loyangviewsec.moe.edu.sg/community-involvement/purchase-of-books-and-uniforms-2022) to find out more.
+Information on purchasing of books and uniforms for the academic year 2022 is up! Click  to find out more.
