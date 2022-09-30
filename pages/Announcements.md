@@ -18,3 +18,8 @@ You may click [here](/community-involvement/School-Examinations/permalink/) to
 Dear Parents/Guardians of 2022 Sec 1 students,
 
 Welcome to our Happy and Caring School! Please refer to the following **[link](https://www.loyangviewsec.moe.edu.sg/community-involvement/secondary-1-registration)** on more details concerning the 2022 Sec 1 Registration Exercise.
+
+
+### Purchase of Books and Uniform for Year 2022
+
+Information on purchasing of books and uniforms for the academic year 2022 is up! Click [here](https://www.loyangviewsec.moe.edu.sg/community-involvement/purchase-of-books-and-uniforms-2022) to find out more.
