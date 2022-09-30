@@ -7,12 +7,11 @@ Principal's Message
 ===================
 
 
-
 <div>
 
 <div style="float: left">
 
-<img src="[![](/images/Principall.png)"/>
+<img src="[https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/2022/Staff/Principal/1%20Mr%20%20Lin%20Yucheng%20Eugene%20Principal%20-%2001.png] "/>
 
 </div><div>
 
