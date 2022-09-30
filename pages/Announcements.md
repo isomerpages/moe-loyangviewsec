@@ -11,3 +11,6 @@ Announcements
 The End-of-Year Examinations 2022 schedule is out!
 
 You may click [here](/community-involvement/School-Examinations/permalink/) to access it.
+
+
+### 2022 Sec 1 Registration Exercise
