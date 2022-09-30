@@ -44,5 +44,3 @@ so they become socially confident and pursue success with passion for learning.
 ![](/images/CCE01.png)
 
 ![](/images/CCE02.png)
-
-
