@@ -149,7 +149,7 @@ Normal Technical : BCL / BML / BTL 
 
 For a separate look at our various languages offered, please click the following links below or at the side:  
   
-Chinese Language
+[Chinese Language](/department/Mother-Tongue/Chinese-Language/permalink/)
 
 Malay Language
 
