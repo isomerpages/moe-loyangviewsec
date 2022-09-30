@@ -17,4 +17,4 @@ You may click [here](/community-involvement/School-Examinations/permalink/) to
 
 Dear Parents/Guardians of 2022 Sec 1 students,
 
-Welcome to our Happy and Caring School! Please refer to the following  on more details concerning the 2022 Sec 1 Registration Exercise.
+Welcome to our Happy and Caring School! Please refer to the following **[link](https://www.loyangviewsec.moe.edu.sg/community-involvement/secondary-1-registration)** on more details concerning the 2022 Sec 1 Registration Exercise.
