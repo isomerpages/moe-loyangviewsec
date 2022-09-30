@@ -19,7 +19,7 @@ sections:
           url: /External-Links/permalink/
         - title: Latest Happenings
           description: ""
-          url: /privacy/
+          url: /Latest-Happenings/permalink/
         - title: Gallery
           description: ""
           url: ""
