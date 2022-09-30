@@ -17,7 +17,7 @@ sections:
         - title: External Links
           description: ""
           url: /External-Links/permalink/
-        - title: Latest Happengins
+        - title: Latest Happenings
           description: ""
           url: /privacy/
         - title: Gallery
