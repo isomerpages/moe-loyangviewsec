@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: "Announcements "
           description: ""
-          url: https://google.com
+          url: /Announcements/permalink/
         - title: External Links
           description: ""
           url: /External-Links/permalink/
