@@ -22,5 +22,5 @@ sections:
           url: /Latest-Happenings/permalink/
         - title: Gallery
           description: ""
-          url: ""
+          url: /Gallery/permalink/
 ---
