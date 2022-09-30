@@ -33,3 +33,4 @@ We are pleased to announce that our student has emerged as one of the winners fo
 
 The details for the COVID-19 Vaccination for students have been posted in the page below, thank you.
 
+[Students' COVID-19 Vaccination](/community-involvement/Students-COVID-19-Vaccination/permalink/)
