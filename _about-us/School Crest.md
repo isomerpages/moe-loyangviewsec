@@ -27,7 +27,3 @@ School Crest
 *   **White symbolises purity and blue represents trust and responsibility**
 
 </div></div>
-
-
-
-
