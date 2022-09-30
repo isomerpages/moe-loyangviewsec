@@ -16,7 +16,7 @@ sections:
           url: https://google.com
         - title: External Links
           description: ""
-          url: https://gmail.com
+          url: /External-Links/permalink/
         - title: Latest Happengins
           description: ""
           url: /privacy/
