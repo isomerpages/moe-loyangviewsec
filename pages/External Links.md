@@ -5,4 +5,4 @@ description: ""
 ---
 # External Links
 
-#### * Travel Declaration
+* ####  [Travel Declaration](/community-involvement/Parents-and-Students/Parents-and-Students/permalink/)
