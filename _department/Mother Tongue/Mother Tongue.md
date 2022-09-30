@@ -151,7 +151,7 @@ For a separate look at our various languages offered, please click the following
   
 [Chinese Language](/department/Mother-Tongue/Chinese-Language/permalink/)
 
-Malay Language
+[Malay Language](/department/Mother-Tongue/Malay-Language/permalink/)
 
 Tamil Language
 
