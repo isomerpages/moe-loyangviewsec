@@ -4,6 +4,7 @@ permalink: /department/Science-SET/Smart-Electrical-Technology/permalink/
 description: ""
 third_nav_title: Science & SET
 ---
+![](/images/Banner.jpg)
 
 Smart Electrical Technology
 ===========================
