@@ -76,29 +76,13 @@ In Secondary One, students design and fabricate toy solar cars that are suitable
 
 <figure><img src="/images/ALP4.jpeg" style="width:100%"><figcaption> Learning about Systems: Measuring and Calculating Speed</figcaption></figure>
 
-<figure>
 
-<"![](/images/ALP5.jpeg)">
 
-<figcaption> <strong> Learning about Systems: Investigating the effect of friction on movement </strong> </figcaption>
+<figure><img src="/images/ALP5.jpeg" style="width:100%"><figcaption> Learning about Systems: Investigating the effect of friction on movement</figcaption></figure>
 
-</figure>
 
-**
 
-**
-
-<figure>
-
-<img src="![](/images/ALP6.jpeg))">
-
-<figcaption> <strong> Learning about Systems: Conducting investigative studies on speed as they put their assembled toys to the test </strong> </figcaption>
-
-</figure>
-
-**
-
-**
+<figure><img src="/images/ALP6.jpeg" style="width:100%"><figcaption> Learning about Systems: Conducting investigative studies on speed as they put their assembled toys to the test</figcaption></figure>
 
 <figure>
 
