@@ -198,3 +198,103 @@ Email : sales@itu.com.sg
 Online payment available thru PayNow, PayLah, Debit Card and Credit Card  
 Choose between "Home Delivery" (Recommended) or "Self-Collection"  
 Delivery Fee: $10.00 per location
+
+##### Self-Collection Details (Venue: Loyang View Secondary School 12 Pasir Ris Street 11 Singapore 519073)
+
+**Self-collection of uniforms is strictly by appointment.  
+The appointment can be made via vendor’s website upon purchase of uniforms at [www.intrenduniforms.com](http://www.intrenduniforms.com/)**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vdkr{background-color:#F2F2F2;color:#282828;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-j0cj{background-color:#FFF;color:#282828;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-62gc{background-color:#F2F2F2;color:#282828;text-align:center;vertical-align:middle}
+.tg .tg-r2gi{background-color:#FFF;color:#282828;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-vdkr">8 November 2021</th>
+    <th class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-j0cj">13 November 2021</td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 12 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">18 November 2021 </td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0cj">24 November 2021<span style="color:#282828;background-color:transparent"> </span></td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">    8.30 AM to 3 PM   </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">29 November 2021</td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0cj">3 December 2021</td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">6 December 2021</td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j0cj">9 December 2021</td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">11 December 2021</td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 12 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0cj">13 December 2021</td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">15 December 2021<span style="color:#282828;background-color:transparent"> </span></td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0cj">16 December 2021</td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">18 December 2021<span style="color:#282828;background-color:transparent"> </span></td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 12 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0cj">20 December 2021<span style="color:#282828;background-color:transparent"> </span></td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent"> 8.30 AM to 3 PM</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">27 December 2021<span style="color:#282828;background-color:transparent"> </span></td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0cj">28 December 2021<span style="color:#282828;background-color:transparent"> </span></td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">29 December 2021<span style="color:#282828;background-color:transparent"> </span></td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+</tbody>
+</table>
+
+##### Exchange Details
+
+Students to exchange uniforms directly at the retail store within 7 days from the date of purchase.  
+Exchange of uniforms is only conducted at the retail store.  
+Please call and make an appointment (Tel: 6741 0930)  
+Exchange Dates/Time: **10.00 a.m. to 6.00 p.m. (Monday to Friday) 10.00 a.m. to 3.00 p.m.** **(Saturdays only)  
+Closed on Sundays & Public Holidays**  
+**Venue: IN-TREND UNIFORMS 729 Geylang Road Singapore 389640 (Exit D Paya Lebar MRT)**
