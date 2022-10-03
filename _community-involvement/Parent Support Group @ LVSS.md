@@ -22,3 +22,9 @@ The Parent Support Group (PSG) is a great opportunity for us to be closer to our
 *   be able to bridge the cultural gap between school and home  
     
 *   be less prone to behavioural issues
+
+![](/images/PSG1.jpeg)
+
+![](/images/PSG2.jpeg)
+
+![](/images/PSG3.png)
