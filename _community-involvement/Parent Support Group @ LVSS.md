@@ -45,11 +45,9 @@ You can volunteer your expertise, talents, individual interests or personal netw
 
 
 
-<img src="/images/PSG6.png" style="width:320px;height:250px;margin-left:10px;" align = "right">
+
+<img src="/images/PSG6.png" style="width:320px;height:250px;margin-left:70px;" align = "right">
 
 
 **C) Thoughts**
 You may work with us in brainstorming and contributing constructive feedback and ideas to improve the school and PSG. More experienced parents can share experience and advice with younger parents too.
-
-
-
