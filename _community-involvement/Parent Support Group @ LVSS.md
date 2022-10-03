@@ -3,6 +3,8 @@ title: Parent Support Group @ LVSS
 permalink: /community-involvement/Parent-Support-Group-LVSS/permalink/
 description: ""
 ---
+![](/images/Banner.jpg)
+
 Parent Support Group @ LVSS
 ===========================
 
