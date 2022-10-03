@@ -3,6 +3,8 @@ title: School Vendors
 permalink: /community-involvement/School-Vendors/permalink/
 description: ""
 ---
+![](/images/Banner.jpg)
+
 School Vendors
 ==============
 <style type="text/css">
