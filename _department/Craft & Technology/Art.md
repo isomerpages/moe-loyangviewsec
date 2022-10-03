@@ -4,6 +4,8 @@ permalink: /department/Craft-and-Technology/Art/permalink/
 description: ""
 third_nav_title: Craft & Technology
 ---
+![](/images/Banner.jpg)
+
 Art
 ===
 
