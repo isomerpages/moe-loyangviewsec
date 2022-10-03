@@ -157,3 +157,10 @@ Please refer to the dates and times below:
 Students to exchange textbooks directly at school bookshop within 1 week from date of purchase.  
 Please produce your receipt and booklist for verification.  
 Exchange Dates/Time: Please refer to the Dates/Time stated in the booklist.
+
+
+##### Booklists
+
+**PDF format:**
+
+[2022 Loyang View Sec 2E.pdf](/files/2022%20Loyang%20View%20Sec%202E.pdf)
