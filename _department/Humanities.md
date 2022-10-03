@@ -136,22 +136,20 @@ The Humanities department led Humanities Overseas learning trips to promote joy 
 ### SCHOOL IMMERSION PROGRAMME JOGJAKARTA INDONESIA
 -----------------------------------------------
 
-![](/images/JOGJAKARTA.jpeg)
 
-_Mdm Chang (Geography teacher) explained the geographical concepts to students_
+<figure><img src="/images/JOGJAKARTA.jpeg" style="width:100%"><figcaption> Mdm Chang (Geography teacher) explained the geographical concepts to students</figcaption></figure>
 
 ![](/images/Humanities5.jpeg)
 
-"_I am impressed by how the people in the past had managed to build this huge monument using just simple tools and equipment.  It must have taken a lot of perseverance and commitment to complete this._"
+**"_I am impressed by how the people in the past had managed to build this huge monument using just simple tools and equipment.  It must have taken a lot of perseverance and commitment to complete this._"**
 
 \- **A student’s reflection after the visit to Borobudur.**  
 
 Borobudur is the world’s largest Buddhist temple and has been listed as a UNESCO World Heritage Site.
 
-![](/images/Humanities7.jpeg)
 
-_Student learnt to make tapioca chips_
 
+<figure><img src="/images/Humanities7.jpeg" style="width:75%"><figcaption> Student learnt to make tapioca chips</figcaption></figure>
 
 ### SCHOOL IMMERSION PROGRAMME PERTH, AUSTRALIA
 -------------------------------------------
