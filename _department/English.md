@@ -3,6 +3,8 @@ title: English
 permalink: /department/English/permalink/
 description: ""
 ---
+![](/images/Banner.jpg)
+
 English
 =======
 
