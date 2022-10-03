@@ -7,13 +7,7 @@ Principal's Message
 ===================
 
 
-<div>
-
-<div style="float: left">
-
-<img src="[https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/2022/Staff/Principal/1%20Mr%20%20Lin%20Yucheng%20Eugene%20Principal%20-%2001.png] "/>
-
-</div><div>
+<img src="/images/Principall.png" style="width:280px;height:796px;margin-left:15px;" align = "left">
 
 At Loyang View, we are a Happy and Caring School. A special place where every student is developed into a wholesome individual with robust character and is well prepared for the skill force of tomorrow.  
   
@@ -27,6 +21,3 @@ Together with our capable team of dedicated teachers and support staff, we will 
 
 Mr Eugene Lin  
 Principal
-
-</div></div>
-
