@@ -261,14 +261,9 @@ The Talent Development Programme aims to develop mathematical talents of all lev
 
 <figure><img src="/images/Mathematics7.jpeg" style="width:100%"><figcaption> Participants of the Math Challenge 2019</figcaption></figure>
 
-<figure>
 
-![](/images/Mathematics8.jpeg)
 
-<figcaption> <strong> Receiving awards at the Math Challenge 2019 </strong> </figcaption>
-
-</figure>
-
+<figure><img src="/images/Mathematics8.jpeg" style="width:100%"><figcaption> Receiving awards at the Math Challenge 2019</figcaption></figure>
 
 **(b) Low Progress Support Programme**  
 
