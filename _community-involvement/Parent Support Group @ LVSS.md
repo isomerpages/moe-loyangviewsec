@@ -42,3 +42,14 @@ You may wish to volunteer time to design and conduct the school’s programmes a
 **B) Talent**
 
 You can volunteer your expertise, talents, individual interests or personal networks. In this way, parents can significantly expand the pool of help available to the school and the PSG.
+
+
+
+<img src="/images/PSG6.png" style="width:320px;height:250px;margin-left:10px;" align = "right">
+
+
+**C) Thoughts**
+You may work with us in brainstorming and contributing constructive feedback and ideas to improve the school and PSG. More experienced parents can share experience and advice with younger parents too.
+
+
+
