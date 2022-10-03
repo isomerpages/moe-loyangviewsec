@@ -217,7 +217,7 @@ Participation in competitions is a key approach in the Science department to dev
 
 **COMPETITIONS UNDER APPLIED LEARNING PROGRAMME**
 
-Please click this [link] for some of the 2020 & 2021 competitions.
+Please click this [link](/signature-programmes/Applied-Learning-Programme-ALP/permalink/) for some of the 2020 & 2021 competitions.
 
 
 **INTERNATIONAL BIOMEDICAL QUIZ**
