@@ -4,6 +4,8 @@ permalink: /community-involvement/Parents-and-Students/Parents-and-Students/perm
 description: ""
 third_nav_title: Parents and Students
 ---
+![](/images/Banner.jpg)
+
 Parents and Students
 ====================
 
