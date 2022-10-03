@@ -3,6 +3,8 @@ title: Applied Learning Programme (ALP)
 permalink: /signature-programmes/Applied-Learning-Programme-ALP/permalink/
 description: ""
 ---
+![](/images/Banner.jpg)
+
 Applied Learning Programme (ALP)
 ================================
 
