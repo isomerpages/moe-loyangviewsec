@@ -154,13 +154,11 @@ Borobudur is the world’s largest Buddhist temple and has been listed as a UNES
 ### SCHOOL IMMERSION PROGRAMME PERTH, AUSTRALIA
 -------------------------------------------
 
-![](/images/Perth%201.jpeg)
 
-Students visited the Australia Botanic Garden.
+<figure><img src="/images/Perth%201.jpeg" style="width:100%"><figcaption> Students visited the Australia Botanic Garden.</figcaption></figure>
 
-![](/images/Perth%202.jpeg)
 
-Students learnt about the way of life of aborigines in the Perth Overseas Educational Programme.
+<figure><img src="/images/Perth%202.jpeg" style="width:100%"><figcaption> Students learnt about the way of life of aborigines in the Perth Overseas Educational Programme.</figcaption></figure>
 
 ![](/images/Perth%203.jpeg)
 
