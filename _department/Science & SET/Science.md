@@ -243,14 +243,7 @@ Their proposed solution to reduce food waste led to them clinching 4th position 
 ![](/images/science17.jpeg)
 
 
-
-<figure>
-
-![](/images/science18.jpeg)
-
-<figcaption> <strong> Team ‘Cereal Killer’ during the livestream of the Finals </strong> </figcaption>
-
-</figure>
+<figure><img src="/images/science18.jpeg" style="width:100%"><figcaption> Team ‘Cereal Killer’ during the livestream of the Finals</figcaption></figure>
 
 
 **MARINE AQUASCAPING COMPETITION**
