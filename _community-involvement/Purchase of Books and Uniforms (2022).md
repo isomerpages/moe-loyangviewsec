@@ -186,3 +186,15 @@ Exchange Dates/Time: Please refer to the Dates/Time stated in the booklist.
 
 ### Purchase of Uniform
 -------------------
+
+In-Trend Uniforms  
+Online Purchase: [www.intrenduniforms.com](http://www.intrenduniforms.com/)  
+Tel : 6741 0930  
+Email : sales@itu.com.sg
+
+##### Online Purchase Details
+
+ Availability: 1 November 2021 onwards  
+Online payment available thru PayNow, PayLah, Debit Card and Credit Card  
+Choose between "Home Delivery" (Recommended) or "Self-Collection"  
+Delivery Fee: $10.00 per location
