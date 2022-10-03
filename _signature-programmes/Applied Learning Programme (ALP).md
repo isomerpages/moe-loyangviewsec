@@ -68,29 +68,13 @@ In Secondary One, students design and fabricate toy solar cars that are suitable
 
 
 
-<figure>
 
-![](/images/ALP3.jpeg)
-
-<figcaption> <strong> Learning about systems: Assembling the Wall-hugging Ladybug </strong> </figcaption>
-
-</figure>
+<figure><img src="/images/ALP3.jpeg" style="width:100%"><figcaption> Learning about systems: Assembling the Wall-hugging Ladybug</figcaption></figure>
 
 
 
-**
 
-<figure>
-
-<"![](/images/ALP4.jpeg)">
-
-<figcaption> <strong> Learning about Systems: Measuring and Calculating Speed </strong> </figcaption>
-
-</figure>
-
-**
-
-**
+<figure><img src="/images/ALP4.jpeg" style="width:100%"><figcaption> Learning about Systems: Measuring and Calculating Speed</figcaption></figure>
 
 <figure>
 
