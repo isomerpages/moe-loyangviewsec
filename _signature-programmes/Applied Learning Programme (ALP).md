@@ -88,12 +88,6 @@ In Secondary One, students design and fabricate toy solar cars that are suitable
 
 <figure><img src="/images/ALP7.jpeg" style="width:100%"><figcaption> Learning about Systems: Investigating the stiffness and weight of different materials</figcaption></figure>
 
-<figure>
 
-<img src="![](/images/ALP8.jpeg)">
 
-<figcaption> <strong> Learning about Systems: Investigating how angles affect the efficiency of the solar panel </strong> </figcaption>
-
-</figure>
-
-**
+<figure><img src="/images/ALP8.jpeg" style="width:100%"><figcaption> Learning about Systems: Investigating how angles affect the efficiency of the solar panel</figcaption></figure>
