@@ -38,3 +38,7 @@ Maximise Talents & Potential of each student in the Right CCA.
 Performing Arts
 
 ![](/images/Performingarts.png)
+
+Sports & Games
+
+![](/images/Sportsandgames.png)
