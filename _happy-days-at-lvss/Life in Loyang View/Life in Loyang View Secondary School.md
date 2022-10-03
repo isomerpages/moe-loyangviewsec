@@ -4,6 +4,8 @@ permalink: /happy-days-at-lvss/Life-in-Loyang-View-Secondary-School/permalink/
 description: ""
 third_nav_title: Life in Loyang View
 ---
+![](/images/Banner.jpg)
+
 Life in Loyang View Secondary School
 ====================================
 
