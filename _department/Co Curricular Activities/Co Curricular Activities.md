@@ -42,3 +42,13 @@ Performing Arts
 Sports & Games
 
 ![](/images/Sportsandgames.png)
+
+![](/images/Sports.png)
+
+Uniformed Groups
+
+![](/images/UG.png)
+
+Clubs and Societies
+
+![](/images/Clubs.png)
