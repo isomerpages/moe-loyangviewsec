@@ -4,6 +4,8 @@ permalink: /department/CCE/Values-in-Education/permalink/
 description: ""
 third_nav_title: CCE
 ---
+![](/images/Banner.jpg)
+
 Values in Education
 ===================
 
