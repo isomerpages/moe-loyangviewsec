@@ -3,6 +3,8 @@ title: Overseas Educational Programme
 permalink: /signature-programmes/Overseas-Educational-Programme/permalink/
 description: ""
 ---
+![](/images/Banner.jpg)
+
 Overseas Educational Programme
 ==============================
 
