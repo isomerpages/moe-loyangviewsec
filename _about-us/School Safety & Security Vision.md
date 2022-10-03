@@ -3,6 +3,8 @@ title: School Safety & Security Vision
 permalink: /about-us/School-Safety-Security-Vision/permalink/
 description: ""
 ---
+![](/images/Banner.jpg)
+
 School Safety & Security Vision
 ===============================
 **Safety Vision –**
