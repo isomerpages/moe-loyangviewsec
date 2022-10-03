@@ -271,14 +271,7 @@ The Low Progress Support programme aims to support the learning needs of student
 
 
 
-
-<figure>
-
-![](/images/Mathematics9.jpeg)
-
-<figcaption> <strong> Students use Algediscs to make sense of Algebra </strong> </figcaption>
-
-</figure>
+<figure><img src="/images/Mathematics9.jpeg" style="width:100%"><figcaption> Students use Algediscs to make sense of Algebra</figcaption></figure>
 
 **(c) Foundation Math Bridging Programme (For Sec 1 only)**
 
