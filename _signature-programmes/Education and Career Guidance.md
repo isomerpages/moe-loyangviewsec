@@ -3,6 +3,8 @@ title: Education and Career Guidance
 permalink: /signature-programmes/Education-and-Career-Guidance/permalink/
 description: ""
 ---
+![](/images/Banner.jpg)
+
 Education and Career Guidance
 =============================
 
