@@ -4,6 +4,8 @@ permalink: /department/Mother-Tongue/permalink/
 description: ""
 third_nav_title: Mother Tongue
 ---
+![](/images/Banner.jpg)
+
 Mother Tongue
 =============
 
