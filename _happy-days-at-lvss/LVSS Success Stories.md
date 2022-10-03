@@ -3,6 +3,8 @@ title: LVSS Success Stories
 permalink: /happy-days-at-lvss/LVSS-Success-Stories/permalink/
 description: ""
 ---
+![](/images/Banner.jpg)
+
 LVSS Success Stories
 ====================
 
@@ -28,6 +30,3 @@ _Embracing diversity has also taught me to become a better person and to be more
 Download the Success Stories PDF here:
 
 [Loyang View Sec Success Stories Compilation 2019_291119.pdf ](/files/Loyang%20View%20Sec%20Success%20Stories%20Compilation%202019_291119.pdf)
-
-
-
