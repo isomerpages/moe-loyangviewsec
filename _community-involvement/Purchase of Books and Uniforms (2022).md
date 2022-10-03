@@ -166,3 +166,5 @@ Exchange Dates/Time: Please refer to the Dates/Time stated in the booklist.
 [2022 Loyang View Sec 2E.pdf](/files/2022%20Loyang%20View%20Sec%202E.pdf)
 
 [2022 Loyang View Sec 2NA.pdf](/files/2022%20Loyang%20View%20Sec%202NA.pdf)
+
+[2022 Loyang View Sec 2NT.pdf](/files/2022%20Loyang%20View%20Sec%202NT.pdf)
