@@ -3,6 +3,8 @@ title: Humanities
 permalink: /department/Humanities/permalink/
 description: ""
 ---
+![](/images/Banner.jpg)
+
 Humanities
 ==========
 
@@ -183,4 +185,3 @@ The Geography teachers brought students to places of interest in Singapore which
 _The Secondary 4E, 4N(A) and 5N(A) students conducting Geographical Investigation at Marina Bay Sands (MBS)._
 
 ![](/images/Humanities8.png)
-
