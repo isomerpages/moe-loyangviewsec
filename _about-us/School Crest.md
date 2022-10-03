@@ -20,10 +20,11 @@ School Crest
 
 *   **Three figures in an embrace** \- school, parents and students working hand in hand to achieve our school vision
 *   **Pixelated sun rays in the background** \- the rise of the digital age in the future
+
+</div></div>
+
 *   **A tree that is made up of the three figures and the sun rays** \- continuous growth of skills and knowledge
 
   
 
 *   **White symbolises purity and blue represents trust and responsibility**
-
-</div></div>
