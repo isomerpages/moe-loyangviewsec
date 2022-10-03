@@ -29,4 +29,131 @@ Delivery Fee: $10.00 per location
 
 ##### Delivery Dates (E-Order):
 
-**10 November 2021** 2PM to 5PM 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vdkr{background-color:#F2F2F2;color:#282828;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-j0cj{background-color:#FFF;color:#282828;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-62gc{background-color:#F2F2F2;color:#282828;text-align:center;vertical-align:middle}
+.tg .tg-r2gi{background-color:#FFF;color:#282828;text-align:center;vertical-align:middle}
+.tg .tg-8gz8{background-color:#F2F2F2;color:#282828;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-vdkr">10 November 2021</th>
+    <th class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">2 PM to 5 PM</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-j0cj">30 November 2021</td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">2 PM to 5 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr"> 30 December 2021</td>
+    <td class="tg-8gz8" colspan="4"><span style="color:#282828;background-color:transparent">2 PM to 5 PM&nbsp;&nbsp;</span></td>
+  </tr>
+</tbody>
+</table>
+
+##### Self-Collection Details (Venue: Loyang View Secondary School 12 Pasir Ris Street 11 Singapore 519073)
+
+Self-collection of purchased items is strictly by appointment.  
+Please make an appointment with **Mrs Ong** via WhatsApp at [97683533](http://wa.me/6597683533).  
+Please refer to the dates and times below:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vdkr{background-color:#F2F2F2;color:#282828;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-j0cj{background-color:#FFF;color:#282828;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-62gc{background-color:#F2F2F2;color:#282828;text-align:center;vertical-align:middle}
+.tg .tg-r2gi{background-color:#FFF;color:#282828;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-vdkr">8 November 2021</th>
+    <th class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-j0cj">13 November 2021</td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 12 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">18 November 2021 </td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0cj">24 November 2021<span style="color:#282828;background-color:transparent"> </span></td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">    8.30 AM to 3 PM   </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">29 November 2021</td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0cj">3 December 2021</td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">6 December 2021</td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j0cj">9 December 2021</td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">11 December 2021</td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 12 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0cj">13 December 2021</td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">15 December 2021<span style="color:#282828;background-color:transparent"> </span></td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0cj">16 December 2021</td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">18 December 2021<span style="color:#282828;background-color:transparent"> </span></td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 12 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0cj">20 December 2021<span style="color:#282828;background-color:transparent"> </span></td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent"> 8.30 AM to 3 PM</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">27 December 2021<span style="color:#282828;background-color:transparent"> </span></td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0cj">28 December 2021<span style="color:#282828;background-color:transparent"> </span></td>
+    <td class="tg-r2gi" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vdkr">29 December 2021<span style="color:#282828;background-color:transparent"> </span></td>
+    <td class="tg-62gc" colspan="4"><span style="color:#282828;background-color:transparent">8.30 AM to 3 PM</span></td>
+  </tr>
+</tbody>
+</table>
+
+##### Exchange Details (Venue: Loyang View Secondary School 12 Pasir Ris Street 11 Singapore 519073)
+
+Students to exchange textbooks directly at school bookshop within 1 week from date of purchase.  
+Please produce your receipt and booklist for verification.  
+Exchange Dates/Time: Please refer to the Dates/Time stated in the booklist.
