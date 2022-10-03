@@ -51,3 +51,21 @@ You can volunteer your expertise, talents, individual interests or personal netw
 
 **C) Thoughts**
 You may work with us in brainstorming and contributing constructive feedback and ideas to improve the school and PSG. More experienced parents can share experience and advice with younger parents too.
+
+
+
+
+
+<img src="/images/PSG7.png" style="width:320px;height:240px;margin-left:10px;" align = "left">
+
+****Parents interested in helping out with our school activities, please fill in the application form below and email the completed form to [premlatha\_selvaraj@moe.edu.sg](mailto:premlatha_selvaraj@moe.edu.sg)****
+
+
+![](/images/PSG8.jpeg)
+
+
+<img src="/images/PSG9.png" style="width:320px;height:240px;margin-left:1px;" align = "right">
+
+**Join us**
+
+Sign up for PSG membership: [https://tinyurl.com/JoinLVSSPSG](https://tinyurl.com/JoinLVSSPSG)
