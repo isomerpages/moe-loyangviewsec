@@ -35,3 +35,10 @@ The Parent Support Group (PSG) is a great opportunity for us to be closer to our
 **A) Time**
 
 You may wish to volunteer time to design and conduct the school’s programmes and events. Supportive PSG members can help to make the school a safe place for our children to learn in, making school life more vibrant and caring.
+
+
+<img src="/images/PSG5.png" style="width:300px;height:260px;margin-left:15px;" align = "left">
+
+**B) Talent**
+
+You can volunteer your expertise, talents, individual interests or personal networks. In this way, parents can significantly expand the pool of help available to the school and the PSG.
