@@ -160,24 +160,21 @@ Borobudur is the world’s largest Buddhist temple and has been listed as a UNES
 
 <figure><img src="/images/Perth%202.jpeg" style="width:100%"><figcaption> Students learnt about the way of life of aborigines in the Perth Overseas Educational Programme.</figcaption></figure>
 
-![](/images/Perth%203.jpeg)
 
-Students visited the ArtGeo Gallery and Busselton Court House and
+<figure><img src="/images/Perth%203.jpeg" style="width:75%"><figcaption> Students visited the ArtGeo Gallery and Busselton Court House and
 
-Lock up to learn about the History of Busselton.
-
+Lock up to learn about the History of Busselton.</figcaption></figure>
 
 **Secondary 4**
 
-  
+ 
 
 The Geography teachers brought students to places of interest in Singapore which aligned to the Sec 4 topic on tourism.  The students conducted their geographical investigation which allowed them to apply the content and skills learnt during lessons. Students completed the learning with greater confident to apply their learning in the GCE ‘O’ and ‘N’ level examinations.
 
 ![](/images/MBS%201.jpeg)
 
-![](/images/MBS%202.jpeg)
 
 
-_The Secondary 4E, 4N(A) and 5N(A) students conducting Geographical Investigation at Marina Bay Sands (MBS)._
+<figure><img src="/images/MBS%202.jpeg" style="width:100%"><figcaption> The Secondary 4E, 4N(A) and 5N(A) students conducting Geographical Investigation at Marina Bay Sands (MBS).</figcaption></figure>
 
 ![](/images/Humanities8.png)
