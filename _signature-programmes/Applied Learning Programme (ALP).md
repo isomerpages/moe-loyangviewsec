@@ -84,17 +84,9 @@ In Secondary One, students design and fabricate toy solar cars that are suitable
 
 <figure><img src="/images/ALP6.jpeg" style="width:100%"><figcaption> Learning about Systems: Conducting investigative studies on speed as they put their assembled toys to the test</figcaption></figure>
 
-<figure>
 
-<img src="![](/images/ALP7.jpeg)">
 
-<figcaption> <strong> Learning about Systems: Investigating the stiffness and weight of different materials </strong> </figcaption>
-
-</figure>
-
-**
-
-**
+<figure><img src="/images/ALP7.jpeg" style="width:100%"><figcaption> Learning about Systems: Investigating the stiffness and weight of different materials</figcaption></figure>
 
 <figure>
 
