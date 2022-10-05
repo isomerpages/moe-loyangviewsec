@@ -206,3 +206,8 @@ Our Secondary 3 Express students participated in a six-week Applied Learning enr
 **2019 – Biotechnology, Aeronautical Engineering**
 
 In 2019, our Secondary 3 Express students concluded their nine-week Applied Learning enrichment programme with a project showcase at the end of Term 1. The students were exposed to skills in Biotechnology and Aeronautical Engineering fields. In addition to learning new skills in Science and Technology, students were encouraged to think creatively and inventively as they built their prototypes for the showcase. They also got the opportunity to go on a learning journey to A\*Star and Seletar Airbase to observe how scientists and aviation engineers worked.
+
+![](/images/ALP26.png)
+![](/images/ALP27.png)
+![](/images/ALP28.png)
+![](/images/ALP29.png)
