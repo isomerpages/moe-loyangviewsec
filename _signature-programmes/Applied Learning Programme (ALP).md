@@ -274,3 +274,7 @@ Our students decided to tackle the food waste problem that is happening in Singa
 #### _Schools Challenge 2019_ 
 
 Under the Applied Learning Programme (ALP), several of our students were selected to represent LVSS in the Schools Challenge 2019. Schools Challenge is co-organised by Junior Achievement Singapore (JA Singapore) and JP Morgan, supported by Tampines GRC and Housing & Development Board.
+
+![](/images/ALP44.png)
+
+Schools Challenge - Live Smart @ The East is a STEM-focused social innovation programme for lower secondary students. The programme aims to broaden students' interest and learning of various STEM disciplines, encouraging them to co-create innovative and practical solutions that improve the living environment for residents in the east and help to transform the east into a pioneer Smart City in Singapore. Throughout the programme, each student team was mentored by business volunteers from JP Morgan and supported by SUTD student leaders.
