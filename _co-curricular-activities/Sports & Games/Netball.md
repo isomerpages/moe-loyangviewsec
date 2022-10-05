@@ -4,6 +4,8 @@ permalink: /co-curricular-activities/Sports-and-Games/Netball/permalink/
 description: ""
 third_nav_title: Sports & Games
 ---
+![](/images/Banner.jpg)
+
 Netball
 =======
 
@@ -16,7 +18,6 @@ Netball
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
 </style>
@@ -30,7 +31,7 @@ Netball
 <tbody>
   <tr>
     <td class="tg-rj1p">2nd Overall Teacher-in-charge</td>
-    <td class="tg-ii8k"><span style="background-color:initial">Angelina Ng  (email: ng_mui_yun_angelina@moe.edu.sg)</span><br></td>
+    <td class="tg-y7qa"><span style="background-color:initial">Angelina Ng  (email: ng_mui_yun_angelina@moe.edu.sg)</span><br></td>
   </tr>
   <tr>
     <td class="tg-rj1p">Teacher-in-charge</td>
