@@ -344,3 +344,8 @@ In collaboration with James Dyson Foundation, students participated in an 8-week
 ![](/images/Workshop4.png)
 ![](/images/Workshop5.png)
 ![](/images/Workshop6.png)
+
+#### Tinkering Workshop by Stanford Professor
+
+![](/images/Workshop8.png)
+![](/images/Workshop9.png)
