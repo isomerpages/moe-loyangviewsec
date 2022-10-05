@@ -97,30 +97,25 @@ Tuesdays & Thursdays (3:30pm to 5:30pm)
 
 _“In climbing you are always faced with new problems in which you must perform using intuitive movements, and then later analyze them to figure out why they work, and then learn from them.” – Wolfgang Gullich_
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
-.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-apyk"><img src="https://www-loyangviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u783/Character%20Development/SportNGames/RockClimbingClub/2019/002%20NSBC%20team.JPG" alt="002 NSBC team.JPG" width="385"></th>
-    <th class="tg-apyk"><img src="https://www-loyangviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u783/Character%20Development/SportNGames/RockClimbingClub/2019/003%20Boulder%20World%20%20training.JPG" alt="003 Boulder World  training.JPG" width="218" height="218"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-tlx9"><img src="https://www-loyangviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u783/Character%20Development/SportNGames/RockClimbingClub/2019/004%20The%20Rock%20School%20training.JPG" alt="004 The Rock School training.JPG" width="351" height="263"></td>
-    <td class="tg-tlx9"><img src="https://www-loyangviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u783/Character%20Development/SportNGames/RockClimbingClub/2019/005%20Boulder+%20training.jpg" alt="005 Boulder+ training.jpg" width="385"></td>
-  </tr>
-  <tr>
-    <td class="tg-tlx9"><img src="https://www-loyangviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u783/Character%20Development/SportNGames/RockClimbingClub/2020/02%20LVRC%20Team%20Gravical.JPG" alt="02 LVRC Team Gravical.JPG" width="345" height="258"> </td>
-    <td class="tg-tlx9"><img src="https://www-loyangviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u783/Character%20Development/SportNGames/RockClimbingClub/2020/03%20EXCO%20Graduation.JPG" alt="03 EXCO Graduation.JPG" width="344" height="257"> </td>
-  </tr>
-</tbody>
-</table>
+ ![](/images/Rockclimb3.png)
+ ![](/images/Rockclimb4.png)
+
+**KEY PROGRAMMES**
+
+Our climbers have persevered and improved throughout the years, learning the various technical skills of climbing as well as teamwork and resilience. Our climbers get the opportunity to train and experience climbing at Boulder World, Tampines-Meridian Junior College, The Rock School at Our Tampines Hub, Onsight Climbing Gym, Boulder+ and Climb Central. During our year-end CCA camp, the climbers bonded through various engaging activities such as our first outdoor cooking activity, banner painting and climbing at the augmented reality wall at Climbers’ Laboratory.
+
+  
+
+LVRC climbers contributed to the community through meaningful Values-In-Action (VIA) activities related to rock climbing. Our climbers have rendered their service and skills as rock climbing guides for NPCC, NCC and Boys Brigade (BB) cadets. 
+
+LVRC has also produced competitive climbers whose hard work and dedication have qualified them for finals. Some of them have also won medals in their respective categories. Throughout the years, our climbers have been exposed to different forms of competitive as well as recreational climbing through rock climbing events like SMU Gravical, French School Vertical Marathon, National Schools Bouldering Championship (NSBC), National Schools Sports Climbing Championships (NSSCC), National Youth Trials at SUTD, Springfield Let’s Rock, NTU Pumpfest, NUS Boulderactive, NTU UMC Transend and Boys’ Town Sport Climbing Competition. In 2020, we held our first Boulder Carnival for our lower secondary climbers. 
+
+  
+
+In 2021, our seniors came back as Chief Route Judge & Chief Route Setter for the carnival. The school also replaced our old high wall with a new rockwall equipped with an auto-belay system.
+
+![](/images/Rockclimb5.png)
+
+**ACHIEVEMENTS**
+
+_“The best climber in the world is the one having the most fun!” – Alex Lowe_
