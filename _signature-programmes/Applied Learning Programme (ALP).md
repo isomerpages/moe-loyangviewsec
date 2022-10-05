@@ -304,3 +304,10 @@ Destinations under the Overseas Learning Experience of the Applied Learning Prog
 ![](/images/Aus6.png)
 
 #### Townsville & Brisbane, Australia (2018)
+
+![](/images/Aus7.png)
+![](/images/Aus8.png)
+![](/images/Aus9.png)
+![](/images/Aus10.png)
+![](/images/Aus11.png)
+![](/images/Aus12.png)
