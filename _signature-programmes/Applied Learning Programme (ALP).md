@@ -96,3 +96,7 @@ In Secondary One, students design and fabricate toy solar cars that are suitable
 
 <figure><img src="/images/ALP9.png" style="width:100%"><figcaption> Prototyping & Fabrication of Solar Cars: Creation of solar cars with the use of recyclable materials</figcaption></figure>
 
+
+
+<figure><img src="/images/ALP10.jpeg" style="width:100%"><figcaption> Prototyping & Fabication of Solar Cars: Group photo before the final race day</figcaption></figure>
+
