@@ -321,3 +321,19 @@ Destinations under the Overseas Learning Experience of the Applied Learning Prog
 #### **_Opportunities for Project Showcase_**
 
 In light of the learning experiences that they have undergone, students embark on opportunities that allow them to share with others what they have learnt from their projects, prototypes and also personal reflections. Through such platforms, they are also able to acquire communication skills to present ideas clearly and coherently and become confident speakers.
+
+![](/images/Projectshowcase.png)
+
+### Opportunities to participate in more STEM-Related Workshops
+
+  
+
+Students are also given opportunities to enroll in more STEM-related workshops that help to develop and strengthen their passion for STEM and help students identify future courses and careers that they may be interested in.
+
+  
+
+#### Engineering Solutions: Air Pollution Workshop in collaboration with James Dyson Foundation
+
+  
+
+In collaboration with James Dyson Foundation, students participated in an 8-week programme that introduced them to engineering. They also explored how engineers can solve global challenges, focusing on the problem air pollution.
