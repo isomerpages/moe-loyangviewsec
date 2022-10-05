@@ -6,16 +6,16 @@ third_nav_title: Co Curricular Activities
 ---
 ![](/images/Banner.jpg)
 
-Sports & Games
+Sports &amp; Games
 ==============
 
 Air Rifle Club
 ==============
 
-**Teachers-in-charge:** 
+**Teachers-in-charge:**&nbsp;
 
-*   Miss Jacqueline Cheng (OIC)   email: cheng_su_ming_jacqueline@moe.edu.sg
-*   Mr Patrick Wee (2IC)  email: wee_soh_ye@moe.edu.sg 
+*   Miss Jacqueline Cheng (OIC)&nbsp; &nbsp;email:&nbsp;cheng_su_ming_jacqueline@moe.edu.sg
+*   Mr Patrick Wee (2IC)&nbsp; email:&nbsp;wee_soh_ye@moe.edu.sg&nbsp;
 *   Loo Hup Tee
 
   
@@ -86,9 +86,9 @@ Air Rifle Club
 
 **CCA Training**
 
-•        Tuesdays and Thursdays
+•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesdays and Thursdays
 
-•        3.30 to 5.30pm
+•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.30 to 5.30pm
 
   
 
@@ -117,7 +117,7 @@ Air Rifle Club is a club where athletes excel in the sport and excel in characte
 *   National Shooting Championship C Division (July)  
     
 
-   
+&nbsp;  
   
 
 ### Training Time
@@ -143,3 +143,117 @@ Air Rifle Club is a club where athletes excel in the sport and excel in characte
 ![](/images/Air8.png)
 
 ![](/images/Air9.jpeg)
+
+
+
+Basketball
+==========
+
+
+### Title
+-----
+
+Content
+
+### Title
+-----
+
+Content
+
+#### Title
+-----
+
+Content
+
+At Loyang View Secondary School, we believe that every basketball player is unique and has the potential to excel. Even though a player can quickly acquire the basic skills to play basketball, becoming a truly skilled player takes a lot of discipline and dedication. Therefore, having the right motivation is our key ingredient to continuously keep improving our players’ basketball skills.
+
+_“I can accept failure, everyone fails at something. But I can’t accept not trying.”_
+
+(Michael Jordan)
+
+During our training, the basketball team focuses both on the athletic aspects of the sport as well as on character building, leadership and sportsmanship. Values such as resilience, integrity and respect are instilled in every player throughout all our activities. Besides training, our players also have their share of fun during annual camps and team building activities to foster team spirit and strong camaraderie in the team.
+
+**Training Schedule:**&nbsp;
+
+Every Tuesday and Thursday, 3 pm to 6 pm
+
+**Training Venue:**&nbsp;
+
+Basketball Court at Indoor Sport Hall
+
+**Organisation Chart:**
+
+**Teachers-In-Charge**
+
+Mr Ian Tay (IC)&nbsp; email:&nbsp;tay_yuxiang@moe.edu.sg&nbsp;
+
+Mr Lee Hock Joo (2IC)&nbsp; email:&nbsp;tan_kia_hock@moe.edu.sg&nbsp;
+
+Mr Clement Lim Jit Hui
+
+Ms Lau Yuan Zhen
+
+**Coach**
+
+Mr Shawn Lim Fang Ching
+
+**Captain**
+
+Quinones Chester
+
+**Vice-Captains**
+
+Anit Srinivasan  
+Ninmalan Selvam  
+Mitta Sai Suhruth
+
+**Activities for the year:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ii8k">Month</th>
+    <th class="tg-ii8k">Event</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k">Jan</td>
+    <td class="tg-ii8k">Sec 1 Selection and Orientation</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Feb-Mar</td>
+    <td class="tg-ii8k">East Zone ‘B’ Division Competition</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">March</td>
+    <td class="tg-ii8k">Basketball Camp for B Division<br>Values-In-Action Programme<br>Farewell Party for the Seniors</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">May-June</td>
+    <td class="tg-ii8k">Friendly Matches and Holiday Trainings for C Division</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">July-August</td>
+    <td class="tg-ii8k">East Zone ‘C’ Division Competition</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Oct-Dec</td>
+    <td class="tg-ii8k">Friendly Matches and Holiday Trainings for C Division<br>Basketball Camp for C Division<br>Values-In-Action Programme</td>
+  </tr>
+</tbody>
+</table>
+
+
+### 2020 Photos
+-----------
+
+
