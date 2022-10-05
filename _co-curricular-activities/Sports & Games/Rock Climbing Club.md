@@ -300,3 +300,130 @@ _“The best climber in the world is the one having the most fun!” – Alex Lo
 
 
 ![](/images/Rock3.png)
+
+
+![](/images/Rock4.png)
+
+
+![](/images/Rock5.png)
+
+**Video Gallery of LVRC**
+
+
+
+### Past LVRC CCA Leaders
+---------------------
+
+**LVRC EXCO 2020/2021**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-apyk">Captain</th>
+    <th class="tg-apyk"><span style="font-weight:700;color:#000;background-color:transparent">RENNELL</span><span style="color:#000;background-color:transparent"> KAYLA KHONG JHO ING</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-apyk">Vice-Captain</td>
+    <td class="tg-tlx9"><span style="color:#000;background-color:transparent">NUR </span><span style="font-weight:700;color:#000;background-color:transparent">FATASYA</span><span style="color:#000;background-color:transparent"> BINTE AMRAN</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-apyk">Training Officers</td>
+    <td class="tg-tlx9"><span style="color:#000;background-color:transparent">TAN </span><span style="font-weight:700;color:#000;background-color:transparent">ANGELINA</span><span style="color:#000;background-color:transparent"> </span><br><span style="color:#000;background-color:transparent">MUHAMMAD </span><span style="font-weight:700;color:#000;background-color:transparent">DANIAL</span><span style="color:#000;background-color:transparent"> ALIY BIN ABDULLAH </span><br><span style="font-weight:700;color:#000;background-color:transparent">NATALIA</span><span style="color:#000;background-color:transparent"> ANN RAGUNATH </span><br><span style="color:#000;background-color:transparent">NUR </span><span style="font-weight:700;color:#000;background-color:transparent">AKRAM</span><span style="color:#000;background-color:transparent"> BIN KAMSOR</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-apyk">Quartermasters</td>
+    <td class="tg-tlx9"><span style="color:#000;background-color:transparent">MUHAMMAD </span><span style="font-weight:700;color:#000;background-color:transparent">HARITH</span><span style="color:#000;background-color:transparent"> BIN ROSLEE</span><br><span style="color:#000;background-color:transparent">YONG RONG XIANG (</span><span style="font-weight:700;color:#000;background-color:transparent">BENSON</span><span style="color:#000;background-color:transparent">) </span></td>
+  </tr>
+</tbody>
+</table>
+
+**LVRC EXCO 2019/2020**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Captain</span></th>
+    <th class="tg-citn"><span style="color:#000;background-color:transparent">LIM </span><span style="font-weight:700;color:#000;background-color:transparent">TECK SENG</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Vice-Captain</span></td>
+    <td class="tg-citn"><span style="color:#000;background-color:transparent">MUHAMMAD NUR </span><span style="font-weight:700;color:#000;background-color:transparent">AIMAN </span><span style="color:#000;background-color:transparent">BIN AZMI</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Secretary</span></td>
+    <td class="tg-citn"><span style="color:#000;background-color:transparent">NUR </span><span style="font-weight:700;color:#000;background-color:transparent">ALAWIYAH </span><span style="color:#000;background-color:transparent">BINTE ZULFIKKAR ALI</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Quartermaster</span></td>
+    <td class="tg-citn"><span style="color:#000;background-color:transparent">MOHAMMAD </span><span style="font-weight:700;color:#000;background-color:transparent">HAIRIE</span><span style="color:#000;background-color:transparent"> BIN MOHD SHAH</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Discipline IC</span></td>
+    <td class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">AKID </span><span style="color:#000;background-color:transparent">DANISH BIN JEFRY</span></td>
+  </tr>
+</tbody>
+</table>
+
+**LVRC EXCO 2018/2019**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Captain </span></th>
+    <th class="tg-citn"><span style="color:#000;background-color:transparent">WONG </span><span style="font-weight:700;color:#000;background-color:transparent">HUI TING</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Vice-Captain</span></td>
+    <td class="tg-citn"><span style="color:#000;background-color:transparent">SITI NUR</span><span style="font-weight:700;color:#000;background-color:transparent"> 'AQILAH</span><span style="color:#000;background-color:transparent"> BTE JAMALUDIN</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Training Officer</span></td>
+    <td class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">KAYLAN</span><span style="color:#000;background-color:transparent"> YIP KIT YEN</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Training Officer</span></td>
+    <td class="tg-citn"><span style="color:#000;background-color:transparent">MUHAMMAD </span><span style="font-weight:700;color:#000;background-color:transparent">FIRDAUS</span><span style="color:#000;background-color:transparent"> B IMRAN</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Quartermaster</span></td>
+    <td class="tg-citn"><span style="color:#000;background-color:transparent">MUHAMAD </span><span style="font-weight:700;color:#000;background-color:transparent">HAZIQ </span><span style="color:#000;background-color:transparent">B RUTHLAN</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Quartermaster</span></td>
+    <td class="tg-citn"><span style="color:#000;background-color:transparent">MUHAMMAD </span><span style="font-weight:700;color:#000;background-color:transparent">IKRAM</span><span style="color:#000;background-color:transparent"> BIN ROHANI</span></td>
+  </tr>
+</tbody>
+</table>
