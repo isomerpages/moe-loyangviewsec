@@ -226,3 +226,7 @@ In the Sustainable Infrastructure module, students are taught how energy efficie
 In the 3D Printing module, students are equipped with the fundamental understanding of material science. They enhance their practical skills through the designing and manufacture of prototypes using the 3D printing software. Students are also exposed to the relevance and importance of 3D printing in today’s medical and scientific fields.
 
 ![](/images/ALP32.png)
+
+**Tier 2: Opportunities for Students with Higher Interest and Ability in STEM Fields**
+
+Students with higher interest and ability in STEM fields are given opportunities to further develop their passion and potential in STEM and Design Thinking.  These include opportunities to attend STEM symposiums, showcase projects at national platforms, take part in national competitions as well as embark on overseas learning experiences.
