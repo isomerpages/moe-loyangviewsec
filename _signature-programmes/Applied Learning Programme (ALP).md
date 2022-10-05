@@ -283,3 +283,15 @@ Schools Challenge - Live Smart @ The East is a STEM-focused social innovation pr
 ![](/images/ALP46.png)
 
 Over the 5-month period, the groups thought of innovative solutions to problems that were surfaced by interviewees. Some innovations included automated dustbins that could close shutters and alert cleaning crew when they were full to prevent overflowing bins at community areas, role-playing games to immerse and educate players about local culture and also a smart device to remind the elderly to consume medication on time.
+
+![](/images/ALP47.png)
+
+### Overseas Learning Experiences
+
+With the aim of increasing global awareness and encouraging entrepreneurial spirit, the programme exposes students to real-world applications of STEM through the launch of an overseas learning experience programme under the Applied Learning Programme.
+
+Key highlights of the overseas learning experience include site-visits to real-world applications of STEM, immersion programmes at overseas colleges and exploration of learning institutes.
+
+Destinations under the Overseas Learning Experience of the Applied Learning Programme have included Cairns & Townsville, Australia (2019), Townsville & Brisbane, Australia (2018) and Kuala Selangor (2019 & 2018).
+
+#### Cairns & Townsville, Australia (2019)
