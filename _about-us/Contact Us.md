@@ -7,7 +7,7 @@ description: ""
 
 Contact Us
 ==========
-
+Note: Map can be ported over into google map
 
 **School Information**  
 
