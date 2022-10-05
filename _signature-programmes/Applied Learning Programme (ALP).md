@@ -295,3 +295,10 @@ Key highlights of the overseas learning experience include site-visits to real-w
 Destinations under the Overseas Learning Experience of the Applied Learning Programme have included Cairns & Townsville, Australia (2019), Townsville & Brisbane, Australia (2018) and Kuala Selangor (2019 & 2018).
 
 #### Cairns & Townsville, Australia (2019)
+
+![](/images/Aus1.png)
+![](/images/Aus2.png)
+![](/images/Aus3.png)
+![](/images/Aus4.png)
+![](/images/Aus5.png)
+![](/images/Aus6.png)
