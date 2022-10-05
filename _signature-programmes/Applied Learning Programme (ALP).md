@@ -196,3 +196,9 @@ Programmes offered each year are as listed below:
 #### **2021 – Drones, Cosmetics and 3D Printing**
 
 Our Secondary 3 Express students participated in a six-week Applied Learning enrichment programme in 3D Printing, Drones and Life Sciences in 2021. Students took turns to participate in all three programmes, exposing them to more industries and broadening their learning experiences.
+
+
+![](/images/ALP22.png)
+![](/images/ALP23.png)
+![](/images/ALP24.png)
+![](/images/ALP25.png)
