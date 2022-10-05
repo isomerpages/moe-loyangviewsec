@@ -108,3 +108,7 @@ In Secondary One, students design and fabricate toy solar cars that are suitable
 
 <figure><img src="/images/ALP12.png" style="width:100%"><figcaption> Prototyping & Fabrication of Solar Cars: Student Prototypes</figcaption></figure>
 
+
+In order for students to understand the relevance and make meaning of their learning, learning journeys are also incorporated within the curriculum to enable students to witness the applications and potential of STEM concepts.
+
+![](/images/ALP13.png)
