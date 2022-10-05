@@ -250,3 +250,7 @@ Every year, Nanyang Polytechnic School of Engineering invites students to partic
 East Zone Science & Technology Centre @ VJC organises the annual STEM  Festival @ VJC to encourage students from schools to be actively engaged in the learning and applications of Science, Technology, Engineering and Math (STEM) through a series of activities and events.  
   
 Our students participated in the virtual Amazing Race Competition in 2021 and emerged First Runner Up in the competition. During the competition, students had to apply their Biology, Chemistry and Physics knowledge and analytical skills to solve problems in a race against time.
+
+![](/images/ALP37.png)
+
+Our students also participated in the marine aquascaping competition during the festival in 2018 where they learnt to appreciate the diversity of marine flora and fauna by establishing a marine ecosystem and build homes for marine creatures in a balanced aquatic environment.
