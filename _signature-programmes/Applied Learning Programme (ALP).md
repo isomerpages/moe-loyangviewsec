@@ -270,3 +270,7 @@ Our students decided to tackle the food waste problem that is happening in Singa
 ![](/images/ALP41.png)
 ![](/images/ALP42.png)
 ![](/images/ALP43.png)
+
+#### _Schools Challenge 2019_ 
+
+Under the Applied Learning Programme (ALP), several of our students were selected to represent LVSS in the Schools Challenge 2019. Schools Challenge is co-organised by Junior Achievement Singapore (JA Singapore) and JP Morgan, supported by Tampines GRC and Housing & Development Board.
