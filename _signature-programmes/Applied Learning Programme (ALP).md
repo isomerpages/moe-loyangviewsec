@@ -164,3 +164,14 @@ In Secondary Two, students are exposed to various clean energy sources through a
 
 ![](/images/ALP17.png)
 ![](/images/ALP18.png)
+
+### **Additional Workshops**
+
+Beyond the school’s ALP curriculum, students get to participate in additional workshops conducted by external partners and vendors.
+
+#### **2018 – Sec 2 Workshop by Fablab, Singapore University of Technology and Design (SUTD)**
+
+In 2018, the Secondary 2 students also had the opportunity to undergo a 2-day workshop conducted by Fablab, Singapore University of Technology and Design (SUTD) where they had the opportunity to engage in hands-on activities and create gadgets demonstrating STEM understanding. Such activities are aimed at triggering thinking beyond the classroom and developing joy of learning.
+
+![](/images/ALP20.png)
+![](/images/ALP21.png)
