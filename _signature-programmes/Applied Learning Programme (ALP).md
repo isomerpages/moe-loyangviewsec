@@ -244,3 +244,9 @@ Every year, Nanyang Polytechnic School of Engineering invites students to partic
 ![](/images/ALP34.png)
 ![](/images/ALP35.png)
 ![](/images/ALP36.png)
+
+#### STEM Festival at Victoria Junior College (VJC)
+
+East Zone Science & Technology Centre @ VJC organises the annual STEM  Festival @ VJC to encourage students from schools to be actively engaged in the learning and applications of Science, Technology, Engineering and Math (STEM) through a series of activities and events.  
+  
+Our students participated in the virtual Amazing Race Competition in 2021 and emerged First Runner Up in the competition. During the competition, students had to apply their Biology, Chemistry and Physics knowledge and analytical skills to solve problems in a race against time.
