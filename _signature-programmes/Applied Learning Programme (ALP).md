@@ -224,3 +224,5 @@ In the Sustainable Infrastructure module, students are taught how energy efficie
 ![](/images/ALP31.png)
 
 In the 3D Printing module, students are equipped with the fundamental understanding of material science. They enhance their practical skills through the designing and manufacture of prototypes using the 3D printing software. Students are also exposed to the relevance and importance of 3D printing in today’s medical and scientific fields.
+
+![](/images/ALP32.png)
