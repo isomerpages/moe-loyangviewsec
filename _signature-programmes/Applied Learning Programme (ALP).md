@@ -240,3 +240,7 @@ Through the participation of students in competitions, we aim to provide student
 **2021: Nanyang Polytechnic e-Science and Technology Challenge**
 
 Every year, Nanyang Polytechnic School of Engineering invites students to participate in challenges to fuel their critical and creative thinking while promoting the benefits of an engineering and science education. In 2021, our students took part in four challenges.
+
+![](/images/ALP34.png)
+![](/images/ALP35.png)
+![](/images/ALP36.png)
