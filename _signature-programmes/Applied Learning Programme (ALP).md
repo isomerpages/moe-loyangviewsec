@@ -175,3 +175,24 @@ In 2018, the Secondary 2 students also had the opportunity to undergo a 2-day wo
 
 ![](/images/ALP20.png)
 ![](/images/ALP21.png)
+
+
+#### _**Applied Sciences and Engineering – Secondary Three Students**_
+
+In Secondary Three, students are given the opportunity to deepen their science knowledge in specialised areas of interest and apply their knowledge in real-life applications based on end-user needs. 
+
+The programme aims to promote joy of learning and broaden students' interest various in STEM-related industries. In addition to learning new skills in Science and Technology, students are encouraged to think creatively and inventively as they build their prototypes for the showcase. They also got the opportunity to go on a learning journey to A\*Star and Seletar Airbase to see how scientists and aviation engineers work. 
+
+Programmes offered each year are as listed below:
+
+**2021** – 3D Printing, Drones and Life Sciences
+
+**2019** – Biotechnolgy and Aeronautical Engineering
+
+**2018** – Robotics, Sustainable Infrastructure and 3D Printing
+
+**2017** – Robotics & Mechatronics, Biotechnology and Applied Food Sciences
+
+#### **2021 – Drones, Cosmetics and 3D Printing**
+
+Our Secondary 3 Express students participated in a six-week Applied Learning enrichment programme in 3D Printing, Drones and Life Sciences in 2021. Students took turns to participate in all three programmes, exposing them to more industries and broadening their learning experiences.
