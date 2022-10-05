@@ -137,3 +137,9 @@ Air Rifle Club is a club where athletes excel in the sport and excel in characte
 ![](/images/Air6.jpeg)
 
 ![](/images/Air7.jpeg)
+
+### Honing our skills through Archery Activity
+
+![](/images/Air8.png)
+
+![](/images/Air9.jpeg)
