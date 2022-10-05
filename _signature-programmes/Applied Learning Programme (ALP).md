@@ -162,3 +162,5 @@ In Secondary Two, students are exposed to various clean energy sources through a
 
 <figure><img src="/images/ALP16.jpeg" style="width:75%"><figcaption> Learning about Clean Energy: Investigating Blade Design on Turbine Efficiency</figcaption></figure>
 
+![](/images/ALP17.png)
+![](/images/ALP18.png)
