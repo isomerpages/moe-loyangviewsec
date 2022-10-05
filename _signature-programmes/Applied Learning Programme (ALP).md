@@ -317,3 +317,7 @@ Destinations under the Overseas Learning Experience of the Applied Learning Prog
 ![](/images/Msia1.png)
 ![](/images/Msia2.png)
 ![](/images/Msia3.png)
+
+#### **_Opportunities for Project Showcase_**
+
+In light of the learning experiences that they have undergone, students embark on opportunities that allow them to share with others what they have learnt from their projects, prototypes and also personal reflections. Through such platforms, they are also able to acquire communication skills to present ideas clearly and coherently and become confident speakers.
