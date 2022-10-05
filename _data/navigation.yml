@@ -6,6 +6,15 @@ links:
     collection: community-involvement
   - title: Department
     collection: department
+  - title: Department
+    url: /department/Craft-and-Technology/Craft-and-Technology/permalink/
+    sublinks:
+      - title: Craft & Technology
+        url: /department/Craft-and-Technology/Craft-and-Technology/permalink/
+      - title: English
+        url: /department/English/permalink/
+      - title: Co Curricular Activities
+        url: /co-curricular-activities/overview/
   - title: " Signature Programmes"
     collection: signature-programmes
   - title: Happy Days @ LVSS
