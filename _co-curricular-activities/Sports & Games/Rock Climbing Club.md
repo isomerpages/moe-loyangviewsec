@@ -119,8 +119,8 @@ _“In climbing you are always faced with new problems in which you must perform
     <td class="tg-tlx9"><img src="https://www-loyangviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u783/Character%20Development/SportNGames/RockClimbingClub/2019/005%20Boulder+%20training.jpg" alt="005 Boulder+ training.jpg" width="385"></td>
   </tr>
   <tr>
-    <td class="tg-tlx9"><img src="https://www-loyangviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u783/Character%20Development/SportNGames/RockClimbingClub/2020/02%20LVRC%20Team%20Gravical.JPG" alt="02 LVRC Team Gravical.JPG" width="345" height="258"># </td>
-    <td class="tg-tlx9"><img src="https://www-loyangviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u783/Character%20Development/SportNGames/RockClimbingClub/2020/03%20EXCO%20Graduation.JPG" alt="03 EXCO Graduation.JPG" width="344" height="257"># </td>
+    <td class="tg-tlx9"><img src="https://www-loyangviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u783/Character%20Development/SportNGames/RockClimbingClub/2020/02%20LVRC%20Team%20Gravical.JPG" alt="02 LVRC Team Gravical.JPG" width="345" height="258"> </td>
+    <td class="tg-tlx9"><img src="https://www-loyangviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u783/Character%20Development/SportNGames/RockClimbingClub/2020/03%20EXCO%20Graduation.JPG" alt="03 EXCO Graduation.JPG" width="344" height="257"> </td>
   </tr>
 </tbody>
 </table>
