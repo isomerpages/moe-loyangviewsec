@@ -2,7 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Overview.md
+      - Co Curricular Activities.md
       - Arts/.keep
       - Sports/.keep
       - UG/.keep
