@@ -263,3 +263,20 @@ Mitta Sai Suhruth
 ![](/images/Basketball3.jpeg)
 
 ![](/images/Basketball4.jpeg)
+
+
+**2020 Reflection**
+
+Being a Captain of B Division, i was looking forward to attending CCA and participating in the
+
+B-Division tournament as it will be my last year doing so. I will certainly miss playing basketball with my team as I feel that the passion we all had for this sport was what brought us together and helped us through the hard times as a team.
+
+For this year East Zone competition, the whole team was pretty hyped as we were doing quite well and could tell that we had a chance to reach top-4. But our advancement was held back by the pandemic.
+
+If we all could turn back time, i know for sure the whole team would say that they would have work harder last year to make it to top-4 so at least this year we wouldn't feel at loss so much.
+
+I hope our juniors will carry on our legacy and make all of us proud because I know for sure they all have the talent and capabilities to grow and nurture to be better than us.
+
+Lastly, I would like to thank the coach and teachers for their guidance and support.
+
+**_Hariz Mirza, Captain, B Division_**
