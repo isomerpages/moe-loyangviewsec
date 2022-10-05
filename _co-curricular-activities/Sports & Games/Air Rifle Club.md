@@ -4,6 +4,8 @@ permalink: /co-curricular-activities/Sports-and-Games/air-rifle-club/permalink/
 description: ""
 third_nav_title: Sports & Games
 ---
+![](/images/Banner.jpg)
+
 Air Rifle Club
 ==============
 
@@ -138,4 +140,3 @@ Air Rifle Club is a club where athletes excel in the sport and excel in characte
 ![](/images/Air8.png)
 
 ![](/images/Air9.jpeg)
-
