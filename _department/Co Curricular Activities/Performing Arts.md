@@ -4,6 +4,8 @@ permalink: /department/Co-Curricular-Activities/Performing-Arts/permalink/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+![](/images/Banner.jpg)
+
 Loyang View Symphonic Band
 ==========================
 
@@ -164,3 +166,7 @@ Our members also seek to develop their musicality by participating in external w
 ![](/images/Band5.jpeg)
 
 ![](/images/Band7.jpeg)
+
+
+Dance Club
+==========
