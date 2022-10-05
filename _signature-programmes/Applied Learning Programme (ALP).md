@@ -220,3 +220,7 @@ In the Robotics module, students were equipped with multi-disciplinary knowledge
 ![](/images/ALP30.png)
 
 In the Sustainable Infrastructure module, students are taught how energy efficiency can be applied in the design of buildings. Using the Microbit software, students invent solutions using green building technologies and practices such as automated lighting and energy saving appliances.
+
+![](/images/ALP31.png)
+
+In the 3D Printing module, students are equipped with the fundamental understanding of material science. They enhance their practical skills through the designing and manufacture of prototypes using the 3D printing software. Students are also exposed to the relevance and importance of 3D printing in today’s medical and scientific fields.
