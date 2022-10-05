@@ -287,3 +287,16 @@ _“The best climber in the world is the one having the most fun!” – Alex Lo
 ![](/images/Rockclimb8.png)
 
 **LVRC Teams**
+
+![](/images/Rockclimb9.png)
+
+**Team BTAC**
+
+![](/images/Rock.png)
+
+**Photos from Past Years in LVRC**
+
+![](/images/Rock2.png)
+
+
+![](/images/Rock3.png)
