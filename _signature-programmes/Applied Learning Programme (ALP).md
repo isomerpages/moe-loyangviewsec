@@ -154,3 +154,7 @@ In Secondary Two, students are exposed to various clean energy sources through a
 
 <figure><img src="/images/ALP14.jpeg" style="width:100%"><figcaption> Learning about Clean Energy: Presenting their research on different sources of energy</figcaption></figure>
 
+
+
+<figure><img src="/images/ALP15.jpeg" style="width:100%"><figcaption> Learning about Clean Energy: Understanding How a Dynamo Works</figcaption></figure>
+
