@@ -311,3 +311,5 @@ Destinations under the Overseas Learning Experience of the Applied Learning Prog
 ![](/images/Aus10.png)
 ![](/images/Aus11.png)
 ![](/images/Aus12.png)
+
+#### Kuala Selangor, Malaysia (2018 & 2019)
