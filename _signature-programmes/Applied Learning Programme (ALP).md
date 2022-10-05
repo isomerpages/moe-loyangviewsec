@@ -281,3 +281,5 @@ Schools Challenge - Live Smart @ The East is a STEM-focused social innovation pr
 
 ![](/images/ALP45.png)
 ![](/images/ALP46.png)
+
+Over the 5-month period, the groups thought of innovative solutions to problems that were surfaced by interviewees. Some innovations included automated dustbins that could close shutters and alert cleaning crew when they were full to prevent overflowing bins at community areas, role-playing games to immerse and educate players about local culture and also a smart device to remind the elderly to consume medication on time.
