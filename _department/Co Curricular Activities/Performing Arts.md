@@ -170,3 +170,42 @@ Our members also seek to develop their musicality by participating in external w
 
 Dance Club
 ==========
+
+**DEPARTMENT/ CCA STRUCTURE/ NAME WITH DESIGNATION**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e14l">NAME</th>
+    <th class="tg-e14l">DESIGNATION</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7fd7">Mr Gabriel Palai<br>email: gabriel_palai_anbu_nambi@moe.edu.sg </td>
+    <td class="tg-7fd7">Overall Teacher IC</td>
+  </tr>
+  <tr>
+    <td class="tg-7fd7">Mdm Zubaidah<br>email: zubaidah_mohd_noor@moe.edu.sg </td>
+    <td class="tg-citn">2nd Overall Teacher IC</td>
+  </tr>
+  <tr>
+    <td class="tg-7fd7">Lee Siew Yian<br></td>
+    <td class="tg-citn">Teacher IC</td>
+  </tr>
+  <tr>
+    <td class="tg-7fd7">Natarajan Usha</td>
+    <td class="tg-7fd7">Teacher IC</td>
+  </tr>
+</tbody>
+</table>
