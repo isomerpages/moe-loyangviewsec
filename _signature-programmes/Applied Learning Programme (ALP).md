@@ -216,3 +216,5 @@ In 2019, our Secondary 3 Express students concluded their nine-week Applied Lear
 **2018 – Robotics, Sustainable Infrastructure, 3D Printing**
 
 In the Robotics module, students were equipped with multi-disciplinary knowledge in robotics and programming to enable the design and development of high-tech modern robotic devices using Lego Mindstorm. Students also learned to navigate through microcontroller applications and programmable logic controllers. As a result, students were able to create prototypes that are useful for everyday life such as automated trash collectors to clear tables in restaurants and robots that could sort recyclable wastes based on material.
+
+![](/images/ALP30.png)
