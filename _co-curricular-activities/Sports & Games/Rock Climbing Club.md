@@ -4,6 +4,8 @@ permalink: /co-curricular-activities/Sports-and-Games/Rock-Climbing-Club/permali
 description: ""
 third_nav_title: Sports & Games
 ---
+![](/images/Banner.jpg)
+
 Rock Climbing Club
 ==================
 
