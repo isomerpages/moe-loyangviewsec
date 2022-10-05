@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Homepage.gif
       button: Contact Us
-      url: /contact-us/
+      url: /about-us/Contact-Us/permalink/
       key_highlights:
         - title: "Announcements "
           description: ""
