@@ -265,3 +265,8 @@ Our students also participated in the marine aquascaping competition during the 
 NXplorers 2020 is a competition championed by Science Centre Singapore and Shell Singapore for young people to develop sustainable solutions to food, water and energy challenges.  
 
 Our students decided to tackle the food waste problem that is happening in Singapore.
+
+![](/images/ALP40.png)
+![](/images/ALP41.png)
+![](/images/ALP42.png)
+![](/images/ALP43.png)
