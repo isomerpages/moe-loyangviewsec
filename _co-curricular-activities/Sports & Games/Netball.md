@@ -130,3 +130,12 @@ Through the netball activities and values-driven programmes that were set in pla
 Tuesdays & Thursdays: 3-6 pm
 
 Saturdays (competition season): 8-11 am
+
+
+<figure><img src="/images/Netball1.jpeg" style="width:100%"><figcaption> Congratulations to our B Division Girls for making it to the Top 8 of the East Zone Netball Competition 2019! They emerged 1st in their group after winning all their matches in the group stage. We are proud of your achievements, girls!</figcaption></figure>
+
+![](/images/Netball2.jpeg)
+
+![](/images/Netball3.png)
+
+<figure><img src="/images/Netball4.jpeg" style="width:100%"><figcaption> Our Netball seniors with the National Team Netball Captain, Charmaine Soh!</figcaption></figure>
