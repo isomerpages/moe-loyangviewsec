@@ -100,3 +100,6 @@ In Secondary One, students design and fabricate toy solar cars that are suitable
 
 <figure><img src="/images/ALP10.jpeg" style="width:100%"><figcaption> Prototyping & Fabication of Solar Cars: Group photo before the final race day</figcaption></figure>
 
+
+
+<figure><img src="/images/ALP11.jpeg" style="width:100%"><figcaption> Prototyping & Fabrication of Solar Cars: Final race day of student-designed solar car prototypes</figcaption></figure>
