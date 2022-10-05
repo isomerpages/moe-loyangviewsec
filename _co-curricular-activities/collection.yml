@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - UG/.keep
       - Clubs & Societies/Infocomm Club.md
       - Clubs & Societies/.keep
