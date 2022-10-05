@@ -337,3 +337,10 @@ Students are also given opportunities to enroll in more STEM-related workshops t
   
 
 In collaboration with James Dyson Foundation, students participated in an 8-week programme that introduced them to engineering. They also explored how engineers can solve global challenges, focusing on the problem air pollution.
+
+![](/images/Workshop1.png)
+![](/images/Workshop2.png)
+![](/images/Workshop3.png)
+![](/images/Workshop4.png)
+![](/images/Workshop5.png)
+![](/images/Workshop6.png)
