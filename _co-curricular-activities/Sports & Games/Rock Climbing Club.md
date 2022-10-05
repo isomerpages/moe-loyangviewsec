@@ -277,3 +277,5 @@ _“The best climber in the world is the one having the most fun!” – Alex Lo
 **Secondary 1 Rock Climbers**
 
 ![](/images/Rockclimb6.png)
+
+**Secondary 2 Rock Climbers**
