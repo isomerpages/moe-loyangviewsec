@@ -230,3 +230,13 @@ In the 3D Printing module, students are equipped with the fundamental understand
 **Tier 2: Opportunities for Students with Higher Interest and Ability in STEM Fields**
 
 Students with higher interest and ability in STEM fields are given opportunities to further develop their passion and potential in STEM and Design Thinking.  These include opportunities to attend STEM symposiums, showcase projects at national platforms, take part in national competitions as well as embark on overseas learning experiences.
+
+![](/images/ALP33.png)
+
+_**Participation in National Competitions**_
+
+Through the participation of students in competitions, we aim to provide students with additional opportunities to further develop critical thinking, problem-solving abilities and interpersonal skills to work in collaborative environments as they are mentored by teachers in small group settings.
+
+**2021: Nanyang Polytechnic e-Science and Technology Challenge**
+
+Every year, Nanyang Polytechnic School of Engineering invites students to participate in challenges to fuel their critical and creative thinking while promoting the benefits of an engineering and science education. In 2021, our students took part in four challenges.
