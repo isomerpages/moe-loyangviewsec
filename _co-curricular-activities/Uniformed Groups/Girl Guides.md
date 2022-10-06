@@ -227,3 +227,15 @@ The MISSION of the Girl Guides Singapore is to develop girls and young women to 
 
 *   Loyang View GG Facebook  – [https://www.facebook.com/lvssgirlguides/](https://www.facebook.com/lvssgirlguides/)
 *   Loyang View GG Instagram - @lvssgg
+
+
+![](/images/GG1.png)
+![](/images/GG2.jpeg)
+![](/images/GG3.jpeg)
+![](/images/GG4.jpeg)
+![](/images/GG5.png)
+![](/images/GG6.png)
+![](/images/GG7.png)
+![](/images/GG8.png)
+![](/images/GG9.png)
+![](/images/GG10.png)
