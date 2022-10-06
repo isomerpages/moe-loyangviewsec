@@ -139,3 +139,11 @@ Loyang NPCC – [https://sites.google.com/moe.edu.sg/lvssnpcc/home](https://sit
 **1**.SPF-NPCC Badge Awardee SI (NPCC) Valen Chee Wei Xuan (4E1) & SI (NPCC) Sumayyah Bte Norazni (4E2)
 
 ![](/images/NPCC5.jpeg)
+
+**Achievement 2019**
+
+![](/images/NPCC6.png)
+
+![](/images/NPCC7.png)
+
+![](/images/NPCC8.png)
