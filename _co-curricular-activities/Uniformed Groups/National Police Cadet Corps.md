@@ -190,3 +190,15 @@ Loyang NPCC – [https://sites.google.com/moe.edu.sg/lvssnpcc/home](https://sit
 3\. Tanjong Katong Secondary School NPCC Unit Inter-Unit Competition: Hit the Cup – 1st Place  
 4\. Chung Cheng High School (Main) NPCC Unit Inter-Unit Competition: Calculator – 2nd  
 5\. Junyuan Secondary School NPCC Unit Inter-Unit Frisbee Competition – 4th
+
+**Achievement 2014**
+
+1\. Unit Overall Proficiency Award – Silver Award
+
+2\. SPF-NPCC Badge Awardee – SI (NPCC) Celine Phua (4E2) & SI (NPCC) Tan Hong Yi (4E1), SSgt (NPCC) Shahira Banu (4E1)
+
+![](/images/NPCC15.jpeg)
+
+3\. East View Secondary School NPCC Unit Area 8 Mini Campcraft Competition (Girls Team 3rd)  
+4\. Dunman Secondary School NPCC Unit Area 8 Games Day (Team 2nd)  
+5\. Hai Sing Catholic School NPCC Unit Inter-Unit Badminton Championships (Team 4th)
