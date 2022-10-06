@@ -48,6 +48,6 @@ Maximise Talents & Potential of each student in the Right CCA.
 
 ![](/images/UG.png)
 
-#### Clubs and Societies
+#### [Clubs and Societies ](/co-curricular-activities/Clubs-and-Societies/Clubs-and-societies/permalink/)
 
 ![](/images/Clubs.png)
