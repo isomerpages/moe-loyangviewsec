@@ -128,3 +128,4 @@ Loyang NPCC – [https://sites.google.com/moe.edu.sg/lvssnpcc/home](https://sit
 
 ![](/images/NPCC1.png)
 ![](/images/NPCC2.png)
+![](/images/NPCC3.png)
