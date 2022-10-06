@@ -147,3 +147,7 @@ Loyang NPCC – [https://sites.google.com/moe.edu.sg/lvssnpcc/home](https://sit
 ![](/images/NPCC7.png)
 
 ![](/images/NPCC8.png)
+
+**Achievement 2018**
+
+![](/images/NPCC9.png)
