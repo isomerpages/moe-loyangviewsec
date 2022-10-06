@@ -38,7 +38,7 @@ Maximise Talents & Potential of each student in the Right CCA.
 
 ![](/images/Performingarts.png)
 
-#### Sports & Games
+#### [Sports & Games](/co-curricular-activities/Sports-and-Games/Sports-and-Games/permalink/)
 
 ![](/images/Sportsandgames.png)
 
