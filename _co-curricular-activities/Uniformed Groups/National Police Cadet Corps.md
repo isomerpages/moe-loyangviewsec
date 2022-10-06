@@ -164,3 +164,29 @@ Loyang NPCC – [https://sites.google.com/moe.edu.sg/lvssnpcc/home](https://sit
 1\. Unit Overall Proficiency Award – Gold Award
 
 ![](/images/NPCC11.jpeg)
+
+2\. SPF-NPCC Badge Awardee – SSgt (NPCC) R Yuvadharani Naidu (4A4)
+
+![](/images/NPCC12.jpeg)
+
+3\. Greenview Secondary School NPCC Unit Area 8 Games Day (Team 2nd)
+
+4\. Chung Cheng High School (Main) NPCC Unit Area 11 Games Day – All on One Side (Team 3rd)
+
+5\. Victoria School NPCC Unit Area 11 Games Day – (Team 2nd)
+
+  
+
+**Achievement 2015**
+
+1\. Unit Overall Proficiency Award – Gold Award
+
+![](/images/NPCC13.jpeg)
+
+2\. SPF-NPCC Badge Awardee – SI (NPCC) Goo Yi Hao (4A1) & SI (NPCC) Siti Khadijah (4A2)
+
+![](/images/NPCC14.jpeg)
+
+3\. Tanjong Katong Secondary School NPCC Unit Inter-Unit Competition: Hit the Cup – 1st Place  
+4\. Chung Cheng High School (Main) NPCC Unit Inter-Unit Competition: Calculator – 2nd  
+5\. Junyuan Secondary School NPCC Unit Inter-Unit Frisbee Competition – 4th
