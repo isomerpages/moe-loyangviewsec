@@ -98,3 +98,12 @@ Boys' Brigade
 ![](/images/BB11.jpeg)
 
 ![](/images/BB12.jpeg)
+
+Presidents Award
+================
+![](/images/BBPA.jpeg)
+
+### Evan's Speech
+-------------
+
+Click [here](/files/evan_tan_speech.pdf) to view pdf file.
