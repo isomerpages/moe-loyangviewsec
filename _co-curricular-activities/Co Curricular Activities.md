@@ -3,8 +3,6 @@ title: Co Curricular Activities
 permalink: /co-curricular-activities/Co-Curricular-Activities/permalink/
 description: ""
 ---
-
-
 ![](/images/Banner.jpg)
 
 Co-Curricular Activities
@@ -36,20 +34,20 @@ Maximise Talents & Potential of each student in the Right CCA.
 ### Our CCAs
 --------
 
-Performing Arts
+#### Performing Arts
 
 ![](/images/Performingarts.png)
 
-Sports & Games
+#### Sports & Games
 
 ![](/images/Sportsandgames.png)
 
 ![](/images/Sports.png)
 
-Uniformed Groups
+#### Uniformed Groups
 
 ![](/images/UG.png)
 
-Clubs and Societies
+#### Clubs and Societies
 
 ![](/images/Clubs.png)
