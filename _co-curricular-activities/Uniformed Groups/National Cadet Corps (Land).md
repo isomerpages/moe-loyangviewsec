@@ -169,3 +169,42 @@ Each cadet has a committed heart and lives by the NCC Core Values with a strong 
 The Loyang View National Cadet Corps (Land) had a good year of success and accomplishment, with the unit breaking boundaries after the school merger, surpassing standards and staying true to the NCC core values.
 
 We will continue to provide an overall great experience for all cadets to learn discipline and leadership skills, build self-confidence and teamwork through fun and exciting activities which includes the adventure course, paintball, repelling, flying fox, high rope elements, kayaking and camps. We are the only CCA that gives cadets the opportunity to fire a SAR 21 rifle with real bullets. On top of that, cadets also learn foot drills, arms drills, individual field craft and individual marksmanship training which are some of the fundamental activities that all NCC cadets are required to be proficient in so that they will be well-prepared for National Service.
+
+### Training Programme & Schedule
+-----------------------------
+
+NCC (Land) trainings are on Tuesday and Thursday afternoons, 3:30pm to 5:30pm but may extend to 5:45pm for competition team preparations for Sports & Games or Orienteering Competition etc.
+
+HQ NCC trainings (Technical Handling, Specialist Assessment, IMT, Live Range) may be scheduled on weekdays, 12:00pm to 5:00pm (6:00pm or later for cadet leaders’ Live Ranges) at various locations \[eg. HQ NCC, Amoy Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)\].
+
+HQ NCC camps/courses are held at HQ NCC, Amoy Quee Camp (Yio Chu Kang):
+
+for junior cadets: Camp FORGE,
+
+for senior cadets: Camp STEEL,
+
+for cadet leaders: Specialist Assessment and Senior Specialist Leaders Course
+
+
+**2018 ACHIEVEMENTS**
+
+*   Best Unit Competition Gold Award 2017
+*   Unit Recognisation Distinction Award 2018
+*   1st placing in Sports & Games Tournament (East District) for Sec 2 Frisbee 2018  
+    
+*   1st placing in Sports & Games Tournament (East District) for Sec 1 Captain’s Ball 2018
+
+*   **NCC Outstanding Cadet Award (OCA)**  
+    
+
+1.    MSG Jaryl Teo,
+
+2.    MSG Suhail Ahmed
+
+
+![](/images/NCC1.jpeg)
+![](/images/NCC2.jpeg)
+![](/images/NCC3.jpeg)
+![](/images/NCC4.jpeg)
+![](/images/NCC5.jpeg)
+![](/images/NCC6.jpeg)
