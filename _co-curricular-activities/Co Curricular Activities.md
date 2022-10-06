@@ -34,7 +34,7 @@ Maximise Talents & Potential of each student in the Right CCA.
 ### Our CCAs
 --------
 
-#### Performing Arts
+#### [Performing Arts](/co-curricular-activities/Performing-Arts/Performing-Arts/permalink/)
 
 ![](/images/Performingarts.png)
 
