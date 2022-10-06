@@ -127,3 +127,4 @@ Loyang NPCC – [https://sites.google.com/moe.edu.sg/lvssnpcc/home](https://sit
 **Executive Committee 2020/2021**
 
 ![](/images/NPCC1.png)
+![](/images/NPCC2.png)
