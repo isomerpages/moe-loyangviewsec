@@ -8,3 +8,5 @@ third_nav_title: Uniformed Groups
 
 Girl Guides
 ===========
+
+![](/images/GG.jpeg)
