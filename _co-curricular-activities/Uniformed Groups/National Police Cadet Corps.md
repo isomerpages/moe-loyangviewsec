@@ -151,3 +151,15 @@ Loyang NPCC – [https://sites.google.com/moe.edu.sg/lvssnpcc/home](https://sit
 **Achievement 2018**
 
 ![](/images/NPCC9.png)
+
+
+**Achievement 2017**
+
+1\. SPF-NPCC Badge Awardee – SI (NPCC) Radhi Priya Janakiraman (4E1)
+
+![](/images/NPCC10.jpeg)
+
+**Achievement 2016**
+
+1\. Unit Overall Proficiency Award – Gold Award
+
