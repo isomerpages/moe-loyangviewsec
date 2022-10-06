@@ -123,3 +123,29 @@ National Cadet Corps (Land)
 **ABOUT OUR CCA**
 
 ![](/images/NCC.png)
+
+**Vision**  
+
+Extraordinary Youth Leaders
+
+**Mission**
+
+To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous And Military-related Activities
+
+**NCC – Core Values**
+
+Loyalty to country
+
+Uprightness
+
+Leadership
+
+Discipline
+
+Commitment and Responsibility
+
+Care for fellow cadets
+
+Adventurous spirit
+
+Safety
