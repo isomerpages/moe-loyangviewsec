@@ -149,3 +149,23 @@ Care for fellow cadets
 Adventurous spirit
 
 Safety
+
+Physical Fitness is also a key factor in the current theme of "Cadet Strong", whereby NCC Cadets are “Cadet Strong”, with a resilient _mind_, fit _body_ and committed _heart_.
+
+**Mind**:
+
+A cadet with a resilient mind is confident to take on challenges and overcome setbacks.
+
+**Body**:
+
+Every cadet understands the importance of a fit body, takes ownership to maintain a good level of physical fitness and adopt healthy eating habits.
+
+**Heart**:
+
+Each cadet has a committed heart and lives by the NCC Core Values with a strong sense of purpose to serve the cadet’s team, school and nation. Cadet learns passionately to develop cadet’s own abilities and proactively contributes towards wherever the cadet is.
+
+**ABOUT THE CCA**
+
+The Loyang View National Cadet Corps (Land) had a good year of success and accomplishment, with the unit breaking boundaries after the school merger, surpassing standards and staying true to the NCC core values.
+
+We will continue to provide an overall great experience for all cadets to learn discipline and leadership skills, build self-confidence and teamwork through fun and exciting activities which includes the adventure course, paintball, repelling, flying fox, high rope elements, kayaking and camps. We are the only CCA that gives cadets the opportunity to fire a SAR 21 rifle with real bullets. On top of that, cadets also learn foot drills, arms drills, individual field craft and individual marksmanship training which are some of the fundamental activities that all NCC cadets are required to be proficient in so that they will be well-prepared for National Service.
