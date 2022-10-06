@@ -178,3 +178,5 @@ Girl Guides
   </tr>
 </tbody>
 </table>
+
+\*Some Saturdays (HQ events, camps, ad-hoc activities)
