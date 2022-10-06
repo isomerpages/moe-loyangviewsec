@@ -163,3 +163,4 @@ Loyang NPCC – [https://sites.google.com/moe.edu.sg/lvssnpcc/home](https://sit
 
 1\. Unit Overall Proficiency Award – Gold Award
 
+![](/images/NPCC11.jpeg)
