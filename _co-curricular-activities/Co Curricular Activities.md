@@ -44,7 +44,7 @@ Maximise Talents & Potential of each student in the Right CCA.
 
 ![](/images/Sports.png)
 
-#### Uniformed Groups
+#### [Uniformed Groups](/co-curricular-activities/Uniformed-Groups/Uniformed-Groups/permalink/)
 
 ![](/images/UG.png)
 
