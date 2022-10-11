@@ -6,6 +6,7 @@ description: ""
 # External Links
 
 * #### [ACE Learning System](https://www.ace-learning.com/)
+* #### [All Ears](https://forms.moe.edu.sg/auth)
 * #### [Leave of Absence (LOA) form](https://form.gov.sg/#!/60c6e49ce8d356001135a4a2)
 * #### [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
 * #### [Schoolbag](https://schoolbag.sg/)
