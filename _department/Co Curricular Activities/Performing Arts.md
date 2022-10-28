@@ -12,7 +12,7 @@ Loyang View Symphonic Band
 Band Designation
 ----------------
 
-####   
+
 
 #### Band Conductors/Teachers
 
