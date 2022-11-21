@@ -75,33 +75,33 @@ Boys' Brigade
 </table>
 
 
-![](/images/BB1.jpeg)
+![](/images/CCA/BB/BB1.jpeg)
 
-![](/images/BB2.jpeg)
+![](/images/CCA/BB/BB2.jpeg)
 
-![](/images/BB3.jpeg)
+![](/images/CCA/BB/BB3.jpeg)
 
-![](/images/BB4.jpeg)
+![](/images/CCA/BB/BB4.jpeg)
 
-![](/images/BB5.jpeg)
+![](/images/CCA/BB/BB5.jpeg)
 
-![](/images/BB6.jpeg)
+![](/images/CCA/BB/BB6.jpeg)
 
-![](/images/BB7.jpeg)
+![](/images/CCA/BB/BB7.jpeg)
 
-![](/images/BB8.jpeg)
+![](/images/CCA/BB/BB8.jpeg)
 
-![](/images/BB9.jpeg)
+![](/images/CCA/BB/BB9.jpeg)
 
-![](/images/BB10.jpeg)
+![](/images/CCA/BB/BB10.jpeg)
 
-![](/images/BB11.jpeg)
+![](/images/CCA/BB/BB11.jpeg)
 
-![](/images/BB12.jpeg)
+![](/images/CCA/BB/BB12.jpeg)
 
 Presidents Award
 ================
-![](/images/BBPA.jpeg)
+![](/images/CCA/BB/BBPA.jpeg)
 
 ### Evan's Speech
 -------------
