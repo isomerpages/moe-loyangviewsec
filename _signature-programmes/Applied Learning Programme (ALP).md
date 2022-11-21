@@ -297,20 +297,20 @@ Destinations under the Overseas Learning Experience of the Applied Learning Prog
 #### Cairns & Townsville, Australia (2019)
 
 ![](/images/OEP/Australia/Aus1.png)
-![](/images/Aus2.png)
-![](/images/Aus3.png)
-![](/images/Aus4.png)
-![](/images/Aus5.png)
-![](/images/Aus6.png)
+![](/images/OEP/Australia/Aus2.png)
+![](/images/OEP/Australia/Aus3.png)
+![](/images/OEP/Australia/Aus4.png)
+![](/images/OEP/Australia/Aus5.png)
+![](/images/OEP/Australia/Aus6.png)
 
 #### Townsville & Brisbane, Australia (2018)
 
 ![](/images/Aus7.png)
-![](/images/Aus8.png)
-![](/images/Aus9.png)
-![](/images/Aus10.png)
-![](/images/Aus11.png)
-![](/images/Aus12.png)
+![](/images/OEP/Australia/Aus8.png)
+![](/images/OEP/Australia/Aus9.png)
+![](/images/OEP/Australia/Aus10.png)
+![](/images/OEP/Australia/Aus11.png)
+![](/images/OEP/Australia/Aus12.png)
 
 #### Kuala Selangor, Malaysia (2018 & 2019)
 
