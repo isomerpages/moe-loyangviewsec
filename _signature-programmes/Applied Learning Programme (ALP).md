@@ -269,7 +269,7 @@ Our students decided to tackle the food waste problem that is happening in Singa
 ![](/images/ALP/ALP40.png)
 ![](/images/ALP/ALP41.png)
 ![](/images/ALP/ALP42.png)
-![](/images/ALP43.png)
+![](/images/ALP/ALP43.png)
 
 #### _Schools Challenge 2019_ 
 
