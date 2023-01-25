@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message.md
       - School Organisation Chart.md
       - Student Creed.md
       - Vision Mission Values.md
-      - Principal's Message.md
       - School Virtual Tour.md
-      - Contact Us.md
       - Form Class 2022.md
+      - Contact Us.md
