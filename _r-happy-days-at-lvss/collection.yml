@@ -1,5 +1,5 @@
 collections:
-  happy-days-at-lvss:
+  r-happy-days-at-lvss:
     output: true
     order:
       - Life in Loyang View/.keep
