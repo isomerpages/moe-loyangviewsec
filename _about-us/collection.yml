@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Crest.md
       - School Organisation Chart.md
       - School Safety & Security Vision.md
       - Student Creed.md
