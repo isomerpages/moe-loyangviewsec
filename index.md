@@ -24,4 +24,3 @@ sections:
           description: ""
           url: /Gallery/permalink/
 ---
-
