@@ -20,8 +20,6 @@ School Organisation Chart
 Our School Leaders
 ------------------
 
-[Click here to toggle the contact list](javascript:void();)
-
 | Planning Committee | Name | E-Mail Address |
 | --- | --- | --- |
 | Principal | Mr Eugene Lin | Eugene\_Lin@schools.gov.sg |
@@ -34,30 +32,19 @@ Our School Leaders
 Our Head of Departments
 -----------------------
 
-  
-[Click here to toggle the contact list](javascript:void();)
-
 | Planning Committee | Name | E-Mail Address |
 | --- | --- | --- |
-| HOD/ Student Management | Mr R Shanmuganathan | r\_shanmuganathan@moe.edu.sg  
- |
-| HOD/ Mathematics | Mdm Lie Hui Min | lie\_hui\_min@moe.edu.sg |
-| Year Head (Lower Sec) | Mr Mohamed Nasir B Rahmat Ali | mohamed\_nasir@moe.edu.sg |
-| HOD/ Science | Mr Tan Kia Hock | tan\_kia\_hock@moe.edu.sg |
-| School Staff Developer  
- | Mrs Chew-Swee Mei Yein  
- | swee\_mei\_yein@moe.edu.sg  
- |
-| HOD/ Mother Tongue Languages | Ms Liu Yan | liu\_yan\_a@moe.edu.sg  
- |
-| HOD/ Character & Citizenship Education | Mdm Premlatha Selvaraj | premlatha\_selvaraj@moe.edu.sg  
- |
-| HOD/ Humanities  
- | Ms Lau Mui Tian | lau\_mui\_tian@moe.edu.sg  
- |
-| HOD/ PE & CCA | Mr Wie Chouw Siang Gabriel | wie\_chouw\_siang@moe.edu.sg |
-| HOD/ English & Literature | Miss Yong Tsui Fen  | yong\_tsui\_fen@moe.edu.sg  |
-| HOD / Information Communication Technology (ICT) | Mr Koe Soon Guan  | koe\_soon\_guan@moe.edu.sg  |
+| HOD/ Student Management | Mr R Shanmuganathan | r_shanmuganathan@moe.edu.sg   |
+| HOD/ Mathematics | Mdm Lie Hui Min | lie_hui_min@moe.edu.sg |
+| Year Head (Lower Sec) | Mr Mohamed Nasir B Rahmat Ali | mohamed_nasir@moe.edu.sg |
+| HOD/ Science | Mr Tan Kia Hock | tan_kia_hock@moe.edu.sg |
+| School Staff Developer   | Mrs Chew-Swee Mei Yein   | swee_mei_yein@moe.edu.sg   |
+| HOD/ Mother Tongue Languages | Ms Liu Yan | liu_yan_a@moe.edu.sg   |
+| HOD/ Character & Citizenship Education | Mdm Premlatha Selvaraj | premlatha_selvaraj@moe.edu.sg |
+| HOD/ Humanities   | Ms Lau Mui Tian | lau_mui_tian@moe.edu.sg   |
+| HOD/ PE & CCA | Mr Wie Chouw Siang Gabriel | wie_chouw_siang@moe.edu.sg |
+| HOD/ English & Literature | Miss Yong Tsui Fen  | yong_tsui_fen@moe.edu.sg  |
+| HOD / Information Communication Technology (ICT) | Mr Koe Soon Guan  | koe_soon_guan@moe.edu.sg  |
 
   
   
