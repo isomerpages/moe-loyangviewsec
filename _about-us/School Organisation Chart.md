@@ -7,6 +7,7 @@ description: ""
 
 School Organisation Chart
 =========================
+![](/images/School%20Org/Mr%20Lin.jpg)
 
 
 Our School Leaders
