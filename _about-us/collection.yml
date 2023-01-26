@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Ethos.md
       - Principal's Message.md
       - School Ethos/.keep
       - School Ethos/Vision.md
