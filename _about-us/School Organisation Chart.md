@@ -53,24 +53,17 @@ Our Head of Departments
 Our Subject Heads and Level Heads
 ---------------------------------
 
-  
-[Click here to toggle the contact list](javascript:void();)
-
 | Planning Committee | Name | E-Mail Address |
 | --- | --- | --- |
-| SH/ PE & CCA | Mr Raymond Tan Siew Heng | tan\_siew\_heng\_raymond@moe.edu.sg  
- |
-| SH / Student Management | Mr Ryan Tan Wei Ming | tan\_wei\_ming@moe.edu.sg  |
-| Covering SH / Infomation Communication Technology (ICT)  
- | Mr Ronald Tan Kok Yong | tan\_kok\_yong\_ronald@moe.edu.sg |
-| LH / Science | Mr Harry Wong  | wong\_wei\_hon\_harry@moe.edu.sg  |
-| LH / Mathematics   
- | Ms Christina Chew Pei Jun  | chew\_pei\_jun\_christina@moe.edu.sg  |
-| LH/ English | Mdm Nazeeracany | nazeeracany\_mohamed\_husien@moe.edu.sg |
-| Covering Assistant Year Head (Sec 3) | Ms Nurul Imma Wong  | nurul\_imma\_wong@moe.edu.sg   |
-| Assistant Year Head (Sec 4)  | Ms Irene Lim  | lim\_irene@moe.edu.sg  |
-| Assistant Year Head (Sec 1)  | Ms Carol Lim | carol\_joanne\_lim@moe.edu.sg  |
-| SH /Character & Citizenship Education   
- | Ms Rabiatuladawiyah Binte Mohd Razif | rabiatuladawiyah\_mohd\_razif@moe.edu.sg   |
-| SH / Malay Language  | Ms Nurul Farhana  | nurul\_farhana\_mohamed\_kass@moe.edu.sg |
-| Covering SH / Aesthetic   | Ms Hazel Lim  | lim\_yan\_chin\_hazel@moe.edu.sg  |
+| SH/ PE & CCA | Mr Raymond Tan Siew Heng | tan_siew_heng_raymond@moe.edu.sg  |
+| SH / Student Management | Mr Ryan Tan Wei Ming | tan_wei_ming@moe.edu.sg  |
+| Covering SH / Infomation Communication Technology (ICT) | Mr Ronald Tan Kok Yong | tan_kok_yong_ronald@moe.edu.sg |
+| LH / Science | Mr Harry Wong  | wong_wei_hon_harry@moe.edu.sg  |
+| LH / Mathematics    | Ms Christina Chew Pei Jun  | chew_pei_jun_christina@moe.edu.sg  |
+| LH/ English | Mdm Nazeeracany | nazeeracany_mohamed_husien@moe.edu.sg |
+| Covering Assistant Year Head (Sec 3) | Ms Nurul Imma Wong  | nurul_imma_wong@moe.edu.sg   |
+| Assistant Year Head (Sec 4)  | Ms Irene Lim  | lim_irene@moe.edu.sg  |
+| Assistant Year Head (Sec 1)  | Ms Carol Lim | carol_joanne_lim@moe.edu.sg  |
+| SH /Character & Citizenship Education  | Ms Rabiatuladawiyah Binte Mohd Razif | rabiatuladawiyah_mohd_razif@moe.edu.sg   |
+| SH / Malay Language  | Ms Nurul Farhana  | nurul_farhana_mohamed_kass@moe.edu.sg |
+| Covering SH / Aesthetic   | Ms Hazel Lim  | lim_yan_chin_hazel@moe.edu.sg  |
