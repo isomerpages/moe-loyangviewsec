@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Prospectus.md
       - Principal's Message.md
       - School Ethos.md
       - School Organisation Chart.md
