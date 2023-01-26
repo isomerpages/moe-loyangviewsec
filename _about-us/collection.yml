@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - School Ethos/School Rules.md
-      - School Ethos/Student Creed.md
-      - School Ethos/School Song.md
-      - School Ethos/School Crest.md
-      - School Ethos/Values.md
-      - School Ethos/Mission.md
-      - School Ethos/Vision.md
       - School Ethos/.keep
+      - School Ethos/Vision.md
+      - School Ethos/Mission.md
+      - School Ethos/Values.md
+      - School Ethos/School Crest.md
+      - School Ethos/School Song.md
+      - School Ethos/Student Creed.md
+      - School Ethos/School Rules.md
       - School Ethos/School Ethos.md
       - School Organisation Chart.md
       - School Virtual Tour.md
