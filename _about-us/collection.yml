@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Form Classes 2023 V2.md
       - Principal's Message.md
       - School Ethos.md
       - School Organisation Chart.md
