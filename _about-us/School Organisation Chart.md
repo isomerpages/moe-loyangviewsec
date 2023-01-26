@@ -8,186 +8,82 @@ description: ""
 School Organisation Chart
 =========================
 
-![](/images/SchoolLeaders.png)
+| ![Mr Lin.jpg](https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/School%20%20Info/Org%20Chart/2021/Mr%20Lin.jpg) |
+| --- |
+| ![Ms Tan2.jpg](https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/School%20%20Info/Org%20Chart/2019/Ms%20Tan2.jpg)
+  
 
-### Our School Leaders
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-xxiv{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Planning Committee</span></th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Name</span></th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">E-Mail Address</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Principal</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mr Eugene Lin</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Eugene_Lin@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Vice-Principal</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Ms Tan Chor Hiang</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Tan_Chor_Hiang@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Vice-Principal <span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-y7qa">Ms Saadiah Wylde<span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Saadiah_Wylde@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Vice-Principal (Administration)</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mr Steven Ho Seng Fatt</span><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Steven_Ho@schools.gov.sg</span></td>
-  </tr>
-</tbody>
-</table>
+ |   
+ | ![Ms Saadiah Wylde.jpg](https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/School%20%20Info/Org%20Chart/2021/Ms%20Saadiah%20Wylde.jpg) |
 
-### Our Head of Departments
+Our School Leaders
+------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-xxiv{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Planning Committee</span></th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Name</span></th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">E-Mail Address</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">HOD/ Student Management</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mr R Shanmuganathan</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">r_shanmuganathan@moe.edu.sg</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">HOD/ Craft &amp; Technology</span></td>
-    <td class="tg-y7qa">Mr Roy Lam Chien Min<span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-y7qa">roy_lam_chien_min@moe.edu.sg<span style="color:#222;background-color:#EAEAEA"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">HOD/ Mathematics</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mdm Lie Hui Min</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">lie_hui_min@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Year Head (Lower Sec)</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mr Mohamed Nasir B Rahmat Ali</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">mohamed_nasir@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Year Head (Upper Sec) (Covering) </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mr Ryan Tan Wei Ming</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">tan_wei_ming@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">HOD/ Science</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mr Tan Kia Hock</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">tan_kia_hock@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">School Staff Developer</span><br></td>
-    <td class="tg-y7qa">Mrs Chew-Swee Mei Yein<br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">swee_mei_yein@moe.edu.sg</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">HOD/ Mother Tongue Languages</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Ms Liu Yan</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">liu_yan_a@moe.edu.sg</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">HOD/ Character &amp; Citizenship Education</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mdm Premlatha Selvaraj</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">premlatha_selvaraj@moe.edu.sg</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">HOD/ Humanities</span><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Ms Lau Mui Tian</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">lau_mui_tian@moe.edu.sg</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">HOD/ PE &amp; CCA</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mr Wie Chouw Siang Gabriel</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">wie_chouw_siang@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">HOD/ English &amp; Literature</td>
-    <td class="tg-y7qa">Miss Yong Tsui Fen<span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-y7qa">yong_tsui_fen@moe.edu.sg<span style="color:#222;background-color:#EAEAEA"> </span></td>
-  </tr>
-</tbody>
-</table>
+[Click here to toggle the contact list](javascript:void();)
 
-### Our Subject Heads and Level Heads
+| Planning Committee | Name | E-Mail Address |
+| --- | --- | --- |
+| Principal | Mr Eugene Lin | Eugene\_Lin@schools.gov.sg |
+| Vice-Principal | Ms Tan Chor Hiang | Tan\_Chor\_Hiang@schools.gov.sg |
+| Vice-Principal   | Ms Saadiah Wylde  | Saadiah\_Wylde@schools.gov.sg |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-xxiv{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Planning Committee</span></th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">Name</span></th>
-    <th class="tg-xxiv"><span style="color:#222;background-color:#B0B0B0">E-Mail Address</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">SH/ PE &amp; CCA</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mr Raymond Tan Siew Heng</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">tan_siew_heng_raymond@moe.edu.sg</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">SH / ICT</span><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mr Koe Soon Guan</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">koe_soon_guan@moe.edu.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">LH / Mathematics </span><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Ms Christina Chew Pei Jun </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">chew_pei_jun_christina@moe.edu.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">LH/ English</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Mdm Nazeeracany</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">nazeeracany_mohamed_husien@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Assistant Year Head (Upper Sec)<span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-y7qa">Ms Irene Lim<span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-y7qa">lim_irene@moe.edu.sg<span style="color:#222;background-color:#EAEAEA"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">SH /Character &amp; Citizenship Education </span><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Ms Rabiatuladawiyah Binte Mohd Razif</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">rabiatuladawiyah_mohd_razif@moe.edu.sg  </span></td>
-  </tr>
-</tbody>
-</table>
+  
+  
+
+Our Head of Departments
+-----------------------
+
+  
+[Click here to toggle the contact list](javascript:void();)
+
+| Planning Committee | Name | E-Mail Address |
+| --- | --- | --- |
+| HOD/ Student Management | Mr R Shanmuganathan | r\_shanmuganathan@moe.edu.sg  
+ |
+| HOD/ Mathematics | Mdm Lie Hui Min | lie\_hui\_min@moe.edu.sg |
+| Year Head (Lower Sec) | Mr Mohamed Nasir B Rahmat Ali | mohamed\_nasir@moe.edu.sg |
+| HOD/ Science | Mr Tan Kia Hock | tan\_kia\_hock@moe.edu.sg |
+| School Staff Developer  
+ | Mrs Chew-Swee Mei Yein  
+ | swee\_mei\_yein@moe.edu.sg  
+ |
+| HOD/ Mother Tongue Languages | Ms Liu Yan | liu\_yan\_a@moe.edu.sg  
+ |
+| HOD/ Character & Citizenship Education | Mdm Premlatha Selvaraj | premlatha\_selvaraj@moe.edu.sg  
+ |
+| HOD/ Humanities  
+ | Ms Lau Mui Tian | lau\_mui\_tian@moe.edu.sg  
+ |
+| HOD/ PE & CCA | Mr Wie Chouw Siang Gabriel | wie\_chouw\_siang@moe.edu.sg |
+| HOD/ English & Literature | Miss Yong Tsui Fen  | yong\_tsui\_fen@moe.edu.sg  |
+| HOD / Information Communication Technology (ICT) | Mr Koe Soon Guan  | koe\_soon\_guan@moe.edu.sg  |
+
+  
+  
+  
+
+Our Subject Heads and Level Heads
+---------------------------------
+
+  
+[Click here to toggle the contact list](javascript:void();)
+
+| Planning Committee | Name | E-Mail Address |
+| --- | --- | --- |
+| SH/ PE & CCA | Mr Raymond Tan Siew Heng | tan\_siew\_heng\_raymond@moe.edu.sg  
+ |
+| SH / Student Management | Mr Ryan Tan Wei Ming | tan\_wei\_ming@moe.edu.sg  |
+| Covering SH / Infomation Communication Technology (ICT)  
+ | Mr Ronald Tan Kok Yong | tan\_kok\_yong\_ronald@moe.edu.sg |
+| LH / Science | Mr Harry Wong  | wong\_wei\_hon\_harry@moe.edu.sg  |
+| LH / Mathematics   
+ | Ms Christina Chew Pei Jun  | chew\_pei\_jun\_christina@moe.edu.sg  |
+| LH/ English | Mdm Nazeeracany | nazeeracany\_mohamed\_husien@moe.edu.sg |
+| Covering Assistant Year Head (Sec 3) | Ms Nurul Imma Wong  | nurul\_imma\_wong@moe.edu.sg   |
+| Assistant Year Head (Sec 4)  | Ms Irene Lim  | lim\_irene@moe.edu.sg  |
+| Assistant Year Head (Sec 1)  | Ms Carol Lim | carol\_joanne\_lim@moe.edu.sg  |
+| SH /Character & Citizenship Education   
+ | Ms Rabiatuladawiyah Binte Mohd Razif | rabiatuladawiyah\_mohd\_razif@moe.edu.sg   |
+| SH / Malay Language  | Ms Nurul Farhana  | nurul\_farhana\_mohamed\_kass@moe.edu.sg |
+| Covering SH / Aesthetic   | Ms Hazel Lim  | lim\_yan\_chin\_hazel@moe.edu.sg  |
