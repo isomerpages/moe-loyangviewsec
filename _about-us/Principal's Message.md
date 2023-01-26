@@ -8,10 +8,7 @@ description: ""
 Principal's Message
 ===================
 
-
-<img src="/images/Principall.png" style="width:280px;height:796px;margin-left:15px;" align = "left">
-
-At Loyang View, we are a Happy and Caring School. A special place where every student is developed into a wholesome individual with robust character and is well prepared for the skill force of tomorrow.  
+![1 Mr  Lin Yucheng Eugene Principal - 01.png](https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/2022/Staff/Principal/1%20Mr%20%20Lin%20Yucheng%20Eugene%20Principal%20-%2001.png)At Loyang View, we are a Happy and Caring School. A special place where every student is developed into a wholesome individual with robust character and is well prepared for the skill force of tomorrow.  
   
 We want our students to be able to thrive in an increasingly complex and ambiguous future. Character development, respect and discipline are hence the central tenets in our school’s educational philosophy. We aim to inculcate in every student a strong set of sound and enduring values, provide them with the moral compass to make the right choices in life, and to nurture them into resilient and contributing members of society.  
   
