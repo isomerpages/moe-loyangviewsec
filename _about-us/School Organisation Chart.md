@@ -8,14 +8,6 @@ description: ""
 School Organisation Chart
 =========================
 
-| ![Mr Lin.jpg](https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/School%20%20Info/Org%20Chart/2021/Mr%20Lin.jpg) |
-| --- |
-| ![Ms Tan2.jpg](https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/School%20%20Info/Org%20Chart/2019/Ms%20Tan2.jpg)
-  
-
-
- |   
- | ![Ms Saadiah Wylde.jpg](https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/School%20%20Info/Org%20Chart/2021/Ms%20Saadiah%20Wylde.jpg) |
 
 Our School Leaders
 ------------------
