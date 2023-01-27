@@ -9,7 +9,7 @@ School Organisation Chart
 =========================
 ![](/images/School%20Org/SchoolLeaders.png)
 
-![](/images/School%20Org/Mr%20Lin%20small.jpg)
+![]
 Our School Leaders
 ------------------
 
