@@ -7,16 +7,15 @@ description: ""
 
 ## School Organisation Chart
 
-
 ![](/images/School%20Org/SchoolLeaders%202.png)
 ### Our School Leaders
 ------------------
 
 | Planning Committee | Name | E-Mail Address |
 | --- | --- | --- |
-| Principal | Mr Eugene Lin | Eugene\_Lin@schools.gov.sg |
-| Vice-Principal | Ms Tan Chor Hiang | Tan\_Chor\_Hiang@schools.gov.sg |
-| Vice-Principal   | Ms Saadiah Wylde  | Saadiah\_Wylde@schools.gov.sg |
+| Principal | Mr Eugene Lin | Eugene_Lin@schools.gov.sg |
+| Vice-Principal | Ms Tan Chor Hiang | Tan_Chor_Hiang@schools.gov.sg |
+| Vice-Principal   | Ms Saadiah Wylde  | Saadiah_Wylde@schools.gov.sg |
 
   
   
