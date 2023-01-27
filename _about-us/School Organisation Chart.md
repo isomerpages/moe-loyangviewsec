@@ -5,12 +5,11 @@ description: ""
 ---
 ![](/images/Banner.jpg)
 
-School Organisation Chart
-=========================
-![](/images/School%20Org/SchoolLeaders.png)
+## School Organisation Chart
 
-![]
-Our School Leaders
+
+![](/images/School%20Org/SchoolLeaders%202.png)
+### Our School Leaders
 ------------------
 
 | Planning Committee | Name | E-Mail Address |
@@ -22,7 +21,7 @@ Our School Leaders
   
   
 
-Our Head of Departments
+### Our Head of Departments
 -----------------------
 
 | Planning Committee | Name | E-Mail Address |
@@ -43,7 +42,7 @@ Our Head of Departments
   
   
 
-Our Subject Heads and Level Heads
+### Our Subject Heads and Level Heads
 ---------------------------------
 
 | Planning Committee | Name | E-Mail Address |
