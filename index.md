@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage.gif
+      background: /images/My Video.gif
       button: Contact Us
       url: /about-us/Contact-Us/permalink/
       key_highlights:
@@ -24,4 +24,3 @@ sections:
           description: ""
           url: /Gallery/permalink/
 ---
-
