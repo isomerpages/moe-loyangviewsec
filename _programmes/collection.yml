@@ -2,9 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - Future Ready Programme.md
       - Applied Learning Programme (ALP).md
       - Learning For Life Programme (LLP).md
-      - Education and Career Guidance.md
+      - Future Ready Programme.md
       - Student Leadership.md
       - Overseas Educational Programme.md
+      - Education and Career Guidance.md
