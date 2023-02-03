@@ -2,8 +2,6 @@ logo: /images/JPG-LVSS OFFICIAL CREST VERSION 2.jpg
 links:
   - title: About Us
     collection: about-us
-  - title: Community Involvement
-    collection: community-involvement
   - title: Department
     url: /department/Craft-and-Technology/Craft-and-Technology/permalink/
     sublinks:
@@ -25,7 +23,11 @@ links:
         url: /co-curricular-activities/Co-Curricular-Activities/permalink/
       - title: CCE
         url: /department/CCE/CCE/permalink/
+  - title: CCAs
+    collection: cca
   - title: Programmes
     collection: programmes
-  - title: R Happy Days At Lvss
+  - title: For Parents
     collection: r-happy-days-at-lvss
+  - title: News
+    collection: news
