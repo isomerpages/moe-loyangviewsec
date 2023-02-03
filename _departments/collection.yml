@@ -1,5 +1,5 @@
 collections:
-  department:
+  departments:
     output: true
     order:
       - English.md
