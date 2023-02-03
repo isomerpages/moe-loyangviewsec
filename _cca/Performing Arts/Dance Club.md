@@ -4,8 +4,6 @@ permalink: /co-curricular-activities/performing-arts/Dance-Club/permalink/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 Dance Club
 ==========
 
@@ -75,8 +73,6 @@ DanceVersity is a well-established group and has regularly featured in various s
 ·         Super 24 – Finalists 
 
 **TIME AND DATE FOR THE CCA**
-
-Tuesday 3pm - 6pm
 
 Thursday 3pm - 6pm
 
