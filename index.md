@@ -14,13 +14,10 @@ sections:
         - title: "Announcements "
           description: ""
           url: /Announcements/permalink/
-        - title: External Links
-          description: ""
-          url: /External-Links/permalink/
         - title: Latest Happenings
           description: ""
           url: /Latest-Happenings/permalink/
-        - title: Gallery
+        - title: External Links
           description: ""
-          url: /Gallery/permalink/
+          url: /External-Links/permalink/
 ---
