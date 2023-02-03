@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Banner.jpg)
 
-PE & CCA Department
+Physical Education
 ===================
 
 ### Our Staff
