@@ -18,5 +18,4 @@ sections:
         - title: External Links
           description: ""
           url: /External-Links/permalink/
-      subtitle: Happy and Caring school where every life is touched...
 ---
