@@ -5,22 +5,20 @@ links:
   - title: Department
     url: /department/Craft-and-Technology/Craft-and-Technology/permalink/
     sublinks:
-      - title: Craft & Technology
-        url: /department/Craft-and-Technology/Craft-and-Technology/permalink/
       - title: English
         url: /department/English/permalink/
-      - title: Humanities
-        url: /department/Humanities/permalink/
-      - title: Mathematics
-        url: /department/Mathematics/permalink/
       - title: Mother Tongue
         url: /department/Mother-Tongue/permalink/
-      - title: PE & CCA Department
-        url: /department/PE-and-CCA-Department/permalink/
-      - title: Science & SET
+      - title: Mathematics
+        url: /department/Mathematics/permalink/
+      - title: Sciences
         url: /department/Science/Science/permalink/
-      - title: Co Curricular Activities
-        url: /co-curricular-activities/Co-Curricular-Activities/permalink/
+      - title: Humanities
+        url: /department/Humanities/permalink/
+      - title: Craft & Technology
+        url: /department/Craft-and-Technology/Craft-and-Technology/permalink/
+      - title: Physical Education
+        url: /department/PE-and-CCA-Department/permalink/
       - title: CCE
         url: /department/CCE/CCE/permalink/
   - title: CCAs
