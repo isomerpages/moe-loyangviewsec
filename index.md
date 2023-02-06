@@ -7,7 +7,7 @@ permalink: /
 notification: Testing Notificaton - for IMPORTANT REMINDERS?
 sections:
   - hero:
-      background: /images/My Video.gif
+      background: /images/Banner-1.gif
       key_highlights:
         - title: "Announcements "
           description: ""
