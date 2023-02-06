@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/My Video.gif
-      button: Contact Us
-      url: /about-us/Contact-Us/permalink/
       key_highlights:
         - title: "Announcements "
           description: ""
