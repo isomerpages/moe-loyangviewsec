@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - School Vendors (Bookshop, Uniform, Bus).md
       - Letter to Parents.md
       - Home Based Learning (HBL).md
       - National Digital Literacy Programme (NDLP).md
