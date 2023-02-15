@@ -4,8 +4,6 @@ permalink: /co-curricular-activities/performing-arts/Loyang-View-Symphonic-Band/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 ![](/images/Banner.jpg)
 
 Loyang View Symphonic Band
@@ -14,7 +12,7 @@ Loyang View Symphonic Band
 Band Designation
 ----------------
 
-####   
+
 
 #### Band Conductors/Teachers
 
