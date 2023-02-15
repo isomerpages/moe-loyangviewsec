@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Support Group @ LVSS.md
       - Family Matters @ School Programme.md
       - School Vendors (Bookshop, Uniform, Bus).md
       - Letter to Parents.md
