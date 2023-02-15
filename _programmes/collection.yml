@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - GEAR Up.md
       - Stretch Programme.md
       - Applied Learning Programme (ALP).md
       - Learning For Life Programme (LLP).md
