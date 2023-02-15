@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - DSA SEC EXERCISE.md
       - Parents Support Group @ LVSS.md
       - Family Matters @ School Programme.md
       - School Vendors (Bookshop, Uniform, Bus).md
@@ -12,3 +11,4 @@ collections:
       - Class Timetable.md
       - School Calendar.md
       - DSA Sec.md
+      - DSA SEC EXERCISE.md
