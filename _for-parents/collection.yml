@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Class Timetable.md
       - School Calendar.md
       - DSA Sec.md
