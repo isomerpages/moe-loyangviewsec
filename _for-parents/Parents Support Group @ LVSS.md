@@ -86,4 +86,4 @@ You may work with us in brainstorming and contributing constructive feedback and
 ### Sign up for PSG membership: [here](https://tinyurl.com/JoinLVSSPSG](https://tinyurl.com/JoinLVSSPSG)
 
 
-![PSG (6).jpg](https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/Connecting%20with%20our%20Community/PSG/2020/PSG%20(6).jpg)  
+![PSG (6).jpg](https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/Connecting%20with%20our%20Community/PSG/2020/PSG%20(6).jpg)
