@@ -2,10 +2,10 @@ collections:
   programmes:
     output: true
     order:
-      - GEAR Up.md
-      - Stretch Programme.md
       - Applied Learning Programme (ALP).md
       - Learning For Life Programme (LLP).md
       - Future Ready Programme.md
       - Student Leadership.md
       - Overseas Educational Programme.md
+      - Stretch Programme.md
+      - GEAR Up.md
