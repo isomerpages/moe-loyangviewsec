@@ -19,8 +19,8 @@ sections:
           description: ""
           url: /External-Links/permalink/
   - infobar:
-      title: Social Media
-      description: Join us in our Instagram and Facebook!
+      description: Join us on our Instagram!
       button: Click Here!
       url: https://www.instagram.com/loyangviewss/
+      subtitle: "***** For Consideration*******"
 ---
