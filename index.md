@@ -20,7 +20,6 @@ sections:
           url: /External-Links/permalink/
   - infobar:
       title: Social Media
-      subtitle: Infobar Subtitle
       description: Join us in our Instagram and Facebook!
       button: Click Here!
       url: test
