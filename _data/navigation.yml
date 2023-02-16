@@ -1,7 +1,10 @@
 logo: /images/JPG-LVSS OFFICIAL CREST VERSION 2.jpg
 links:
   - title: About Us
-    collection: about-us
+    url: /permalink
+    sublinks:
+      - title: Principal's Message
+        url: /permalink
   - title: Department
     url: /department/Craft-and-Technology/Craft-and-Technology/permalink/
     sublinks:
