@@ -3,7 +3,6 @@ title: Future Ready Programme
 permalink: /programmes/permalink/
 description: ""
 ---
-
 ### Future-Ready Programme
 
 
@@ -23,3 +22,5 @@ Future-Ready Programme is a specially organised 3-day programme for our graduati
 **Global awareness**: The ability to understand and appreciate different cultures, perspectives, and experiences, and to work collaboratively across boundaries.
 
 As part of this programme, students will undergo a range of learning experiences to equip them with the relevant knowledge and skills in their exploration of educational pathways and future career options.  They will visit tertiary institutions and hear from invited guest speakers from a range of industry sectors, including healthcare, digital and engineering to speak with our students. In addition, students will also have an opportunity to visit an organisation of their choice based on their preferred career sector. This is to help our students better understand the day-to-day operations and learn about the specific skills and knowledge required in their preferred career sectors.
+
+![](/images/Future%20Ready/Future%20Ready.jpg)
