@@ -22,5 +22,5 @@ sections:
       title: Social Media
       description: Join us in our Instagram and Facebook!
       button: Click Here!
-      url: test
+      url: https://www.instagram.com/loyangviewss/
 ---
