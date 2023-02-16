@@ -4,7 +4,7 @@ title: Loyang View Secondary
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Testing Notificaton - for IMPORTANT REMINDERS?
+notification: ""
 sections:
   - hero:
       background: /images/Banner-1.gif
@@ -18,4 +18,10 @@ sections:
         - title: External Links
           description: ""
           url: /External-Links/permalink/
+  - infobar:
+      title: Social Media
+      subtitle: Infobar Subtitle
+      description: Join us in our Instagram and Facebook!
+      button: Click Here!
+      url: test
 ---
