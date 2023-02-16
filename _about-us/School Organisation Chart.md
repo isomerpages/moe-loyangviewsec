@@ -6,7 +6,7 @@ description: ""
 ![](/images/Banner.jpg)
 
 ## School Organisation Chart
-
+![](/images/School%20Org/SchoolLeaders%204.png)
 
 ### Our School Leaders
 ------------------
