@@ -8,7 +8,7 @@ description: ""
 
 2023 TERM 1
 
-|SEC 1| SEC 2|SEC 3|SEC 4|SEC 5|
+|[SEC 1](/files/CLASSES%20TT/2023%20T1%20Sec%201.pdf)| [SEC 2](/files/CLASSES%20TT/2023%20T1%20Sec%202.pdf)|[SEC 3](/files/CLASSES%20TT/2023%20T1%20Sec%203.pdf)|[SEC 4](/files/CLASSES%20TT/2023%20T1%20Sec%204.pdf)|[SEC 5](/files/CLASSES%20TT/SEC5/2023%20T1%2030.pdf)|
 | -------- |-------- |--------|--------|--------|
 |S1-E1|S2-E1|S3-E1|S4-E1|S5-A1|
 |S1-E2|S2-E2|S3-E2|S4-E2||
@@ -20,5 +20,3 @@ description: ""
 ||||S4-T1||
 ||||S4-T2||
 |
-
-
