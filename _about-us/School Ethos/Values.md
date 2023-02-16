@@ -16,3 +16,4 @@ third_nav_title: School Ethos
 
 **Compassion**
 
+![](/images/School%20Org/Compassion.jpg)
