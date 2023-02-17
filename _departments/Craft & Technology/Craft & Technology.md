@@ -42,7 +42,7 @@ The Craft & Technology Department comprises Art, Design and Technology, Food & N
   
   <tr>
     <td class="tg-ii8k">Miss Lim Yan Chin Hazel</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Teacher / Art</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Covering SH Aesthetics</span></td>
     <td class="tg-ii8k">lim_yan_chin_hazel@moe.edu.sg</td>
   </tr>
   <tr>
