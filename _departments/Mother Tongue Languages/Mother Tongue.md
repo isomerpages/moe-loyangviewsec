@@ -4,7 +4,6 @@ permalink: /department/Mother-Tongue/permalink/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-
 ![](/images/Banner.jpg)
 
 Mother Tongue
@@ -61,12 +60,7 @@ Mother Tongue
     <td class="tg-7fd7">Teacher / Chinese Language</td>
     <td class="tg-7fd7">chow_wei_yuan@moe.edu.sg </td>
   </tr>
-  <tr>
-    <td class="tg-citn">Mdm Natarajan Usha</td>
-    <td class="tg-7fd7">Teacher / Tamil Language</td>
-    <td class="tg-4y7b"><span style="color:rgba(0, 0, 0, 0.87)">natarajan_usha@moe.edu.sg</span> </td>
-  </tr>
-  <tr>
+  
     <td class="tg-7fd7">Mr Ganesan Thiruvalluvan</td>
     <td class="tg-7fd7">Teacher / Tamil Language</td>
     <td class="tg-7fd7"> ganesan_thiruvalluvan@moe.edu.sg</td>
