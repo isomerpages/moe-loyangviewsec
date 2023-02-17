@@ -6,14 +6,14 @@ third_nav_title: School Ethos
 ---
 ## School Values
 
-**Responsibility**
+### **Responsibility** 
 
-**Respect**
+### **Respect**
 
-**Resilience**
+### **Resilience**
 
-**Integrity**
+### **Integrity**
 
-**Compassion**
+### **Compassion**
 
 ![](/images/School%20Org/Compassion.jpg)
