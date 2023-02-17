@@ -9,6 +9,13 @@ third_nav_title: Craft & Technology
 Craft & Technology
 ==================
 
+### Craft & Technology Department
+-----------------------------
+
+  
+
+The Craft & Technology Department comprises Art, Design and Technology, Food & Nutrition and Music. The teachers believe that education is about providing positive experiences and developing joy of learning by engaging students with issues that are relevant and interesting to their lives. Students are motivated as they learn to appreciate their subjects beyond classrooms and connect their learning experiences to the outside world. Teachers adopt an inquiry-based approach to teaching and promote questioning among students.
+
 ### Our Staff
 ---------
 
@@ -114,9 +121,3 @@ Craft & Technology
 </tbody>
 </table>
 
-### Craft & Technology Department
------------------------------
-
-  
-
-The Craft & Technology Department comprises Art, Design and Technology, Food & Nutrition and Music. The teachers believe that education is about providing positive experiences and developing joy of learning by engaging students with issues that are relevant and interesting to their lives. Students are motivated as they learn to appreciate their subjects beyond classrooms and connect their learning experiences to the outside world. Teachers adopt an inquiry-based approach to teaching and promote questioning among students.
