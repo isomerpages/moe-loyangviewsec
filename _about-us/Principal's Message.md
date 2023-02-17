@@ -3,12 +3,10 @@ title: Principal's Message
 permalink: /about-us/Principals-Message/permalink/
 description: ""
 ---
-
 ![](/images/Banner.jpg)
 
 Principal's Message
 ===================
-![](/images/School%20Org/principal.jpg)
 
 At Loyang View, we are a Happy and Caring School. A special place where every student is developed into a wholesome individual with robust character and is well prepared for the skill force of tomorrow.  
   
