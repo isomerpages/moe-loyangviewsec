@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Sexuality Education.md
       - Applied Learning Programme (ALP).md
       - Education and Career Guidance.md
       - Future Ready Programme.md
