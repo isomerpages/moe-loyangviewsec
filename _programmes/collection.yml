@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Urban Farming.md
       - Applied Learning Programme (ALP).md
       - Learning For Life Programme (LLP).md
       - Education and Career Guidance.md
