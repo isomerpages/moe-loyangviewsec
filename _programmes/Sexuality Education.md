@@ -3,7 +3,7 @@ title: Sexuality Education
 permalink: /department/CCE/Sexuality-Education/permalink/
 description: ""
 ---
-![](/images/Banner.jpg)
+![](/images/SEd/SEd%2003.jpg)![](/images/Banner.jpg)
 
 Sexuality Education
 ===================
@@ -61,3 +61,5 @@ The content for Sexuality Education  is grouped into five main themes: Human Dev
 7.         Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self- esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
  **At Loyang View Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
+ 
+ ![](/images/SEd/SEd%2001.jpg)![](/images/SEd/SEd%2002.jpg)![](/images/SEd/SEd%2003.jpg)
