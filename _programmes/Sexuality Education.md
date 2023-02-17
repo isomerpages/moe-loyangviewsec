@@ -63,3 +63,5 @@ The content for Sexuality Education  is grouped into five main themes: Human Dev
  **At Loyang View Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
  
 ![](/images/SEd/SEd%2011.jpg)![](/images/SEd/SEd%2012.jpg)![](/images/SEd/SEd%2013.jpg)
+
+![](/images/SEd/SEd%2021.jpg)![](/images/SEd/SEd%2022.jpg)![](/images/SEd/SEd%2023.jpg)
