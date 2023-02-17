@@ -20,7 +20,7 @@ For Staff
 * ####[HR Online] (https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
 * MIMS Portal
 ICON 2.0
-MOE INtranet
+MOE Intranet
 * HR Portal
 * iExams2.0
 * Resource Booking System
