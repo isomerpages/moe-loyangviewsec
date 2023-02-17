@@ -86,9 +86,7 @@ Outdoor Adventure Activities (Sec 2 Camp)
 </tbody>
 </table>
 
-![](/images/LLP4.png)
 
-Japan Mount Fuji OEP
 
 Tier 1 (Masses)
 
