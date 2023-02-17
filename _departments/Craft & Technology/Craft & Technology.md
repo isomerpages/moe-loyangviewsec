@@ -39,10 +39,7 @@ The Craft & Technology Department comprises Art, Design and Technology, Food & N
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ii8k">Mr Roy Lam Chien Min</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Head of Department / Craft and Technology</span></td>
-    <td class="tg-ii8k">roy_lam_chien_min@moe.edu.sg</td>
-  </tr>
+  
   <tr>
     <td class="tg-ii8k">Miss Lim Yan Chin Hazel</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Teacher / Art</span></td>
@@ -120,4 +117,3 @@ The Craft & Technology Department comprises Art, Design and Technology, Food & N
   </tr>
 </tbody>
 </table>
-
