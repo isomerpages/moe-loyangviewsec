@@ -50,7 +50,7 @@ They tend to: 
 #### A) Time
 You may wish to volunteer time to design and conduct the school’s programmes and events. Supportive PSG members can help to make the school a safe place for our children to learn in, making school life more vibrant and caring.
 
- | ![PSG (4).jpg](https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/Connecting%20with%20our%20Community/PSG/2020/PSG%20(4).jpg)  
+ ![PSG (4).jpg](https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/Connecting%20with%20our%20Community/PSG/2020/PSG%20(4).jpg)  
 
 
   
