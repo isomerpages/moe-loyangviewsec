@@ -138,7 +138,7 @@ Loyang View Mathematics Department believes that every child is unique and can l
 
 ![](/images/Math%20Dept%20Photo.jpeg)
 
-### Mathematic Programmes
+### Mathematics Programmes
 ---------------------
 
 By leveraging on varied exploratory and experiential learning platforms, we seek to cater to the diverse learning needs of our students to enable each of them to achieve his/her fullest potential and cultivate a deep interest in Math.
