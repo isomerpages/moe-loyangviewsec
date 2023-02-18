@@ -20,62 +20,7 @@ overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ht7a{background-color:#FFE9E9;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-rr8m{background-color:#FFC;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-
-&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp; 
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; <table class="tg">
+</style><table class="tg">
 <thead><tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th></tr>
 </thead>
 <tbody><tr><td class="tg-rr8m">1E1</td>
