@@ -9,20 +9,18 @@ Form Class 2023
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td, .tg th {border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
   overflow:hidden;padding:12px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rhkx{background-color:#EFEFEE;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
-.tg .tg-z14i{background-color:#EFEFEE;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-poi1{background-color:#FFC;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-wb7j{background-color:#FFD863;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-rhkx{background-color:#EFEFEE;border-color:inherit;color:#3A3A3A;text-align:center;vertical-align:top}
+.tg .tg-z14i{background-color:#EFEFEE;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-poi1{background-color:#FFC;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-wb7j{background-color:#FFD863;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ht7a{background-color:#FFE9E9;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-rr8m{background-color:#FFC;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-rr8m{background-color:#FFC;border-color:inherit;color:#3A3A3A;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
+	</style>
 
 <table class="tg">
 
-<thead><tr> <th colspan="4" class="tg-ht7a">Secondary One</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th></tr>
+<thead><tr> <th colspan="4" class="tg-ht7a">Secondary One</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">  Form Teacher  </span></th><th class="tg-wb7j"><span style="font-weight:bold">  Form Teacher  </span></th><th class="tg-wb7j"><span style="font-weight:bold">   Form Teacher    </span></th></tr>
 
 </thead>
 
@@ -34,7 +32,9 @@ Form Class 2023
 <a href="mailto:long_ser_wee_norman@moe.edu.sg">
 <span>long_ser_wee_norman@moe.edu.sg</span></a></td>
 <td class="tg-poi1"><span style="font-weight:bold">Hamisah Shek Nahji</span><br>
-<a href="mailto:hamisah_shekh_nahji@moe.edu.sg"><span style="font-style:italic">hamisah_shekh_nahji@moe.edu.sg</span></a></td>
+<a href="mailto:hamisah_shekh_nahji@moe.edu.sg"><span style="font-style:italic">hamisah_shekh_nahji@moe.edu.sg</span>
+	<td class="tg-poi1"><span style="font-weight:bold"></span><br>
+<span style="font-style:italic"></span></a></td>
 <td class="tg-rr8m"></td>
 </tr><tr>
 <td class="tg-rhkx">1E2</td>
@@ -53,7 +53,8 @@ Form Class 2023
 <td class="tg-poi1"><span style="font-weight:bold">Veerapathra</span><br>
 <a href="mailto: Veerapathra_pillai_ramar@moe.edu.sg ">
 <span style="font-style:italic">Veerapathra_pillai_ramar@moe.edu.sg</span></td>
-<td class="tg-rr8m"></td>
+<td class="tg-rr8m"></td>	<td class="tg-poi1"><span style="font-weight:bold"></span><br>
+<span style="font-style:italic"></span></a></td>
 </tr><tr>
 <td class="tg-rhkx">1A2</td>
 <td class="tg-z14i"><span style="font-weight:bold">Candice Seet</span><br>
@@ -70,7 +71,8 @@ Form Class 2023
 <span style="font-style:italic">lau_yuan_zhen@moe.edu.sg</span></td>
 <td class="tg-poi1"><span style="font-weight:bold">Kamaruddin</span><br>
 <a href="mailto: kamaruddin_mohd_ibrahim@moe.edu.sg ">
-<span style="font-style:italic">kamaruddin_mohd_ibrahim@moe.edu.sg</span></td>
+<span style="font-style:italic">kamaruddin_mohd_ibrahim@moe.edu.sg</span></td>	<td class="tg-poi1"><span style="font-weight:bold"></span><br>
+<span style="font-style:italic"></span></a></td>
 <td class="tg-rr8m"></td>
 </tr><tr>
 <td class="tg-rhkx">1T1</td>
@@ -84,17 +86,25 @@ Form Class 2023
 <a href="mailto: chester_tan_yue_jun@moe.edu.sg ">
 <span style="font-style:italic">chester_tan_yue_jun@moe.edu.sg</span></td>
 <td class="tg-rhkx"></td>
-	</tr><tr></tbody></thread>
+	</tr><tr>
+
+</tbody>
+	</thread>
 	
 	
+<table class="tg">
 	
 
-</style><table class="tg">
-
+	
+	
+	
 <thead><tr> <th colspan="4" class="tg-ht7a">Secondary Two</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th></tr>
 
+	
 </thead>
 <tbody><tr>
+	
+	
 <td class="tg-rr8m">2E1</td>
 <td class="tg-poi1"><span>Loo Hup Tee</span><br>
 <a href="mailto: loo_hup_tee@moe.edu.sg">
@@ -122,7 +132,8 @@ Form Class 2023
 <span style="font-style:italic">gabriel_palai_anbu_nambi@moe.edu.sg</span></td>
 <td class="tg-poi1"><span style="font-weight:bold">Azlina Kassim</span><br>
 <a href="mailto: azlina_kassim@moe.edu.sg">
-<span style="font-style:italic">azlina_kassim@moe.edu.sg</span></td>
+<span style="font-style:italic">azlina_kassim@moe.edu.sg</span></td>	<td class="tg-poi1"><span style="font-weight:bold"></span><br>
+<span style="font-style:italic"></span></a></td>
 <td class="tg-rr8m"></td>
 </tr><tr>
 <td class="tg-rhkx">2A2</td>
@@ -162,7 +173,7 @@ Form Class 2023
 
 
 
-</style><table class="tg">
+<table class="tg">
 
 <thead><tr> <th colspan="4" class="tg-ht7a">Secondary Three</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th></tr>
 
@@ -174,7 +185,8 @@ Form Class 2023
 <a href="mailto: oh_wan_ping@moe.edu.sg">
 <span>oh_wan_ping@moe.edu.sg</span></a></td>
 <td class="tg-poi1"><span style="font-weight:bold">Rachel Koh</span><br>
-<a href="mailto: rachel wong_lai_mui@moe.edu.sg "><span style="font-style:italic">rachel wong_lai_mui@moe.edu.sg </span></a></td>
+<a href="mailto: rachel wong_lai_mui@moe.edu.sg "><span style="font-style:italic">rachel wong_lai_mui@moe.edu.sg </span></a></td>	<td class="tg-poi1"><span style="font-weight:bold"></span><br>
+<span style="font-style:italic"></span></a></td>
 <td class="tg-rr8m"></td>
 </tr><tr>
 
@@ -197,7 +209,8 @@ Form Class 2023
 <span style="font-style:italic">sharina_nadia_suleiman@moe.edu.sg</span></td>
 <td class="tg-poi1"><span style="font-weight:bold">Yvonne Li Jiayi</span><br>
 <a href="mailto: li_jiayi_yvonne@moe.edu.sg">
-<span style="font-style:italic">li_jiayi_yvonne@moe.edu.sg</span></td>
+<span style="font-style:italic">li_jiayi_yvonne@moe.edu.sg</span></td>	<td class="tg-poi1"><span style="font-weight:bold"></span><br>
+<span style="font-style:italic"></span></a></td>
 <td class="tg-rr8m"></td>
 </tr><tr>
 
@@ -217,7 +230,8 @@ Form Class 2023
 <span style="font-style:italic">chew\_pei_jun_christina@moe.edu.sg</span></td>
 <td class="tg-poi1"><span style="font-weight:bold">Iliyasa Ong</span><br>
 <a href="mailto: ong_lishen_iliyasa@moe.edu.sg">
-<span style="font-style:italic">ong_lishen_iliyasa@moe.edu.sg</span></td>
+<span style="font-style:italic">ong_lishen_iliyasa@moe.edu.sg</span></td>	<td class="tg-poi1"><span style="font-weight:bold"></span><br>
+<span style="font-style:italic"></span></a></td>
 <td class="tg-rr8m"></td>
 </tr><tr>
 <td class="tg-rhkx">3A3</td>
@@ -238,6 +252,7 @@ Form Class 2023
 <span style="font-style:italic">gan_han_li_alvin@moe.edu.sg</span></td>
 <td class="tg-poi1"><span style="font-weight:bold">Simon Lim</span><br>
 <a href="mailto: lim_seow_leong@moe.edu.sg">
-<span style="font-style:italic">lim_seow_leong@moe.edu.sg</span></td>
+<span style="font-style:italic">lim_seow_leong@moe.edu.sg</span></td>	<td class="tg-poi1"><span style="font-weight:bold"></span><br>
+<span style="font-style:italic"></span></a></td>
 <td class="tg-rr8m"></td>
 </tr><tr>
