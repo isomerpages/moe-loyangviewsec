@@ -4,7 +4,13 @@ permalink: /about-us/School-Ethos/permalink/
 description: ""
 third_nav_title: School Ethos
 ---
+
+
 Student Creed
-=============
-TEXT
-![Student Creed Capture.PNG](https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/Student%20Creed%20Capture.PNG)
+-------------
+
+##### ***I am unique and worthy.***
+
+##### ***Within me lies the power to be the best that I can be. I look forward to each day with a sense of purpose; To be a wholesome individual with robust character; Willing to work hard, learn, and care for others.***
+
+##### ***My future can be what I want it to be. With resilience I will succeed.***
