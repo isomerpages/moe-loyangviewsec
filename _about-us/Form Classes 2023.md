@@ -3,7 +3,7 @@ title: Form Classes 2023
 permalink: /about-us/permalink/
 description: ""
 ---
-Form Class 2023
+Form Classes 2023
 ===============
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
