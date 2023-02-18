@@ -174,9 +174,6 @@ Form Class 2023
 </tr><tr>
   
 
-
-
-
 <thead><tr> <th colspan="4" class="tg-ht7a">Secondary Three</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th></tr>
 
 </thead>
@@ -262,7 +259,6 @@ Form Class 2023
 </tr><tr>
 	
 	
-	<table class="tg">
 
 <thead><tr> <th colspan="4" class="tg-ht7a">Secondary Four / Five</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th></tr>
 
