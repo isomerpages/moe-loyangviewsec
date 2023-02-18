@@ -4,7 +4,6 @@ permalink: /about-us/School-Ethos/permalink/
 description: ""
 third_nav_title: School Ethos
 ---
-   
 #### **To Discipline is to Care**
 
 Loyang View students are expected to exhibit the school values of Integrity, Respect, Resilience and Compassion in their words and actions.
@@ -97,4 +96,142 @@ Students are expected to be attired appropriately and neatly at all times.
 				relevant medical certificate.
 
 	3.6    Plain white socks are to be worn above the ankle at all times.
+	
+4.       Grooming
 
+	4.1    Hair must not be tinted or dyed.
+
+	4.2    For male students:
+
+		4.2.1     Hair length must be appropriate, neat and short. The overall hair 
+						appearance should be simply styled and well-kept. No fanciful 
+						haircut is allowed.
+
+		4.2.2     Hair at the sides must not touch the ears. The fringe must not fall 
+						below the eyebrows, and hair at the back must be above the collar.
+
+		4.2.3     Students must be neat in appearance, clean shaven and no facial 
+						hair is allowed.
+
+		4.2.4     Jewellery or fashion accessories must not be worn.
+
+	4.3    For female students:
+
+		4.3.1     Shoulder-length hair or hair touching the collar must be neatly 
+						tied and pinned up at all times.
+
+		4.3.2     The fringe must not fall below the eyebrows.
+
+		4.3.3     Hair should be tied up in a ponytail or simple plaits.
+
+		4.3.4     Only black hair accessories are allowed.
+
+		4.3.5     Only a pair of small ear-studs is allowed. Other jewellery or 
+						fashion accessories must not be worn.  
+
+	4.4    Nails must be short, clean and free of nail polish.
+
+	4.5    Make-up is not allowed.
+
+	4.6    Spectacle lenses and contact lenses must not be tinted.
+
+	4.7    No form of body piercing or body art will be allowed.
+
+5.       Classroom Expectations
+
+	5.1     Greeting and thanking teachers at the start and end of every lesson.
+
+	5.2     Cooperating with teachers during lessons to ensure teaching and 
+				learning can take place.
+
+	5.3     Leaving the classroom without a permission pass from teachers is not 
+				allowed during lesson. This is with the exception of recess and lunch 
+				break.
+
+	5.4     Keeping the classroom clean and in good condition is the 
+				responsibility of all students.
+
+	5.5     Being punctual for lessons is expected.
+
+	5.6     All files and books must be brought home at the end of each school 
+				day.
+				
+6.       School Compound and Properties
+
+	6.1     HOD room, staff rooms and staff toilets are out of bounds to students at all times.
+
+	6.2     Science laboratories, computer laboratories and other special rooms can only be used by students under the supervision of a teacher.
+
+	6.3     Students are to observe the following rules at all times in the canteen.
+
+		63.1      Students are to queue according to the demarcation indicated in an orderlymanner when purchasing their food or drinks.
+
+		6.3.2     Students are to return all plates and utensils to the designated returning points.
+
+		6.3.3     Students are to keep the tables and benches clean at all times.
+
+		6.3.4    All food and drinks are to be consumed within the canteen only.
+
+	6.4    Fire extinguishers, fire hose reels and fire alarms are strictly for emergency use only.
+
+	6.5    Damage or misuse of school properties must be reported immediately to the teachers or Operations Manager (OM) at the General Office.
+
+7.       Restricted Items
+
+       The following items are restricted, and must not be brought into school.
+
+	7.1   Lighters, matchsticks, and any inflammable items.
+
+	7.2   Poker cards and any card games.
+
+	7.3   Chewing gum.
+
+	7.4   Any other items which the school will communicate to all students from time to time.
+
+8.       Serious Offences
+
+The following are serious offences. As such, offences listed below will not be tolerated by the school and strict disciplinary procedures will be taken against students who commit these offences.
+
+	8.1     Open defiance to any staff of the school.
+
+	8.2     Using verbal or body language that is detrimental to the tone of the 
+				school.
+
+	8.3     Inappropriate acts in or out of school that are detrimental to the good 
+				name of the school.
+
+	8.4     Forgery on any documents.
+
+	8.5     Bullying or Cyber bullying.
+
+	8.6     Smoking/Vaping or any form of substance abuse.
+
+	8.7     Possession of cigarette, vaping devices or any form of drugs and 
+				inhalants not prescribed by certified medical practitioners.
+
+	8.8     All students are not allowed to have in their possession any weapon. 
+				They are also not allowed to bring any weapon-like item which is used 
+				or intended to be used to cause harm to others.
+
+	8.9     Possession of objects with sharp edges, which can be used as an item
+				to cause hurt to others.
+
+	8.10   Arson.
+
+	8.11   Extortion.
+
+	8.12  Truancy from lessons and school events.
+
+	8.13  Stealing and pilfering.
+
+	8.14  Acts of vandalism in the school.
+
+	8.15  Any forms of gambling.
+	
+	8.16  Possession of pornographic material.
+
+	8.17  Cheating in tests and examinations.
+
+	8.18  Tattooing on any parts of the body.
+
+Note:   Principal/Vice–Principal and the Student Management Committee reserve the right to make additions, amendments to the rules and actions taken.
