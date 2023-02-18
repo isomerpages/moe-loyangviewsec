@@ -5,6 +5,20 @@ description: ""
 ---
 Form Class 2023
 ===============
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td, .tg th {border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
+  overflow:hidden;padding:12px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rhkx{background-color:#EFEFEE;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-z14i{background-color:#EFEFEE;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-poi1{background-color:#FFC;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-wb7j{background-color:#FFD863;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ht7a{background-color:#FFE9E9;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-rr8m{background-color:#FFC;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
 
 <table class="tg">
 
@@ -74,31 +88,6 @@ Form Class 2023
 	
 	
 	
-<style type="text/css">
-
-.tg  {border-ollapse:collapse;border-spacing:0;}
-
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
-
-overflow:hidden;padding:12px 5px;word-break:normal;}
-
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;
-
-font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-
-.tg .tg-rhkx{background-color:#EFEFEE;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
-
-.tg .tg-z14i{background-color:#EFEFEE;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-
-.tg .tg-poi1{background-color:#FFC;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-
-.tg .tg-wb7j{background-color:#FFD863;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-
-.tg .tg-ht7a{background-color:#FFE9E9;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
-
-.tg .tg-rr8m{background-color:#FFC;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
-
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 
 </style><table class="tg">
 
@@ -172,32 +161,6 @@ font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
   
 
 
-
-<style type="text/css">
-
-.tg  {border-ollapse:collapse;border-spacing:0;}
-
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
-
-overflow:hidden;padding:12px 5px;word-break:normal;}
-
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;
-
-font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-
-.tg .tg-rhkx{background-color:#EFEFEE;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
-
-.tg .tg-z14i{background-color:#EFEFEE;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-
-.tg .tg-poi1{background-color:#FFC;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-
-.tg .tg-wb7j{background-color:#FFD863;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-
-.tg .tg-ht7a{background-color:#FFE9E9;border-color:inherit;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
-
-.tg .tg-rr8m{background-color:#FFC;border-color:inherit;color:#3A3A3A;text-align:left;vertical-align:top}
-
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 
 </style><table class="tg">
 
