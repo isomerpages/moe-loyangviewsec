@@ -12,11 +12,11 @@ Form Class 2023
 
 .tg  {border-ollapse:collapse;border-spacing:0;}
 
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
 
-overflow:hidden;padding:10px 5px;word-break:normal;}
+overflow:hidden;padding:12px 5px;word-break:normal;}
 
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;
 
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 
