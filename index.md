@@ -17,7 +17,7 @@ sections:
           url: /Latest-Happenings/permalink/
         - title: External Links
           description: ""
-          url: /External-Links/permalink/
+          url: /Achievements/permalink/
   - infobar:
       description: Join us on our Instagram!
       button: Click Here!
