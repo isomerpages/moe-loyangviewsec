@@ -3,4 +3,6 @@ title: Prospectus
 permalink: /about-us/permalink/
 description: ""
 ---
-# Prospectus - brochure Nazeera
+### Learn more about what our school can offer!
+
+**Click [here](/files/Brochure/LVSS%20Brochure%202023.pdf) to access the brochure for 2023!**
