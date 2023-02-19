@@ -5,22 +5,19 @@ description: ""
 ---
 Announcements
 =================
+### **Cancellation of Sec 2N Elective Modules on (6 - 8 March 2023)**
 
-### End-Of-Year Examinations 2022
+With the changes, the earlier scheduled Elective Module for Sec 2N students, from 6 to 8 March, as reflected in the Term 1 Letter dated 4 Jan, will be cancelled and instead be replaced with the following:
 
-The End-of-Year Examinations 2022 schedule is out!
+*   6 March: Home-Based Learning, together with the rest of the school;
+    
+*   7 and 8 March: Students are to report to school as usual for lessons.
+    
+### **Secondary Two Cohort Camp 2023**
 
-You may click [here](/community-involvement/School-Examinations/permalink/) to access it.
+Our Secondary 2 students will be embarking on a 3-day, 2-night residential camp from Thursday, 2 March to Saturday, 4 March at MOE Changi Coast Outdoor Adventure Learning Centre (OALC).
 
+The details of the programme are attached in this notification for your reference.
 
-### 2022 Sec 1 Registration Exercise
-
-Dear Parents/Guardians of 2022 Sec 1 students,
-
-Welcome to our Happy and Caring School! Please refer to the following **[link](https://www.loyangviewsec.moe.edu.sg/community-involvement/secondary-1-registration)** on more details concerning the 2022 Sec 1 Registration Exercise.
-
-
-### Purchase of Books and Uniform for Year 2022****
-
-Information on purchasing of books and uniforms for the academic year 2022 is up! Click [here](/community-involvement/Purchase-of-Books-and-Uniforms-2022/permalink/) to find out more.
+We look forward to having your child/ward participating actively in the camp. Please contact the teachers in charge, Mr Gabriel Wie, HOD/PE & CCA, or Mr Mohamed Nasir, Year Head/Lower Sec, if you have any queries.
 
