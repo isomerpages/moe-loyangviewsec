@@ -3,9 +3,9 @@ title: Assessment Matters
 permalink: /for-parents/permalink/
 description: ""
 ---
-Assessment Philosophy
-        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; mso-pagination:none; text-autospace:none; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:Calibri; mso-ansi-language:EN-GB; mso-fareast-language:EN-US;} h3 {mso-style-priority:9; mso-style-qformat:yes; mso-style-link:"Heading 3 Char"; margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:9.7pt; mso-pagination:none; mso-outline-level:3; text-autospace:none; font-size:11.5pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:Calibri; mso-ansi-language:EN-GB; mso-fareast-language:EN-US;} p.MsoBodyText, li.MsoBodyText, div.MsoBodyText {mso-style-priority:1; mso-style-unhide:no; mso-style-qformat:yes; mso-style-link:"Body Text Char"; margin:0cm; mso-pagination:none; text-autospace:none; font-size:10.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:Calibri; mso-ansi-language:EN-GB; mso-fareast-language:EN-US;} span.Heading3Char {mso-style-name:"Heading 3 Char"; mso-style-priority:9; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:"Heading 3"; mso-ansi-font-size:11.5pt; mso-bidi-font-size:11.5pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-fareast-font-family:Calibri; mso-hansi-font-family:Calibri; mso-bidi-font-family:Calibri; mso-ansi-language:EN-GB; font-weight:bold;} span.BodyTextChar {mso-style-name:"Body Text Char"; mso-style-priority:1; mso-style-unhide:no; mso-style-locked:yes; mso-style-link:"Body Text"; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-fareast-font-family:Calibri; mso-hansi-font-family:Calibri; mso-bidi-font-family:Calibri; mso-ansi-language:EN-GB;} p.TableParagraph, li.TableParagraph, div.TableParagraph {mso-style-name:"Table Paragraph"; mso-style-priority:1; mso-style-unhide:no; mso-style-qformat:yes; margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:3.9pt; mso-pagination:none; text-autospace:none; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:Calibri; mso-ansi-language:EN-GB; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-ansi-language:EN-US; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; mso-pagination:none; text-autospace:none;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+### Assessment Matters
 
+       
 <table style="margin-left:6.8pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black 1.5pt;mso-yfti-tbllook:480;mso-padding-alt:
  0cm 0cm 0cm 0cm;mso-border-insideh:1.5pt solid black;mso-border-insidev:1.5pt solid black" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:36.85pt">
@@ -471,16 +471,19 @@ Assessment Philosophy
   mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
   minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin" lang="EN-GB">39 &amp; below</span></p></td></tr></tbody></table>
 
-**Grading of Non-Examination Subjects**
+#### Grading of Non-Examination Subjects 
+**A**&nbsp;&nbsp;&nbsp;&nbsp; Has very good knowledge and skills in the subject
 
-### Grades
+**B**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has good knowledge and skills in the subject
 
-A&nbsp;&nbsp;&nbsp;&nbsp; Has very good knowledge and skills in the subject
+**C**&nbsp;&nbsp;&nbsp;&nbsp; Has adequate knowledge and skills in the subject 
 
-B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has good knowledge and skills in the subject
+**D**&nbsp;&nbsp;&nbsp;&nbsp; Has some knowledge and skills in the subject
 
-C&nbsp;&nbsp;&nbsp;&nbsp; Has adequate knowledge and skills in the subject 
+#### Weighted Assessment Matters
 
-D&nbsp;&nbsp;&nbsp;&nbsp; Has some knowledge and skills in the subject
+[Sec 1 2023 - Weight Assessment Information Letter to Parents](/files/Assessment%20letters/WA%20Info_%20Sec%201_2023%20Letter%20to%20Parents.pdf)
 
-Sec 1 - 4 Assessment Calendar
+[Sec 2 2023 - Weight Assessment Information Letter to Parents](/files/Assessment%20letters/WA%20Info_%20Sec%202_2023%20Letter%20to%20Parents.pdf)
+
+[Sec 3 2023 - Weight Assessment Information Letter to Parents](/files/Assessment%20letters/WA%20Info_%20Sec%203_2023%20Letter%20to%20Parents.pdf)
