@@ -21,3 +21,6 @@ The details of the programme are attached in this notification for your referenc
 
 We look forward to having your child/ward participating actively in the camp. Please contact the teachers in charge, Mr Gabriel Wie, HOD/PE & CCA, or Mr Mohamed Nasir, Year Head/Lower Sec, if you have any queries.
 
+[Packing List for Sec 2 Cohort Camp 2023](/files/Announcements/Sec%202%20Cohort%20Camp%202023/Packing%20List%20for%20Sec%202%20Cohort%20Camp%202023.pdf)
+
+[Sec 2 Cohort Camp Brief 2023](/files/Announcements/Sec%202%20Cohort%20Camp%202023/Sec%202%20Cohort%20Camp.pdf)
