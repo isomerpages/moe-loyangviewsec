@@ -15,12 +15,7 @@ sections:
         - title: Latest Happenings
           description: ""
           url: /Latest-Happenings/permalink/
-        - title: External Links
+        - title: Achievements
           description: ""
           url: /Achievements/permalink/
-  - infobar:
-      description: Join us on our Instagram!
-      button: Click Here!
-      url: https://www.instagram.com/loyangviewss/
-      subtitle: "***** For Consideration*******"
 ---
