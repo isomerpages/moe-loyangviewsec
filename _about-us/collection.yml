@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - School Ethos/.keep
       - School Ethos/Vision.md
@@ -15,3 +14,4 @@ collections:
       - School Organisation Chart.md
       - Prospectus.md
       - Form Classes 2023.md
+      - Contact Us.md
