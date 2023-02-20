@@ -99,7 +99,7 @@ Form Classes 2023
 	
 	
 	
-<thead><tr> <th colspan="4" class="tg-ht7a">Secondary Two</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th></tr>
+<tr> <th colspan="4" class="tg-ht7a">Secondary Two</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th></tr>
 
 	
 </thead>
