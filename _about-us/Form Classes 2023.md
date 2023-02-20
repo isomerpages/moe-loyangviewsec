@@ -18,10 +18,10 @@ Form Classes 2023
  
 <td class="tg-rr8m">1E1</td>
 <td class="tg-poi1"><span>Norman Long</span><br>
-<a href="mailto:long_ser_wee_norman@moe.edu.sg">
+	<a href="mailto:long_ser_wee_norman@moe.edu.sg"></a>
 <span>long_ser_wee_norman@moe.edu.sg</span></a></td>
 <td class="tg-poi1"><span style="font-weight:bold">Hamisah Shek Nahji</span><br>
-<a href="mailto:hamisah_shekh_nahji@moe.edu.sg"><span style="font-style:italic">hamisah_shekh_nahji@moe.edu.sg</span>
+<a href="mailto:hamisah_shekh_nahji@moe.edu.sg"></a><span style="font-style:italic">hamisah_shekh_nahji@moe.edu.sg</span>
 	<td class="tg-poi1"><span style="font-weight:bold"></span><br>
 <span style="font-style:italic"></span></a></td>
 <td class="tg-rr8m"></td>
