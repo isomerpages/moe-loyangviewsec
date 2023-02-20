@@ -22,7 +22,7 @@ Form Classes 2023
 
 <table class="tg">
 
-<thead><tr> <th class="tg-ht7a" colspan="4">Secondary One</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">  Form Teacher  </span></th><th class="tg-wb7j"><span style="font-weight:bold">  Form Teacher  </span></th><th class="tg-wb7j"><span style="font-weight:bold">   Form Teacher    </span></th></tr>
+<thead><tr> <th colspan="4" class="tg-ht7a">Secondary One</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">  Form Teacher  </span></th><th class="tg-wb7j"><span style="font-weight:bold">  Form Teacher  </span></th><th class="tg-wb7j"><span style="font-weight:bold">   Form Teacher    </span></th></tr>
 	</thead>
 
 <tbody><tr>
@@ -92,7 +92,6 @@ Form Classes 2023
 <td class="tg-z14i"><span style="font-weight:bold">Chester Tan</span><br>
 <a href="mailto: chester_tan_yue_jun@moe.edu.sg">
 <span style="font-style:italic">chester_tan_yue_jun@moe.edu.sg</span></a></td>
-
 	</tr><tr>
 <style type="text/css">
 
@@ -109,7 +108,7 @@ Form Classes 2023
 </style>
 </tr></tbody></table><table class="tg">	
 	
-<tbody><tr> <th class="tg-ht7a" colspan="4">Secondary Two</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th></tr>
+<tbody><tr> <th colspan="4" class="tg-ht7a">Secondary Two</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th></tr>
 
 	
 
@@ -183,7 +182,7 @@ Form Classes 2023
 </tr><tr>
   
 </tr></tbody></table><table class="tg">
-<thead><tr> <th class="tg-ht7a" colspan="4">Secondary Three</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th></tr>
+<thead><tr> <th colspan="4" class="tg-ht7a">Secondary Three</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th></tr>
 
 </thead>
 <tbody><tr>
@@ -273,7 +272,7 @@ Form Classes 2023
 
 </tr></tbody></table><table class="tg">
 		
-<thead><tr> <th class="tg-ht7a" colspan="4">Secondary Four / Five</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold"></span></th></tr>
+<thead><tr> <th colspan="4" class="tg-ht7a">Secondary Four / Five</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold">Form Teacher</span></th><th class="tg-wb7j"><span style="font-weight:bold"></span></th></tr>
 
 </thead>
 <tbody><tr>
