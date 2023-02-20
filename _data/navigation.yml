@@ -1,15 +1,31 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/JPG-LVSS OFFICIAL CREST VERSION 2.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Department
+    url: /department/Craft-and-Technology/Craft-and-Technology/permalink/
+    sublinks:
+      - title: English
+        url: /department/English/permalink/
+      - title: Mother Tongue
+        url: /department/Mother-Tongue/permalink/
+      - title: Mathematics
+        url: /department/Mathematics/permalink/
+      - title: Sciences
+        url: /department/Science/Science/permalink/
+      - title: Humanities
+        url: /department/Humanities/permalink/
+      - title: Craft & Technology
+        url: /department/Craft-and-Technology/Craft-and-Technology/permalink/
+      - title: Physical Education
+        url: /department/PE-and-CCA-Department/permalink/
+      - title: CCE
+        url: /department/CCE/CCE/permalink/
+  - title: CCAs
+    collection: cca
+  - title: Programmes
+    collection: programmes
+  - title: For Parents
+    collection: for-parents
+  - title: News
+    collection: news

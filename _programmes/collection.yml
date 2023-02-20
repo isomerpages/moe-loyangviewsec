@@ -1,0 +1,14 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Applied Learning Programme (ALP).md
+      - Learning For Life Programme (LLP).md
+      - Urban Farming.md
+      - Education and Career Guidance.md
+      - Future Ready Programme.md
+      - Sexuality Education.md
+      - Stretch Programme.md
+      - GEAR Up.md
+      - Student Leadership.md
+      - Overseas Educational Programme.md

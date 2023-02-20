@@ -1,0 +1,25 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/.keep
+      - Performing Arts/Loyang View Symphonic Band.md
+      - Performing Arts/Dance Club.md
+      - Performing Arts/Drama Club.md
+      - Sports & Games/Sports & Games.md
+      - Sports & Games/.keep
+      - Sports & Games/Air Rifle Club.md
+      - Sports & Games/Basketball.md
+      - Sports & Games/FloorBall.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Rock Climbing Club.md
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Cadet Corps (Land).md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Uniformed Groups/.keep
+      - Clubs and societies/Clubs and societies.md
+      - Clubs and societies/InfoComm Club.md
+      - Clubs and societies/.keep

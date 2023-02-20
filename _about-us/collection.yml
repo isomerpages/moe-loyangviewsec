@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Ethos/.keep
+      - School Ethos/Vision.md
+      - School Ethos/Mission.md
+      - School Ethos/Values.md
+      - School Ethos/School Crest.md
+      - School Ethos/School Song.md
+      - School Ethos/Student Creed.md
+      - School Ethos/School Rules.md
+      - School Organisation Chart.md
+      - Prospectus.md
+      - Form Classes 2023.md
+      - Contact Us.md

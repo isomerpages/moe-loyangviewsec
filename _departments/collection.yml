@@ -1,0 +1,27 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Mother Tongue.md
+      - Mother Tongue Languages/Chinese Language.md
+      - Mother Tongue Languages/Malay Language.md
+      - Mother Tongue Languages/Tamil Language.md
+      - Mathematics.md
+      - Sciences/.keep
+      - Sciences/Science.md
+      - Sciences/Smart Electrical Technology.md
+      - Humanities.md
+      - Craft & Technology/.keep
+      - Craft & Technology/Craft & Technology.md
+      - Craft & Technology/Art.md
+      - Craft & Technology/Music.md
+      - Craft & Technology/Food & Nutrition.md
+      - Craft & Technology/Design & Technology.md
+      - PE & CCA Department.md
+      - CCE/.keep
+      - CCE/CCE.md
+      - CCE/Values in Education.md
+      - CCE/Cyber Wellness Programme.md
+      - CCE/NE Commemorative Events.md
