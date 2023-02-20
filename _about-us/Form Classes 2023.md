@@ -7,7 +7,7 @@ Form Classes 2023
 ===============
 
 
-<table >
+<table class="tg">
 
 <thead><tr> <th colspan="4" class="tg-ht7a">Secondary One</th> </tr> <tr><th class="tg-wb7j"><span style="font-weight:bold">Class</span></th><th class="tg-wb7j"><span style="font-weight:bold">  Form Teacher  </span></th><th class="tg-wb7j"><span style="font-weight:bold">  Form Teacher  </span></th><th class="tg-wb7j"><span style="font-weight:bold">   Form Teacher    </span></th></tr>
 
