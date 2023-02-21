@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Latest Happenings.md
-      - E Achievements.md
+      - Achievements.md
       - Announcements.md
