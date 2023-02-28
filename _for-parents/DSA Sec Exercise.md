@@ -3,8 +3,6 @@ title: DSA Sec Exercise
 permalink: /about-us/DSA-SEC-EXERCISE/dsasecexercise/
 description: ""
 ---
-
-
 ![](/images/Banner.jpg)
 
 DSA-SEC EXERCISE
@@ -16,7 +14,7 @@ We offer DSA in two of our signature programmes:
 
 2.      LLP – Sports & Outdoor Education (Character Through Sports Exposure, Sports Empowerment & Sports Excellence)
 
-Find out more about [ALP](/signature-programmes/Applied-Learning-Programme-ALP/permalink/) and [LLP](/signature-programmes/Learning-For-Life-Programme-LLP/permalink/). 
+Find out more about [ALP](/programmes/Applied-Learning-Programme-ALP/) and [LLP](/signature-programmes/Learning-For-Life-Programme-LLP/permalink/). 
 
 **Admission Criteria**
 
