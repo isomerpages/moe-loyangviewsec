@@ -4,27 +4,11 @@ permalink: /co-curricular-activities/Sports-and-Games/basketball/
 description: ""
 third_nav_title: Sports & Games
 ---
-
 ![](/images/Banner.jpg)
 
 Basketball
 ==========
 
-
-### Title
------
-
-Content
-
-### Title
------
-
-Content
-
-#### Title
------
-
-Content
 
 At Loyang View Secondary School, we believe that every basketball player is unique and has the potential to excel. Even though a player can quickly acquire the basic skills to play basketball, becoming a truly skilled player takes a lot of discipline and dedication. Therefore, having the right motivation is our key ingredient to continuously keep improving our players’ basketball skills.
 
