@@ -70,4 +70,5 @@ You may work with us in brainstorming and contributing constructive feedback and
 **Parents interested in helping out with our school activities, please fill in the application form below and email the completed form to [premlatha\_selvaraj@moe.edu.sg](mailto:premlatha_selvaraj@moe.edu.sg)**
 
 ###  Join us 
-### Sign up for PSG membership: [here](https://tinyurl.com/JoinLVSSPSG](https://tinyurl.com/JoinLVSSPSG)
+
+### Sign up for PSG membership: [here](https://docs.google.com/forms/d/e/1FAIpQLSfN2QJn6cSVzlfhw3J817FuEGoCfku3Lkeu4HFco8JCiRRwcg/viewform)
