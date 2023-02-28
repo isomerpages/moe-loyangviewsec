@@ -17,5 +17,5 @@ sections:
           url: /Latest-Happenings/
         - title: Achievements
           description: ""
-          url: /Achievements/permalink/
+          url: /news/Achievements/
 ---
