@@ -4,8 +4,6 @@ permalink: /department/Science/Science/
 description: ""
 third_nav_title: Sciences
 ---
-
-
 ![](/images/Banner.jpg)
 
 Science
@@ -234,7 +232,7 @@ In 2019, with the objective of the competition to stretch the high ability Scien
 
 ![](/images/science16.png)
 
-****NXplorer 2020****
+**NXplorer 2020**
 
 Kirsty, Ariqah, Qaisara, Sabrina and Harith from 2E3 worked relentlessly from January to October, getting through the preliminary and semi-final rounds to finally reach the final 5 teams of the NXplorers 2020 held via livestream on 30th October 2020. 
 
