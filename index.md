@@ -14,7 +14,7 @@ sections:
           url: /Announcements/
         - title: Latest Happenings
           description: ""
-          url: /Latest-Happenings/permalink/
+          url: /Latest-Happenings/
         - title: Achievements
           description: ""
           url: /Achievements/permalink/
