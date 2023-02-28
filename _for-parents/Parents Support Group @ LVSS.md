@@ -9,7 +9,7 @@ Parent Support Group @ LVSS
 The Parent Support Group (PSG) is a great opportunity for us to be closer to our children, understand them better, and help them in their education journey. Our children also benefit when we are more active in their school environment. 
 
 
-<img src="/images/PSG5.png" style="width:80%">
+<img src="/images/PSG.jpeg" style="width:80%">
   
 
 They tend to:   
@@ -23,7 +23,6 @@ They tend to: 
 *   be less prone to behavioural issues
  
  
-<img src="/images/PSG7.png" style="width:80%">
 
 <img src="/images/PSG1.jpeg" style="width:80%">
 
@@ -47,8 +46,10 @@ You may wish to volunteer time to design and conduct the school’s programmes a
 #### B) Talent
 You can volunteer your expertise, talents, individual interests or personal networks. In this way, parents can significantly expand the pool of help available to the school and the PSG.
 
-  
-
+ 
+ <img src="/images/PSG6.png" style="width:80%">
+ 
+<img src="/images/PSG7.png" style="width:80%">
 
   
 
@@ -70,5 +71,3 @@ You may work with us in brainstorming and contributing constructive feedback and
 
 ###  Join us 
 ### Sign up for PSG membership: [here](https://tinyurl.com/JoinLVSSPSG](https://tinyurl.com/JoinLVSSPSG)
-
-
