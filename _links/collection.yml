@@ -2,4 +2,5 @@ collections:
   links:
     output: true
     order:
+      - Useful Links for Students.md
       - External Links.md
