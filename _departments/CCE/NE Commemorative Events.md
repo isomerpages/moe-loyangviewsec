@@ -1,9 +1,10 @@
 ---
 title: NE Commemorative Events
-permalink: /department/CCE/NE-Commemorative-Events/permalink/
+permalink: /department/CCE/NE-Commemorative-Events/
 description: ""
 third_nav_title: CCE
 ---
+
 ![](/images/Banner.jpg)
 
 NE Commemorative Events

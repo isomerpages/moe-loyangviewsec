@@ -1,8 +1,9 @@
 ---
 title: School Organisation Chart
-permalink: /about-us/School-Organisation-Chart/permalink/
+permalink: /about-us/School-Organisation-Chart/
 description: ""
 ---
+
 ![](/images/Banner.jpg)
 
 ## School Organisation Chart

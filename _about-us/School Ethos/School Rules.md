@@ -1,9 +1,10 @@
 ---
 title: School Rules
-permalink: /about-us/School-Ethos/permalink/
+permalink: /about-us/School-Ethos/schoolrules/
 description: ""
 third_nav_title: School Ethos
 ---
+
 #### **To Discipline is to Care**
 
 Loyang View students are expected to exhibit the school values of Integrity, Respect, Resilience and Compassion in their words and actions.

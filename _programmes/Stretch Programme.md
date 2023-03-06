@@ -1,6 +1,7 @@
 ---
 title: Stretch Programme
-permalink: /programmes/permalink/
+permalink: /programmes/Stretch-Programme/
 description: ""
 ---
+
 ### Page under construction

@@ -1,8 +1,9 @@
 ---
 title: Future Ready Programme
-permalink: /programmes/permalink/
+permalink: /programmes/Future-Ready-Programme/
 description: ""
 ---
+
 ### Future-Ready Programme
 
 

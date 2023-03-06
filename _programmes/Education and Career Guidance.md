@@ -1,8 +1,10 @@
 ---
 title: Education and Career Guidance
-permalink: /signature-programmes/Education-and-Career-Guidance/permalink/
+permalink: /programmes/Education-and-Career-Guidance/
 description: ""
 ---
+
+
 ![](/images/Banner.jpg)
 
 Education and Career Guidance

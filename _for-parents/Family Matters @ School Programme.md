@@ -1,8 +1,9 @@
 ---
 title: Family Matters @ School Programme
-permalink: /for-parents/permalink/
+permalink: /for-parents/familymatters/
 description: ""
 ---
+
 Family Matters @ School Programme
 ================================
 

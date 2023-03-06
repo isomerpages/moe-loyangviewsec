@@ -1,8 +1,9 @@
 ---
 title: Purchase of Books and Uniforms (2022)
-permalink: /community-involvement/Purchase-of-Books-and-Uniforms-2022/permalink/
+permalink: /community-involvement/Purchase-of-Books-and-Uniforms-2022/
 description: ""
 ---
+
 ![](/images/Banner.jpg)
 
 Purchase of Books and Uniforms (2022)

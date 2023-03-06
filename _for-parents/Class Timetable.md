@@ -1,8 +1,9 @@
 ---
 title: Class Timetable
-permalink: /for-parents/permalink/
+permalink: /for-parents/classtimetable/
 description: ""
 ---
+
 ## Class Timetables
 
 

@@ -1,9 +1,10 @@
 ---
 title: Parents and Students
-permalink: /community-involvement/Parents-and-Students/Parents-and-Students/permalink/
+permalink: /community-involvement/Parents-and-Students/Parents-and-Students/
 description: ""
 third_nav_title: Parents and Students
 ---
+
 ![](/images/Banner.jpg)
 
 Parents and Students

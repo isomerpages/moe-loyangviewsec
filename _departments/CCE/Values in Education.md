@@ -1,9 +1,10 @@
 ---
 title: Values in Education
-permalink: /department/CCE/Values-in-Education/permalink/
+permalink: /department/CCE/Values-in-Education/
 description: ""
 third_nav_title: CCE
 ---
+
 ![](/images/Banner.jpg)
 
 Values in Education

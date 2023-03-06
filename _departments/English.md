@@ -1,8 +1,9 @@
 ---
 title: English
-permalink: /department/English/permalink/
+permalink: /department/English/
 description: ""
 ---
+
 ![](/images/Banner.jpg)
 
 English

@@ -1,9 +1,10 @@
 ---
 title: Chinese Language
-permalink: /department/Mother-Tongue/Chinese-Language/permalink/
+permalink: /department/Mother-Tongue/Chinese-Language/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
+
 
 ![](/images/Banner.jpg)
 

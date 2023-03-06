@@ -1,8 +1,9 @@
 ---
 title: PE & CCA Department
-permalink: /department/PE-and-CCA-Department/permalink/
+permalink: /department/PE-and-CCA-Department/
 description: ""
 ---
+
 ![](/images/Banner.jpg)
 
 Physical Education

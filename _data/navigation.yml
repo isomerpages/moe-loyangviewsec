@@ -2,28 +2,13 @@ logo: /images/JPG-LVSS OFFICIAL CREST VERSION 2.jpg
 links:
   - title: About Us
     collection: about-us
-  - title: Department
-    url: /department/Craft-and-Technology/Craft-and-Technology/permalink/
-    sublinks:
-      - title: English
-        url: /department/English/permalink/
-      - title: Mother Tongue
-        url: /department/Mother-Tongue/permalink/
-      - title: Mathematics
-        url: /department/Mathematics/permalink/
-      - title: Sciences
-        url: /department/Science/Science/permalink/
-      - title: Humanities
-        url: /department/Humanities/permalink/
-      - title: Craft & Technology
-        url: /department/Craft-and-Technology/Craft-and-Technology/permalink/
-      - title: Physical Education
-        url: /department/PE-and-CCA-Department/permalink/
-      - title: CCE
-        url: /department/CCE/CCE/permalink/
+  - title: Departments
+    collection: departments
   - title: CCAs
     collection: cca
   - title: Programmes
     collection: programmes
   - title: For Parents
     collection: for-parents
+  - title: Links
+    collection: links

@@ -1,9 +1,10 @@
 ---
 title: Smart Electrical Technology
-permalink: /department/Science-SET/Smart-Electrical-Technology/permalink/
+permalink: /department/Science-SET/Smart-Electrical-Technology/
 description: ""
 third_nav_title: Sciences
 ---
+
 
 ![](/images/Banner.jpg)
 

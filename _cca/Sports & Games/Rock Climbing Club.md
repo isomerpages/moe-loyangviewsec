@@ -1,9 +1,10 @@
 ---
 title: Rock Climbing Club
-permalink: /co-curricular-activities/Sports-and-Games/Rock-Climbing-Club/permalink/
+permalink: /co-curricular-activities/Sports-and-Games/Rock-Climbing-Club/
 description: ""
 third_nav_title: Sports & Games
 ---
+
 ![](/images/Banner.jpg)
 
 Rock Climbing Club

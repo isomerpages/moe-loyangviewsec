@@ -1,8 +1,9 @@
 ---
 title: Latest Happenings
-permalink: /Latest-Happenings/permalink/
+permalink: /Latest-Happenings/
 description: ""
 ---
+
 
 # Latest Happenings
 

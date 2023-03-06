@@ -1,8 +1,9 @@
 ---
 title: Overseas Educational Programme
-permalink: /signature-programmes/Overseas-Educational-Programme/permalink/
+permalink: /programmes/Overseas-Educational-Programme/
 description: ""
 ---
+
 ![](/images/Banner.jpg)
 
 Overseas Educational Programme

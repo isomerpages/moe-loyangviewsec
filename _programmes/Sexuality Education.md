@@ -1,8 +1,9 @@
 ---
 title: Sexuality Education
-permalink: /department/CCE/Sexuality-Education/permalink/
+permalink: /programmes/Sexuality-Education/
 description: ""
 ---
+
 ![](/images/Banner.jpg)
 
 Sexuality Education
@@ -35,8 +36,7 @@ The **Key Messages** of Sexuality Education are:
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-  
-##### 
+
 #### **Overview of Loyang View Secondary School’s Sexuality Education Programme for 2023**  
   
 

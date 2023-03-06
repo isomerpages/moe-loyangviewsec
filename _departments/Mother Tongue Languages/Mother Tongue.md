@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue
-permalink: /department/Mother-Tongue/permalink/
+permalink: /department/Mother-Tongue/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
@@ -146,11 +146,11 @@ Normal Technical : BCL / BML / BTL 
 
 For a separate look at our various languages offered, please click the following links below or at the side:  
   
-[Chinese Language](/department/Mother-Tongue/Chinese-Language/permalink/)
+[Chinese Language](/department/Mother-Tongue/Chinese-Language/)
 
-[Malay Language](/department/Mother-Tongue/Malay-Language/permalink/)
+[Malay Language](/department/Mother-Tongue/Malay-Language/)
 
-[Tamil Language](/department/Mother-Tongue/Tamil-Language/permalink/)
+[Tamil Language](/department/Mother-Tongue/Tamil-Language/)
 
 ### Mother Tongue Fortnight 2021
 ----------------------------

@@ -1,8 +1,10 @@
 ---
 title: Learning For Life Programme (LLP)
-permalink: /signature-programmes/Learning-For-Life-Programme-LLP/permalink/
+permalink: /programmes/Learning-For-Life-Programme-LLP/
 description: ""
 ---
+
+
 ![](/images/Banner.jpg)
 
 Learning For Life Programme (LLP)

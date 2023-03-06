@@ -1,9 +1,10 @@
 ---
 title: Student Creed
-permalink: /about-us/School-Ethos/permalink/
+permalink: /about-us/School-Ethos/schoolcreed/
 description: ""
 third_nav_title: School Ethos
 ---
+
 
 
 Student Creed

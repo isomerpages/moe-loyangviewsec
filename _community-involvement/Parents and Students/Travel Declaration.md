@@ -1,9 +1,10 @@
 ---
 title: Travel Declaration
-permalink: /community-involvement/Parents-and-Students/Travel-Declaration/permalink/
+permalink: /community-involvement/Parents-and-Students/Travel-Declaration/
 description: ""
 third_nav_title: Parents and Students
 ---
+
 ![](/images/Banner.jpg)
 
 # Travel Declaration

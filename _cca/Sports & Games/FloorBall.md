@@ -1,9 +1,10 @@
 ---
 title: FloorBall
-permalink: /co-curricular-activities/Sports-and-Games/FloorBall/permalink/
+permalink: /co-curricular-activities/Sports-and-Games/FloorBall/
 description: ""
 third_nav_title: Sports & Games
 ---
+
 ![](/images/Banner.jpg)
 
 FloorBall

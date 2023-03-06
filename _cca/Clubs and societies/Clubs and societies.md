@@ -1,9 +1,10 @@
 ---
 title: Clubs and societies
-permalink: /co-curricular-activities/Clubs-and-Societies/Clubs-and-societies/permalink/
+permalink: /co-curricular-activities/Clubs-and-Societies/Clubs-and-societies/
 description: ""
 third_nav_title: Clubs and societies
 ---
+
 
 ![](/images/Banner.jpg)
 

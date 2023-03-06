@@ -1,7 +1,8 @@
 ---
 title: Achievements
-permalink: /news/permalink/
+permalink: /news/Achievements/
 description: ""
 ---
+
 
 Page under construction

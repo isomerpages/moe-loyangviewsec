@@ -11,11 +11,11 @@ sections:
       key_highlights:
         - title: "Announcements "
           description: ""
-          url: /Announcements/permalink/
+          url: /Announcements/
         - title: Latest Happenings
           description: ""
-          url: /Latest-Happenings/permalink/
+          url: /Latest-Happenings/
         - title: Achievements
           description: ""
-          url: /Achievements/permalink/
+          url: /news/Achievements/
 ---

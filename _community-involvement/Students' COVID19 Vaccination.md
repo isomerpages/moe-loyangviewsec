@@ -1,8 +1,9 @@
 ---
 title: Students' COVID19 Vaccination
-permalink: /community-involvement/Students-COVID-19-Vaccination/permalink/
+permalink: /community-involvement/Students-COVID-19-Vaccination/
 description: ""
 ---
+
 ![](/images/Banner.jpg)
 
 Students' COVID-19 Vaccination

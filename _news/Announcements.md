@@ -1,8 +1,9 @@
 ---
 title: Announcements
-permalink: /Announcements/permalink/
+permalink: /Announcements/
 description: ""
 ---
+
 Announcements
 =================
 ### **Cancellation of Sec 2N Elective Modules on (6 - 8 March 2023)**

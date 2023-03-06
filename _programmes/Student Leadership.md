@@ -1,8 +1,9 @@
 ---
 title: Student Leadership
-permalink: /signature-programmes/Student-Leadership/permalink/
+permalink: /programmes/Student-Leadership/
 description: ""
 ---
+
 ![](/images/Banner.jpg)
 
 Student Leadership

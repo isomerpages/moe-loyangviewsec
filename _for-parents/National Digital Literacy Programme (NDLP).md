@@ -1,8 +1,9 @@
 ---
 title: National Digital Literacy Programme (NDLP)
-permalink: /for-parents/permalink/
+permalink: /for-parents/ndlp/
 description: ""
 ---
+
 National Digital Literacy Programme (NDLP)
 ==========================================
 

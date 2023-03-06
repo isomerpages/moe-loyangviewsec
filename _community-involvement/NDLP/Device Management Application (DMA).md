@@ -1,9 +1,10 @@
 ---
 title: Device Management Application (DMA)
-permalink: /community-involvement/NDLP/Device-Management-Application-DMA/permalink/
+permalink: /community-involvement/NDLP/Device-Management-Application-DMA/
 description: ""
 third_nav_title: NDLP
 ---
+
 ![](/images/Banner.jpg)
 
 Device Management Application (DMA)

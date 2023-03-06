@@ -1,9 +1,10 @@
 ---
 title: Dance Club
-permalink: /co-curricular-activities/performing-arts/Dance-Club/permalink/
+permalink: /co-curricular-activities/performing-arts/Dance-Club/
 description: ""
 third_nav_title: Performing Arts
 ---
+
 Dance Club
 ==========
 

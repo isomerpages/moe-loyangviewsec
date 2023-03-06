@@ -1,9 +1,10 @@
 ---
 title: National Police Cadet Corps
-permalink: /co-curricular-activities/Uniformed-Groups/National-Police-Cadet-Corps/permalink/
+permalink: /co-curricular-activities/Uniformed-Groups/National-Police-Cadet-Corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+
 ![](/images/Banner.jpg)
 
 National Police Cadet Corps

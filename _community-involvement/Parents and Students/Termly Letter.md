@@ -1,9 +1,10 @@
 ---
 title: Termly Letter
-permalink: /community-involvement/Parents-and-Students/Termly-Letter/permalink/
+permalink: /community-involvement/Parents-and-Students/Termly-Letter/
 description: ""
 third_nav_title: Parents and Students
 ---
+
 ![](/images/Banner.jpg)
 
 Termly Letter

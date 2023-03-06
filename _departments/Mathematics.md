@@ -1,8 +1,9 @@
 ---
 title: Mathematics
-permalink: /department/Mathematics/permalink/
+permalink: /department/Mathematics/
 description: ""
 ---
+
 ![](/images/Banner.jpg)
 
 Mathematics

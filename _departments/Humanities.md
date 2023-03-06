@@ -1,8 +1,9 @@
 ---
 title: Humanities
-permalink: /department/Humanities/permalink/
+permalink: /department/Humanities/
 description: ""
 ---
+
 ![](/images/Banner.jpg)
 
 Humanities

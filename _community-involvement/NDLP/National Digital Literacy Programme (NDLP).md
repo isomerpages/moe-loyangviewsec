@@ -1,9 +1,10 @@
 ---
 title: National Digital Literacy Programme (NDLP)
-permalink: /community-involvement/National-Digital-Literacy-Programme-NDLP/permalink/
+permalink: /community-involvement/National-Digital-Literacy-Programme-NDLP/
 description: ""
 third_nav_title: NDLP
 ---
+
 ![](/images/Banner.jpg)
 
 National Digital Literacy Programme (NDLP)

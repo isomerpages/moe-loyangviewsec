@@ -1,8 +1,9 @@
 ---
 title: School Vendors (Bookshop, Uniform, Bus)
-permalink: /for-parents/permalink/
+permalink: /for-parents/schoolvendors/
 description: ""
 ---
+
 ### School Vendors (Books, Uniforms, Bus)
 
 

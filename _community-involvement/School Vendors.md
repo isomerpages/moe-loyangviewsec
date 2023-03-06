@@ -1,8 +1,9 @@
 ---
 title: School Vendors
-permalink: /community-involvement/School-Vendors/permalink/
+permalink: /community-involvement/School-Vendors/
 description: ""
 ---
+
 ![](/images/Banner.jpg)
 
 School Vendors

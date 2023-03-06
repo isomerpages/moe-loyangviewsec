@@ -1,6 +1,7 @@
 ---
 title: GEAR Up
-permalink: /programmes/permalink/
+permalink: /programmes/GEAR-Up/
 description: ""
 ---
+
 ## Page is under construction!

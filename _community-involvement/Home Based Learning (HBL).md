@@ -1,8 +1,9 @@
 ---
 title: Home Based Learning (HBL)
-permalink: /community-involvement/Home-Based-Learning-HBL/permalink/
+permalink: /community-involvement/Home-Based-Learning-HBL/
 description: ""
 ---
+
 ![](/images/Banner.jpg)
 
 Home-Based Learning (HBL)

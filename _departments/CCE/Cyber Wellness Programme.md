@@ -1,9 +1,10 @@
 ---
 title: Cyber Wellness Programme
-permalink: /department/CCE/Cyber-Wellness-Programme/permalink/
+permalink: /department/CCE/Cyber-Wellness-Programme/
 description: ""
 third_nav_title: CCE
 ---
+
 ![](/images/Banner.jpg)
 
 Cyber Wellness Programme

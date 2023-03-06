@@ -1,8 +1,9 @@
 ---
 title: Home Based Learning (HBL)
-permalink: /for-parents/permalink/
+permalink: /for-parents/hbl/
 description: ""
 ---
+
 ## Home-Based Learning (HBL)
 
 

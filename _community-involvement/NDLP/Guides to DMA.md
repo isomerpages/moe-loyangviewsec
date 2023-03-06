@@ -1,9 +1,10 @@
 ---
 title: Guides to DMA
-permalink: /community-involvement/NDLP/Guides-to-DMA/permalink/
+permalink: /community-involvement/NDLP/Guides-to-DMA/
 description: ""
 third_nav_title: NDLP
 ---
+
 ![](/images/Banner.jpg)
 
 Guides to DMA

@@ -1,9 +1,10 @@
 ---
 title: Tamil Language
-permalink: /department/Mother-Tongue/Tamil-Language/permalink/
+permalink: /department/Mother-Tongue/Tamil-Language/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
+
 
 ![](/images/Banner.jpg)
 

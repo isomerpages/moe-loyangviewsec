@@ -1,8 +1,9 @@
 ---
 title: School Examinations
-permalink: /community-involvement/School-Examinations/permalink/
+permalink: /community-involvement/School-Examinations/
 description: ""
 ---
+
 ![](/images/Banner.jpg)
 
 School Examinations

@@ -1,9 +1,10 @@
 ---
 title: Malay Language
-permalink: /department/Mother-Tongue/Malay-Language/permalink/
+permalink: /department/Mother-Tongue/Malay-Language/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
+
 
 ![](/images/Banner.jpg)
 

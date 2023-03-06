@@ -1,9 +1,10 @@
 ---
 title: Drama Club
-permalink: /co-curricular-activities/performing-arts/Drama-Club/permalink/
+permalink: /co-curricular-activities/performing-arts/Drama-Club/
 description: ""
 third_nav_title: Performing Arts
 ---
+
 
 
 Drama Club

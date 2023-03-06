@@ -1,8 +1,9 @@
 ---
 title: FamilyMatters @ School Programme
-permalink: /community-involvement/FamilyMatters-at-School-Programme/permalink/
+permalink: /community-involvement/FamilyMatters-at-School-Programme/
 description: ""
 ---
+
 ![](/images/Banner.jpg)
 
 FamilyMatters @ School Programme

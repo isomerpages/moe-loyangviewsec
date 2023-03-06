@@ -1,9 +1,10 @@
 ---
 title: Food & Nutrition
-permalink: /department/Craft-and-Technology/Food-and-Nutrition/permalink/
+permalink: /department/Craft-and-Technology/Food-and-Nutrition/
 description: ""
 third_nav_title: Craft & Technology
 ---
+
 ![](/images/Banner.jpg)
 
 Food & Nutrition
