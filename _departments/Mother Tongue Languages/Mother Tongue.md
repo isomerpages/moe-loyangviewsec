@@ -63,13 +63,18 @@ Mother Tongue
     <td class="tg-7fd7">Teacher / Chinese Language</td>
     <td class="tg-7fd7">chow_wei_yuan@moe.edu.sg </td>
   </tr>
-  
+  <tr>
     <td class="tg-7fd7">Mr Ganesan Thiruvalluvan</td>
     <td class="tg-7fd7">Teacher / Tamil Language</td>
     <td class="tg-7fd7"> ganesan_thiruvalluvan@moe.edu.sg</td>
   </tr>
+	 <tr>
+    <td class="tg-7fd7">Mr Veerapathra Pillai Ramar</td>
+    <td class="tg-7fd7">Teacher / Tamil Language</td>
+    <td class="tg-7fd7"> veerapathra_pillai_ramar@moe.edu.sg</td>
+  </tr>
   <tr>
-    <td class="tg-citn"><span style="background-color:initial">Mdm Rosmaiza Mohd Yussof</span><br></td>
+    <td class="tg-citn">Mdm Rosmaiza Mohd Yussof</span><br></td>
     <td class="tg-7fd7">Teacher / Malay Language </td>
     <td class="tg-7fd7">rosmaiza_mohd_yussof@moe.edu.sg</td>
   </tr>
