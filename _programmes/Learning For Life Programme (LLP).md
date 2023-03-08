@@ -3,8 +3,6 @@ title: Learning For Life Programme (LLP)
 permalink: /programmes/Learning-For-Life-Programme-LLP/
 description: ""
 ---
-
-
 ![](/images/Banner.jpg)
 
 Learning For Life Programme (LLP)
@@ -12,6 +10,15 @@ Learning For Life Programme (LLP)
 
 ### Sports and Outdoor Education
 ----------------------------
+
+
+Our Learning for Life (LLP) Programme provides opportunities aimed at nurturing students’ resilience – to persevere through challenges and thrive confidently. Through various sports, physical, and outdoor activities, students are developed holistically, leading active and purposeful lives.   
+
+By working together with peers and teachers, students undergo real-life experiences that allow them to hone their social and emotional competencies to grow to be caring and confident individuals who can overcome future challenges. This is key to our efforts in developing our students’ character.
+
+
+
+
 
 Holistic School Student Outcomes:-
 

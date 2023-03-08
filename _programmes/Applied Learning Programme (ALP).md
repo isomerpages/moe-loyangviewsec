@@ -3,8 +3,6 @@ title: Applied Learning Programme (ALP)
 permalink: /programmes/Applied-Learning-Programme-ALP/
 description: ""
 ---
-
-
 ![](/images/Banner.jpg)
 
 Applied Learning Programme (ALP)
@@ -14,7 +12,10 @@ Applied Learning Programme (ALP)
 
 ### APPLIED LEARNING PROGRAMME (ALP) - SUSTAINABILITY
 
-Our Applied Learning Programme (ALP) journey started in 2014 to expose students to design-based science activities targeted at developing values and skill sets related to STEM (Science, Technology, Engineering and Mathematics) fields.   
+
+Our Applied Learning Programme (ALP) provides our students with the opportunity to delve into STEM (Science, Technology, Engineering and Mathematics) fields while applying design-thinking skills to solve real-world issues. Through the engaging activities, we seek to cultivate a scientific mindset in our students.   
+
+Sustainability is the key theme of our programme. Our students, as future-ready and active citizens, partake in discussions and experiences with peers, teachers and industry partners as they strive to keep Singapore sustainable for our future, in line with one of the United Nations’ Sustainable Development Goals – Affordable and Clean Energy. 
 
 Sustainability is the key theme of our programme, as we seek to instill mindset of keeping Singapore sustainable for our future generations. The activities designed aim to be in line with one of United Nation’s Sustainable Development Goals – **Affordable and Clean Energy**.
 
