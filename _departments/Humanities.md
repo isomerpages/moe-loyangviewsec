@@ -3,7 +3,6 @@ title: Humanities
 permalink: /department/Humanities/
 description: ""
 ---
-
 ![](/images/Banner.jpg)
 
 Humanities
@@ -48,18 +47,13 @@ Humanities
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Rabiatuladawiyah Binte Mohamed Razif</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Covering SH / CCE </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Subject Head / CCE </span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">rabiatuladawiyah_mohd_razif@moe.edu.sg </span></td>
   </tr>
   <tr>
     <td class="tg-ii8k">Mdm Chang Ping Sze, Victoria</td>
     <td class="tg-ii8k">Teacher / Geography</td>
     <td class="tg-ii8k">chang_ping_sze@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Mrs Elaine Goh</td>
-    <td class="tg-ii8k">Teacher / Geography</td>
-    <td class="tg-ii8k">goh_kwong_seng_elaine@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ii8k">Ms Lim Chiang Siew</td>
