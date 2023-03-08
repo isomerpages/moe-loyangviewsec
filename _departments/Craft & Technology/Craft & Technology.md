@@ -4,7 +4,6 @@ permalink: /department/Craft-and-Technology/Craft-and-Technology/
 description: ""
 third_nav_title: Craft & Technology
 ---
-
 ![](/images/Banner.jpg)
 
 Craft & Technology
@@ -52,11 +51,6 @@ The Craft & Technology Department comprises Art, Design and Technology, Food & N
     <td class="tg-ii8k">nurfitriah_abdul_rahman@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Malathi Therunavu Karasu</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Flexi-Adjunct Teacher / Art</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">malathi_therunavu_karasu@moe.edu.sg</span><br></td>
-  </tr>
-  <tr>
     <td class="tg-ii8k">Mdm Lee Siew Yian</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher / Design and Technology </span></td>
     <td class="tg-ii8k">lee_siew_yian@moe.edu.sg</td>
@@ -66,11 +60,7 @@ The Craft & Technology Department comprises Art, Design and Technology, Food & N
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher / Design and Technology  </span></td>
     <td class="tg-ii8k">Lim_jit_hui_clement@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-ii8k">Mr Wee Soh Ye Patrick</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher / Design and Technology  </span></td>
-    <td class="tg-ii8k">wee_soh_ye@moe.edu.sg</td>
-  </tr>
+ 
   <tr>
     <td class="tg-ii8k">Miss Nurzatushuhadah Binte Mohamed Razif</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher / Food and Nutrition </span></td>
@@ -92,9 +82,9 @@ The Craft & Technology Department comprises Art, Design and Technology, Food & N
     <td class="tg-ii8k">li_jiayi_yvonne@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">Miss Teo Jiamin</td>
+    <td class="tg-ii8k">Mr Chester Tan Yue Jun</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher / Music </span></td>
-    <td class="tg-ii8k">teo_jiamin@moe.edu.sg</td>
+    <td class="tg-ii8k">chester_tan_yue_jun@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ii8k">Miss Tan Wen Siu</td>
@@ -102,9 +92,9 @@ The Craft & Technology Department comprises Art, Design and Technology, Food & N
     <td class="tg-ii8k">tan_wen_siu@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Tan Yar May</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Lee Teck Hiang</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher / Craft &amp; Technology </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  tan_yar_may@moe.edu.sg</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  lee_teck_hiang@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-ii8k">Mr Bong Choon Huat</td>
