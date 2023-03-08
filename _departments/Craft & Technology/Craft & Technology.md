@@ -60,7 +60,11 @@ The Craft & Technology Department comprises Art, Design and Technology, Food & N
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher / Design and Technology  </span></td>
     <td class="tg-ii8k">Lim_jit_hui_clement@moe.edu.sg</td>
   </tr>
- 
+ <tr>
+    <td class="tg-ii8k">Mr Kamaruddin Mohd Ibrahim</td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher / Design and Technology  </span></td>
+    <td class="tg-ii8k">kamaruddin_mohd_ibrahim@moe.edu.sg</td>
+  </tr>
   <tr>
     <td class="tg-ii8k">Miss Nurzatushuhadah Binte Mohamed Razif</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher / Food and Nutrition </span></td>
