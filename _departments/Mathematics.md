@@ -3,7 +3,6 @@ title: Mathematics
 permalink: /department/Mathematics/
 description: ""
 ---
-
 ![](/images/Banner.jpg)
 
 Mathematics
@@ -36,6 +35,10 @@ Mathematics
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Head of Department / Mathematics </span></td>
     <td class="tg-ii8k">lie_hui_min@moe.edu.sg</td>
   </tr>
+  <tr><td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Koe Soon Guan </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Head of Department / ICT</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">koe_soon_guan@moe.edu.sg </span></td>
+		  </tr>
   <tr>
     <td class="tg-ii8k">Ms Chew Pei Jun Christina<br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Level Head / Mathematics </span></td>
@@ -48,13 +51,11 @@ Mathematics
   </tr>
   <tr>
     <td class="tg-ii8k">Mr Tan Wei Ming Ryan<br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Year Head (Upper Sec) (Covering)</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Subject Head /Discipline</span></td>
     <td class="tg-ii8k">tan_wei_ming@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Koe Soon Guan </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Subject Head / ICT</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">koe_soon_guan@moe.edu.sg </span></td>
+    
   </tr>
   <tr>
     <td class="tg-ii8k">Mr Loo Hup Tee<br></td>
@@ -112,9 +113,7 @@ Mathematics
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ang_woon_nee_wennie@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mrs Wendy Tan-Siow Hui Yee</span><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> siow_hui_yee@moe.edu.sg</span></td>
+  
   </tr>
 </tbody>
 </table>
