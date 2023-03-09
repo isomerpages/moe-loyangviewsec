@@ -3,7 +3,6 @@ title: Useful Links for Staff
 permalink: /links/permalink/
 description: ""
 ---
-
 * [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
 * [School Cockpit Plus](https://schoolcockpit.moe.gov.sg/)
 * [HR Online](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
