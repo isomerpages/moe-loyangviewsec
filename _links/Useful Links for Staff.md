@@ -3,6 +3,7 @@ title: Useful Links for Staff
 permalink: /links/permalink/
 description: ""
 ---
+USEFUL LINKS FOR STAFF
 * [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
 * [School Cockpit Plus](https://schoolcockpit.moe.gov.sg/)
 * [HR Online](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
@@ -13,3 +14,13 @@ description: ""
 * [iExams 2.0](https://iexams.seab.gov.sg/login)
 * [Resource Booking System](https://rbs.avero-tech.com/)
 * [NIE Learning Resourcces - eTools](https://learn.nie.edu.sg/etoolsNIE/default.aspx)
+
+USEFUL LINKS FOR STUDENTS
+
+*  [All Ears](https://forms.moe.edu.sg/auth)
+
+
+* [Schoolbag](https://schoolbag.sg/)
+
+
+*   [Student Learning Space (SLS)](https://www.learning.moe.edu.sg/sls/index.html)
