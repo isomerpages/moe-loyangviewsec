@@ -4,7 +4,6 @@ permalink: /about-us/School-Ethos/values/
 description: ""
 third_nav_title: School Ethos
 ---
-
 ## School Values
 
 ### **Responsibility** 
@@ -16,5 +15,3 @@ third_nav_title: School Ethos
 ### **Integrity**
 
 ### **Compassion**
-
-![](/images/School%20Org/Compassion.jpg)

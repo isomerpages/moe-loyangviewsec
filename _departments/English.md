@@ -3,7 +3,6 @@ title: English
 permalink: /department/English/
 description: ""
 ---
-
 ![](/images/Banner.jpg)
 
 English
@@ -93,10 +92,13 @@ English
     <td class="tg-2rp9"><span style="color:inherit;background-color:transparent"> leong_wai_hoe@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><span style="color:inherit;background-color:transparent">Mrs Rohana Binte Abdul Latip</span><br></td>
-    <td class="tg-2rp9"><span style="color:inherit;background-color:transparent">Allied Educator (Teaching and Learning)</span></td>
-    <td class="tg-7ohh"><span style="color:rgba(0, 0, 0, 0.87)">rohana_abdul_latip_a@moe.edu.sg           </span></td>
-  </tr>
+    <td class="tg-2rp9"><span style="color:inherit;background-color:transparent">Ms Ram Pyaree D/O Taker Singh</span><br></td>
+    <td class="tg-2rp9"><span style="color:inherit;background-color:transparent">Teacher</span></td>
+    <td class="tg-7ohh"><span style="color:rgba(0, 0, 0, 0.87)">ram_pyaree_taker_singh@moe.edu.sg           </span></td>
+  </tr>  <tr>
+    <td class="tg-2rp9"><span style="color:inherit;background-color:transparent">Ms Nurasyikin Binte Kassim</span><br></td>
+    <td class="tg-2rp9"><span style="color:inherit;background-color:transparent">Teacher</span></td>
+    <td class="tg-7ohh"><span style="color:rgba(0, 0, 0, 0.87)">nurasyikin_kassim@moe.edu.sg        </span></td>
 </tbody>
 </table>
 

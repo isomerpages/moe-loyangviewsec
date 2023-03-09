@@ -40,6 +40,9 @@ Mother Tongue
     <td class="tg-7fd7">Head of Department / Mother Tongue Language </td>
     <td class="tg-7fd7">liu_yan_a@moe.edu.sg </td>
   </tr>
+	<td class="tg-7fd7"> Mdm Nurul Farhana Binte Mohd Kassim</td>
+    <td class="tg-7fd7">Subject Head / Malay Language  </td>
+    <td class="tg-7fd7">nurul_farhana_mohamed_kass@moe.edu.sg  </td>
   <tr>
     <td class="tg-citn">Mr Dennis Lim Teck Yong</td>
     <td class="tg-7fd7">Senior Teacher / Chinese Language </td>
@@ -60,13 +63,18 @@ Mother Tongue
     <td class="tg-7fd7">Teacher / Chinese Language</td>
     <td class="tg-7fd7">chow_wei_yuan@moe.edu.sg </td>
   </tr>
-  
+  <tr>
     <td class="tg-7fd7">Mr Ganesan Thiruvalluvan</td>
     <td class="tg-7fd7">Teacher / Tamil Language</td>
     <td class="tg-7fd7"> ganesan_thiruvalluvan@moe.edu.sg</td>
   </tr>
+	 <tr>
+    <td class="tg-7fd7">Mr Veerapathra Pillai Ramar</td>
+    <td class="tg-7fd7">Teacher / Tamil Language</td>
+    <td class="tg-7fd7"> veerapathra_pillai_ramar@moe.edu.sg</td>
+  </tr>
   <tr>
-    <td class="tg-citn"><span style="background-color:initial">Mdm Rosmaiza Mohd Yussof</span><br></td>
+    <td class="tg-citn">Mdm Rosmaiza Mohd Yussof</span><br></td>
     <td class="tg-7fd7">Teacher / Malay Language </td>
     <td class="tg-7fd7">rosmaiza_mohd_yussof@moe.edu.sg</td>
   </tr>
@@ -86,9 +94,9 @@ Mother Tongue
     <td class="tg-7fd7"> hamisah_sheikh_nahji@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-7fd7"> Mdm Sumarni Selamat</td>
-    <td class="tg-7fd7">FAJT / Malay Language  </td>
-    <td class="tg-7fd7">sumarni_selamat@moe.edu.sg  </td>
+    <td class="tg-7fd7"> Mr Ahmad Bin Ismail</td>
+    <td class="tg-7fd7">Teacher / Malay Language  </td>
+    <td class="tg-7fd7">ahmad_ismail@moe.edu.sg  </td>
   </tr>
 </tbody>
 </table>

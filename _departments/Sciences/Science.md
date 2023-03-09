@@ -37,16 +37,23 @@ Science
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  tan_kia_hock@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ii8k">Koh-Wong Lai Mui Rachel (Mrs)</td>
-    <td class="tg-ii8k">Senior Teacher (Chemistry)</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> wong_lai_mui@moe.edu.sg</span></td>
-  </tr>
-  <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mohamed Nasir Bin Rahmat Ali (Mr) </span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Year Head (Upper Sec) / Teacher (Chemistry) </span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">mohamed_nasir@moe.edu.sg </span></td>
+  </tr> <tr>
+    <td class="tg-ii8k">Wong Wei Hon Harry (Mr)</td>
+    <td class="tg-ii8k">Level Head (Science)</td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">wong_wei_hon_harry@moe.edu.sg </span></td>
   </tr>
-  <tr>
+   <tr>
+    <td class="tg-ii8k">Tan Kok Yong Ronald (Mr)</td>
+    <td class="tg-ii8k">Covering SH (ICT) /Teacher (Physics)</td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">tan_kok_yong_ronald@moe.edu.sg </span></td>
+  </tr>  <tr>
+    <td class="tg-ii8k">Koh-Wong Lai Mui Rachel (Mrs)</td>
+    <td class="tg-ii8k">Senior Teacher (Chemistry)</td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> wong_lai_mui@moe.edu.sg</span></td>
+  </tr><tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Yeoh-Goh Cheng Khim (Mrs)  </span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Teacher (Chemistry)</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  goh_cheng_khim@moe.edu.sg </span></td>
@@ -67,30 +74,24 @@ Science
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> nurul_imma_wong@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Gui Eng Hong (Mr) </span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Senior Teacher (Physics)</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> gui_eng_hong@moe.edu.sg </span></td>
+  
   </tr>
-  <tr>
-    <td class="tg-ii8k">Harry Wong Wei Hon (Mr)</td>
-    <td class="tg-ii8k">Teacher (Physics)</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">wong_wei_hon_harry@moe.edu.sg </span></td>
-  </tr>
+ 
   <tr>
     <td class="tg-ii8k">Heng Ching Fei (Mr)</td>
     <td class="tg-ii8k">Teacher (Physics)</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">heng_ching_fei@moe.edu.sg </span></td>
   </tr>
-  <tr>
-    <td class="tg-ii8k">Tan Kok Yong Ronald (Mr)</td>
-    <td class="tg-ii8k">Teacher (Physics)</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">tan_kok_yong_ronald@moe.edu.sg </span></td>
-  </tr>
+ 
   <tr>
     <td class="tg-ii8k">Rozita Binte Selamat (Ms)</td>
     <td class="tg-ii8k">School Laboratory Technician</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> rozita_selamat_a@moe.edu.sg</span></td>
   </tr>
+	 <tr>
+    <td class="tg-ii8k">Tan Lay Hwa (Ms)</td>
+    <td class="tg-ii8k">School Laboratory Technician</td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> tan_lay_hwa@moe.edu.sg</span></td>
 </tbody>
 </table>
 

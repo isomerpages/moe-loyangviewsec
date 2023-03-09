@@ -3,7 +3,6 @@ title: PE & CCA Department
 permalink: /department/PE-and-CCA-Department/
 description: ""
 ---
-
 ![](/images/Banner.jpg)
 
 Physical Education
@@ -42,9 +41,9 @@ Physical Education
     <td class="tg-ii8k">tan_siew_heng_raymond@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">Mr Lee Hock Joo</td>
+    <td class="tg-ii8k">Mr Melky Putera Padidunan</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Senior Teacher/ Physical Education </span></td>
-    <td class="tg-ii8k">lee_hock_joo@moe.edu.sg</td>
+    <td class="tg-ii8k">melky_putera_papidunan@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-ii8k">Ms Wendy Siow Hui Yee</td>
