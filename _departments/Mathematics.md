@@ -9,7 +9,26 @@ Mathematics
 ===========
 
 ### Our Staff
----------
+
+| **Name** 	| **Designation** 	| **Email** 	|
+|:---:	|:---:	|:---:	|
+| Ms Lie Hui Min 	| Head of Department / Mathematics  	| lie_hui_min@moe.edu.sg 	|
+| Mr Koe Soon Guan  	| Head of Department / ICT 	| koe_soon_guan@moe.edu.sg  	|
+| Ms Chew Pei Jun Christina 	| Level Head / Mathematics  	| chew_pei_jun_christina@moe.edu.sg  	|
+| Mrs Chew-Swee Mei Yein 	| School Staff Developer  	| swee_mei_yein@moe.edu.sg  	|
+| Mr Tan Wei Ming Ryan 	| Subject Head /Discipline 	| tan_wei_ming@moe.edu.sg 	|
+| Mr Loo Hup Tee 	| Senior Teacher  	| loo_hup_tee@moe.edu.sg  	|
+| Ms Cheng Su Ming Jacqueline 	| Teacher 	| cheng_su_ming_jacqueline@moe.edu.sg 	|
+| Ms Chua Li Wen Amanda 	| Teacher 	| chua_li_wen_amanda@moe.edu.sg 	|
+| Mr Gan Han Li Alvin 	| Teacher 	| gan_han_li_alvin@moe.edu.sg 	|
+| Ms Lau Yuan Zhen 	| Teacher 	| lau_yuan_zhen@moe.edu.sg 	|
+| Mrs Ng-Kok Shu Ling 	| Teacher 	| kok_shu_ling@moe.edu.sg 	|
+| Ms Oi Sihui Gwendolin 	| Teacher 	| oi_sihui_gwendolin@moe.edu.sg 	|
+| Mr Sim Lye Eng 	| Teacher 	| sim_lye_eng@moe.edu.sg 	|
+| Ms Siti Nawal Hussein Mattar 	| Teacher 	| siti_nawal_hussein_mattar@moe.edu.sg 	|
+| Ms Suhaila Abdul Ghaffar 	| Teacher 	| suhaila_abdul_ghaffar@moe.edu.sg 	|
+| Mrs Wennie Lim-Ang Woon Nee 	| Teacher 	| ang_woon_nee_wennie@moe.edu.sg 	|
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
