@@ -61,5 +61,3 @@ Our Tamil students participated in Navarasa Thiruvizha 2019. It is a Tamil Langu
 |          | Loyang Sec (LYSS) - Sec 3 - Creative Writing Competition @MOE           |
 | **2017** | Loyang Sec (LYSS) - Marketing Innovation Challenge 2017 - Participation |
 | **2019** | Navarasa Thiruvizha 2019                                                |
-
-
