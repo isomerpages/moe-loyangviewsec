@@ -9,6 +9,7 @@ third_nav_title: Sciences
 # Science
 
 ### Staff
+-----
 
 |                  **Name**                  |                **Designation**               |              **E-Mail**              |
 |:------------------------------------------:|:--------------------------------------------:|:------------------------------------:|
@@ -112,9 +113,8 @@ third_nav_title: Sciences
 </tbody>
 </table>
 
-<h3>About Science Department</h3>
-
-------------------------
+### About Science Department
+-----
 
 _Vision – Every LV Student to have a strong foundation in Science for life, learning, citizenry and work._
 
