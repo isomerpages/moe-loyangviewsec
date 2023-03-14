@@ -4,12 +4,11 @@ permalink: /department/Science/Science/
 description: ""
 third_nav_title: Sciences
 ---
-![](/images/Banner.jpg)
+<img src="/images/Banner.jpg">
 
-Science
-=======
+<h1>Science</h1>
 
-### Staff
+<h3>Staff</h3>
 
 -----
 
