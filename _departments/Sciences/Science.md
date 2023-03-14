@@ -6,11 +6,10 @@ third_nav_title: Sciences
 ---
 <img src="/images/Banner.jpg">
 
-<h1>Science</h1>
+# Science
 
-<h3>Staff</h3>
+### Staff
 
------
 
 
 <style type="text/css">
