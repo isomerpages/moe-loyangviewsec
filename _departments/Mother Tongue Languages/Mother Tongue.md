@@ -62,31 +62,7 @@ Normal Technical : BCL / BML / BTL 
 |-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------|
 | MTL Reading Programme MTL Journalism & Broadcasting MTL Fortnight & Language Camp MTL Intensive (Mar-May/Jun-Sep) | Chinese New Year Celebration Hari Raya Celebration Deepavali Celebration | Sec 1 & 3 Video Challenge Sec 2 Creative Writing Expression |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rdtm">Key Programmes</th>
-    <th class="tg-rdtm">Key Events</th>
-    <th class="tg-rdtm">Key Activities</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-citn">MTL Reading Programme<br>MTL Journalism &amp; Broadcasting<br>MTL Fortnight &amp; Language Camp<br>MTL Intensive (Mar-May/Jun-Sep)</td>
-    <td class="tg-citn">Chinese New Year Celebration<br>Hari Raya Celebration<br>Deepavali Celebration</td>
-    <td class="tg-citn">Sec 1 &amp; 3 Video Challenge<br>Sec 2 Creative Writing Expression</td>
-  </tr>
-</tbody>
-</table>
+
 
 For a separate look at our various languages offered, please click the following links below or at the side:  
   
