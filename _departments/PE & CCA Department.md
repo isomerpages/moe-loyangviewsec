@@ -9,7 +9,16 @@ Physical Education
 ===================
 
 ### Our Staff
----------
+
+|         **Name**         |                 **Designation**                 |             **Email**            |
+|:-------------------------:|:-----------------------------------------------:|:---------------------------------:|
+|       Mr Gabriel Wie      | Head of Department/ Physical Education and CCA  |     wie_chouw_siang@moe.edu.sg    |
+|       Mr Raymond Tan      |     Subject Head/ Physical Education & CCA      |  tan_siew_heng_raymond@moe.edu.sg |
+| Mr Melky Putera Padidunan |       Senior Teacher/ Physical Education        | melky_putera_papidunan@moe.edu.sg |
+|   Ms Wendy Siow Hui Yee   |           Teacher/ Physical Education           |      siow_hui_yee@moe.edu.sg      |
+|   Mr Iliyasa Ong Li Shen  |           Teacher/ Physical Education           |   ong_lishen_iliyasa@moe.edu.sg   |
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
