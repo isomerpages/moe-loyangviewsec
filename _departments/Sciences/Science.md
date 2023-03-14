@@ -10,6 +10,20 @@ third_nav_title: Sciences
 
 ### Staff
 
+|                    Name                    |                  Designation                 |                E-Mail                |
+|:------------------------------------------:|:--------------------------------------------:|:------------------------------------:|
+|              Tan Kia Hock (Mr)             |              Head of Department              |        tan_kia_hock@moe.edu.sg       |
+|     Mohamed Nasir Bin Rahmat Ali (Mr)      | Year Head (Upper Sec) / Teacher (Chemistry)  |       mohamed_nasir@moe.edu.sg       |
+|           Wong Wei Hon Harry (Mr)          |             Level Head (Science)             |    wong_wei_hon_harry@moe.edu.sg     |
+|          Tan Kok Yong Ronald (Mr)          |     Covering SH (ICT) /Teacher (Physics)     |    tan_kok_yong_ronald@moe.edu.sg    |
+|        Koh-Wong Lai Mui Rachel (Mrs)       |          Senior Teacher (Chemistry)          |        wong_lai_mui@moe.edu.sg       |
+|         Yeoh-Goh Cheng Khim (Mrs)          |              Teacher (Chemistry)             |      goh_cheng_khim@moe.edu.sg       |
+|         Oh Wan Ping Josephine (Ms)         |               Teacher (Biology)              |        oh_wan_ping@moe.edu.sg        |
+|        Gabriel Palai Anbu Nambi (Mr)       |              Teacher (Biology)               | gabriel_palai_anbu_nambi@moe.edu.sg  |
+| Nurul Imma Wong Binte Mohd Imran Wong (Ms) |              Teacher (Chemistry)             |      nurul_imma_wong@moe.edu.sg      |
+|             Heng Ching Fei (Mr)            |               Teacher (Physics)              |      heng_ching_fei@moe.edu.sg       |
+|          Rozita Binte Selamat (Ms)         |         School Laboratory Technician         |      rozita_selamat_a@moe.edu.sg     |
+|              Tan Lay Hwa (Ms)              |         School Laboratory Technician         |        tan_lay_hwa@moe.edu.sg        |
 
 
 <style type="text/css">
