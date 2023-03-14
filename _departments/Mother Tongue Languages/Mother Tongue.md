@@ -15,6 +15,23 @@ Mother Tongue
 ![](/images/MTL%20Dept%20Teachers%20Day%20Lunch.jpeg)
 
 
+|               **Name**              |               **Designation**               |               **E-Mail**              |
+|:-----------------------------------:|:--------------------------------------------:|:--------------------------------------:|
+|             Mdm Liu Yan             | Head of Department / Mother Tongue Language  |          liu_yan_a@moe.edu.sg          |
+| Mdm Nurul Farhana Binte Mohd Kassim |        Subject Head / Malay Language         | nurul_farhana_mohamed_kass@moe.edu.sg  |
+|       Mr Dennis Lim Teck Yong       |      Senior Teacher / Chinese Language       |     dennis_lim_teck_yong@moe.edu.sg    |
+|             Mr Simon Lim            |          Teacher / Chinese Language          |        lim_seow_leong@mo.edu.sg        |
+|         Mr Ian Tay Yu Xiang         |          Teacher / Chinese Language          |         tay_yuxiang@moe.edu.sg         |
+|          Mr Chow Wei Yuan           |          Teacher / Chinese Language          |        chow_wei_yuan@moe.edu.sg        |
+|       Mr Ganesan Thiruvalluvan      |           Teacher / Tamil Language           |    ganesan_thiruvalluvan@moe.edu.sg    |
+|     Mr Veerapathra Pillai Ramar     |           Teacher / Tamil Language           |   veerapathra_pillai_ramar@moe.edu.sg  |
+|       Mdm Rosmaiza Mohd Yussof      |           Teacher / Malay Language           |     rosmaiza_mohd_yussof@moe.edu.sg    |
+|      Ms Wan Hanee Wan Iskandar      |           Teacher / Malay Language           |    wan_hanee_wan_iskandar@moe.edu.sg   |
+|  Mdm Marhanim Binte Abdullah Thani  |           Teacher / Malay Language           |   marhanim_abdullah_thani@moe.edu.sg   |
+|       Ms Hamisah Sheikh Nahji       |           Teacher / Malay Language           |     hamisah_sheikh_nahji@moe.edu.sg    |
+|         Mr Ahmad Bin Ismail         |           Teacher / Malay Language           |         ahmad_ismail@moe.edu.sg        |
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
