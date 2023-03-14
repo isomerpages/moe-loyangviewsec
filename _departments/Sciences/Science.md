@@ -96,7 +96,8 @@ third_nav_title: Sciences
 </tbody>
 </table>
 
-### About Science Department
+<h3>About Science Department</h3>
+
 ------------------------
 
 _Vision – Every LV Student to have a strong foundation in Science for life, learning, citizenry and work._
