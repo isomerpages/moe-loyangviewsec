@@ -126,29 +126,7 @@ Here’s some snippets of the winning videos:
 | Tamil Teacher, Mdm Usha, conducted IT workshop for cluster teachers. She is an E1 cluster Tamil Language ICT champion, Tamil Language Cluster rep and Tamil Language zonal<br><br>On 26 July 2019, our Malay teachers, Mdm Ayuni Anis and Ms Wan Hanee, then presented a sharing on our Journalism and Broadcasting project at the Cluster Sharing held at Meridian Secondary School.<br> | Two Chinese language teachers, Dr Lim Si Hui and Mr Simon Lim, embarked on a school initiated professional development: Shi Jia Zhuang No. 44 Middle School, PRC (2-15 June). Watch the video to find out more about their trip. |
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rdtm">Local</th>
-    <th class="tg-rdtm">Global</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-citn"><br>Tamil Teacher, Mdm Usha, conducted IT workshop for cluster teachers. She is an E1 cluster Tamil Language ICT champion, Tamil Language Cluster rep and Tamil Language zonal<br>On 26 July 2019, our Malay teachers, Mdm Ayuni Anis and Ms Wan Hanee, then presented a sharing on our Journalism and Broadcasting project at the Cluster Sharing held at Meridian Secondary School.<br><br></td>
-    <td class="tg-citn"><br>Two Chinese language teachers, Dr Lim Si Hui and Mr Simon Lim, embarked on a school initiated professional development:  Shi Jia Zhuang No. 44 Middle School, PRC (2-15 June). Watch the video to find out more about their trip.</td>
-  </tr>
-</tbody>
-</table>
+
 
 ### Milestone for students
 ----------------------
