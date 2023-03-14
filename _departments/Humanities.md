@@ -9,7 +9,21 @@ Humanities
 ==========
 
 ### Staff
------
+
+
+|                 **NAME**                |           **DESIGNATION**           |                **EMAIL**                |
+|:---------------------------------------:|:-----------------------------------:|:---------------------------------------:|
+|             Ms Lau Mui Tian             |   Head of Department / Humanities   |         lau_mui_tian@moe.edu.sg         |
+|        Ms Premlatha d/o Selvaraj        |      Head of Department / CCE       |      premlatha_selvaraj@moe.edu.sg      |
+|             Ms Candice Seet             |        Lead Teacher / History       |    candice_seet_siew_yan@moe.edu.sg     |
+| Ms Rabiatuladawiyah Binte Mohamed Razif |         Subject Head / CCE          | rabiatuladawiyah_mohd_razif@moe.edu.sg  |
+|       Mdm Chang Ping Sze, Victoria      |         Teacher / Geography         |        chang_ping_sze@moe.edu.sg        |
+|            Ms Lim Chiang Siew           | Teacher / Geography, Social Studies |        lim_chiang_siew@moe.edu.sg       |
+|        Ms Sharina Nadia Suleiman        | Teacher/ Geography, Social Studies  |    sharina_nadia_suleiman@moe.edu.sg    |
+|             Mr Nithia Devan             |  Teacher / History, Social Studies  |    nithia_devan_sahadevan@moe.edu.sg    |
+|    Ms Nur Suhailah Binte Mohamed Nor    |  Teacher / History, Social Studies  |   nur_suhailah_mohamed_nor@moe.edu.sg   |
+|            Mr Yang Yin Leong            |   Teacher/ History, Social Studies  |        yang_yin_leong@moe.edu.sg        |
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
