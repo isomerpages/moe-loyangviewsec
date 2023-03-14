@@ -10,7 +10,6 @@ Mother Tongue
 =============
 
 ### Our Staff
----------
 
 ![](/images/MTL%20Dept%20Teachers%20Day%20Lunch.jpeg)
 
