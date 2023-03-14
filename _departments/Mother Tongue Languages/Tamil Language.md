@@ -55,12 +55,12 @@ Our Tamil students participated in Navarasa Thiruvizha 2019. It is a Tamil Langu
 ### Achievements
 ------------
 
-| **2015** 	| Loyang Sec (LYSS) - Sec 2 students involved in MOE Research Project     	|
-|----------	|-------------------------------------------------------------------------	|
-| **2016** 	| Loyang Sec (LYSS) - Sec 1 Oratorical Competition @ UPTLC                	|
-|          	| Loyang Sec (LYSS) - Sec 3 - Creative Writing Competition @MOE           	|
+| **2015** 	| Loyang Sec (LYSS) - Sec 2 students involved in MOE Research Project 	|
+|---	|---	|
+| **2016** 	| Loyang Sec (LYSS) - Sec 1 Oratorical Competition @ UPTLC 	|
+|  	| Loyang Sec (LYSS) - Sec 3 - Creative Writing Competition @MOE 	|
 | **2017** 	| Loyang Sec (LYSS) - Marketing Innovation Challenge 2017 - Participation 	|
-| **2019** 	| Navarasa Thiruvizha 2019                                                	|
+| **2019** 	| Navarasa Thiruvizha 2019 	|
 
 
 <style type="text/css">
