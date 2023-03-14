@@ -74,44 +74,7 @@ We have two different types of programmes to cater to the learning needs of the 
 | Sec 4/5        | Intensive Revision for National Exams                                     |                                                                                    | Math Clinic Consultations                      |                                                               |
 
 
-line break
-	 
-	 
-<table>
-<thead>
-  <tr>
-    <th colspan="5">PROGRAMMES</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Level</td>
-    <td colspan="2">Level Wide</td>
-    <td colspan="2">Special</td>
-  </tr>
-  <tr>
-    <td>Sec 1</td>
-    <td>Mathematics Fiesta<br></td>
-    <td rowspan="4"><br><br><br><br><br><br>Mathematics Modelling and Problems in Real World Context Tasks<br></td>
-    <td>Foundation Math Bridging Programme<br></td>
-    <td rowspan="4"><br><br><br><br><br><br>Mathematics Talent Development Programme <br></td>
-  </tr>
-  <tr>
-    <td>Sec 2<br></td>
-    <td>Mathematics Trail (External Location)<br></td>
-    <td rowspan="2"><br><br><br>Low Progress Support Programme<br><br><br></td>
-  </tr>
-  <tr>
-    <td>Sec 3<br></td>
-    <td>Mathematics Trail (External Location)<br><br>Extended Curriculum (1 week)<br></td>
-  </tr>
-  <tr>
-    <td>Sec 4/5<br></td>
-    <td>Intensive Revision for National Exams<br></td>
-    <td>Math Clinic Consultations</td>
-  </tr>
-</tbody>
-</table>
+
 	 
 	 
 
