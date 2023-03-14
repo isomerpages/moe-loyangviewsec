@@ -71,6 +71,10 @@ The MTL department has prepared gifts to motivate all students sitting for the m
 ### Achievements
 ------------
 
+| **2019** | E1 Cluster Inter-school @Meridian Secondary School – Tangkas Terjemah (Translation Competition) – 3rd (2019)<br><br>Nurul Jannah Binte Mohammad (S3-E1)<br>'Ain Shahirah Binte Mohamed Azrin (S3-E1)<br>Nur Eryna Falisha Binte Muhamed Herry (S3-E1)<br>Sumayyah Binte Norazni (S3-E2)<br>Nursyahidah Binte Mohammad Rizal (S3-E2) |
+|:--------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 
 
 
