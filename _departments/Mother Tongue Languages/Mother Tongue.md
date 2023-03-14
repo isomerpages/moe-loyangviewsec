@@ -143,6 +143,10 @@ Normal Technical : BCL / BML / BTL 
 
 ##### MTL Department Key Programmes, Events & Activities
 
+| **Key Programmes**                                                                                                | **Key Events**                                                           | **Key Activities**                                          |
+|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------|
+| MTL Reading Programme MTL Journalism & Broadcasting MTL Fortnight & Language Camp MTL Intensive (Mar-May/Jun-Sep) | Chinese New Year Celebration Hari Raya Celebration Deepavali Celebration | Sec 1 & 3 Video Challenge Sec 2 Creative Writing Expression |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
