@@ -10,7 +10,22 @@ English
 
 ### Our Staff
 
----------
+|            **Name**           |               **Designation**               |               **E-Mail**              |
+|:-----------------------------:|:-------------------------------------------:|:-------------------------------------:|
+|       Miss Yong Tsui Fen      | Head of Department / English and Literature |        yong_tsui_fen@moe.edu.sg       |
+|        Mdm Nazeeracany        |             Level Head / English            | nazeeracany_mohamed_husien@moe.edu.sg |
+|  Miss Mazlinah Binte Subandi  |                   Teacher                   |      mazlinah_subandi@moe.edu.sg      |
+|   Mr Tum Cheong Kiong Nelson  |                   Teacher                   |   tum_cheong_kiong_nelson@moe.edu.sg  |
+|    Mdm Azlina Binte Kassim    |                   Teacher                   |        azlina_kassim@moe.edu.sg       |
+|     Mr Long Ser Wee Norman    |                   Teacher                   |     long_ser_wee_norman@moe.edu.sg    |
+|  Ms Naeem D/O Ahamed Ali Khan |                   Teacher                   |    naeem_ahamed_ali_khan@moe.edu.sg   |
+|         Mrs Karen Sing        |                   Teacher                   |      lai_siu_mey_karen@moe.edu.sg     |
+|       Mr Rahim Bin Atan       |                   Teacher                   |         rahim_atan@moe.edu.sg         |
+|       Mdm Bhaskaran Usha      |                   Teacher                   |       bhaskaran_usha@moe.edu.sg       |
+|       Mr Zahari Mokhtar       |                   Teacher                   |       zahari_mokhtar@moe.edu.sg       |
+|        Mr Leong Wai Hoe       |                   Teacher                   |        leong_wai_hoe@moe.edu.sg       |
+| Ms Ram Pyaree D/O Taker Singh |                   Teacher                   |   ram_pyaree_taker_singh@moe.edu.sg   |
+|   Ms Nurasyikin Binte Kassim  |                   Teacher                   |      nurasyikin_kassim@moe.edu.sg     |
 
 
 <style type="text/css">
