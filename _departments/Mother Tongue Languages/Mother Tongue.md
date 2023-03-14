@@ -121,6 +121,11 @@ Here’s some snippets of the winning videos:
 ### Milestones for Staff
 --------------------
 
+
+| **Local**                                                                                                                                                                                                                                                                                                                                                                       | **Global**                                                                                                                                                                                                                       |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tamil Teacher, Mdm Usha, conducted IT workshop for cluster teachers. She is an E1 cluster Tamil Language ICT champion, Tamil Language Cluster rep and Tamil Language zonal On 26 July 2019, our Malay teachers, Mdm Ayuni Anis and Ms Wan Hanee, then presented a sharing on our Journalism and Broadcasting project at the Cluster Sharing held at Meridian Secondary School.  | Two Chinese language teachers, Dr Lim Si Hui and Mr Simon Lim, embarked on a school initiated professional development: Shi Jia Zhuang No. 44 Middle School, PRC (2-15 June). Watch the video to find out more about their trip. |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
