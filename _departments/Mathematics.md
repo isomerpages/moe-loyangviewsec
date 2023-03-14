@@ -64,6 +64,19 @@ We have two different types of programmes to cater to the learning needs of the 
    II) Special Programmes
 	 
 	 
+
+| **PROGRAMMES** |                                                                           |                                                                                    |                                                |                                                               |
+|----------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------|
+| Level          | Level Wide                                                                |                                                                                    | Special                                        |                                                               |
+| Sec 1          | Mathematics Fiesta                                                        | <br><br><br><br><br>Mathematics Modelling and Problems in Real World Context Tasks | Foundation Math Bridging Programme             | <br><br><br><br><br>Mathematics Talent Development Programme  |
+| Sec 2          | Mathematics Trail (External Location)                                     |                                                                                    | <br><br>Low Progress Support Programme<br><br> |                                                               |
+| Sec 3          | Mathematics Trail (External Location)<br><br>Extended Curriculum (1 week) |                                                                                    |                                                |                                                               |
+| Sec 4/5        | Intensive Revision for National Exams                                     |                                                                                    | Math Clinic Consultations                      |                                                               |
+
+
+line break
+	 
+	 
 <table>
 <thead>
   <tr>
