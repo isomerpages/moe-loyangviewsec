@@ -104,6 +104,7 @@ English
 </tbody>
 </table>
 
+
 **Vision**  
 
 The LV EL learner is an effective and empathetic communicator who is future ready.  
