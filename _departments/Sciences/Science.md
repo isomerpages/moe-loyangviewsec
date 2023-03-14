@@ -10,7 +10,7 @@ third_nav_title: Sciences
 
 ### Staff
 
-|                    Name                    |                  Designation                 |                E-Mail                |
+|                  **Name**                  |                **Designation**               |              **E-Mail**              |
 |:------------------------------------------:|:--------------------------------------------:|:------------------------------------:|
 |              Tan Kia Hock (Mr)             |              Head of Department              |        tan_kia_hock@moe.edu.sg       |
 |     Mohamed Nasir Bin Rahmat Ali (Mr)      | Year Head (Upper Sec) / Teacher (Chemistry)  |       mohamed_nasir@moe.edu.sg       |
@@ -24,6 +24,9 @@ third_nav_title: Sciences
 |             Heng Ching Fei (Mr)            |               Teacher (Physics)              |      heng_ching_fei@moe.edu.sg       |
 |          Rozita Binte Selamat (Ms)         |         School Laboratory Technician         |      rozita_selamat_a@moe.edu.sg     |
 |              Tan Lay Hwa (Ms)              |         School Laboratory Technician         |        tan_lay_hwa@moe.edu.sg        |
+
+
+
 
 
 <style type="text/css">
