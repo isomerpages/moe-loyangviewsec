@@ -69,6 +69,7 @@ The MTL department has prepared gifts to motivate all students sitting for the m
 ![](/images/MalayLang5.png)
 
 ### Achievements
+--------------------------------------------------
 
 <table>
 <thead>
@@ -80,25 +81,7 @@ The MTL department has prepared gifts to motivate all students sitting for the m
 </table>
 
 
-no
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">2019</span></td>
-    <td class="tg-citn"><span style="color:#000;background-color:transparent">E1 Cluster Inter-school @Meridian Secondary School – Tangkas Terjemah (Translation Competition) – 3rd (2019)</span><br><span style="background-color:transparent">          </span><br><span style="background-color:transparent">          </span>Nurul Jannah Binte Mohammad (S3-E1)<br><span style="background-color:transparent">          'Ain Shahirah Binte Mohamed Azrin (S3-E1)</span><br><span style="background-color:transparent">          Nur Eryna Falisha Binte Muhamed Herry (S3-E1)</span><br><span style="background-color:transparent">          Sumayyah Binte Norazni (S3-E2)</span><br><span style="background-color:transparent">          Nursyahidah Binte Mohammad Rizal (S3-E2)</span></td>
-  </tr>
-</thead>
-</table>
 
 
 
