@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/performing-arts/Loyang-View-Symphonic-Band/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 ![](/images/Banner.jpg)
 
 Loyang View Symphonic Band
@@ -16,6 +15,17 @@ Band Designation
 
 
 #### Band Conductors/Teachers
+
+| **DESIGNATION**                | **NAME**                                                    |
+|--------------------------------|-------------------------------------------------------------|
+| **Main Band Conductor**        | Mr Wilson Ong                                               |
+| **Junior Band Conductor**      | Mr Pan Zhiwen                                               |
+| **Main Band Consultant**       | Mr Fabian Lim                                               |
+| **Teacher-in-charge (I/C)**    | Ms Mazlinah Subandi <br>email: mazlinah_subandi@moe.edu.sg  |
+| **Teacher-in-charge (Co-I/C)** | Ms Lim Chiang Siew<br>email: lim_chiang_siew@moe.edu.sg     |
+| **Teacher-in-charge**          | Ms Tan Wen Siu                                              |
+| **Teacher-in-charge**          | Mrs Karen Sing                                              |
+| **Teacher-in-charge**          | Ms Teo See Hian                                             |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
