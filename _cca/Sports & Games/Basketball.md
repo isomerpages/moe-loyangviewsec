@@ -64,48 +64,7 @@ Mitta Sai Suhruth
 |   Oct-Dec   | Friendly Matches and Holiday Trainings for C Division<br>Basketball Camp for C Division<br>Values-In-Action Programme |
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ii8k">Month</th>
-    <th class="tg-ii8k">Event</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ii8k">Jan</td>
-    <td class="tg-ii8k">Sec 1 Selection and Orientation</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Feb-Mar</td>
-    <td class="tg-ii8k">East Zone ‘B’ Division Competition</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">March</td>
-    <td class="tg-ii8k">Basketball Camp for B Division<br>Values-In-Action Programme<br>Farewell Party for the Seniors</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">May-June</td>
-    <td class="tg-ii8k">Friendly Matches and Holiday Trainings for C Division</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">July-August</td>
-    <td class="tg-ii8k">East Zone ‘C’ Division Competition</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Oct-Dec</td>
-    <td class="tg-ii8k">Friendly Matches and Holiday Trainings for C Division<br>Basketball Camp for C Division<br>Values-In-Action Programme</td>
-  </tr>
-</tbody>
-</table>
+
 
 
 ### 2020 Photos
