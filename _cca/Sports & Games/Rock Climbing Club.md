@@ -139,6 +139,12 @@ _“The best climber in the world is the one having the most fun!” – Alex Lo
 
 **LVRC EXCO 2020/2021**
 
+|      **Captain**      |                                      RENNELL KAYLA KHONG JHO ING                                     |
+|:---------------------:|:----------------------------------------------------------------------------------------------------:|
+|    **Vice-Captain**   |                                        NUR FATASYA BINTE AMRAN                                       |
+| **Training Officers** | TAN ANGELINA <br>MUHAMMAD DANIAL ALIY BIN ABDULLAH <br>NATALIA ANN RAGUNATH <br>NUR AKRAM BIN KAMSOR |
+|   **Quartermasters**  |                        MUHAMMAD HARITH BIN ROSLEE<br>YONG RONG XIANG (BENSON)                        |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
