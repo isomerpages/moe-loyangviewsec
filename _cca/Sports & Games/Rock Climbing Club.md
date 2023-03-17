@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/Sports-and-Games/Rock-Climbing-Club/
 description: ""
 third_nav_title: Sports & Games
 ---
-
 ![](/images/Banner.jpg)
 
 Rock Climbing Club
@@ -16,6 +15,12 @@ Rock Climbing Club
 --------------------------------
 
 **TEACHERS-IN-CHARGE**
+
+|   **Overall teacher-in-charge:**   | MS WAN HANEE WAN ISKANDAR <br>email: wan_hanee_wan_iskandar@moe.edu.sg  |
+|:----------------------------------:|:-----------------------------------------------------------------------:|
+| **2nd Overall teacher-in-charge:** |  MRS WENNIE LIM-ANG WOON NEE <br>email: ang_woon_nee_wennie@moe.edu.sg  |
+|        **Teacher-in-charge**       |                              MR DENNIS LIM                              |
+|             **Coach:**             |                        COACH ROZIHAN ANWAR (YAN)                        |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
