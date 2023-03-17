@@ -179,6 +179,13 @@ _“The best climber in the world is the one having the most fun!” – Alex Lo
 
 **LVRC EXCO 2019/2020**
 
+| **Captain**       | LIM TECK SENG                    |
+|-------------------|----------------------------------|
+| **Vice-Captain**  | MUHAMMAD NUR AIMAN BIN AZMI      |
+| **Secretary**     | NUR ALAWIYAH BINTE ZULFIKKAR ALI |
+| **Quartermaster** | MOHAMMAD HAIRIE BIN MOHD SHAH    |
+| **Discipline IC** | AKID DANISH BIN JEFRY            |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -216,6 +223,15 @@ _“The best climber in the world is the one having the most fun!” – Alex Lo
 </table>
 
 **LVRC EXCO 2018/2019**
+
+
+| **Captain**          | WONG HUI TING                  |
+|----------------------|--------------------------------|
+| **Vice-Captain**     | SITI NUR 'AQILAH BTE JAMALUDIN |
+| **Training Officer** | KAYLAN YIP KIT YEN             |
+| **Training Officer** | MUHAMMAD FIRDAUS B IMRAN       |
+| **Quartermaster**    | MUHAMAD HAZIQ B RUTHLAN        |
+| **Quartermaster**    | MUHAMMAD IKRAM BIN ROHANI      |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
