@@ -31,6 +31,15 @@ All these are accomplished through design-based science activities that the ALP 
 
 In Secondary One, students design and fabricate toy solar cars that are suitable for children 7-10 years of age.  Students are taken through a series of hands-on experiments to learn science and engineering concepts which they apply in the design and fabrication of their solar car.
 
+
+|                    **Concept**                    |                                  **Activities**                                  |
+|:-------------------------------------------------:|:--------------------------------------------------------------------------------:|
+|                 Mechanism concepts                | - Investigations on pulleys, friction, and speed<br>- Aerodynamics               |
+|                Electrical concepts                | - Circuit design and assembly<br>- Energy conversions                            |
+|                Structural concepts                | - Layout of components and its effect on weight distribution and car performance |
+| Environmental awareness and clean energy concepts | - Design and fabrication of solar-powered car                                    |
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
