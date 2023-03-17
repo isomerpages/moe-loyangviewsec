@@ -39,39 +39,3 @@ The InfoComm Club merges AV (Audio Visual), PVC (Photography and Videography) 
 | Mr Gui Eng Hong                                    |       Teacher IC       |
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5nwp{background-color:#FFFCFD;color:#222;text-align:left;vertical-align:top}
-.tg .tg-d298{background-color:#FFFCFD;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-8fqz{background-color:#FFFCFD;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-d298">NAME</th>
-    <th class="tg-d298">DESIGNATION</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-5nwp">Mr Koe Soon Guan</td>
-    <td class="tg-8fqz">Advisor</td>
-  </tr>
-  <tr>
-    <td class="tg-5nwp">Mr Sim Lye Eng  email: sim_lye_eng@moe.edu.sg </td>
-    <td class="tg-8fqz">Overall Teacher IC</td>
-  </tr>
-  <tr>
-    <td class="tg-5nwp">Mrs Ng-Kok Shu Ling  email: kok_shu_ling@moe.edu.sg </td>
-    <td class="tg-8fqz">2nd Overall Teacher IC</td>
-  </tr>
-  <tr>
-    <td class="tg-5nwp">Mr Gui Eng Hong</td>
-    <td class="tg-8fqz">Teacher IC</td>
-  </tr>
-</tbody>
-</table>
