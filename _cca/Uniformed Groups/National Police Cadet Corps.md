@@ -94,6 +94,10 @@ We will always preserve the peace and uphold the law.
 
 **NPCC Values – RISE & PICARDS**
 
+
+| <br>**R**esilience<br>**I**ntegrity<br>**S**ervice<br>**E**xcellence | **P**unctuality<br>**I**nitiative<br>**C**ommitment<br>**A**ttitude<br>**R**esponsibility<br>**D**iscipline<br>**S**elflessness |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
