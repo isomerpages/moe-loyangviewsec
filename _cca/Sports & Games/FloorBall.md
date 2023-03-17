@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/Sports-and-Games/FloorBall/
 description: ""
 third_nav_title: Sports & Games
 ---
-
 ![](/images/Banner.jpg)
 
 FloorBall
@@ -14,6 +13,13 @@ FloorBall
 
 
 **Teachers In-charge**
+
+| **Roles**                     | **Teachers’ names**                                           |
+|-------------------------------|---------------------------------------------------------------|
+| Overall teacher in-charge     | Mr Gan Han Li Alvin email: gan_han_li_alvin@moe.edu.sg        |
+| 2nd Overall teacher-in-charge | Mrs Josephine Neo (Oh Wan Ping) email: oh_wan_ping@moe.edu.sg |
+| Teacher in-charge             | Mr Ong Li Shen, Iliyasa                                       |
+| Teacher in-charge             | Ms Sharina Nadia Suleiman                                     |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
