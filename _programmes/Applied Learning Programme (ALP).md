@@ -102,38 +102,7 @@ In Secondary Two, students are exposed to various clean energy sources through a
 | Innovation and design thinking |                                      - Design and fabrication of toy/gadget powered by clean energy                                     |
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt">Concept</th>
-    <th class="tg-n4qt">Activities</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ii8k">Clean energy concepts</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">-  Research and presentation of alternative sources of energy</span><br><span style="color:#222;background-color:#EAEAEA">- Investigations on dynamo, turbine, hydrogen fuel cell, biofuel</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Electrical concepts</span></td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">- Exploration of new electrical components such as breadboard, capacitors, light-dependent resistor (LDR) and force-sensitive resistor </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Innovation and design thinking</td>
-    <td class="tg-ii8k">- Design and fabrication of toy/gadget powered by clean energy</td>
-  </tr>
-</tbody>
-</table>
+
 
 
 
