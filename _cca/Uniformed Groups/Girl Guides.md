@@ -36,15 +36,9 @@ Girl Guides
 |   **Senior Patrol Leader**   | **Senior Patrol Leader** |   **Senior Patrol Leader**   |
 |       SIM WEN XI AGNES       |         NG CI YUN        |   SITI ‘ALIYAH BINTE AZAHAR  |
 
-hi
 
-|                              	|  **Company Leader**  	|                              	|
-|:----------------------------:	|:--------------------:	|:----------------------------:	|
-|    NOOR ALYSHA BINTE AHMAD   	|                      	|                              	|
-| **Assistant Company Leader** 	|                      	| **Assistant Company Leader** 	|
-|        MATILDA MATTHEW       	|                      	|          DYLLIS YAP          	|
-|     Senior Patrol Leader     	| Senior Patrol Leader 	|     Senior Patrol Leader     	|
-|       SIM WEN XI AGNES       	|       NG CI YUN      	|   SITI 'ALIYAH BINTE AZAHAR  	|
+
+
 
 |    **Bougainvillea**    |             **Sunflower**            |             **Orchid**            |   **Morning Glory**   |          **Ixora**          |           **Jasmine**           |      **Hibiscus**     |
 |:-----------------------:|:------------------------------------:|:---------------------------------:|:---------------------:|:---------------------------:|:-------------------------------:|:---------------------:|
