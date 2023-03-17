@@ -57,6 +57,18 @@ Netball
 
 **Netball Leaders**
 
+| **Roles**                 | **Name**                               |
+|---------------------------|----------------------------------------|
+| Captain                   | YASMINE MARY AUJLA                     |
+| Vice-Captain              | IZABELA LAURINE EVANGELISTA VERZOSA    |
+| Vice-Captain              | KRISHA ARYNY BINTE YUNAINI             |
+| Logistics/Publicity IC    | ERIKA DWI NATASHA BINTE MOHAMED FAIRUZ |
+| Logistics/Publicity Co-IC | YEO ZI YI, GISELE                      |
+| Training IC               | NUR'SYAHIRAH BINTE MOHAMMAD HUSAINI    |
+| Training Co-IC            | PUTRI FIRZANAH BINTE AMIR              |
+| Welfare IC                | NUR TAHIRAH BINTE RUZAIMAN             |
+| Welfare Co-IC             | AMIRAH QISTINA BINTE ABDULLAH          |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
