@@ -32,6 +32,16 @@ Band Designation
 
 #### Student Leaders 2020/2021:
 
+
+| **Drum Majors**        | Cedrick / Waiz       |                     |                  |
+|------------------------|----------------------|---------------------|------------------|
+| **Band Majors**        | Eriq / Fahmy         |                     |                  |
+| **Student Conductors** | Valerie / Wai Yen    |                     |                  |
+| **Head QM**            | Shifaa               | **Asst. QMs**       | Natalie / Nyfael |
+| **Head Librarian**     | Yuna                 | **Asst. Librarian** | Jie Xuan         |
+| **Head Logistics**     | Vishnu               | **Asst. Logistics** | De Yang          |
+| **Recruit Officers**   | En Yu / Kirsty / Paz |                     |                  |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
