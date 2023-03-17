@@ -57,6 +57,14 @@ Rock Climbing Club
 
 **CCA LEADERS 2020/2021**
 
+|      **Captain**      |                                                          UMAR BIN NAJIB                                                         |
+|:---------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
+|    **Vice-Captain**   |                                                           NEO XIN YUNN                                                          |
+| **Training Officers** |                                            HO TJIN SEE<br>RENNELL KAYLA KHONG JHO ING                                           |
+|     **Secretary**     |                                          AMANDA KONG LIONG HAO YI<br>LAEL ONG XUAN HAN                                          |
+|   **Quartermasters**  | AFRAH SULTHANA ARSATH<br>AIMAN ZICKRY BIN ANDEE SATRIA<br>MUHAMMAD FARIHEEN BIN MOHAMED FARID<br>ILYAS YAQIN BIN MOHAMMED HAFIZ |
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
