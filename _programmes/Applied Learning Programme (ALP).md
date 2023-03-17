@@ -94,6 +94,14 @@ In order for students to understand the relevance and make meaning of their lear
 
 In Secondary Two, students are exposed to various clean energy sources through a series of hands-on activities and experiments.  Thereafter, they apply the science and engineering concepts learnt in their innovation of a toy/gadget that runs on clean energy.
 
+
+|           **Concept**          |                                                              **Activities**                                                             |
+|:------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|      Clean energy concepts     |     - Research and presentation of alternative sources of energy<br>- Investigations on dynamo, turbine, hydrogen fuel cell, biofuel    |
+|       Electrical concepts      | - Exploration of new electrical components such as breadboard, capacitors, light-dependent resistor (LDR) and force-sensitive resistor  |
+| Innovation and design thinking |                                      - Design and fabrication of toy/gadget powered by clean energy                                     |
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
