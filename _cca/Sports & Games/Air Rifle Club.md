@@ -20,6 +20,19 @@ Air Rifle Club
 
 **Student Leaders**
 
+|         **Position**         |     **Name**     |
+|:----------------------------:|:----------------:|
+|            Captain           |       Hanna      |
+|     Vice-Captain (Rifles)    |      Munirah     |
+|     Vice-Captain (Suits)     |      Durrah      |
+|   B Div Competition Manager  |      Geneve      |
+|   C Div Competition Manager  |       Jims       |
+|   Public Relations Manager   |     Samantha     |
+|    Quartermaster (Rifles)    |       Ilham      |
+|     Quartermaster (Suits)    |      Amirah      |
+| Physical Training Instructor |       Taen       |
+|     Sec 2 IC<br>Sec 1 IC     | Yasin<br>Mallory |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
