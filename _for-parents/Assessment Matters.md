@@ -19,7 +19,7 @@ description: ""
 |                 F9                |      39 & below     |                                 |             |                                 |             |
 
 
-hi
+hey
 
 
 | **Express Course & Sec 5 Normal Academic Course** |            | **Sec 1 - 4 Normal (Academic) Course** |             | **Sec 1- 4 Normal (Technical) Course** |             |
