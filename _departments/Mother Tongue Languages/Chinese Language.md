@@ -4,8 +4,6 @@ permalink: /department/Mother-Tongue/Chinese-Language/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-
-
 ![](/images/Banner.jpg)
 
 Chinese Language
