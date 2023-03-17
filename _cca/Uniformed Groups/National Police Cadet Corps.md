@@ -75,22 +75,7 @@ We will always preserve the peace and uphold the law.
 </thead>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-rdtm"><br><br>R<span style="font-weight:normal">esilience</span><br>I<span style="font-weight:normal">ntegrity</span><br>S<span style="font-weight:normal">ervice</span><br>E<span style="font-weight:normal">xcellence</span><br></td>
-    <td class="tg-rdtm">P<span style="font-weight:normal">unctuality</span><br>I<span style="font-weight:normal">nitiative</span><br>C<span style="font-weight:normal">ommitment</span><br>A<span style="font-weight:normal">ttitude</span><br>R<span style="font-weight:normal">esponsibility</span><br>D<span style="font-weight:normal">iscipline</span><br>S<span style="font-weight:normal">elflessness</span></td>
-  </tr>
-</thead>
-</table>
+
 
 **Highlights**
 
