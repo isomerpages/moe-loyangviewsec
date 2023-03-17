@@ -28,6 +28,39 @@ Girl Guides
 
 ### Executive Committee
 
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3">Company Leader</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="3">NOOR ALYSHA BINTE AHMAD</td>
+  </tr>
+  <tr>
+    <td colspan="2">Assistant Company Leader</td>
+    <td>Assistant Company Leader</td>
+  </tr>
+  <tr>
+    <td colspan="2">MATILDA MATTHEW</td>
+    <td>DYLLIS YAP</td>
+  </tr>
+  <tr>
+    <td>Senior Patrol Leader</td>
+    <td>Senior Patrol Leader</td>
+    <td>Senior Patrol Leader</td>
+  </tr>
+  <tr>
+    <td>SIM WEN XI AGNES</td>
+    <td>NG CI YUN</td>
+    <td>SITI 'ALIYAH BINTE AZAHAR</td>
+  </tr>
+</tbody>
+</table>
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -150,6 +183,12 @@ Girl Guides
 </table>
 
 **Training details**
+
+|  **Day** |   **Time**  |
+|:--------:|:-----------:|
+|  Tuesday | 1530 – 1730 |
+| Thursday | 1530 – 1730 |
+
 
  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
