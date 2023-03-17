@@ -18,42 +18,7 @@ Netball
 | **Teacher-in-charge**             | Elvina Abdu Hasan                                   |
 | **Coach**                         | Tan Weeling                                         |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rj1p">Overall Teacher-in-charge</th>
-    <th class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Wendy Tan  (email: siow_hui_yee@moe.edu.sg)</span><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rj1p">2nd Overall Teacher-in-charge</td>
-    <td class="tg-y7qa"><span style="background-color:initial">Angelina Ng  (email: ng_mui_yun_angelina@moe.edu.sg)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p">Teacher-in-charge</td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Marhanim Abdullah Thani</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p">Teacher-in-charge<span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Elvina Abdu Hasan </span></td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p">Coach</td>
-    <td class="tg-y7qa">Tan Weeling</td>
-  </tr>
-</tbody>
-</table>
+
 
 **Netball Leaders**
 
@@ -69,61 +34,7 @@ Netball
 | Welfare IC                | NUR TAHIRAH BINTE RUZAIMAN             |
 | Welfare Co-IC             | AMIRAH QISTINA BINTE ABDULLAH          |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rdtm">Roles</th>
-    <th class="tg-rdtm">Name</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-citn">Captain</td>
-    <td class="tg-citn">YASMINE MARY AUJLA</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">Vice-Captain</td>
-    <td class="tg-citn">IZABELA LAURINE EVANGELISTA VERZOSA</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">Vice-Captain</td>
-    <td class="tg-citn">KRISHA ARYNY BINTE YUNAINI</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">Logistics/Publicity IC</td>
-    <td class="tg-citn">ERIKA DWI NATASHA BINTE MOHAMED FAIRUZ</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">Logistics/Publicity Co-IC</td>
-    <td class="tg-citn">YEO ZI YI, GISELE</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">Training IC</td>
-    <td class="tg-citn">NUR'SYAHIRAH BINTE MOHAMMAD HUSAINI</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">Training Co-IC</td>
-    <td class="tg-citn">PUTRI FIRZANAH BINTE AMIR</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">Welfare IC</td>
-    <td class="tg-citn">NUR TAHIRAH BINTE RUZAIMAN</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">Welfare Co-IC</td>
-    <td class="tg-citn">AMIRAH QISTINA BINTE ABDULLAH</td>
-  </tr>
-</tbody>
-</table>
+
 
 **CCA Description**  
 
