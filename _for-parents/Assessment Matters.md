@@ -8,9 +8,9 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th colspan="2">Express Course &amp; Sec 5 Normal Academic<br>Course</th>
-    <th colspan="2">Sec 1 - 4 Normal (Academic)<br>Course</th>
-    <th colspan="2">Sec 1- 4 Normal (Technical)<br>Course</th>
+    <th colspan="2">Express Course &amp; Sec 5 Normal Academic Course</th>
+    <th colspan="2">Sec 1 - 4 Normal (Academic) Course</th>
+    <th colspan="2">Sec 1- 4 Normal (Technical) Course</th>
   </tr>
 </thead>
 <tbody>
