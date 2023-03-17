@@ -3,8 +3,20 @@ title: Assessment Matters
 permalink: /for-parents/assessmentmatters/
 description: ""
 ---
-
 ### Assessment Matters
+
+| **Express Course & Sec 5 Normal Academic<br>Course** |            | **Sec 1 - 4 Normal (Academic)<br>Course** |             | **Sec 1- 4 Normal (Technical)<br>Course** |             |
+|:----------------------------------------------------:|:----------:|:-----------------------------------------:|:-----------:|:-----------------------------------------:|:-----------:|
+|                        Grades                        |    Marks   |                   Grades                  |    Marks    |                   Grades                  |    Marks    |
+|                          A1                          | 75 & Above |                     1                     |  75 & above |                     A                     |  75 & above |
+|                          A2                          |   70 – 74  |                     2                     |   70 – 74   |                     B                     |   70 – 74   |
+|                          B3                          |   65 – 69  |                     3                     |   65 – 69   |                     C                     |   60 – 69   |
+|                          B4                          |   60 – 64  |                     4                     |   60 – 64   |                                           |             |
+|                          C5                          |   55 – 59  |                     5                     |   50 – 59   |                     D                     |   50 – 59   |
+|                          C6                          |   50 – 54  |                                           |             |                                           |             |
+|                          D7                          |   45 – 49  |                <br>Ungraded               |  <br>0 – 49 |                <br>Ungraded               |  <br>0 – 49 |
+|                          E8                          |   40 - 44  |                                           |             |                                           |             |
+|                          F9                          | 39 & below |                                           |             |                                           |             |
 
        
 <table style="margin-left:6.8pt;border-collapse:collapse;mso-table-layout-alt:fixed;
