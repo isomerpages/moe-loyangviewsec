@@ -54,6 +54,16 @@ Mitta Sai Suhruth
 
 **Activities for the year:**
 
+|    Month    |                                                         Event                                                         |
+|:-----------:|:---------------------------------------------------------------------------------------------------------------------:|
+|     Jan     |                                            Sec 1 Selection and Orientation                                            |
+|   Feb-Mar   |                                           East Zone ‘B’ Division Competition                                          |
+|    March    |             Basketball Camp for B Division<br>Values-In-Action Programme<br>Farewell Party for the Seniors            |
+|   May-June  |                                 Friendly Matches and Holiday Trainings for C Division                                 |
+| July-August |                                           East Zone ‘C’ Division Competition                                          |
+|   Oct-Dec   | Friendly Matches and Holiday Trainings for C Division<br>Basketball Camp for C Division<br>Values-In-Action Programme |
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
