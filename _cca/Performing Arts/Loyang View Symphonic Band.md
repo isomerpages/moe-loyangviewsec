@@ -27,57 +27,7 @@ Band Designation
 | **Teacher-in-charge**          | Mrs Karen Sing                                              |
 | **Teacher-in-charge**          | Ms Teo See Hian                                             |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rdtm">DESIGNATION</th>
-    <th class="tg-rdtm">NAME</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rdtm">Main Band Conductor</td>
-    <td class="tg-citn">Mr Wilson Ong</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Junior Band Conductor</td>
-    <td class="tg-citn">Mr Pan Zhiwen</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Main Band Consultant</td>
-    <td class="tg-citn">Mr Fabian Lim</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Teacher-in-charge (I/C)</td>
-    <td class="tg-citn">Ms Mazlinah Subandi <br>email: mazlinah_subandi@moe.edu.sg <br></td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Teacher-in-charge (Co-I/C)</td>
-    <td class="tg-citn">Ms Lim Chiang Siew<br>email: lim_chiang_siew@moe.edu.sg <br></td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Teacher-in-charge</td>
-    <td class="tg-citn">Ms Tan Wen Siu</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Teacher-in-charge</td>
-    <td class="tg-citn">Mrs Karen Sing</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Teacher-in-charge</td>
-    <td class="tg-citn">Ms Teo See Hian</td>
-  </tr>
-</tbody>
-</table>
+
 
 
 #### Student Leaders 2020/2021:
