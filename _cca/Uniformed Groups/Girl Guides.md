@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/Uniformed-Groups/Girl-Guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ![](/images/Banner.jpg)
 
 Girl Guides
@@ -16,8 +15,8 @@ Girl Guides
 
   
 
-*   Ms Lim Yan Chin Hazel (OIC) | E-mail: lim_yan_chin_hazel@moe.edu.sg
-*   Ms Nur Suhailah Mohamed Nor (2IC) | E-mail: nur_suhailah_mohamed_nor@moe.edu.sg
+*   Ms Lim Yan Chin Hazel (OIC)  E-mail: lim_yan_chin_hazel@moe.edu.sg
+*   Ms Nur Suhailah Mohamed Nor (2IC)  E-mail: nur_suhailah_mohamed_nor@moe.edu.sg
 *   Ms Amanda Chua   
     
 *   Mdm Azlina Kassim   
