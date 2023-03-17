@@ -33,36 +33,7 @@ Mdm Lee Siew Yian
 |  Tuesday | 1530 – 1800 |           NPCC Full Uniform          |
 | Thursday | 1530 – 1800 | PT Kit<br>(T-shirt with track pants) |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
-.tg .tg-s1pt{background-color:#D9D9D9;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-s1pt">Day</th>
-    <th class="tg-s1pt">Time</th>
-    <th class="tg-s1pt">Attire</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-tlx9">Tuesday</td>
-    <td class="tg-tlx9">1530 – 1800</td>
-    <td class="tg-tlx9">NPCC Full Uniform</td>
-  </tr>
-  <tr>
-    <td class="tg-tlx9">Thursday</td>
-    <td class="tg-tlx9">1530 – 1800</td>
-    <td class="tg-tlx9">PT Kit<br>(T-shirt with track pants)</td>
-  </tr>
-</tbody>
-</table>
+
 
 **About NPCC**
 
