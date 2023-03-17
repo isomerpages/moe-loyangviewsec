@@ -4,13 +4,21 @@ permalink: /co-curricular-activities/Uniformed-Groups/National-Cadet-Corps-Land/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ![](/images/Banner.jpg)
 
 National Cadet Corps (Land)
 ===========================
 
 **CCA TEACHERS**
+
+|                            **NAME**                           |                    **DESIGNATION**                    |
+|:-------------------------------------------------------------:|:-----------------------------------------------------:|
+|         Mr Heng Ching Fei<br>heng_ching_fei@moe.edu.sg        | **Commanding Officer** / Senior Cadet Leaders Teacher OIC |
+| Ms Shuhadah<br>nurzatushuhadah_binte_mohamed_razif@moe.edu.sg |          **NCC 2IC** / Cadet Leaders Teacher OIC          |
+|                        Mr Nithia Devan                        |             **Cadet Leaders Teacher OIC**             |
+|                           Mr Ganesan                          |             **Senior Cadets Teacher OIC**             |
+|                        Mr Gan Yee Seng                        |             **Junior Cadets Teacher OIC**             |
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
