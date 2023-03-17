@@ -4,11 +4,18 @@ permalink: /co-curricular-activities/performing-arts/Dance-Club/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 Dance Club
 ==========
 
 **DEPARTMENT/ CCA STRUCTURE/ NAME WITH DESIGNATION**
+
+
+| **NAME**                                                        | **DESIGNATION**        |
+|-----------------------------------------------------------------|------------------------|
+| Mr Gabriel Palai<br>email: gabriel_palai_anbu_nambi@moe.edu.sg  | Overall Teacher IC     |
+| Mdm Zubaidah<br>email: zubaidah_mohd_noor@moe.edu.sg            | 2nd Overall Teacher IC |
+| Lee Siew Yian                                                   | Teacher IC             |
+| Natarajan Usha                                                  | Teacher IC             |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
