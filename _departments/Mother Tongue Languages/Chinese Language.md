@@ -37,6 +37,13 @@ During post-EOY (15 Oct 2021), our CL teachers organised an enrichment activity 
 ### Achievements
 ------------
 
+
+| **2016** | Loyang Sec (LYSS) “新蕾奖” 第十四届全国中学生华文创作比赛高年级组优秀奖 2016                                                                                                                                                                                                                                                                                                                                                  |
+|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **2017** | Loyang Sec (LYSS) “新蕾奖” 第十五届全国中学生华文创作比赛-中学低年级组三等奖 15th National Chinese Creative composition Competition 2017 (Team and Individual Award）                                                                                                                                                                                                                                                         |
+| **2019** | “地球村” 青少年双语演讲大赛 - “Global Village” Children and Youths Bilingual Speech Competition<br>2nd Place: 朱芷君<br>Certificate of Participation: 温晶雯（Voon Jing Wen）,尹思杰(Oscar Wan See Kit), 陈佩暄(Chen Pei Xuan Darrellyn） &王潇杰(Pieter Manue)<br>第25届全国中学/高中华语演讲比赛<br>3rd Runner Up: Liu Mohan  <br>Certificate of Participation: Velyn Siow<br>第46届全国学生中英文互译比赛优胜奖 <br>张显樘 |
+| **2020** | 第三届中小学课文朗诵比赛（初赛遴选）铜奖<br>黄慧婷 （个人低年级组）<br>林慧娟、瑞恩、张佳淇、陈林国、杨宇恒、王康毅（团体低年级组）<br>我们的战役故事-全国中小学征文大赛二等奖<br>张麦西<br><br>第三届南洋华文青少年文学奖优秀奖<br>陈泓宇<br>2020年“新空下”全国学生新谣创作比赛歌曲填词组优胜奖<br>张麦西<br>沈文茜                                                                                                          |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
