@@ -10,96 +10,27 @@ Mother Tongue
 =============
 
 ### Our Staff
----------
 
 ![](/images/MTL%20Dept%20Teachers%20Day%20Lunch.jpeg)
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
-.tg .tg-4y7b{background-color:#FFF;color:rgba(0, 0, 0, 0.87);text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-apyk">Name</th>
-    <th class="tg-apyk">Designation </th>
-    <th class="tg-apyk">E-Mail </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7fd7">Mdm Liu Yan</td>
-    <td class="tg-7fd7">Head of Department / Mother Tongue Language </td>
-    <td class="tg-7fd7">liu_yan_a@moe.edu.sg </td>
-  </tr>
-	<td class="tg-7fd7"> Mdm Nurul Farhana Binte Mohd Kassim</td>
-    <td class="tg-7fd7">Subject Head / Malay Language  </td>
-    <td class="tg-7fd7">nurul_farhana_mohamed_kass@moe.edu.sg  </td>
-  <tr>
-    <td class="tg-citn">Mr Dennis Lim Teck Yong</td>
-    <td class="tg-7fd7">Senior Teacher / Chinese Language </td>
-    <td class="tg-7fd7">dennis_lim_teck_yong@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-7fd7">Mr Simon Lim</td>
-    <td class="tg-7fd7">Teacher / Chinese Language</td>
-    <td class="tg-7fd7">lim_seow_leong@mo.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-7fd7">Mr Ian Tay Yu Xiang </td>
-    <td class="tg-7fd7">Teacher / Chinese Language</td>
-    <td class="tg-7fd7">tay_yuxiang@moe.edu.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-7fd7">Mr Chow Wei Yuan </td>
-    <td class="tg-7fd7">Teacher / Chinese Language</td>
-    <td class="tg-7fd7">chow_wei_yuan@moe.edu.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-7fd7">Mr Ganesan Thiruvalluvan</td>
-    <td class="tg-7fd7">Teacher / Tamil Language</td>
-    <td class="tg-7fd7"> ganesan_thiruvalluvan@moe.edu.sg</td>
-  </tr>
-	 <tr>
-    <td class="tg-7fd7">Mr Veerapathra Pillai Ramar</td>
-    <td class="tg-7fd7">Teacher / Tamil Language</td>
-    <td class="tg-7fd7"> veerapathra_pillai_ramar@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">Mdm Rosmaiza Mohd Yussof</span><br></td>
-    <td class="tg-7fd7">Teacher / Malay Language </td>
-    <td class="tg-7fd7">rosmaiza_mohd_yussof@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">Ms Wan Hanee Wan Iskandar<span style="background-color:initial"> </span></td>
-    <td class="tg-7fd7">Teacher / Malay Language </td>
-    <td class="tg-4y7b"><span style="color:rgba(0, 0, 0, 0.87)">wan_hanee_wan_iskandar@moe.edu.sg</span> </td>
-  </tr>
-  <tr>
-    <td class="tg-7fd7"> Mdm Marhanim Binte Abdullah Thani</td>
-    <td class="tg-7fd7">Teacher / Malay Language </td>
-    <td class="tg-4y7b"><span style="color:rgba(0, 0, 0, 0.87)">marhanim_abdullah_thani@moe.edu.sg</span> </td>
-  </tr>
-  <tr>
-    <td class="tg-7fd7"> Ms Hamisah Sheikh Nahji</td>
-    <td class="tg-citn">Teacher / Malay Language </td>
-    <td class="tg-7fd7"> hamisah_sheikh_nahji@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-7fd7"> Mr Ahmad Bin Ismail</td>
-    <td class="tg-7fd7">Teacher / Malay Language  </td>
-    <td class="tg-7fd7">ahmad_ismail@moe.edu.sg  </td>
-  </tr>
-</tbody>
-</table>
+|               **Name**              |               **Designation**               |               **E-Mail**              |
+|:-----------------------------------:|:--------------------------------------------:|:--------------------------------------:|
+|             Mdm Liu Yan             | Head of Department / Mother Tongue Language  |          liu_yan_a@moe.edu.sg          |
+| Mdm Nurul Farhana Binte Mohd Kassim |        Subject Head / Malay Language         | nurul_farhana_mohamed_kass@moe.edu.sg  |
+|       Mr Dennis Lim Teck Yong       |      Senior Teacher / Chinese Language       |     dennis_lim_teck_yong@moe.edu.sg    |
+|             Mr Simon Lim            |          Teacher / Chinese Language          |        lim_seow_leong@mo.edu.sg        |
+|         Mr Ian Tay Yu Xiang         |          Teacher / Chinese Language          |         tay_yuxiang@moe.edu.sg         |
+|          Mr Chow Wei Yuan           |          Teacher / Chinese Language          |        chow_wei_yuan@moe.edu.sg        |
+|       Mr Ganesan Thiruvalluvan      |           Teacher / Tamil Language           |    ganesan_thiruvalluvan@moe.edu.sg    |
+|     Mr Veerapathra Pillai Ramar     |           Teacher / Tamil Language           |   veerapathra_pillai_ramar@moe.edu.sg  |
+|       Mdm Rosmaiza Mohd Yussof      |           Teacher / Malay Language           |     rosmaiza_mohd_yussof@moe.edu.sg    |
+|      Ms Wan Hanee Wan Iskandar      |           Teacher / Malay Language           |    wan_hanee_wan_iskandar@moe.edu.sg   |
+|  Mdm Marhanim Binte Abdullah Thani  |           Teacher / Malay Language           |   marhanim_abdullah_thani@moe.edu.sg   |
+|       Ms Hamisah Sheikh Nahji       |           Teacher / Malay Language           |     hamisah_sheikh_nahji@moe.edu.sg    |
+|         Mr Ahmad Bin Ismail         |           Teacher / Malay Language           |         ahmad_ismail@moe.edu.sg        |
+
+
 
 
 ##### Vision
@@ -126,31 +57,11 @@ Normal Technical : BCL / BML / BTL 
 
 ##### MTL Department Key Programmes, Events & Activities
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rdtm">Key Programmes</th>
-    <th class="tg-rdtm">Key Events</th>
-    <th class="tg-rdtm">Key Activities</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-citn">MTL Reading Programme<br>MTL Journalism &amp; Broadcasting<br>MTL Fortnight &amp; Language Camp<br>MTL Intensive (Mar-May/Jun-Sep)</td>
-    <td class="tg-citn">Chinese New Year Celebration<br>Hari Raya Celebration<br>Deepavali Celebration</td>
-    <td class="tg-citn">Sec 1 &amp; 3 Video Challenge<br>Sec 2 Creative Writing Expression</td>
-  </tr>
-</tbody>
-</table>
+| **Key Programmes**                                                                                                | **Key Events**                                                           | **Key Activities**                                          |
+|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------|
+| MTL Reading Programme MTL Journalism & Broadcasting MTL Fortnight & Language Camp MTL Intensive (Mar-May/Jun-Sep) | Chinese New Year Celebration Hari Raya Celebration Deepavali Celebration | Sec 1 & 3 Video Challenge Sec 2 Creative Writing Expression |
+
+
 
 For a separate look at our various languages offered, please click the following links below or at the side:  
   
@@ -195,31 +106,11 @@ A games corner was set up in the foyer to let students try out during their free
 ### Internal Competition 2021
 -------------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Sec 1</span></th>
-    <th class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Sec 2</span></th>
-    <th class="tg-rdtm"><span style="font-weight:700;color:#000;background-color:transparent">Sec 3</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-citn"><span style="color:#000;background-color:transparent">Food Review Video Challenge</span></td>
-    <td class="tg-citn"><span style="color:#000;background-color:transparent">Creative Writing Expression</span></td>
-    <td class="tg-citn"><span style="color:#000;background-color:transparent">Cultural Arts Video Challenge</span></td>
-  </tr>
-</tbody>
-</table>
+| **Sec 1**                   | **Sec 2**                   | **Sec 3**                     |
+|-----------------------------|-----------------------------|-------------------------------|
+| Food Review Video Challenge | Creative Writing Expression | Cultural Arts Video Challenge |
+
+
 
 The Mother Tongue Department acknowledges that it is crucial to help students associate the language with contexts and uses beyond the classroom. Hence, the department aims to cultivate a lifelong interest in the language among the students. For 2021, the department carried out 3 key internal competitions for its secondary 1 to 3 students. The secondary 1 and 3 students leverage on their IT skills and produce authentic and creative videos that centres on a common theme for the level. The secondary 2 students participated in the Creative Writing Competition that centres on the theme of Dedication for Our Teachers.
 
@@ -229,58 +120,21 @@ Here’s some snippets of the winning videos:
 ### Milestones for Staff
 --------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rdtm">Local</th>
-    <th class="tg-rdtm">Global</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-citn"><br>Tamil Teacher, Mdm Usha, conducted IT workshop for cluster teachers. She is an E1 cluster Tamil Language ICT champion, Tamil Language Cluster rep and Tamil Language zonal<br>On 26 July 2019, our Malay teachers, Mdm Ayuni Anis and Ms Wan Hanee, then presented a sharing on our Journalism and Broadcasting project at the Cluster Sharing held at Meridian Secondary School.<br><br></td>
-    <td class="tg-citn"><br>Two Chinese language teachers, Dr Lim Si Hui and Mr Simon Lim, embarked on a school initiated professional development:  Shi Jia Zhuang No. 44 Middle School, PRC (2-15 June). Watch the video to find out more about their trip.</td>
-  </tr>
-</tbody>
-</table>
+| **Local**                                                                                                                                                                                                                                                                                                                                                                                 | **Global**                                                                                                                                                                                                                       |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tamil Teacher, Mdm Usha, conducted IT workshop for cluster teachers. She is an E1 cluster Tamil Language ICT champion, Tamil Language Cluster rep and Tamil Language zonal<br><br>On 26 July 2019, our Malay teachers, Mdm Ayuni Anis and Ms Wan Hanee, then presented a sharing on our Journalism and Broadcasting project at the Cluster Sharing held at Meridian Secondary School.<br> | Two Chinese language teachers, Dr Lim Si Hui and Mr Simon Lim, embarked on a school initiated professional development: Shi Jia Zhuang No. 44 Middle School, PRC (2-15 June). Watch the video to find out more about their trip. |
+
+
+
 
 ### Milestone for students
 ----------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rdtm">Chinese Unit</th>
-    <th class="tg-rdtm">Malay Unit</th>
-    <th class="tg-rdtm">Tamil Unit</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rdtm">“地球村” 青少年双语演讲大赛<br>“Global Village” Children and Youths Bilingual Speech Competition<br>2nd Place:<br>Joey Chee Zhi Jun<br>Certificate of Participation<br>Voon Jing Wen <br>Oscar Wan See Kit <br>Chen Pei Xuan, Darrellyn<br>Pieter Manuel<br>第25届全国中学/高中华语演讲比赛<br>3rd Runner Up<br>Liu Mohan  <br>Certificate of Participation<br>Velyn Siow<br><br><span style="background-color:initial">第46</span>届全国学生中英文互译比赛优胜奖<br><br>张显樘<br></td>
-    <td class="tg-citn"> E1 Cluster Inter-school @Meridian Secondary School – Tangkas Terjemah (Translation Competition) – 3rd (2019)</td>
-    <td class="tg-citn"><br>NAANUM ORU PADAIPPAALI<br><br><br>Our Tamil students from Sec 1 to Sec 3 were participated in ‘NAANUM ORU PADAIPPAALI’ PROGRAMME, Budding Writers’ and Artistes’ Programme. The programme is organised by MOE, Tamil Language Unit of the Mother Tongue Languages Branch, Curriculum Planning and Development Division.<br><br>The programme provided an opportunity for our students to explore their talents and flare for writing.It exposed our students to local writers and scriptwriters to equip them with literary and creative writing techniques. It harnessed the synergy across community partners and agencies to nurture the passion in our students for creating local literary works of quality and to ensure a continued pipeline of local writers in Tamil Language.<br><br><br>Tamil Language Learning Festival:<br>Our Secondary 2 students went to learning festival at Umar Pulavar Language Centre. They participated in lot of language activities and Tamil cultural activities.<br>The event provided a platform for the students to be engaged in a variety of activities pertaining to the Tamil Language and culture. It created opportunities to appreciate and understand the richness of the Tamil Language and Culture in an authentic Tamil environment. It provided an avenue for the students to interact with students from schools in Singapore and overseas.<br><br>Navarasam 2019<br>Our Tamil students were participated in Navarasa Thiruvizha 2019. It is a Tamil Language and Cultural Competition for Secondary School students. It was organised by Indian Activity Executive Committee (IAEC) of Kallang Community Club.</td>
-  </tr>
-</tbody>
-</table>
+| **Chinese Unit**                                                                                                                                                                                                                                                                                                                                                                                                                          | **Malay Unit**                                                                                               | **Tamil Unit**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **“地球村” 青少年双语演讲大赛<br>“Global Village” Children and Youths Bilingual Speech Competition<br>2nd Place:<br>Joey Chee Zhi Jun<br>Certificate of Participation<br>Voon Jing Wen <br>Oscar Wan See Kit <br>Chen Pei Xuan, Darrellyn<br>Pieter Manuel<br>第25届全国中学/高中华语演讲比赛<br>3rd Runner Up<br>Liu Mohan  <br>Certificate of Participation<br>Velyn Siow<br><br>第46届全国学生中英文互译比赛优胜奖<br><br>张显樘<br>** | E1 Cluster Inter-school @Meridian Secondary School – Tangkas Terjemah (Translation Competition) – 3rd (2019) | NAANUM ORU PADAIPPAALI<br><br><br>Our Tamil students from Sec 1 to Sec 3 were participated in ‘NAANUM ORU PADAIPPAALI’ PROGRAMME, Budding Writers’ and Artistes’ Programme. The programme is organised by MOE, Tamil Language Unit of the Mother Tongue Languages Branch, Curriculum Planning and Development Division.<br><br>The programme provided an opportunity for our students to explore their talents and flare for writing.It exposed our students to local writers and scriptwriters to equip them with literary and creative writing techniques. It harnessed the synergy across community partners and agencies to nurture the passion in our students for creating local literary works of quality and to ensure a continued pipeline of local writers in Tamil Language.<br><br><br>Tamil Language Learning Festival:<br>Our Secondary 2 students went to learning festival at Umar Pulavar Language Centre. They participated in lot of language activities and Tamil cultural activities.<br>The event provided a platform for the students to be engaged in a variety of activities pertaining to the Tamil Language and culture. It created opportunities to appreciate and understand the richness of the Tamil Language and Culture in an authentic Tamil environment. It provided an avenue for the students to interact with students from schools in Singapore and overseas.<br><br>Navarasam 2019<br>Our Tamil students were participated in Navarasa Thiruvizha 2019. It is a Tamil Language and Cultural Competition for Secondary School students. It was organised by Indian Activity Executive Committee (IAEC) of Kallang Community Club. |
+
+
 
 ##### 3E Tangkas Terjemah (Swift Translator Competition)
 

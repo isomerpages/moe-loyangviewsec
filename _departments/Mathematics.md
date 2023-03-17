@@ -9,114 +9,28 @@ Mathematics
 ===========
 
 ### Our Staff
----------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt">Name</th>
-    <th class="tg-n4qt">Designation </th>
-    <th class="tg-n4qt">Email</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ii8k">Ms Lie Hui Min<br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Head of Department / Mathematics </span></td>
-    <td class="tg-ii8k">lie_hui_min@moe.edu.sg</td>
-  </tr>
-  <tr><td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Koe Soon Guan </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Head of Department / ICT</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">koe_soon_guan@moe.edu.sg </span></td>
-		  </tr>
-  <tr>
-    <td class="tg-ii8k">Ms Chew Pei Jun Christina<br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Level Head / Mathematics </span></td>
-    <td class="tg-ii8k">chew_pei_jun_christina@moe.edu.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Mrs Chew-Swee Mei Yein<br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">School Staff Developer </span></td>
-    <td class="tg-ii8k">swee_mei_yein@moe.edu.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Mr Tan Wei Ming Ryan<br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Subject Head /Discipline</span></td>
-    <td class="tg-ii8k">tan_wei_ming@moe.edu.sg</td>
-  </tr>
-  <tr>
-    
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Mr Loo Hup Tee<br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Senior Teacher </span><br></td>
-    <td class="tg-ii8k"> loo_hup_tee@moe.edu.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Ms Cheng Su Ming Jacqueline</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher</span></td>
-    <td class="tg-ii8k">cheng_su_ming_jacqueline@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Ms Chua Li Wen Amanda<br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher</span><br></td>
-    <td class="tg-ii8k">chua_li_wen_amanda@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Mr Gan Han Li Alvin<br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher</span><br></td>
-    <td class="tg-ii8k">gan_han_li_alvin@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Ms Lau Yuan Zhen<br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher</span><br></td>
-    <td class="tg-ii8k">lau_yuan_zhen@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k"> Mrs Ng-Kok Shu Ling<br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher</span><br></td>
-    <td class="tg-ii8k">kok_shu_ling@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Ms Oi Sihui Gwendolin</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher</span></td>
-    <td class="tg-ii8k">oi_sihui_gwendolin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Mr Sim Lye Eng</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher</span></td>
-    <td class="tg-ii8k">sim_lye_eng@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Siti Nawal Hussein Mattar</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> siti_nawal_hussein_mattar@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k"> Ms Suhaila Abdul Ghaffar<br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher</span></td>
-    <td class="tg-ii8k">suhaila_abdul_ghaffar@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mrs Wennie Lim-Ang Woon Nee</span><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher</span><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ang_woon_nee_wennie@moe.edu.sg</span><br></td>
-  </tr>
-  <tr>
-  
-  </tr>
-</tbody>
-</table>
+| **Name** 	| **Designation** 	| **Email** 	|
+|:---:	|:---:	|:---:	|
+| Ms Lie Hui Min 	| Head of Department / Mathematics  	| lie_hui_min@moe.edu.sg 	|
+| Mr Koe Soon Guan  	| Head of Department / ICT 	| koe_soon_guan@moe.edu.sg  	|
+| Ms Chew Pei Jun Christina 	| Level Head / Mathematics  	| chew_pei_jun_christina@moe.edu.sg  	|
+| Mrs Chew-Swee Mei Yein 	| School Staff Developer  	| swee_mei_yein@moe.edu.sg  	|
+| Mr Tan Wei Ming Ryan 	| Subject Head /Discipline 	| tan_wei_ming@moe.edu.sg 	|
+| Mr Loo Hup Tee 	| Senior Teacher  	| loo_hup_tee@moe.edu.sg  	|
+| Ms Cheng Su Ming Jacqueline 	| Teacher 	| cheng_su_ming_jacqueline@moe.edu.sg 	|
+| Ms Chua Li Wen Amanda 	| Teacher 	| chua_li_wen_amanda@moe.edu.sg 	|
+| Mr Gan Han Li Alvin 	| Teacher 	| gan_han_li_alvin@moe.edu.sg 	|
+| Ms Lau Yuan Zhen 	| Teacher 	| lau_yuan_zhen@moe.edu.sg 	|
+| Mrs Ng-Kok Shu Ling 	| Teacher 	| kok_shu_ling@moe.edu.sg 	|
+| Ms Oi Sihui Gwendolin 	| Teacher 	| oi_sihui_gwendolin@moe.edu.sg 	|
+| Mr Sim Lye Eng 	| Teacher 	| sim_lye_eng@moe.edu.sg 	|
+| Ms Siti Nawal Hussein Mattar 	| Teacher 	| siti_nawal_hussein_mattar@moe.edu.sg 	|
+| Ms Suhaila Abdul Ghaffar 	| Teacher 	| suhaila_abdul_ghaffar@moe.edu.sg 	|
+| Mrs Wennie Lim-Ang Woon Nee 	| Teacher 	| ang_woon_nee_wennie@moe.edu.sg 	|
+
+
+
 
 ### Our Vision, Mission and Values
 ------------------------------
@@ -150,51 +64,20 @@ We have two different types of programmes to cater to the learning needs of the 
    II) Special Programmes
 	 
 	 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt" colspan="5">PROGRAMMES</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-n4qt">Level</td>
-    <td class="tg-n4qt" colspan="2">Level Wide</td>
-    <td class="tg-n4qt" colspan="2">Special</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Sec 1</td>
-    <td class="tg-y7qa"><br>Mathematics Fiesta<br></td>
-    <td class="tg-ii8k" rowspan="4"><br><br><br><br><br><br><br>Mathematics Modelling and Problems in Real World Context Tasks<br></td>
-    <td class="tg-ii8k"><br>Foundation Math Bridging Programme<br></td>
-    <td class="tg-ii8k" rowspan="4"><br><br><br><br><br><br><br>Mathematics Talent Development Programme <br></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k"><br>Sec 2<br></td>
-    <td class="tg-y7qa"><br>Mathematics Trail           (External Location)<br></td>
-    <td class="tg-ii8k" rowspan="2"><br><br><br><br>Low Progress Support Programme<br><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k"><br>Sec 3<br></td>
-    <td class="tg-y7qa"><br>Mathematics Trail (External Location)<br><br>Extended Curriculum (1 week)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k"><br>Sec 4/5<br></td>
-    <td class="tg-y7qa"><br>Intensive Revision for National Exams<br></td>
-    <td class="tg-ii8k"><br>Math Clinic Consultations</td>
-  </tr>
-</tbody>
-</table>
+
+| **PROGRAMMES** |                                                                           |                                                                                    |                                                |                                                               |
+|----------------|---------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------|
+| Level          | Level Wide                                                                |                                                                                    | Special                                        |                                                               |
+| Sec 1          | Mathematics Fiesta                                                        | <br><br><br><br><br>Mathematics Modelling and Problems in Real World Context Tasks | Foundation Math Bridging Programme             | <br><br><br><br><br>Mathematics Talent Development Programme  |
+| Sec 2          | Mathematics Trail (External Location)                                     |                                                                                    | <br><br>Low Progress Support Programme<br><br> |                                                               |
+| Sec 3          | Mathematics Trail (External Location)<br><br>Extended Curriculum (1 week) |                                                                                    |                                                |                                                               |
+| Sec 4/5        | Intensive Revision for National Exams                                     |                                                                                    | Math Clinic Consultations                      |                                                               |
+
+
+
+	 
+	 
+
 
 **Programme Details**
 

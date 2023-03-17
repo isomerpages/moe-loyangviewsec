@@ -9,54 +9,18 @@ Physical Education
 ===================
 
 ### Our Staff
----------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt"> Name </th>
-    <th class="tg-n4qt">Designation <span style="color:#222;background-color:#EAEAEA"> </span></th>
-    <th class="tg-n4qt"> Email </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ii8k">Mr Gabriel Wie</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Head of Department/ Physical Education and CCA  </span></td>
-    <td class="tg-ii8k">wie_chouw_siang@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Mr Raymond Tan</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Subject Head/ Physical Education &amp; CCA </span></td>
-    <td class="tg-ii8k">tan_siew_heng_raymond@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Mr Melky Putera Padidunan</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Senior Teacher/ Physical Education </span></td>
-    <td class="tg-ii8k">melky_putera_papidunan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Ms Wendy Siow Hui Yee</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Teacher/ Physical Education</span></td>
-    <td class="tg-ii8k">siow_hui_yee@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Mr Iliyasa Ong Li Shen</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher/ Physical Education </span></td>
-    <td class="tg-ii8k">ong_lishen_iliyasa@moe.edu.sg</td>
-  </tr>
-</tbody>
-</table>
+|         **Name**         |                 **Designation**                 |             **Email**            |
+|:-------------------------:|:-----------------------------------------------:|:---------------------------------:|
+|       Mr Gabriel Wie      | Head of Department/ Physical Education and CCA  |     wie_chouw_siang@moe.edu.sg    |
+|       Mr Raymond Tan      |     Subject Head/ Physical Education & CCA      |  tan_siew_heng_raymond@moe.edu.sg |
+| Mr Melky Putera Padidunan |       Teacher/ Physical Education        | melky_putera_papidunan@moe.edu.sg |
+|   Ms Wendy Siow Hui Yee   |           Teacher/ Physical Education           |      siow_hui_yee@moe.edu.sg      |
+|   Mr Iliyasa Ong Li Shen  |           Teacher/ Physical Education           |   ong_lishen_iliyasa@moe.edu.sg   |
+
+
+
+
 
 ![](/images/PE%20dept%202020.jpeg)
 
