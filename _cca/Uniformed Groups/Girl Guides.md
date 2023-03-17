@@ -31,46 +31,6 @@ Girl Guides
 
 
 
-<table>
-<thead>
-  <tr>
-    <th colspan="3">Company Leader</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="3">NOOR ALYSHA BINTE AHMAD</td>
-  </tr>
-  <tr>
-    <td colspan="2">Assistant Company Leader</td>
-    <td>Assistant Company Leader</td>
-  </tr>
-  <tr>
-    <td colspan="2">MATILDA MATTHEW</td>
-    <td>DYLLIS YAP</td>
-  </tr>
-  <tr>
-    <td>Senior Patrol Leader</td>
-    <td>Senior Patrol Leader</td>
-    <td>Senior Patrol Leader</td>
-  </tr>
-  <tr>
-    <td>SIM WEN XI AGNES</td>
-    <td>NG CI YUN</td>
-    <td>SITI 'ALIYAH BINTE AZAHAR</td>
-  </tr>
-</tbody>
-</table>
-
-
-
-
-|    **Bougainvillea**    |             **Sunflower**            |             **Orchid**            |   **Morning Glory**   |          **Ixora**          |           **Jasmine**           |      **Hibiscus**     |
-|:-----------------------:|:------------------------------------:|:---------------------------------:|:---------------------:|:---------------------------:|:-------------------------------:|:---------------------:|
-|    **Patrol Leader**    |           **Patrol Leader**          |         **Patrol Leader**         |   **Patrol Leader**   |      **Patrol Leader**      |        **Patrol Leader**        |   **Patrol Leader**   |
-| EVA NATASHA BINTE AZMAN |      NUR RUSYIDAH BINTI ROHAIZAD     |       GIAM WENG YI, GEOMINE       | DAING MAHIRAH ROHAYAH |      LOVELLE JOSEPH LIM     |   THEONE FRANCZESKA L MARTINEZ  | KIRIYADEVI D/O GANESH |
-|    **Patrol Second**    |           **Patrol Second**          |         **Patrol Second**         |   **Patrol Second**   |      **Patrol Second**      |        **Patrol Second**        |   **Patrol Second**   |
-|    GOH BEI JIA CHLOE    | AISYAH UMAIRAH BINTE SUKOOR MUHAMMAD | ALYA MARSYA BINTE MOHAMAD RIQZUAN |      CHEW SI YING     | NURIN HAZIRAH PUTERI ASZHAR | NUR UMAIRAH BINTE MOHAMED AZRIN |    LOO WAI YAN JOAN   |
 
 
 
