@@ -62,6 +62,14 @@ Outdoor Adventure Activities (Sec 2 Camp)
 | Environmental awareness and clean energy concepts | - Design and fabrication of solar-powered car                                    |
 
 
+|  | **Activities**                                                                                                                                                                                                                                        | **Activity Focus**                  |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+| Sec 1          | CCA talent identification process, Intro to School layout / Camp within school for bonding, Orienteering and Map Reading, Level Sports Carnival, Swimming Programme, Sports Enrichment                                                                    | School                              |
+| Sec 2          | National Youth Achievement Award (Bronze), Sec 2 adventure Camp, Kayaking, Level Sports Carnival, Orientation to Neighbourhood, Sports Enrichment                                                                                                         | Community                           |
+| Sec 3          | National Youth Achievement Award (Silver), Lead CCA, Student Council, Cohort Outward Bound Singapore Course, Overseas Education Programmes including VIA opportunities, student leadership exchange programmes, Level Sports Carnival, Sport Enrichments  | Global                              |
+| Sec 4          | Leading groups, guiding juniors to take over the leadership in CCA & various Student leadership roles, Level Sports Carnival                                                                                                                              | Extending Interests, Leaving Legacy |
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
