@@ -28,10 +28,13 @@ Girl Guides
 
 ### Executive Committee
 
-
-
-
-
+|                              	|  **Company Leader**  	|                              	|
+|:----------------------------:	|:--------------------:	|:----------------------------:	|
+|    NOOR ALYSHA BINTE AHMAD   	|                      	|                              	|
+| **Assistant Company Leader** 	|                      	| **Assistant Company Leader** 	|
+|        MATILDA MATTHEW       	|                      	|          DYLLIS YAP          	|
+|     Senior Patrol Leader     	| Senior Patrol Leader 	|     Senior Patrol Leader     	|
+|       SIM WEN XI AGNES       	|       NG CI YUN      	|   SITI 'ALIYAH BINTE AZAHAR  	|
 
 
 <style type="text/css">
