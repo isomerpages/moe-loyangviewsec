@@ -31,6 +31,14 @@ The InfoComm Club merges AV (Audio Visual), PVC (Photography and Videography) 
 *   Duty Schedule (Mon - Sun - depending on activities/events that require support; rostered)
 
 
+|                      **NAME**                      |     **DESIGNATION**    |
+|:--------------------------------------------------:|:----------------------:|
+|                  Mr Koe Soon Guan                  |         Advisor        |
+|    Mr Sim Lye Eng email: sim_lye_eng@moe.edu.sg    |   Overall Teacher IC   |
+| Mrs Ng-Kok Shu Ling email: kok_shu_ling@moe.edu.sg | 2nd Overall Teacher IC |
+|                   Mr Gui Eng Hong                  |       Teacher IC       |
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
