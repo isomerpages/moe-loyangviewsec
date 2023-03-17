@@ -66,6 +66,20 @@ National Cadet Corps (Land)
 
 **Executive Committee 2020 (Current)**
 
+|          **APPOINTMENT**          |              **RANK/NAME/CLASS**              |
+|:---------------------------------:|:---------------------------------------------:|
+|        Unit Sergeant Major        | SHAIKH MUHAMMAD AMIRUL BIN ABDUL RAHMAN FRAIJ |
+|   Assistant Unit Sergeant Major   |            ZULKARNAIN BIN AMINUDDIN           |
+| Junior Cadet<br>Platoon Commander |            ZULKARNAIN BIN AMINUDDIN           |
+|  Junior Cadet<br>Platoon Sergeant |           MUHAMMAD LUQMAN BIN HASRI           |
+| Senior Cadet<br>Platoon Commander |          ADEL ZAKWAN BIN MOHAMAD ADI          |
+| Senior Cadet<br>Platoon Sergeant  |          MUHAMMAD HAZIQ BIN SULAIMAN          |
+| Cadet Leader<br>Platoon Commander |   MUHAMMAD SUFI AMRIN BIN MUHAMMAD HUDZAIMAN  |
+|  Cadet Leader<br>Platoon Sergeant |                  SU WEI XIANG                 |
+|           Logistics OIC           |                  KOR AIK ONN                  |
+|           Logistics 2IC           |            RIZQ ZHARIFF BIN BAHROM            |
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
