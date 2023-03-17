@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/Uniformed-Groups/National-Police-Cadet-Corp
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ![](/images/Banner.jpg)
 
 National Police Cadet Corps
@@ -28,6 +27,11 @@ Mdm Lee Siew Yian
   
 
 **Training Details**
+
+|  **Day** |   **Time**  |              **Attire**              |
+|:--------:|:-----------:|:------------------------------------:|
+|  Tuesday | 1530 – 1800 |           NPCC Full Uniform          |
+| Thursday | 1530 – 1800 | PT Kit<br>(T-shirt with track pants) |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
