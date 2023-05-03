@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/Sports-and-Games/FloorBall/
 description: ""
 third_nav_title: Sports & Games
 ---
-
 ![](/images/Banner.jpg)
 
 FloorBall
@@ -15,105 +14,32 @@ FloorBall
 
 **Teachers In-charge**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e14l">Roles</th>
-    <th class="tg-e14l">Teachers’ names</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-citn">Overall teacher in-charge</td>
-    <td class="tg-citn">Mr Gan Han Li Alvin      email: gan_han_li_alvin@moe.edu.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-citn">2nd Overall teacher-in-charge</td>
-    <td class="tg-7fd7">Mrs Josephine Neo (Oh Wan Ping)  email: oh_wan_ping@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">Teacher in-charge</td>
-    <td class="tg-citn">Mr Ong Li Shen, Iliyasa<br></td>
-  </tr>
-  <tr>
-    <td class="tg-7fd7">Teacher in-charge </td>
-    <td class="tg-7fd7">Ms Sharina Nadia Suleiman</td>
-  </tr>
-</tbody>
-</table>
+| **Roles**                     | **Teachers’ names**                                           |
+|-------------------------------|---------------------------------------------------------------|
+| Overall teacher in-charge     | Mr Gan Han Li Alvin email: gan_han_li_alvin@moe.edu.sg        |
+| 2nd Overall teacher-in-charge | Mrs Josephine Neo (Oh Wan Ping) email: oh_wan_ping@moe.edu.sg |
+| Teacher in-charge             | Mr Ong Li Shen, Iliyasa                                       |
+| Teacher in-charge             | Ms Sharina Nadia Suleiman                                     |
+
+
 
 
 **CCA Leaders 2020/2021**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rdtm">Positions</th>
-    <th class="tg-rdtm">Students’ Names</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-citn">B Div Captain</td>
-    <td class="tg-citn">Danish Matin Bin Mohd Yazid</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">B Div Vice-Captain 1</td>
-    <td class="tg-citn">Ng Zi En Andi</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">B Div Vice-Captain 2</td>
-    <td class="tg-citn">Hykel Darrius Bin Herrizuan</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">B Div Team Manager</td>
-    <td class="tg-citn">Mohamad Qoiz Bin Mohamed Ali</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">B Div Training IC</td>
-    <td class="tg-citn"> Muhamad Alman Bin Zuhainan</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">Quartermaster<br>Assistant Quartermaster</td>
-    <td class="tg-citn">Muhammad Al-Habib Bin Ibrahim<br>Ashveen Dev Menon</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">C Div Captain</td>
-    <td class="tg-citn">Muhammad Ameerullah</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">C Div Vice-Captain 1</td>
-    <td class="tg-citn"> Muhammad Ziyad Ilmi Bin Muhammad Ghazali</td>
-  </tr>
-  <tr>
-    <td class="tg-citn">C Div Vice-Captain 2</td>
-    <td class="tg-citn">Sim Cheng Le, Prinzton </td>
-  </tr>
-  <tr>
-    <td class="tg-citn">C Div Training IC</td>
-    <td class="tg-citn"> Mohamed Sameer Bin Mohamed Faruk</td>
-  </tr>
-</tbody>
-</table>
+| **Positions**                            | **Students’ Names**                                |
+|------------------------------------------|----------------------------------------------------|
+| B Div Captain                            | Danish Matin Bin Mohd Yazid                        |
+| B Div Vice-Captain 1                     | Ng Zi En Andi                                      |
+| B Div Vice-Captain 2                     | Hykel Darrius Bin Herrizuan                        |
+| B Div Team Manager                       | Mohamad Qoiz Bin Mohamed Ali                       |
+| B Div Training IC                        | Muhamad Alman Bin Zuhainan                         |
+| Quartermaster<br>Assistant Quartermaster | Muhammad Al-Habib Bin Ibrahim<br>Ashveen Dev Menon |
+| C Div Captain                            | Muhammad Ameerullah                                |
+| C Div Vice-Captain 1                     | Muhammad Ziyad Ilmi Bin Muhammad Ghazali           |
+| C Div Vice-Captain 2                     | Sim Cheng Le, Prinzton                             |
+| C Div Training IC                        | Mohamed Sameer Bin Mohamed Faruk                   |
+
+
 
 **CCA Vision**
 

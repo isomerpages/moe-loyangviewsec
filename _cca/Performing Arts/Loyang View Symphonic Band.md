@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/performing-arts/Loyang-View-Symphonic-Band/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 ![](/images/Banner.jpg)
 
 Loyang View Symphonic Band
@@ -17,110 +16,33 @@ Band Designation
 
 #### Band Conductors/Teachers
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rdtm">DESIGNATION</th>
-    <th class="tg-rdtm">NAME</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rdtm">Main Band Conductor</td>
-    <td class="tg-citn">Mr Wilson Ong</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Junior Band Conductor</td>
-    <td class="tg-citn">Mr Pan Zhiwen</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Main Band Consultant</td>
-    <td class="tg-citn">Mr Fabian Lim</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Teacher-in-charge (I/C)</td>
-    <td class="tg-citn">Ms Mazlinah Subandi <br>email: mazlinah_subandi@moe.edu.sg <br></td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Teacher-in-charge (Co-I/C)</td>
-    <td class="tg-citn">Ms Lim Chiang Siew<br>email: lim_chiang_siew@moe.edu.sg <br></td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Teacher-in-charge</td>
-    <td class="tg-citn">Ms Tan Wen Siu</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Teacher-in-charge</td>
-    <td class="tg-citn">Mrs Karen Sing</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Teacher-in-charge</td>
-    <td class="tg-citn">Ms Teo See Hian</td>
-  </tr>
-</tbody>
-</table>
+| **DESIGNATION**                | **NAME**                                                    |
+|--------------------------------|-------------------------------------------------------------|
+| **Main Band Conductor**        | Mr Wilson Ong                                               |
+| **Junior Band Conductor**      | Mr Pan Zhiwen                                               |
+| **Main Band Consultant**       | Mr Fabian Lim                                               |
+| **Teacher-in-charge (I/C)**    | Ms Mazlinah Subandi <br>email: mazlinah_subandi@moe.edu.sg  |
+| **Teacher-in-charge (Co-I/C)** | Ms Lim Chiang Siew<br>email: lim_chiang_siew@moe.edu.sg     |
+| **Teacher-in-charge**          | Ms Tan Wen Siu                                              |
+| **Teacher-in-charge**          | Mrs Karen Sing                                              |
+| **Teacher-in-charge**          | Ms Teo See Hian                                             |
+
+
 
 
 #### Student Leaders 2020/2021:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rdtm">Drum Majors</th>
-    <th class="tg-citn" colspan="3">Cedrick / Waiz</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rdtm">Band Majors</td>
-    <td class="tg-citn" colspan="3">Eriq / Fahmy</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Student Conductors</td>
-    <td class="tg-citn" colspan="3">Valerie / Wai Yen</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Head QM</td>
-    <td class="tg-citn">Shifaa</td>
-    <td class="tg-rdtm">Asst. QMs</td>
-    <td class="tg-citn">Natalie / Nyfael</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Head Librarian</td>
-    <td class="tg-citn">Yuna</td>
-    <td class="tg-rdtm">Asst. Librarian</td>
-    <td class="tg-citn">Jie Xuan</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Head Logistics</td>
-    <td class="tg-citn">Vishnu</td>
-    <td class="tg-rdtm">Asst. Logistics</td>
-    <td class="tg-citn">De Yang</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Recruit Officers</td>
-    <td class="tg-citn" colspan="3">En Yu / Kirsty / Paz</td>
-  </tr>
-</tbody>
-</table>
+
+| **Drum Majors**        | Cedrick / Waiz       |                     |                  |
+|------------------------|----------------------|---------------------|------------------|
+| **Band Majors**        | Eriq / Fahmy         |                     |                  |
+| **Student Conductors** | Valerie / Wai Yen    |                     |                  |
+| **Head QM**            | Shifaa               | **Asst. QMs**       | Natalie / Nyfael |
+| **Head Librarian**     | Yuna                 | **Asst. Librarian** | Jie Xuan         |
+| **Head Logistics**     | Vishnu               | **Asst. Logistics** | De Yang          |
+| **Recruit Officers**   | En Yu / Kirsty / Paz |                     |                  |
+
+
 
 About the CCA
 -------------

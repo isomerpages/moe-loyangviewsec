@@ -20,65 +20,20 @@ Air Rifle Club
 
 **Student Leaders**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
-.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-apyk">Position</th>
-    <th class="tg-apyk">Name</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-tlx9">Captain</td>
-    <td class="tg-tlx9">Hanna</td>
-  </tr>
-  <tr>
-    <td class="tg-tlx9">Vice-Captain (Rifles)</td>
-    <td class="tg-tlx9">Munirah</td>
-  </tr>
-  <tr>
-    <td class="tg-tlx9">Vice-Captain (Suits)</td>
-    <td class="tg-tlx9">Durrah</td>
-  </tr>
-  <tr>
-    <td class="tg-tlx9">B Div Competition Manager</td>
-    <td class="tg-tlx9">Geneve</td>
-  </tr>
-  <tr>
-    <td class="tg-tlx9">C Div Competition Manager</td>
-    <td class="tg-tlx9">Jims</td>
-  </tr>
-  <tr>
-    <td class="tg-tlx9">Public Relations Manager</td>
-    <td class="tg-tlx9">Samantha</td>
-  </tr>
-  <tr>
-    <td class="tg-tlx9">Quartermaster (Rifles)</td>
-    <td class="tg-tlx9">Ilham</td>
-  </tr>
-  <tr>
-    <td class="tg-tlx9">Quartermaster (Suits)</td>
-    <td class="tg-tlx9">Amirah</td>
-  </tr>
-  <tr>
-    <td class="tg-tlx9">Physical Training Instructor</td>
-    <td class="tg-tlx9">Taen</td>
-  </tr>
-  <tr>
-    <td class="tg-tlx9">Sec 2 IC<br>Sec 1 IC</td>
-    <td class="tg-tlx9">Yasin<br>Mallory</td>
-  </tr>
-</tbody>
-</table>
+|         **Position**         |     **Name**     |
+|:----------------------------:|:----------------:|
+|            Captain           |       Hanna      |
+|     Vice-Captain (Rifles)    |      Munirah     |
+|     Vice-Captain (Suits)     |      Durrah      |
+|   B Div Competition Manager  |      Geneve      |
+|   C Div Competition Manager  |       Jims       |
+|   Public Relations Manager   |     Samantha     |
+|    Quartermaster (Rifles)    |       Ilham      |
+|     Quartermaster (Suits)    |      Amirah      |
+| Physical Training Instructor |       Taen       |
+|     Sec 2 IC<br>Sec 1 IC     | Yasin<br>Mallory |
+
+
 
 
 **CCA Training**

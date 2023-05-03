@@ -31,42 +31,16 @@ All these are accomplished through design-based science activities that the ALP 
 
 In Secondary One, students design and fabricate toy solar cars that are suitable for children 7-10 years of age.  Students are taken through a series of hands-on experiments to learn science and engineering concepts which they apply in the design and fabrication of their solar car.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-pll1">Concept</th>
-    <th class="tg-pll1">Activities</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ii8k">Mechanism concepts</td>
-    <td class="tg-y7qa">- Investigations on pulleys, friction, and speed<br>- Aerodynamics</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Electrical concepts</td>
-    <td class="tg-y7qa">- Circuit design and assembly<br>- Energy conversions</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Structural concepts</td>
-    <td class="tg-y7qa">- Layout of components and its effect on weight distribution and car performance</td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Environmental awareness and clean energy concepts</td>
-    <td class="tg-y7qa">- Design and fabrication of solar-powered car</td>
-  </tr>
-</tbody>
-</table>
+
+|                    **Concept**                    |                                  **Activities**                                  |
+|:-------------------------------------------------:|:--------------------------------------------------------------------------------:|
+|                 Mechanism concepts                | - Investigations on pulleys, friction, and speed<br>- Aerodynamics               |
+|                Electrical concepts                | - Circuit design and assembly<br>- Energy conversions                            |
+|                Structural concepts                | - Layout of components and its effect on weight distribution and car performance |
+| Environmental awareness and clean energy concepts | - Design and fabrication of solar-powered car                                    |
+
+
+
 
 
 
@@ -120,38 +94,15 @@ In order for students to understand the relevance and make meaning of their lear
 
 In Secondary Two, students are exposed to various clean energy sources through a series of hands-on activities and experiments.  Thereafter, they apply the science and engineering concepts learnt in their innovation of a toy/gadget that runs on clean energy.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n4qt">Concept</th>
-    <th class="tg-n4qt">Activities</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ii8k">Clean energy concepts</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">-  Research and presentation of alternative sources of energy</span><br><span style="color:#222;background-color:#EAEAEA">- Investigations on dynamo, turbine, hydrogen fuel cell, biofuel</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Electrical concepts</span></td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">- Exploration of new electrical components such as breadboard, capacitors, light-dependent resistor (LDR) and force-sensitive resistor </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k">Innovation and design thinking</td>
-    <td class="tg-ii8k">- Design and fabrication of toy/gadget powered by clean energy</td>
-  </tr>
-</tbody>
-</table>
+
+|           **Concept**          |                                                              **Activities**                                                             |
+|:------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|      Clean energy concepts     |     - Research and presentation of alternative sources of energy<br>- Investigations on dynamo, turbine, hydrogen fuel cell, biofuel    |
+|       Electrical concepts      | - Exploration of new electrical components such as breadboard, capacitors, light-dependent resistor (LDR) and force-sensitive resistor  |
+| Innovation and design thinking |                                      - Design and fabrication of toy/gadget powered by clean energy                                     |
+
+
+
 
 
 

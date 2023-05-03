@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/Uniformed-Groups/National-Police-Cadet-Corp
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ![](/images/Banner.jpg)
 
 National Police Cadet Corps
@@ -29,36 +28,12 @@ Mdm Lee Siew Yian
 
 **Training Details**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
-.tg .tg-s1pt{background-color:#D9D9D9;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-s1pt">Day</th>
-    <th class="tg-s1pt">Time</th>
-    <th class="tg-s1pt">Attire</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-tlx9">Tuesday</td>
-    <td class="tg-tlx9">1530 – 1800</td>
-    <td class="tg-tlx9">NPCC Full Uniform</td>
-  </tr>
-  <tr>
-    <td class="tg-tlx9">Thursday</td>
-    <td class="tg-tlx9">1530 – 1800</td>
-    <td class="tg-tlx9">PT Kit<br>(T-shirt with track pants)</td>
-  </tr>
-</tbody>
-</table>
+|  **Day** |   **Time**  |              **Attire**              |
+|:--------:|:-----------:|:------------------------------------:|
+|  Tuesday | 1530 – 1800 |           NPCC Full Uniform          |
+| Thursday | 1530 – 1800 | PT Kit<br>(T-shirt with track pants) |
+
+
 
 **About NPCC**
 
@@ -90,22 +65,17 @@ We will always preserve the peace and uphold the law.
 
 **NPCC Values – RISE & PICARDS**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+
+<table>
 <thead>
   <tr>
-    <td class="tg-rdtm"><br><br>R<span style="font-weight:normal">esilience</span><br>I<span style="font-weight:normal">ntegrity</span><br>S<span style="font-weight:normal">ervice</span><br>E<span style="font-weight:normal">xcellence</span><br></td>
-    <td class="tg-rdtm">P<span style="font-weight:normal">unctuality</span><br>I<span style="font-weight:normal">nitiative</span><br>C<span style="font-weight:normal">ommitment</span><br>A<span style="font-weight:normal">ttitude</span><br>R<span style="font-weight:normal">esponsibility</span><br>D<span style="font-weight:normal">iscipline</span><br>S<span style="font-weight:normal">elflessness</span></td>
+		<td><br><b>R</b>esilience<br><b>I</b>ntegrity<br><b>S</b>ervice<br><b>E</b>xcellence<br></td>
+    <td><b>P</b>unctuality<br><b>I</b>nitiative<br><b>C</b>ommitment<br><b>A</b>ttitude<br><b>R</b>esponsibility<br><b>D</b>iscipline<br><b>S</b>elflessness</td>
   </tr>
 </thead>
 </table>
+
+
 
 **Highlights**
 
