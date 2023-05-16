@@ -3,8 +3,6 @@ title: Education and Career Guidance
 permalink: /programmes/Education-and-Career-Guidance/
 description: ""
 ---
-
-
 ![](/images/Banner.jpg)
 
 Education and Career Guidance
@@ -30,7 +28,7 @@ Build students’ adaptability and resilience to embrace the need for lifelong l
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/12ass4FSCcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/12ass4FSCcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 
@@ -39,9 +37,9 @@ Build students’ adaptability and resilience to embrace the need for lifelong l
 
 We have an ECG Counsellor to provide support to students (individually or in small groups). Students who would like to explore more in areas such as subject choices, course options or to find out more about their strengths and interests can have a chat with our school’s ECG Counsellor.
 
-To make an appointment with Ms Pauline Low, ECG Counsellor, please click on [https://go.gov.sg/hblecg](https://go.gov.sg/hblecg), or scan the QR code below.
+To make an appointment with Mr Edwin Khong, Education and Career Guidance Counsellor, please scan the QR code below, or click on [https://go.gov.sg/lvssecgcappointmentbooking]( https://go.gov.sg/lvssecgcappointmentbooking).
 
-![](/images/ECG.png)
+![](/images/ECG/ecg%20booking%20qr%202.jpg)
 
 ![](/images/ECG/ECG01.jpg)
 
