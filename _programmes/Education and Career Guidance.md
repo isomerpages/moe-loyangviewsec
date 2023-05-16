@@ -39,7 +39,7 @@ We have an ECG Counsellor to provide support to students (individually or in sma
 
 To make an appointment with Mr Edwin Khong, Education and Career Guidance Counsellor, please scan the QR code below, or click on [https://go.gov.sg/lvssecgcappointmentbooking]( https://go.gov.sg/lvssecgcappointmentbooking).
 
-![](/images/ECG.png)
+![](/images/ECG/ecg%20booking%20qr%202.jpg)
 
 ![](/images/ECG/ECG01.jpg)
 
