@@ -3,11 +3,16 @@ title: School Examinations
 permalink: /community-involvement/School-Examinations/
 description: ""
 ---
-
 ![](/images/Banner.jpg)
 
 School Examinations
 ===================
+### Preliminary Examinations 2023
+-----------------------------
+
+Please refer to the following PDF file with regards to our upcoming Sec 4/5 Preliminary 
+
+
 
 ### End-Of-Year Examinations 2022
 -----------------------------
