@@ -3,7 +3,6 @@ title: Form Classes 2023
 permalink: /about-us/Form-Classes-2023/
 description: ""
 ---
-
 Form Classes 2023
 ===============
         
@@ -202,10 +201,10 @@ Form Classes 2023
 <td class="tg-z14i"><span style="font-weight:bold">Wennie Ang</span><br>
 <a href="mailto: ang_woon_nee_wennie@moe.edu.sg">
 <span style="font-style:italic">ang_woon_nee_wennie@moe.edu.sg&nbsp;</span></a></td>
-<td class="tg-z14i"><span style="font-weight:bold">Teo See Hian</span><br>
-<a href="mailto: teo_see_hian@moe.edu.sg">
-<span style="font-style:italic">teo_see_hian@moe.edu.sg&nbsp;</span></a></td>
 <td class="tg-z14i"><span style="font-weight:bold">Nurasyikin</span><br>
+<a href="mailto: nurasyikin_kassim@schools.gov.sg">
+<span style="font-style:italic">nurasyikin_kassim@schools.gov.sg</span></a></td>
+<td class="tg-z14i"><span style="font-weight:bold"></span><br>
 <a href="mailto:">
 
 <span style="font-style:italic"> </span></a></td>
