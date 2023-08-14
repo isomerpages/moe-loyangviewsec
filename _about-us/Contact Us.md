@@ -25,15 +25,22 @@ Email:&nbsp;[loyangview\_ss@moe.edu.sg](mailto:loyangview_ss@moe.edu.sg)
 
 **Information for Parents**
 
-School operating hours – Monday to Friday (7am to 6pm) daily.
+**School Operating Hours**
+| Day | Operating Hours during School Term |
+| -------- | -------- |
+| Monday to Friday     | 7:00 am to 6:00 pm     |
+|Saturdays, Sundays, and Public Holidays| Closed|
 
-School is closed on Saturdays, Sundays and Public Holidays.
+**General Office Operating Hours**
+| Day | Operating Hours during School Term |
+| -------- | -------- |
+| Monday to Thursday | 7:00 am to 5:30 pm     |
+| Friday | 7:00 am to 5:00 pm     |
+|Saturdays, Sundays, and Public Holidays| Closed|
 
-Parents visiting the school are to report to the Security Post to receive the visitor's pass and then proceed to the General Office.
+Parents visiting the school are to obtain a vistor's pass from the Security Post before proceeding to the General Office.
 
-Parents who would like to meet the Principal, Vice Principal, Form or Subject Teacher should call 6582 1727 to make an appointment.
-
-  
+Parents who would like to meet any of our staff should call 6582 1727 to make an appointment prior to visiting the school.
 
 **Bus Services**
 
