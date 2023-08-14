@@ -38,7 +38,9 @@ Email:&nbsp;[loyangview\_ss@moe.edu.sg](mailto:loyangview_ss@moe.edu.sg)
 | Friday | 7:00 am to 5:00 pm     |
 |Saturdays, Sundays, and Public Holidays| Closed|
 
-  
+Parents visiting the school are to obtain a vistor's pass from the Security Post before proceeding to the General Office.
+
+Parents would like to meet any of our staff should call 6582 1727 to make an appointment prior to visiting the school.
 
 **Bus Services**
 
