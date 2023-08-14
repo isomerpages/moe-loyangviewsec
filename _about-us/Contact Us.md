@@ -27,26 +27,24 @@ Email:&nbsp;[loyangview\_ss@moe.edu.sg](mailto:loyangview_ss@moe.edu.sg)
 
 **School Operating Hours**
 
+<title>Table Example</title>
+<table border="1">
+		<tbody><tr>
+				<th>Day</th>
+				<th>Operating Hours during School Term</th>
+		</tr>
+		<tr>
+				<td>Monday to Friday</td>
+				<td> 7:00 am to 6:00 pm</td>
+		</tr>
+		<tr>
+				<td>Saturdays, Sundays, and Public Holidays</td>
+				<td>Closed</td>
+		</tr>
+	</tbody></table><title>Table Example</title><table>
+		<tbody><tr>
 
-
-    <title>Table Example</title>
-    <table border="1">
-        <tbody><tr>
-            <th>Day</th>
-            <th>Operating Hours during School Term</th>
-        </tr>
-        <tr>
-            <td>Monday to Friday</td>
-            <td> 7:00 am to 6:00 pm</td>
-        </tr>
-        <tr>
-            <td>Saturdays, Sundays, and Public Holidays</td>
-            <td>Closed</td>
-        </tr>
-			</tbody></table><title>Table Example</title><table>
-        <tbody><tr>
-
-    </tr></tbody></table>
+</tr></tbody></table>
 
 **General Office Operating Hours**
 <table border="1">
