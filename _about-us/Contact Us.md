@@ -30,8 +30,6 @@ Email:&nbsp;[loyangview\_ss@moe.edu.sg](mailto:loyangview_ss@moe.edu.sg)
 
 
     <title>Table Example</title>
-
-
     <table border="1">
         <tbody><tr>
             <th>Day</th>
@@ -47,12 +45,6 @@ Email:&nbsp;[loyangview\_ss@moe.edu.sg](mailto:loyangview_ss@moe.edu.sg)
         </tr>
 			</tbody></table><title>Table Example</title><table>
         <tbody><tr>
-
-
-
-
-    
-
 
     </tr></tbody></table>
 
