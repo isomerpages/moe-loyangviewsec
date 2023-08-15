@@ -25,13 +25,13 @@ Email:&nbsp;[loyangview\_ss@moe.edu.sg](mailto:loyangview_ss@moe.edu.sg)
 
 **Information for Parents**
 
-**School Operating Hours**
+**School Opening Hours**
 
 <title>Table Example</title>
 <table border="1">
 		<tbody><tr>
 				<th>Day</th>
-				<th>Operating Hours during School Term</th>
+				<th>Opening Hours during School Term</th>
 		</tr>
 		<tr>
 				<td>Monday to Friday</td>
