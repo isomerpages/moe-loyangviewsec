@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website video.gif
+      background: /images/sept23 web video.gif
       key_highlights:
-        - title: "Announcements "
+        - title: Announcements
           description: ""
           url: /Announcements/
         - title: Latest Happenings
