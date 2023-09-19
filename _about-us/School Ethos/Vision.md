@@ -11,5 +11,4 @@ Vision
 
 
 
-### **Our Vision**
-A community of lifelong learners, future-ready leaders and active citizens.
+
