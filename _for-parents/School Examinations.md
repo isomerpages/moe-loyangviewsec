@@ -7,12 +7,19 @@ description: ""
 
 School Examinations
 ===================
+### Sec 1 to 3 End of Year Examinations 2023
+-----------------------------
+Please refer to the following PDF files with regards to our upcoming Sec 1 to 3 End of Year Examinations.
+
+##### PDF Files:
+* Sec 1: 
+
 ### Preliminary Examinations 2023
 -----------------------------
 
-Please refer to the following PDF file with regards to our upcoming Sec 4/5 Preliminary.
+Please refer to the following PDF files with regards to our upcoming Sec 4/5 Preliminary.
 
-##### Level: PDF File
+##### : PDF File
 
 * Sec 4 Normal Academic: [2023-4NA-Prelim-Timetable.pdf](/files/Exam%20Related%20Matters/2023-4na-prelim%20timetable.pdf)
 
