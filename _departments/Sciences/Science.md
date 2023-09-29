@@ -21,7 +21,9 @@ third_nav_title: Sciences
 |         Yeoh-Goh Cheng Khim (Mrs)          |              Teacher (Chemistry)             |      goh_cheng_khim@moe.edu.sg       |
 |         Oh Wan Ping Josephine (Ms)         |               Teacher (Biology)              |        oh_wan_ping@moe.edu.sg        |
 |        Gabriel Palai Anbu Nambi (Mr)       |              Teacher (Biology)               | gabriel_palai_anbu_nambi@moe.edu.sg  |
-| Nurul Imma Wong Binte Mohd Imran Wong (Ms) |              Teacher (Chemistry)             |      nurul_imma_wong@moe.edu.sg      || Elvina Binte Abu Hasan (Ms) |              Teacher (Chemistry)             |      elvina_abu_hasan@moe.edu.sg      || Chua Hong Yang, Darien  (Mr) |              Teacher (Chemistry)             |      chua_hong_yang_darien@moe.edu.sg      |
+| Nurul Imma Wong Binte Mohd Imran Wong (Ms) |              Teacher (Chemistry)             |      nurul_imma_wong@moe.edu.sg      |
+| Elvina Binte Abu Hasan (Ms) |              Teacher (Chemistry)             |      elvina_abu_hasan@moe.edu.sg      |
+| Chua Hong Yang, Darien  (Mr) |              Teacher (Chemistry)             |      chua_hong_yang_darien@moe.edu.sg      |
 |             Heng Ching Fei (Mr)            |               Teacher (Physics)              |      heng_ching_fei@moe.edu.sg       |
 |          Rozita Binte Selamat (Ms)         |         School Laboratory Technician         |      rozita_selamat_a@moe.edu.sg     |
 |              Tan Lay Hwa (Ms)              |         School Laboratory Technician         |        tan_lay_hwa@moe.edu.sg        |
