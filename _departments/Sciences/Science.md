@@ -21,7 +21,7 @@ third_nav_title: Sciences
 |         Yeoh-Goh Cheng Khim (Mrs)          |              Teacher (Chemistry)             |      goh_cheng_khim@moe.edu.sg       |
 |         Oh Wan Ping Josephine (Ms)         |               Teacher (Biology)              |        oh_wan_ping@moe.edu.sg        |
 |        Gabriel Palai Anbu Nambi (Mr)       |              Teacher (Biology)               | gabriel_palai_anbu_nambi@moe.edu.sg  |
-| Nurul Imma Wong Binte Mohd Imran Wong (Ms) |              Teacher (Chemistry)             |      nurul_imma_wong@moe.edu.sg      |
+| Nurul Imma Wong Binte Mohd Imran Wong (Ms) |              Teacher (Chemistry)             |      nurul_imma_wong@moe.edu.sg      || Elvina Binte Abu Hasan (Ms) |              Teacher (Chemistry)             |      elvina_abu_hasan@moe.edu.sg      || Chua Hong Yang, Darien  (Mr) |              Teacher (Chemistry)             |      chua_hong_yang_darien@moe.edu.sg      |
 |             Heng Ching Fei (Mr)            |               Teacher (Physics)              |      heng_ching_fei@moe.edu.sg       |
 |          Rozita Binte Selamat (Ms)         |         School Laboratory Technician         |      rozita_selamat_a@moe.edu.sg     |
 |              Tan Lay Hwa (Ms)              |         School Laboratory Technician         |        tan_lay_hwa@moe.edu.sg        |
@@ -39,17 +39,17 @@ _Vision – Every LV Student to have a strong foundation in Science for life, le
 
 To enthuse and nurture all students to be scientifically literate and to provide students with strong Science foundation to innovate and pursue STEM for future learning and work.
 
-Our Science Department’s direction is driven by the Inquiry-Based Learning Approach, with teachers being the leaders of inquiry, within and outside the Science classroom. Teachers facilitate the learning of Science by constantly arousing students’ curiosity about the world and guiding them in the construction of new knowledge. 
+Our Science Department’s direction is driven by the Inquiry-Based Learning Approach, with teachers being the leaders of inquiry, within and outside the Science classroom. Teachers facilitate the learning of Science by constantly arousing students’ curiosity about the world and guiding them in the construction of new knowledge.&nbsp;
 
-With this, we seek _to develop in every student the passion and joy of learning Science._
+With this, we seek&nbsp;_to develop in every student the passion and joy of learning Science._
 
 
-PROGRAMMES & ACTIVITIES
+PROGRAMMES &amp; ACTIVITIES
 -----------------------
 
 #### ECO-TREK @ Sungei Buloh Wetland Reserve (SBWR)
 
-ECO-TREK @ SBWR is one key programme for our lower Secondary students. Here, students are taken for an eco-trek into the heart of Sungei Buloh Wetland Reserve (SBWR). The slogan - “bringing our science textbook to life” – best sums up the objectives of this activity. This learning journey into the mangroves aims to integrate the curriculum-based content with a first-hand experience of our natural heritage and create environmental awareness amongst our students. Management of oneself in the nature reserve, using the five senses to experience and gathering information on mangrove flora and fauna are just some of the skills a student would be trained during this activity. 
+ECO-TREK @ SBWR is one key programme for our lower Secondary students. Here, students are taken for an eco-trek into the heart of Sungei Buloh Wetland Reserve (SBWR). The slogan - “bringing our science textbook to life” – best sums up the objectives of this activity. This learning journey into the mangroves aims to integrate the curriculum-based content with a first-hand experience of our natural heritage and create environmental awareness amongst our students. Management of oneself in the nature reserve, using the five senses to experience and gathering information on mangrove flora and fauna are just some of the skills a student would be trained during this activity.&nbsp;
 
 The learning journey of the students does not end after the departure from the wetland reserves. Upon completion of the eco-trek, students integrate ICT in their assignment to showcase their knowledge in a photo story.
 
@@ -69,43 +69,43 @@ Some of the stations for the challenge included
 
 1\. Vortex Suspension - suspend an object at a designated height on top of a fan
 
-Purpose            –     Students learn to balance objects though the use of Physics of aerodynamics and Newton’s Law through trial and error as this simulates indoor skydiving
+Purpose&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; –&nbsp; &nbsp; &nbsp;Students learn to balance objects though the use of Physics of aerodynamics and Newton’s Law through trial and error as this simulates indoor skydiving
 
   
 
 2\. Air cannon - design an air cannon that can hit the target over a distance using air as a projectile
 
-Purpose            –     Students learn to appreciate the transfer of energy in the process, learn that air has mass and hence can exert a force over a distance despite it being invisible to the eye!
+Purpose&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; –&nbsp; &nbsp; &nbsp;Students learn to appreciate the transfer of energy in the process, learn that air has mass and hence can exert a force over a distance despite it being invisible to the eye!
 
   
 
 3\. Projectile launcher - build a machine that can launch a ping pong ball over the greatest distance.
 
-Purpose            –     Students learn about projectile motion of objects and the energy conversion.
+Purpose&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; –&nbsp; &nbsp; &nbsp;Students learn about projectile motion of objects and the energy conversion.
 
   
 
 4\. Chemical powered Rocket - use chemicals to power a bottle to a fixed distance.
 
-Purpose            –     Students learn to quantify the chemicals used and discover the propulsion method using pressure!
+Purpose&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; –&nbsp; &nbsp; &nbsp;Students learn to quantify the chemicals used and discover the propulsion method using pressure!
 
   
 
 5\. Parachute - build parachute to safely land an egg from 2 storeys
 
-Purpose            –     Students learn to apply the material science in plastic bags and strings to build a unique parachute to combat against gravity.
+Purpose&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; –&nbsp; &nbsp; &nbsp;Students learn to apply the material science in plastic bags and strings to build a unique parachute to combat against gravity.
 
   
 
 6\. Paper stool – build a stool out of newspaper and ensure it can support the weight of a person.
 
-Purpose            –     Students learn to apply the material science in newspaper and to build a unique stool to combat against the force due to gravity.
+Purpose&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; –&nbsp; &nbsp; &nbsp;Students learn to apply the material science in newspaper and to build a unique stool to combat against the force due to gravity.
 
   
 
 7\. Balancing bike – build bike that can balance on a tight rope and can reach the end in the shortest amount of time.
 
-Purpose            –     Students learn to apply the material science in sticks and to build a unique bike that can balance itself and race.
+Purpose&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; –&nbsp; &nbsp; &nbsp;Students learn to apply the material science in sticks and to build a unique bike that can balance itself and race.
 
 ![](/images/science01.png)
 
@@ -123,13 +123,13 @@ Purpose            –     Students learn to apply the material science
 
 ![](/images/science08.png)
 
-#### **WORKSHOPS & ENRICHMENT PROGRAMMES**
+#### **WORKSHOPS &amp; ENRICHMENT PROGRAMMES**
 
 To enrich their learning of Science beyond the curriculum, students attend workshops or enrichment programmes in school or those conducted by other institutions.
 
 **Biology Enrichment Programme**
 
-In 2019, the Secondary Four Pure Biology and Three Science (Biology) students went to the Singapore Science Centre for a hands-on experience of Genetic Engineering techniques to complement their theory lesson on Genetic Engineering.
+In 2019, the Secondary Four Pure Biology and Three Science (Biology) students went to the Singapore Science Centre for a hands-on experience of&nbsp;Genetic Engineering techniques to complement their theory lesson on Genetic Engineering.
 
 Students learnt to apply their knowledge of genetic engineering in the practical session. This session allowed the students to appreciate the methods used by scientists to create transgenic organisms for medical purposes. In addition, students learnt the sterile laboratory techniques to work with bacteria, including growing bacteria colonies via plating.
 
@@ -149,13 +149,13 @@ Students are also provided with opportunities to interact and collaborate with i
 
 ![](/images/science14.png)
 
-#### **COMPETITIONS & ACHIEVEMENTS**
+#### **COMPETITIONS &amp; ACHIEVEMENTS**
 
 Participation in competitions is a key approach in the Science department to develop students to be critical thinkers, problem solvers and be socially confident beyond the curriculum. Students participate in STEM competitions under the Science Department or under the school’s Applied Learning Programme.  
 
 **COMPETITIONS UNDER APPLIED LEARNING PROGRAMME**
 
-Please click this [link](/signature-programmes/Applied-Learning-Programme-ALP/permalink/) for some of the 2020 & 2021 competitions.
+Please click this&nbsp;[link](/signature-programmes/Applied-Learning-Programme-ALP/permalink/)&nbsp;for some of the 2020 &amp; 2021 competitions.
 
 
 **INTERNATIONAL BIOMEDICAL QUIZ**
@@ -172,9 +172,9 @@ In 2019, with the objective of the competition to stretch the high ability Scien
 
 **NXplorer 2020**
 
-Kirsty, Ariqah, Qaisara, Sabrina and Harith from 2E3 worked relentlessly from January to October, getting through the preliminary and semi-final rounds to finally reach the final 5 teams of the NXplorers 2020 held via livestream on 30th October 2020. 
+Kirsty, Ariqah, Qaisara, Sabrina and Harith from 2E3 worked relentlessly from January to October, getting through the preliminary and semi-final rounds to finally reach the final 5 teams of the NXplorers 2020 held via livestream on 30th October 2020.&nbsp;
 
-NXplorers 2020 is a competition championed by Science Centre Singapore and Shell Singapore for young people to develop sustainable solutions to food, water and energy challenges. 
+NXplorers 2020 is a competition championed by Science Centre Singapore and Shell Singapore for young people to develop sustainable solutions to food, water and energy challenges.&nbsp;
 
 Their proposed solution to reduce food waste led to them clinching 4th position out of 132 participating teams. The team also received more than 1000 votes from the online voting segment, making it the most popular team in the competition.
 
@@ -196,7 +196,7 @@ The joy of learning is found not only within the classrooms but also in enrichin
 
 In 2019, students participated in The East Zone Amazing Science Race held on the day of the East Zone STEM Festival at Victoria Junior College.
 
-The students had to put their knowledge of Chemistry, Biology, and Physics and analytical skills to the test in the race against time. Each team was presented with several tasks or experiments to perform within the time given. Teams were briefed on the judging criteria on the day itself. Our students gave an excellent performance to emerge as the **Champion** team!
+The students had to put their knowledge of Chemistry, Biology, and Physics and analytical skills to the test in the race against time. Each team was presented with several tasks or experiments to perform within the time given. Teams were briefed on the judging criteria on the day itself. Our students gave an excellent performance to emerge&nbsp;as the&nbsp;**Champion**&nbsp;team!
 
 ![](/images/science20.png)
 
@@ -210,7 +210,7 @@ In 2018, one of the representing teams managed to clinch the top prize for the c
 
 **SINGAPORE JUNIOR PHYSICS OLYMPIAD**
 
-The Singapore Junior Physics Olympiad (SJPO) is a physics competition organized by the Institute of Physics, Singapore (IPS) for secondary school students. This annual competition aims to encourage the study and appreciation of physics beyond the school curriculum, by providing an opportunity for students to solve novel questions that require critical and inventive thinking. 
+The Singapore Junior Physics Olympiad (SJPO) is a physics competition organized by the Institute of Physics, Singapore (IPS) for secondary school students. This annual competition aims to encourage the study and appreciation of physics beyond the school curriculum, by providing an opportunity for students to solve novel questions that require critical and inventive thinking.&nbsp;
 
 2 students received Honourable Mentions in 2020, 7 students received Honourable Mentions in 2019 and 1 student received a Silver Award, 14 received Honourable Mentions in 2018 for the competition.
 
@@ -220,7 +220,7 @@ The Singapore Junior Physics Olympiad (SJPO) is a physics competition organized 
 
 **NANYANG POLYTECHNIC SCIENCE AND TECHNOLOGY CHALLENGE**  
 
-Organised since 2009, the NYP Science & Technology Challenge provides exciting challenges to fuel the students’ critical and creative thinking while promoting the benefits of an engineering and science education.
+Organised since 2009, the NYP Science &amp; Technology Challenge provides exciting challenges to fuel the students’ critical and creative thinking while promoting the benefits of an engineering and science education.
 
 In 2018, six teams participated in 6 different challenges and the team that participated in the Intelligent Innovator’s Fair was awarded the Most Innovative Prize.
 
