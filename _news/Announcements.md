@@ -6,12 +6,6 @@ description: ""
 Announcements
 =================
     
-### **SPF Year-End Joint School Holiday Advisory**
-
-School's out! Click here to access the advisory from the SPF!
-
-
-
 ### **Registration for Singpass for Graduating Students 2023**
 
 
@@ -22,3 +16,9 @@ Please register for the Singpass account early, preferably by June 2023, for sea
 [Information note on Singpass for Secondary Schools - For Parents](/files/Announcements/information%20note%20on%20singpass%20for%20secondary%20school.pdf)
 
 [Singpass Registration for Students](/files/Announcements/singpass%20registration%20guide%20for%20students.pdf)
+
+### **SPF Year-End Joint School Holiday Advisory**
+
+School's out! Click here to access the advisory from the SPF!
+
+
