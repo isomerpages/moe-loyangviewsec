@@ -19,6 +19,6 @@ Please register for the Singpass account early, preferably by June 2023, for sea
 
 ### **SPF Year-End Joint School Holiday Advisory**
 
-School's out! Click here to access the advisory from the SPF!
+School's out! Click to access the advisory from the SPF!
 
-
+[SPF Year-End Joint Holiday Advisory](/files/Term%20Letters/spf%20year-end%20joint%20school%20holiday%20advisory.pdf)
