@@ -33,4 +33,4 @@ Subject allocation Exercise 2024 letters (In Parents' Gateway)
 
 ### Preparing for 2024?
 
-CLICK HERE - Booklists and purchase details
+CLICK [HERE](https://www.loyangviewsec.moe.edu.sg/for-parents/schoolvendors/) - Booklists and purchase details
