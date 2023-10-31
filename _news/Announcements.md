@@ -31,6 +31,6 @@ Subject allocation Exercise 2024 letters (In Parents' Gateway)
 
 [Form for Appeal](/files/Exam%20Related%20Matters/streaming%20appeal%20form%20(2023).pdf) - Please submit this form to the General Office.
 
-### Preparing for 2024?
+### Prepare for 2024 - Booklists and Details
 
-CLICK [HERE](https://www.loyangviewsec.moe.edu.sg/for-parents/schoolvendors/) - Booklists and purchase details
+CLICK [HERE](https://www.loyangviewsec.moe.edu.sg/for-parents/schoolvendors/) - Booklists and purchase of uniform details
