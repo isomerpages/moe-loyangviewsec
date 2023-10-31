@@ -27,11 +27,3 @@ description: ""
 
 
 
-|  | **School Uniforms & PE Attire** | **Textbooks** |
-| -------- | -------- | -------- |
-|      | Vendor Name:  Asencio Pte Ltd         Tel :67643102      Email: uniforms@asencio.com.sg | Vendor Name: Casco Educational Supply Pte Ltd       Tel: 6214 0438 (Bookshop direct line) or     Tel: 6547 4204 (Office for General Enquiries relating to order status or technical issues with online order)      Email: order@cascoedusupply.com.sg    |
-		 |  |  |  |
-		 |  |  |  |
-
-
-
