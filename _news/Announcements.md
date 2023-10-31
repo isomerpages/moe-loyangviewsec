@@ -22,3 +22,14 @@ Please register for the Singpass account early, preferably by June 2023, for sea
 School's out! Click to access the advisory from the SPF!
 
 [SPF Year-End Joint Holiday Advisory](/files/Term%20Letters/spf%20year-end%20joint%20school%20holiday%20advisory.pdf)
+
+### **Subject Allocation Exercise for 2024**
+
+Subject allocation Exercise 2024 letters (In Parents' Gateway)
+
+| [For 2 Express](/files/Exam%20Related%20Matters/letter%20for%20parents%20(express).pdf) | [For 2 Normal Academic](/files/Exam%20Related%20Matters/letter%20for%20parents%20(na).pdf) | [For 2 Normal Technical](/files/Exam%20Related%20Matters/letter%20for%20parents%20(nt).pdf) |
+
+[Form for Appeal](/files/Exam%20Related%20Matters/streaming%20appeal%20form%20(2023).pdf) - Please submit this form to the General Office.
+
+
+
