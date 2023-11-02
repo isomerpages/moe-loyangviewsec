@@ -18,11 +18,9 @@ We are excited to open our doors and showcase the vibrant learning environment w
 To ensure that every parent and child get the most out of this event, we would appreciate it if you register for a school tour.  
 
 #### **How to register?**
-1. Scan the QR code shown on the banner above 
 
-OR
-
-2. Click [here](https://forms.moe.edu.sg/forms/J7zd2v) to sign up
+1) Scan the QR code shown on the banner above  OR
+2) Click [here](https://forms.moe.edu.sg/forms/J7zd2v) to sign up
 
 ##### **Each tour run is expected to last approximately 30 minutes.** 
 
