@@ -15,6 +15,8 @@ We are excited to open our doors and showcase the vibrant learning environment w
 
 **Time:** 9.00 a.m. to 12.30 p.m. 
 
+**Veune:** Loyang View Secondary School, 12 Pasir Ris Street 11, Singapore 519073
+
 To ensure that every parent and child get the most out of this event, we would appreciate it if you register for a school tour.  
 
 #### **How to register?**
