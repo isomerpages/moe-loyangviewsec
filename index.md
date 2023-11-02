@@ -18,7 +18,7 @@ sections:
         - title: Achievements
           description: ""
           url: /news/Achievements/
-        - title: Open House
+        - title: Open House (NEW)
           description: Click here for more info
-          url: ""
+          url: https://www.open.gov.sg/permalink/openhouse23/
 ---
