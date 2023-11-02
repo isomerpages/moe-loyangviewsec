@@ -20,5 +20,5 @@ sections:
           url: /news/Achievements/
         - title: Open House (NEW)
           description: Click here for more info
-          url: /openhouse23
+          url: /openhouse23/
 ---
