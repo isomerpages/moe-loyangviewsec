@@ -18,7 +18,7 @@ sections:
         - title: Achievements
           description: ""
           url: /news/Achievements/
-        - title: open house
+        - title: Open House
           description: Open house on 24th Nov
           url: ""
 ---
