@@ -2,6 +2,7 @@
 title: Announcements
 permalink: /Announcements/
 description: ""
+variant: markdown
 ---
 Announcements
 =================
@@ -29,7 +30,7 @@ Subject allocation Exercise 2024 letters (In Parents' Gateway)
 
 | [For 2 Express](/files/Exam%20Related%20Matters/letter%20for%20parents%20(express).pdf) | [For 2 Normal Academic](/files/Exam%20Related%20Matters/letter%20for%20parents%20(na).pdf) | [For 2 Normal Technical](/files/Exam%20Related%20Matters/letter%20for%20parents%20(nt).pdf) |
 
-[Form for Appeal](/files/Exam%20Related%20Matters/streaming%20appeal%20form%20(2023).pdf) - Please submit this form to the General Office.
+[Form for Appeal](/files/Exam%20Related%20Matters/streaming%20appeal%20form%20(2023).pdf) - Please submit the duely completed form to the General Office or send to chew_pei_jun_christina@moe.edu.sg by 12 pm, 8 Nov 2023.
 ***********************************
 ### Prepare for 2024 - Booklists and Details
 
