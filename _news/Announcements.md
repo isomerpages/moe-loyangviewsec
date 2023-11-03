@@ -16,13 +16,13 @@ Please register for the Singpass account early, preferably by June 2023, for sea
 [Information note on Singpass for Secondary Schools - For Parents](/files/Announcements/information%20note%20on%20singpass%20for%20secondary%20school.pdf)
 
 [Singpass Registration for Students](/files/Announcements/singpass%20registration%20guide%20for%20students.pdf)
-
+*****************************
 ### **SPF Year-End Joint School Holiday Advisory**
 
 School's out! Click to access the advisory from the SPF!
 
 [SPF Year-End Joint Holiday Advisory](/files/Term%20Letters/spf%20year-end%20joint%20school%20holiday%20advisory.pdf)
-
+********************
 ### **Subject Allocation Exercise for 2024**
 
 Subject allocation Exercise 2024 letters (In Parents' Gateway)
@@ -30,7 +30,7 @@ Subject allocation Exercise 2024 letters (In Parents' Gateway)
 | [For 2 Express](/files/Exam%20Related%20Matters/letter%20for%20parents%20(express).pdf) | [For 2 Normal Academic](/files/Exam%20Related%20Matters/letter%20for%20parents%20(na).pdf) | [For 2 Normal Technical](/files/Exam%20Related%20Matters/letter%20for%20parents%20(nt).pdf) |
 
 [Form for Appeal](/files/Exam%20Related%20Matters/streaming%20appeal%20form%20(2023).pdf) - Please submit this form to the General Office.
-
+***********************************
 ### Prepare for 2024 - Booklists and Details
 
 CLICK [HERE](https://www.loyangviewsec.moe.edu.sg/for-parents/schoolvendors/) - Booklists and purchase of uniform details

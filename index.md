@@ -18,4 +18,7 @@ sections:
         - title: Achievements
           description: ""
           url: /news/Achievements/
+        - title: Open House (NEW)
+          description: Click here for more info
+          url: /news/permalink/openhouse23/
 ---
