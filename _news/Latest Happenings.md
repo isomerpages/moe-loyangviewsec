@@ -10,7 +10,7 @@ variant: markdown
 
 Hot off the press: Yearbook 2023! We’re proud to present the highlights of 2023 in our inaugural digital yearbook. Visit [https://go.gov.sg/lvss-yearbook-2023](https://go.gov.sg/lvss-yearbook-2023) to view!
 
-
+![](/images/Other%20Matters/Year_Book_2023.png)
 
 
 
