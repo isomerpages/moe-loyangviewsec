@@ -2,4 +2,5 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - Book List.md
       - Sec 1 Registration 2024.md
