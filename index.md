@@ -18,7 +18,8 @@ sections:
         - title: Achievements
           description: ""
           url: /news/Achievements/
-        - title: Open House (NEW)
-          description: Click here for more info
-          url: /news/permalink/openhouse23/
+        - title: Sec 1 Registration [For 2024 cohort]
+          description: NEW
+          url: /sec-1-registration/sec1registration2024/
+      variant: center
 ---
