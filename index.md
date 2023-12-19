@@ -20,6 +20,6 @@ sections:
           url: /news/Achievements/
         - title: Sec 1 Registration [For 2024 cohort]
           description: NEW
-          url: /news/permalink/sec1registration2024/
+          url: /sec-1-registration/sec1registration2024/
       variant: center
 ---
