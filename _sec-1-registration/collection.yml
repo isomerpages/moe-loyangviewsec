@@ -2,5 +2,6 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - Example Title.md
       - Book List.md
       - Sec 1 Registration 2024.md
