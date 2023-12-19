@@ -10,8 +10,8 @@ variant: markdown
 
 | **School Vendor** | **Company** | **Contact** **No.** |
 | -------- | -------- | -------- |
-| School Bookshop    | Casco Educational  Supply Pte Ltd    | 67483101 (Main Office)     |
-| School Bus | Sun-Gee Pte Ltd | 62200555 |
+| School Bookshop    | Casco Educational  Supply Pte Ltd    | 62140438 (Bookshop Direct Line) 65474204 (Main Office for General Equiries)     |
+| School Bus | JMR Travel Limited Liability Partnership | 81383143 |
 |School Uniform| Asencio Pte Ltd| 67643102|
 
 ### 2024 Booklists
