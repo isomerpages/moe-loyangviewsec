@@ -1,5 +1,5 @@
 ---
-title: Book List
+title: Sec 1 Book List 2024
 permalink: /sec-1-registration/permalink/2024sec1booklist/
 variant: tiptap
 description: ""
