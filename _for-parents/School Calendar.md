@@ -2,5 +2,6 @@
 title: School Calendar
 permalink: /for-parents/schoolcalendar/
 description: ""
+variant: markdown
 ---
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FSingapore&src=Y181M3BrZDNiZHUxYW1nNW1ub25sOWlvYmtuNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457" style="border:solid 5px #777" width="800" height="600" frameborder="1" scrolling="yes"></iframe>
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=c_32738a69be20e27bde1ffd7f2d109fbf4c5e6df6c58a28654706776a49162300%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
