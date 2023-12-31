@@ -3,6 +3,7 @@ title: School Rules
 permalink: /about-us/School-Ethos/schoolrules/
 description: ""
 third_nav_title: School Ethos
+variant: markdown
 ---
 #### **To Discipline is to Care**
 
@@ -149,6 +150,8 @@ responsibility of all students.
 5.6     All files and books must be brought home at the end of each school 
 day.
 
+5.7     Students' mobile phones must be placed in the students' pockets or in their bags during lessons. **Misuse of mobile phones during lessons would lead to the confiscation of students' phones.** 
+
 #### School Compound and Properties
 
 6.1     HOD room, staff rooms and staff toilets are out of bounds to students at all times.
@@ -169,6 +172,8 @@ day.
 6.4    Fire extinguishers, fire hose reels and fire alarms are strictly for emergency use only.
 
 6.5    Damage or misuse of school properties must be reported immediately to the teachers or Operations Manager (OM) at the General Office.
+
+6.6     Mobile phones must not be used to take photos or record videos, unless permission is given by the school authorities.
 
 #### Restricted Items
 
