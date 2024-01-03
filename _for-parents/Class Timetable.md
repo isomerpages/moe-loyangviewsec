@@ -2,21 +2,6 @@
 title: Class Timetable
 permalink: /for-parents/classtimetable/
 description: ""
+variant: tiptap
 ---
-## Class Timetables
-
-
-2023 TERM 3
-
-|[SEC 1](/files/Assessment%20letters/2023-t3w3-sec%201-ver1.pdf)|[SEC 2](/files/Assessment%20letters/2023-t3w3-sec%202-ver1.pdf)|[SEC 3](/files/Assessment%20letters/2023-t3w3-sec%203-ver1.pdf)|[SEC 4 & 5](/files/Assessment%20letters/2023-t3w3-sec%204and5-ver1.pdf)|
-| -------- |-------- |--------|--------|
-|S1-E1|S2-E1|S3-E1|S4-E1|
-|S1-E2|S2-E2|S3-E2|S4-E2|
-|S1-A1|S2-A1|S3-E3|S4-E3|
-|S1-A2|S2-A2|S3-A1|S4-E4|
-|S1-A3|S2-A3|S3-A2|S4-A1|
-|S1-T1|S2-T1|S3-A3|S4-A2|
-|||S3-T1|S4-A3|
-||||S4-T1|
-||||S4-T2|
-||||S5-A1|
+<h2>Class Timetables</h2><p><strong>2024 Term 1 Timetable</strong></p><p>To be uploaded by the end of week one.</p><p>Formal lessons will commence from week two onwards after orientation / cohort programmes.</p><p></p><p>******************************************************************************************</p><p>2023 TERM 3</p><table><tbody><tr><th rowspan="1" colspan="1"><p><a href="/files/Assessment%20letters/2023-t3w3-sec%201-ver1.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 1</a></p></th><th rowspan="1" colspan="1"><p><a href="/files/Assessment%20letters/2023-t3w3-sec%202-ver1.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 2</a></p></th><th rowspan="1" colspan="1"><p><a href="/files/Assessment%20letters/2023-t3w3-sec%203-ver1.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3</a></p></th><th rowspan="1" colspan="1"><p><a href="/files/Assessment%20letters/2023-t3w3-sec%204and5-ver1.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 4 &amp; 5</a></p></th></tr><tr><td rowspan="1" colspan="1"><p>S1-E1</p></td><td rowspan="1" colspan="1"><p>S2-E1</p></td><td rowspan="1" colspan="1"><p>S3-E1</p></td><td rowspan="1" colspan="1"><p>S4-E1</p></td></tr><tr><td rowspan="1" colspan="1"><p>S1-E2</p></td><td rowspan="1" colspan="1"><p>S2-E2</p></td><td rowspan="1" colspan="1"><p>S3-E2</p></td><td rowspan="1" colspan="1"><p>S4-E2</p></td></tr><tr><td rowspan="1" colspan="1"><p>S1-A1</p></td><td rowspan="1" colspan="1"><p>S2-A1</p></td><td rowspan="1" colspan="1"><p>S3-E3</p></td><td rowspan="1" colspan="1"><p>S4-E3</p></td></tr><tr><td rowspan="1" colspan="1"><p>S1-A2</p></td><td rowspan="1" colspan="1"><p>S2-A2</p></td><td rowspan="1" colspan="1"><p>S3-A1</p></td><td rowspan="1" colspan="1"><p>S4-E4</p></td></tr><tr><td rowspan="1" colspan="1"><p>S1-A3</p></td><td rowspan="1" colspan="1"><p>S2-A3</p></td><td rowspan="1" colspan="1"><p>S3-A2</p></td><td rowspan="1" colspan="1"><p>S4-A1</p></td></tr><tr><td rowspan="1" colspan="1"><p>S1-T1</p></td><td rowspan="1" colspan="1"><p>S2-T1</p></td><td rowspan="1" colspan="1"><p>S3-A3</p></td><td rowspan="1" colspan="1"><p>S4-A2</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>S3-T1</p></td><td rowspan="1" colspan="1"><p>S4-A3</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>S4-T1</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>S4-T2</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>S5-A1</p></td></tr></tbody></table><p></p>
