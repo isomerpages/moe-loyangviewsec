@@ -3,55 +3,6 @@ title: Drama Club
 permalink: /co-curricular-activities/performing-arts/Drama-Club/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-
-
-
-Drama Club
-==========
-
-
-**Training Schedule**          
-
-Tuesdays and Thursdays 3.30 to 5.30pm
-
-**Teachers-in-charge**      
-
-*   Mr Nelson Tum  (OIC)  email: tum_cheong_kiong_nelson@moe.edu.sg                           
-*   Mdm Victoria Chang Ping Sze (2IC)  email: chang_ping_sze@moe.edu.sg
-*   Ms Hamisah Shekh Nahji            
-
-**Description**
-
-The Loyang View Drama Club is a vibrant performing arts group that aims to build social confidence in young people and further their appreciation for the theatre. Members get to work on various aspects of a theatrical performance –acting and presenting, props and costume design and making, sound and stage management. Members participate in the biannual Singapore Youth Festival Presentation (Drama) and other school and external performances.
-
-**Notable Past Achievements**
-
-**2021**
-
-*   Awarded Certificate of Commendation at the Singapore Youth Festival Presentation (Drama)
-*   Teachers’ Day Concert
-
-**2019**
-
-*   Awarded Certificate of Accomplishment at the Singapore Youth Festival Presentation (Drama)
-*   Loyang View Extravangaza (LoVE) 2019 - The Bicentennial Edition
-*   Teachers' Day Concert
-
-**2018**                                  
-
-*   Participation in Human Values Drama Festival at Republic Polytechnic organised by Sri Sathya Sai Organisation of Singapore
-*   Loyang View Extravaganza (LoVE) at Festive Arts Theatre
-
-**2017**                                  
-
-*   Awarded Certificate of Accomplishment at the Singapore Youth Festival Presentation (Drama) (representing Loyang Secondary School)
-*   Awarded Certificate of Commendation at the Singapore Youth Festival Presentation (Drama) (representing Greenview Secondary School
-
-
-![](/images/Drama1.jpeg)
-![](/images/Drama2.jpeg)
-![](/images/Drama3.jpeg)
-![](/images/Drama4.jpeg)
-![](/images/Drama5.jpeg)
-![](/images/Drama6.jpeg)
+<h1>Drama Club</h1><p><strong>Training Schedule</strong></p><p>Tuesdays and Thursdays 3.30 to 5.30pm</p><p><strong>Teachers-in-charge</strong></p><ul data-tight="true" class="tight"><li><p>Mr Nelson Tum&nbsp; (OIC)&nbsp; </p></li><li><p>Mdm&nbsp;Victoria Chang Ping Sze (2IC)&nbsp; </p></li><li><p>Ms Suhailah</p></li></ul><p><strong>Description</strong></p><p>The Loyang View Drama Club is a vibrant performing arts group that aims to build social confidence in young people and further their appreciation for the theatre. Members get to work on various aspects of a theatrical performance –acting and presenting, props and costume design and making, sound and stage management. Members participate in the biannual Singapore Youth Festival Presentation (Drama) and other school and external performances.</p><p><strong>Notable Past Achievements</strong></p><p><strong>2021</strong></p><ul data-tight="true" class="tight"><li><p>Awarded Certificate of Commendation at the Singapore Youth Festival Presentation (Drama)</p></li><li><p>Teachers’ Day Concert</p></li></ul><p><strong>2019</strong></p><ul data-tight="true" class="tight"><li><p>Awarded Certificate of Accomplishment at the Singapore Youth Festival Presentation (Drama)</p></li><li><p>Loyang View Extravangaza&nbsp;(LoVE) 2019 - The Bicentennial Edition</p></li><li><p>Teachers' Day Concert</p></li></ul><p><strong>2018</strong></p><ul data-tight="true" class="tight"><li><p>Participation in Human Values Drama Festival&nbsp;at Republic Polytechnic&nbsp;organised by&nbsp;Sri Sathya Sai Organisation of Singapore</p></li><li><p>Loyang View Extravaganza (LoVE) at Festive Arts Theatre</p></li></ul><p><strong>2017</strong></p><ul data-tight="true" class="tight"><li><p>Awarded Certificate of Accomplishment at the Singapore Youth Festival Presentation (Drama) (representing Loyang Secondary School)</p></li><li><p>Awarded Certificate of Commendation at the Singapore Youth Festival Presentation (Drama) (representing Greenview Secondary School</p></li></ul><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama1.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama2.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama3.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama4.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama5.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama6.jpeg"></div><p></p>
