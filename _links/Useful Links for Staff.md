@@ -1,28 +1,7 @@
 ---
 title: Useful Links for Staff
-permalink: /links/permalink/
+permalink: /links/permalink/staff-links/
 description: ""
+variant: tiptap
 ---
-**USEFUL LINKS**
-
-**FOR STAFF**
-* [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
-* [School Cockpit Plus](https://schoolcockpit.moe.gov.sg/)
-* [HR Online](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
-* [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/app/login)
-* [ICON 2.0](https://workspace.google.com/dashboard)
-* [MOE Intranet](https://intranet.moe.gov.sg)
-* [HR Portal](https://www.hrp.gov.sg/)
-* [iExams 2.0](https://iexams.seab.gov.sg/login)
-* [Resource Booking System](https://rbs.avero-tech.com/)
-* [NIE Learning Resourcces - eTools](https://learn.nie.edu.sg/etoolsNIE/default.aspx)
-
-**FOR STUDENTS**
-
-*  [All Ears](https://forms.moe.edu.sg/auth)
-
-
-* [Schoolbag](https://schoolbag.sg/)
-
-
-*   [Student Learning Space (SLS)](https://www.learning.moe.edu.sg/sls/index.html)
+<p><strong>FOR STAFF</strong></p><ul data-tight="true" class="tight"><li><p><a href="https://idm.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a></p></li><li><p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">School Cockpit Plus</a></p></li><li><p><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">HR Online</a></p></li><li><p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a></p></li><li><p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">ICON 2.0</a></p></li><li><p><a href="https://intranet.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a></p></li><li><p><a href="https://www.hrp.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">HR Portal</a></p></li><li><p><a href="https://iexams.seab.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">iExams 2.0</a></p></li><li><p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System</a></p></li><li><p><a href="https://learn.nie.edu.sg/etoolsNIE/default.aspx" rel="noopener noreferrer nofollow" target="_blank">NIE Learning Resourcces - eTools</a></p></li></ul><p></p><p></p>
