@@ -96,3 +96,7 @@ variant: markdown
 [Sec 1 2024 Assessment Information](/files/Exam%20Related%20Matters/2024/WA_Info__Sec_1_2024_Letter_to_Parents_Final.pdf)
 
 [Sec 2 2024 Assessment Information](/files/Exam%20Related%20Matters/2024/WA_Info__Sec_2_2024_Letter_to_Parents_Final.pdf)
+
+[Sec 3 2024 Assessment Information](/files/Exam%20Related%20Matters/2024/WA_Info__Sec_3_2024_Letter_to_Parents_Final.pdf)
+
+[Sec 4&amp;5 2024 Assessment Information](/files/Exam%20Related%20Matters/2024/WA_Info__Sec_4_5_2024_Letter_to_Parents_Final.pdf)
