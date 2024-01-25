@@ -1,0 +1,16 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Leave of Absence Application.md
+      - School Examinations.md
+      - Parents Support Group @ LVSS.md
+      - School Calendar.md
+      - Term Letters.md
+      - Assessment Matters.md
+      - National Digital Literacy Programme (NDLP).md
+      - Home Based Learning (HBL).md
+      - Class Timetable.md
+      - DSA Sec Exercise.md
+      - School Vendors (Bookshop, Uniform, Bus).md
+      - Family Matters @ School Programme.md

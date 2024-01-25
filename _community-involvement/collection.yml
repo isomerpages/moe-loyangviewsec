@@ -1,0 +1,19 @@
+collections:
+  community-involvement:
+    output: true
+    order:
+      - Students' COVID19 Vaccination.md
+      - School Vendors.md
+      - Purchase of Books and Uniforms (2022).md
+      - Parents and Students/.keep
+      - Parents and Students/Parents and Students.md
+      - Parents and Students/Termly Letter.md
+      - Parents and Students/Parents Gateway.md
+      - Parents and Students/Travel Declaration.md
+      - FamilyMatters @ School Programme.md
+      - Parent Support Group @ LVSS.md
+      - Home Based Learning (HBL).md
+      - NDLP/.keep
+      - NDLP/National Digital Literacy Programme (NDLP).md
+      - NDLP/Device Management Application (DMA).md
+      - NDLP/Guides to DMA.md
