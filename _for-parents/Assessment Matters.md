@@ -2,6 +2,7 @@
 title: Assessment Matters
 permalink: /for-parents/assessmentmatters/
 description: ""
+variant: markdown
 ---
 ### Assessment Matters
 
@@ -91,8 +92,11 @@ description: ""
 
 #### Weighted Assessment Matters
 
-[Sec 1 2023 - Weight Assessment Information Letter to Parents](/files/Assessment%20letters/WA%20Info_%20Sec%201_2023%20Letter%20to%20Parents.pdf)
 
-[Sec 2 2023 - Weight Assessment Information Letter to Parents](/files/Assessment%20letters/WA%20Info_%20Sec%202_2023%20Letter%20to%20Parents.pdf)
+[Sec 1 2024 Assessment Information](/files/Exam%20Related%20Matters/2024/WA_Info__Sec_1_2024_Letter_to_Parents_Final.pdf)
 
-[Sec 3 2023 - Weight Assessment Information Letter to Parents](/files/Assessment%20letters/WA%20Info_%20Sec%203_2023%20Letter%20to%20Parents.pdf)
+[Sec 2 2024 Assessment Information](/files/Exam%20Related%20Matters/2024/WA_Info__Sec_2_2024_Letter_to_Parents_Final.pdf)
+
+[Sec 3 2024 Assessment Information](/files/Exam%20Related%20Matters/2024/WA_Info__Sec_3_2024_Letter_to_Parents_Final.pdf)
+
+[Sec 4&amp;5 2024 Assessment Information](/files/Exam%20Related%20Matters/2024/WA_Info__Sec_4_5_2024_Letter_to_Parents_Final.pdf)
