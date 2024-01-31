@@ -73,6 +73,45 @@ or</p>
 </ul>
 <p>(ELMAB3 refers to the aggregate score of EL, Mathematics and best 3 subjects&nbsp;
 at the ‘N’ Level Examinations)</p>
-<p><u>All</u> subjects used in the computation of the ELMAB3</p>
-<p>aggregate must be graded <u>at least an ‘N’ level grade 5.</u>
+<p><u>All</u> subjects used in the computation of the ELMAB3 aggregate must
+be graded <u>at least an ‘N’ level grade 5.</u>
 </p>
+<h4><strong>Criteria For Lateral Transfer to Express / N (A) Course</strong></h4>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T) to N(A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+N(A) to Express</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 &amp; 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Overall aggregate 70% or higher</p>
+</li>
+<li>
+<p>70% or higher in English, Mother Tongue, Maths, Science and Humanities</p>
+</li>
+<li>
+<p>At least ‘Very Good’ in conduct grade</p>
+</li>
+<li>
+<p>75% or higher in CCA attendance</p>
+</li>
+</ul>
+<p><strong>AND </strong>pass the necessary norming tests.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
