@@ -4,7 +4,7 @@ permalink: /for-parents/permalink/promotioncriteria/
 variant: tiptap
 description: ""
 ---
-<h4>Promotion Criteria for Sec 1 - 3</h4>
+<h4>Promotion Criteria for Sec 2 - 3</h4>
 <table>
 <tbody>
 <tr>
@@ -19,7 +19,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 &amp; 2</p>
+<p>Sec 2</p>
 <p>Express Course</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,7 +39,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 – 3 Normal Academic Course</p>
+<p>Sec 2 – 3 Normal Academic Course</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Grade 5 or better in</p>
@@ -50,7 +50,7 @@ or</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 – 3 Normal</p>
+<p>Sec 2 – 3 Normal</p>
 <p>Technical</p>
 </td>
 <td rowspan="1" colspan="1">
