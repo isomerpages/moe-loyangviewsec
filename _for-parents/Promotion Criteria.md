@@ -4,6 +4,85 @@ permalink: /for-parents/permalink/promotioncriteria/
 variant: tiptap
 description: ""
 ---
+<h4>Secondary 1 Cohort [2024]</h4>
+<p>Throughout their secondary school education, students can take subjects
+at three subject levels, known as G1, G2, G3 (G stands for General), mapped
+from today's N(T), N(A) and Express standards respectively. Students will
+have the flexibility to adjust their subject levels at appropriate junctures,
+based on their strengths, interests and learning needs. Students will subsequently
+access programmes and post-secondary pathways based on their various subjects
+and subject level combinations.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>PSLE</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Posting Group</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Indicative level for most subjects at start of Secondary 1</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 - 20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PG3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 and 22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PG2 or PG3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G2 or G3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 and 24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PG2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PG1 or PG2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G1 or G2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 - 30</p>
+<p>(with AL 7 in EL and MA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PG1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G1</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Promotion Criteria for Sec 2 - 3</h4>
 <table>
 <tbody>
