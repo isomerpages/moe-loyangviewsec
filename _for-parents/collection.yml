@@ -2,12 +2,12 @@ collections:
   for-parents:
     output: true
     order:
-      - Promotion Criteria.md
       - Leave of Absence Application.md
       - School Examinations.md
       - Parents Support Group @ LVSS.md
       - School Calendar.md
       - Term Letters.md
+      - Promotion Criteria.md
       - Assessment Matters.md
       - National Digital Literacy Programme (NDLP).md
       - Home Based Learning (HBL).md
