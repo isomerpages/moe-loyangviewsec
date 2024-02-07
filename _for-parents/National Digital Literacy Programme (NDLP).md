@@ -78,18 +78,46 @@ Gateway.</p>
 <p>Parents who missed the above, may email <a href="mailto:loyangview_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loyangview_ss@moe.edu.sg</a> for
 the slides too.</p>
 <p></p>
-<p><strong>NDLP Resources for parents</strong>
+<p><strong>PLD Resources for parents</strong>
 </p>
-<p><a href="https://www.loyangviewsec.moe.edu.sg/qql/slot/u826/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I on Learning with a PLD.pdf</a>
+<p><a href="/files/PLD Matters/2024/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I on Learning with a Personal Learning Device</a>
 </p>
-<p><a href="https://www.loyangviewsec.moe.edu.sg/qql/slot/u826/Parent%20Handbook%20II%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II on Learning with a Personal Learning Device.pdf</a>
+<p><a href="/files/PLD Matters/2024/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II on Learning with a Personal Learning Device</a>
 </p>
-<p><strong>Student Device Information Kit</strong>
+<p></p>
+<h4><strong>Device Management Application</strong></h4>
+<p>All PLDs will be installed with a Device Management Application (DMA).</p>
+<p>The DMA on the students' PLDs will be uninstalled when they have graduated/left
+the school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DMA1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DMA2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DMA3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DMA4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DMA5.png">
+</div>
+<p></p>
+<h4>Choice of DMA - Mobile Guardian</h4>
+<p>Mobile Guardian is the choice of DMA.</p>
+<p>Please refer to the following guides with regards to the 3 options.</p>
+<p><a href="/files/PLD Matters/2024/PORI4___DMA_Parent_Guide_for_Default_Option__iPad__2_Sep_21.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Guide for DMA on Default Option</a>
 </p>
-<p>Please refer to the following document for information pertaining to Service
-Centres and procedures to follow in event of damage, lost or replacement
-of device.</p>
-<p><a href="https://www.loyangviewsec.moe.edu.sg/qql/slot/u826/Student%20Device%20Information%20Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit.pdf</a>
+<p><a href="/files/PLD Matters/2024/PORI5___DMA_Parent_Guide_for_Option_A__iPad__2_Sep_21.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Guide for DMA on Option A</a>
 </p>
-<p>For any queries on the PDLP and the PLD, please contact&nbsp;the HOD ICT,
-Mr Koe Soon Guan via&nbsp;koe_soon_guan@moe.edu.sg</p>
+<p><a href="/files/PLD Matters/2024/PORI6___DMA_Parent_Guide_for_Option_B__iPad__2_Sep_21.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Guide for DMA on Option B</a>
+</p>
+<p></p>
+<p>For any queries on PLD, please contact&nbsp;the HOD ICT, Mr Koe Soon Guan
+via&nbsp;koe_soon_guan@moe.edu.sg</p>
