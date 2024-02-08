@@ -10,12 +10,12 @@ variant: tiptap
 <h1>Ma<strong>π</strong>hematics</h1>
 <h3><strong>Our Vision, Mission and Values</strong></h3>
 <hr>
-<p><strong>Vision</strong>
+<p><strong>Vision</strong> 
 <br>Every LV Student a Competent and Confident Problem Solver</p>
-<p><strong>Mission</strong>
+<p><strong>Mission</strong> 
 <br>To provide a vibrant learning environment and joyful learning experiences
 for the learning of Mathematics</p>
-<p><strong>Values</strong>
+<p><strong>Values</strong> 
 <br>Loyang View Mathematics Department believes that every child is unique
 and can learn. All Math teachers are committed to develop our students
 to be competent problem solvers.&nbsp;</p>
@@ -419,6 +419,44 @@ and media content.</p>
 we seek to cater to the diverse learning needs of our students to enable
 each of them to achieve his/her fullest potential and cultivate a deep
 interest in Math.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other Matters/Math/Prog_Layout.png">
+</div>
+<p></p>
+<h4><strong>Key Programmes</strong></h4>
+<p><strong>Mathematics/ POA Week</strong>
+<br>Each year, we run our inaugural Mathematics and POA Week. During the week,
+students were introduced to a wide range of enriching and engaging activities
+to deepen their appreciation of Mathematics.</p>
+<p><strong>&lt;Read More&gt;</strong>
+<br>The inaugural Math Week was an exciting and engaging experience for everyone.
+Students were introduced to Diophantus and were challenged to solve a riddle
+set by the Mathematician himself. Students also took part in a LIVE Pi
+Recital where they came up on stage to showcase their memory power. Other
+highlights of the week included an escape room activity and sudoku competitions.
+In addition, students are engaged in solving riddles and puzzles during
+the week. The Secondary Three Express students are also given opportunity
+to experienced Math Modelling in which they modelled real-life situations
+to functions. Through participating in these fun-filled activities with
+their peers, students get to apply the mathematical concepts they have
+learnt and appreciate that Mathematics is everywhere!</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/Live_School_Wide_Sudoku_Challenge.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Live School Wide Sudoku Challenge </div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/A_student_managed_to_recite_155_digits_of_Pi.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A student managed to recite 155 digits of Pi.</div>
+<div class="isomer-card-description">That is an amazing feat!</div>
+<div class="isomer-card-link"></div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/Math_Week.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Showcase of students’ work during Math Week</div><div class="isomer-card-link"> </div></div></a>
+</div>
+<p></p>
 <p></p>
 <p>We have two different types of programmes to cater to the learning needs
 of the levels and specific needs of students where required. Our programmes
