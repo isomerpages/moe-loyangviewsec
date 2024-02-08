@@ -7,143 +7,168 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
 </div>
-<h1><em>Ma</em><strong><em>π</em></strong><em>hematics</em></h1>
-<h3><strong><em>Our Vision, Mission and Values</em></strong></h3>
+<h1>Ma<strong>π</strong>hematics</h1>
+<h3><strong>Our Vision, Mission and Values</strong></h3>
 <hr>
-<p><strong><em>Vision</em></strong><em> <br>Every LV Student a Competent and Confident Problem Solver</em>
-</p>
-<p><strong><em>Mission</em></strong><em> <br>To provide a vibrant learning environment and joyful learning experiences for the learning of Mathematics</em>
-</p>
-<p><strong><em>Values</em></strong><em> <br>Loyang View Mathematics Department believes that every child is unique and can learn. All Math teachers are committed to develop our students to be competent problem solvers.&nbsp;</em>
-</p>
+<p><strong>Vision</strong> 
+<br>Every LV Student a Competent and Confident Problem Solver</p>
+<p><strong>Mission</strong> 
+<br>To provide a vibrant learning environment and joyful learning experiences
+for the learning of Mathematics</p>
+<p><strong>Values</strong> 
+<br>Loyang View Mathematics Department believes that every child is unique
+and can learn. All Math teachers are committed to develop our students
+to be competent problem solvers.&nbsp;</p>
 <hr>
-<h3><strong><em>Department Philosophy</em></strong></h3>
-<p><em>Align with the school vision, the department works towards helping our students to build strong conceptual understanding, skills proficiency and to nurture them to become competent and confident problem solvers. This is achieved by providing students the opportunity to learn through exploration, mathematical discourse and self-directed learning. Beyond the learning of mathematical concepts and skills proficiency, the development of cognitive and metacognitive process skills are equally important. Students should have the opportunities to discuss and articulate ideas to develop mathematical reasoning skills through presentations and other platforms and apply learnt concepts through real-world context problems and authentic mathematical modelling tasks. Students should have the opportunities to think about their learning through alternative assessments such as performance tasks and thus, develop their metacognition.</em>
-</p>
+<h3><strong>Department Philosophy</strong></h3>
+<p>Align with the school vision, the department works towards helping our
+students to build strong conceptual understanding, skills proficiency and
+to nurture them to become competent and confident problem solvers. This
+is achieved by providing students the opportunity to learn through exploration,
+mathematical discourse and self-directed learning. Beyond the learning
+of mathematical concepts and skills proficiency, the development of cognitive
+and metacognitive process skills are equally important. Students should
+have the opportunities to discuss and articulate ideas to develop mathematical
+reasoning skills through presentations and other platforms and apply learnt
+concepts through real-world context problems and authentic mathematical
+modelling tasks. Students should have the opportunities to think about
+their learning through alternative assessments such as performance tasks
+and thus, develop their metacognition.</p>
 <p></p>
-<p><em>The department has been planning and designing various programmes to cater to the different learning needs of the students.&nbsp; The department is constantly exploring and refining their teaching pedagogy in areas such as Differentiated Instructions (DI), Assessment and E-Pedagogy to enhance students’ learning. For instance, teachers to develop teaching packages leveraging the use of ICT through Students Learning Space (SLS), Ace-Learning (an E-learning portal in supporting independent and self-directed learning for lower sec normal stream students) and other ICT tools e.g. GeoGebra, Desmos, Kahoot for deep learning. The lesson packages are designed in such a way that it incorporates self-directed and collaborative learning and elements of DI and AfL are infused so to ensure learners achieve deep learning by managing and taking ownership for their learning.</em>
-</p>
+<p>The department has been planning and designing various programmes to cater
+to the different learning needs of the students.&nbsp; The department is
+constantly exploring and refining their teaching pedagogy in areas such
+as Differentiated Instructions (DI), Assessment and E-Pedagogy to enhance
+students’ learning. For instance, teachers to develop teaching packages
+leveraging the use of ICT through Students Learning Space (SLS), Ace-Learning
+(an E-learning portal in supporting independent and self-directed learning
+for lower sec normal stream students) and other ICT tools e.g. GeoGebra,
+Desmos, Kahoot for deep learning. The lesson packages are designed in such
+a way that it incorporates self-directed and collaborative learning and
+elements of DI and AfL are infused so to ensure learners achieve deep learning
+by managing and taking ownership for their learning.</p>
 <hr>
-<h3><strong><em>Subjects Offered</em></strong></h3>
+<h3><strong>Subjects Offered</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>Mathematics&nbsp;</em></strong>
+<p><strong>Mathematics&nbsp;</strong>
 </p>
 </li>
 <li>
-<p><strong><em>Additional Mathematics&nbsp;</em></strong>
+<p><strong>Additional Mathematics&nbsp;</strong>
 </p>
 </li>
 <li>
-<p><strong><em>Principles of Accounts</em></strong>
+<p><strong>Principles of Accounts</strong>
 </p>
 </li>
 <li>
-<p><strong><em>Computer Applications</em></strong>
-</p>
-</li>
-</ul>
-<hr>
-<h3><strong><em>Mathematics &amp; Additional Mathematics</em></strong></h3>
-<p><em>The Mathematics curriculum aims to provide students with the fundamental mathematical knowledge and skills. For Elementary Mathematics, the content is organised into three strands namely, Number and Algebra, Geometry and Measurement, and Statistics and Probability.&nbsp; For Additional Mathematics, the content includes topics such as Algebra, Geometry and Trigonometry and Calculus. The curriculum is broad-based at the lower secondary covering a wide range of concepts, skills and processes. Upper Secondary students will be doing a more in-depth study into various strands, going beyond examination syllabus. This incorporates a variety of learning experiences such as classroom and online learning, enrichment programmes, outdoor trails and competition trainings. In general, the Mathematics curriculum is closely aligned to MOE defined syllabus and includes problem solving heuristics and application of real-life contexts.</em>
-</p>
-<p></p>
-<p><em>The Mathematics syllabus aims to enable all students to:</em>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>acquire mathematical concepts and skills for continuous learning in mathematics and to support learning in other subjects.</em>
-</p>
-</li>
-<li>
-<p><em>develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem-solving.</em>
-</p>
-</li>
-<li>
-<p><em>connect ideas within mathematics and between mathematics and other subjects through applications of mathematics.</em>
-</p>
-</li>
-<li>
-<p><em>build confidence and foster interest in mathematics.&nbsp;</em>
-</p>
-</li>
-<li>
-<p><em>connect ideas within mathematics and between mathematics and the sciences through applications of mathematics.</em>
-</p>
-</li>
-<li>
-<p><em>appreciate the abstract nature and power of mathematics.&nbsp;</em>
+<p><strong>Computer Applications</strong>
 </p>
 </li>
 </ul>
 <hr>
-<h3><strong><em>Principles of Accounts</em></strong></h3>
-<p><em>The syllabus aims to help students to develop the abilities to prepare, communicate and use accounting information.</em>
+<h3><strong>Mathematics &amp; Additional Mathematics</strong></h3>
+<p>The Mathematics curriculum aims to provide students with the fundamental
+mathematical knowledge and skills. For Elementary Mathematics, the content
+is organised into three strands namely, Number and Algebra, Geometry and
+Measurement, and Statistics and Probability.&nbsp; For Additional Mathematics,
+the content includes topics such as Algebra, Geometry and Trigonometry
+and Calculus. The curriculum is broad-based at the lower secondary covering
+a wide range of concepts, skills and processes. Upper Secondary students
+will be doing a more in-depth study into various strands, going beyond
+examination syllabus. This incorporates a variety of learning experiences
+such as classroom and online learning, enrichment programmes, outdoor trails
+and competition trainings. In general, the Mathematics curriculum is closely
+aligned to MOE defined syllabus and includes problem solving heuristics
+and application of real-life contexts.</p>
+<p><strong>&lt;Read More&gt;</strong>
 </p>
-<p><em>As preparers of accounting information, students are to develop&nbsp;</em>
-</p>
+<p>The Mathematics syllabus aims to enable all students to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>an understanding of the elements, theories and procedures of accounting,</em>
-</p>
+<p>acquire mathematical concepts and skills for continuous learning in mathematics
+and to support learning in other subjects.</p>
 </li>
 <li>
-<p><em>an understanding of the accounting information system,</em>
-</p>
+<p>develop thinking, reasoning, communication, application and metacognitive
+skills through a mathematical approach to problem-solving.</p>
 </li>
 <li>
-<p><em>the skills of recording, organising, summarising and analysing business transactions.</em>
-</p>
+<p>connect ideas within mathematics and between mathematics and other subjects
+through applications of mathematics.</p>
+</li>
+<li>
+<p>build confidence and foster interest in mathematics.&nbsp;</p>
+</li>
+<li>
+<p>connect ideas within mathematics and between mathematics and the sciences
+through applications of mathematics.</p>
+</li>
+<li>
+<p>appreciate the abstract nature and power of mathematics.&nbsp;</p>
 </li>
 </ul>
-<p><em>As communicators of accounting information, students are to develop</em>
-</p>
+<hr>
+<h3><strong>Principles of Accounts</strong></h3>
+<p>The syllabus aims to help students to develop the abilities to prepare,
+communicate and use accounting information.</p>
+<p>As preparers of accounting information, students are to develop&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>an understanding of how accounting information is being presented,</em>
-</p>
+<p>an understanding of the elements, theories and procedures of accounting,</p>
 </li>
 <li>
-<p><em>the skills of presenting quantitative accounting information.</em>
-</p>
+<p>an understanding of the accounting information system,</p>
+</li>
+<li>
+<p>the skills of recording, organising, summarising and analysing business
+transactions.</p>
 </li>
 </ul>
-<p><em>As users of accounting information, students are to develop</em>
-</p>
+<p>As communicators of accounting information, students are to develop</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>an understanding of how accounting information is being used; and</em>
-</p>
+<p>an understanding of how accounting information is being presented,</p>
 </li>
 <li>
-<p><em>the skills of analysing, interpreting and evaluating business performance and status.&nbsp;</em>
+<p>the skills of presenting quantitative accounting information.</p>
+</li>
+</ul>
+<p>As users of accounting information, students are to develop</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>an understanding of how accounting information is being used; and</p>
+</li>
+<li>
+<p>the skills of analysing, interpreting and evaluating business performance
+and status.<em>&nbsp;</em>
 </p>
 </li>
 </ul>
 <hr>
-<h3><strong><em>Computer Applications</em></strong></h3>
-<p><em>The Computer Applications syllabus aims to help students to</em>
-</p>
+<h3><strong>Computer Applications</strong></h3>
+<p>The Computer Applications syllabus aims to help students to</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>develop critical thinking and problem-solving skills.</em>
-</p>
+<p>develop critical thinking and problem-solving skills.</p>
 </li>
 <li>
-<p><em>acquire skills in using a variety of application software and computer hardware&nbsp;</em>
-</p>
+<p>acquire skills in using a variety of application software and computer
+hardware&nbsp;</p>
 </li>
 <li>
-<p><em>develop an awareness of how computing technology is used in the home, school, workplace and community.</em>
-</p>
+<p>develop an awareness of how computing technology is used in the home,
+school, workplace and community.</p>
 </li>
 <li>
-<p><em>appreciate the role computers play in everyday life and recognise the impact computers have on society and people.</em>
-</p>
+<p>appreciate the role computers play in everyday life and recognise the
+impact computers have on society and people.</p>
 </li>
 </ul>
-<p><em>Besides theoretical knowledge, students are also trained in the use of various softwares to develop their skills in handling documents, spreadsheets and media content.</em>
-</p>
+<p>Besides theoretical knowledge, students are also trained in the use of
+various softwares to develop their skills in handling documents, spreadsheets
+and media content.</p>
 <hr>
 <p></p>
 <h3><strong><em>Our Team</em></strong></h3>
@@ -154,317 +179,270 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong><em>Name</em></strong>
+<p><strong>Name</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><em>Designation</em></strong>
+<p><strong>Designation</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><em>Email</em></strong>
+<p><strong>Email</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Ms Lie Hui Min</em>
-</p>
+<p>Ms Lie Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Head of Department / Mathematics</em>
-</p>
+<p>Head of Department / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>lie_hui_min@moe.edu.sg</em>
-</p>
+<p>lie_hui_min@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Ms Chew Pei Jun Christina</em>
-</p>
+<p>Ms Chew Pei Jun Christina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Level Head / Mathematics</em>
-</p>
+<p>Level Head / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>chew_pei_jun_christina@moe.edu.sg</em>
-</p>
+<p>chew_pei_jun_christina@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Mrs Chew-Swee Mei Yein</em>
-</p>
+<p>Mrs Chew-Swee Mei Yein</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>School Staff Developer</em>
-</p>
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>swee_mei_yein@moe.edu.sg</em>
-</p>
+<p>swee_mei_yein@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Mr Koe Soon Guan</em>
-</p>
+<p>Mr Koe Soon Guan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Head of Department / Information Communication Technology (ICT)</em>
-</p>
+<p>Head of Department / Information Communication Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>koe_soon_guan@moe.edu.sg</em>
-</p>
+<p>koe_soon_guan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Mr R Shanmuganathan</em>
-</p>
+<p>Mr R Shanmuganathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Head of Department /</em>
-</p>
-<p><em>Student Management</em>
-</p>
+<p>Head of Department /</p>
+<p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>r_shanmuganathan@moe.edu.sg</em>
-</p>
+<p>r_shanmuganathan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Mr Tan Wei Ming Ryan</em>
-</p>
+<p>Mr Tan Wei Ming Ryan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Subject Head / Student Management</em>
-</p>
+<p>Subject Head / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>tan_wei_ming@moe.edu.sg</em>
-</p>
+<p>tan_wei_ming@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Ms Angelina Ng</em>
-</p>
+<p>Ms Angelina Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Teacher</em>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>ng_mui_yun_angelina@moe.edu.sg</em>
-</p>
+<p>ng_mui_yun_angelina@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Mr Chek Teck Juan</em>
-</p>
+<p>Mr Chek Teck Juan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Teacher</em>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>chek_teck_juan@moe.edu.sg</em>
-</p>
+<p>chek_teck_juan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Ms Cheng Su Ming Jacqueline</em>
-</p>
+<p>Ms Cheng Su Ming Jacqueline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Teacher</em>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>cheng_su_ming_jacqueline@moe.edu.sg</em>
-</p>
+<p>cheng_su_ming_jacqueline@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Ms Chua Li Wen Amanda</em>
-</p>
+<p>Ms Chua Li Wen Amanda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Teacher</em>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>chua_li_wen_amanda@moe.edu.sg</em>
-</p>
+<p>chua_li_wen_amanda@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Mr Gan Han Li Alvin</em>
-</p>
+<p>Mr Gan Han Li Alvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Teacher</em>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>gan_han_li_alvin@moe.edu.sg</em>
-</p>
+<p>gan_han_li_alvin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Ms Lau Yuan Zhen</em>
-</p>
+<p>Ms Lau Yuan Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Teacher</em>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>lau_yuan_zhen@moe.edu.sg</em>
-</p>
+<p>lau_yuan_zhen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Mrs Ng-Kok Shu Ling</em>
-</p>
+<p>Mrs Ng-Kok Shu Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Teacher</em>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>kok_shu_ling@moe.edu.sg</em>
-</p>
+<p>kok_shu_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Mdm Norsiah Semuni</em>
-</p>
+<p>Mdm Norsiah Semuni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Teacher</em>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>norsiah_semuni@moe.edu.sg</em>
-</p>
+<p>norsiah_semuni@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Ms Oi Sihui Gwendolin</em>
-</p>
+<p>Ms Oi Sihui Gwendolin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Teacher</em>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>oi_sihui_gwendolin@moe.edu.sg</em>
-</p>
+<p>oi_sihui_gwendolin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Mr Sim Lye Eng</em>
-</p>
+<p>Mr Sim Lye Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Teacher</em>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>sim_lye_eng@moe.edu.sg</em>
-</p>
+<p>sim_lye_eng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Ms Siti Nawal Hussein Mattar</em>
-</p>
+<p>Ms Siti Nawal Hussein Mattar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Teacher</em>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>siti_nawal_hussein_mattar@moe.edu.sg</em>
-</p>
+<p>siti_nawal_hussein_mattar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Ms Suhaila Abdul Ghaffar</em>
-</p>
+<p>Ms Suhaila Abdul Ghaffar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Teacher</em>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>suhaila_abdul_ghaffar@moe.edu.sg</em>
-</p>
+<p>suhaila_abdul_ghaffar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Mr Suhaimi Daud</em>
-</p>
+<p>Mr Suhaimi Daud</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Teacher</em>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>suhaimi_daud@moe.edu.sg</em>
-</p>
+<p>suhaimi_daud@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Mrs Wennie Lim-Ang Woon Nee</em>
-</p>
+<p>Mrs Wennie Lim-Ang Woon Nee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Teacher</em>
-</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>ang_woon_nee_wennie@moe.edu.sg</em>
-</p>
+<p>ang_woon_nee_wennie@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3><strong><em>Our Programmes</em></strong></h3>
+<h3><strong>Our Programmes</strong></h3>
 <hr>
-<p><em>By leveraging on varied exploratory and experiential learning platforms, we seek to cater to the diverse learning needs of our students to enable each of them to achieve his/her fullest potential and cultivate a deep interest in Math.</em>
-</p>
+<p>By leveraging on varied exploratory and experiential learning platforms,
+we seek to cater to the diverse learning needs of our students to enable
+each of them to achieve his/her fullest potential and cultivate a deep
+interest in Math.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other Matters/Math/Prog_Layout.png">
 </div>
 <p></p>
-<h4><strong><em>Key Programmes</em></strong></h4>
-<p><strong><em>Mathematics/ POA Week</em></strong><em> <br>Each year, we run our inaugural Mathematics and POA Week. During the week, students were introduced to a wide range of enriching and engaging activities to deepen their appreciation of Mathematics.</em>
-</p>
-<p><strong><em>&lt;Read More&gt;</em></strong><em> <br>The inaugural Math Week was an exciting and engaging experience for everyone. Students were introduced to Diophantus and were challenged to solve a riddle set by the Mathematician himself. Students also took part in a LIVE Pi Recital where they came up on stage to showcase their memory power. Other highlights of the week included an escape room activity and sudoku competitions. In addition, students are engaged in solving riddles and puzzles during the week. The Secondary Three Express students are also given opportunity to experienced Math Modelling in which they modelled real-life situations to functions. Through participating in these fun-filled activities with their peers, students get to apply the mathematical concepts they have learnt and appreciate that Mathematics is everywhere!</em>
-</p>
+<h4><strong>Key Programmes</strong></h4>
+<p><strong>Mathematics/ POA Week</strong> 
+<br>Each year, we run our inaugural Mathematics and POA Week. During the week,
+students were introduced to a wide range of enriching and engaging activities
+to deepen their appreciation of Mathematics.</p>
+<p><strong>&lt;Read More&gt;</strong> 
+<br>The inaugural Math Week was an exciting and engaging experience for everyone.
+Students were introduced to Diophantus and were challenged to solve a riddle
+set by the Mathematician himself. Students also took part in a LIVE Pi
+Recital where they came up on stage to showcase their memory power. Other
+highlights of the week included an escape room activity and sudoku competitions.
+In addition, students are engaged in solving riddles and puzzles during
+the week. The Secondary Three Express students are also given opportunity
+to experienced Math Modelling in which they modelled real-life situations
+to functions. Through participating in these fun-filled activities with
+their peers, students get to apply the mathematical concepts they have
+learnt and appreciate that Mathematics is everywhere!</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/Live_School_Wide_Sudoku_Challenge.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Live School Wide Sudoku Challenge</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card">
@@ -494,10 +472,14 @@ variant: tiptap
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/success.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Celebrating success!</div><div class="isomer-card-link"></div></div></a>
 </div>
-<p><strong><em>Sec 1 Mathematics Fiesta</em></strong>
+<p><strong>Sec 1 Mathematics Fiesta</strong>
 </p>
-<p><em>To enhance students’ Math learning experiences, Secondary One students participate in an in-house Math Fiesta where they have fun through playing Math games and puzzles organised by the seniors. The highlights of the Math Fiesta include mathematical challenges such as Sudoku, and Tangrams in which students had to pit against one another in solving challenging Math problems and puzzles.</em>
-</p>
+<p>To enhance students’ Math learning experiences, Secondary One students
+participate in an in-house Math Fiesta where they have fun through playing
+Math games and puzzles organised by the seniors. The highlights of the
+Math Fiesta include mathematical challenges such as Sudoku, and Tangrams
+in which students had to pit against one another in solving challenging
+Math problems and puzzles.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/sec_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Students using their ipads in the Sudoku challenge</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card">
@@ -523,12 +505,20 @@ variant: tiptap
 </div>
 </a>
 </div>
-<p><strong><em>Mathematics Trail</em></strong>
+<p><strong>Mathematics Trail</strong>
 </p>
-<p><em>In line with the department’s vision of developing students into competent and confident problem solvers, students are given opportunities to take part in Math Trails at external locations where they learn to apply Mathematical concepts and skills in authentic settings, as well as a platform to work together as a team.</em>
-</p>
-<p><em>In 2023, Secondary Two and Three students participated a Maths trail at Gardens by the Bay as part of their post examinations activity. The trail provided opportunities for students to improve their mathematical thinking outside the classroom. The tasks were assigned to the students via SLS. Through the tasks, the students also developed their creativity and collaborative skills as they work in teams to apply mathematical skills to real-world contexts.</em>
-</p>
+<p>In line with the department’s vision of developing students into competent
+and confident problem solvers, students are given opportunities to take
+part in Math Trails at external locations where they learn to apply Mathematical
+concepts and skills in authentic settings, as well as a platform to work
+together as a team.</p>
+<p>In 2023, Secondary Two and Three students participated a Maths trail at
+Gardens by the Bay as part of their post examinations activity. The trail
+provided opportunities for students to improve their mathematical thinking
+outside the classroom. The tasks were assigned to the students via SLS.
+Through the tasks, the students also developed their creativity and collaborative
+skills as they work in teams to apply mathematical skills to real-world
+contexts.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other Matters/Math/math_trail.png">
@@ -602,7 +592,7 @@ competitions:</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/math_challenge.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Participants of the Math Challenge 2023</div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/math_challenge.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Participants of the Math Challenge 2023</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -627,7 +617,7 @@ to help them grasp abstract concepts during the sessions.</p>
 </div>
 <p><em>Students use Algediscs to make sense of Algebra</em>
 </p>
-<p><strong>Foundation Math Bridging Programme (For Sec 1 only)</strong>
+<p><strong>Foundation Math Bridging Programme (For Sec 1 only)</strong> 
 <br>The programme serves to bridge the learning gaps for students who were
 doing Foundation Mathematics in primary school. As the learning of Mathematics
 is largely hierarchical in nature, the bridging programme has been carried
@@ -635,7 +625,7 @@ out to provide early intervention to level up numeracy so to ensure that
 all students would have completed the pre-requisites to continue with the
 secondary Mathematics syllabus.</p>
 <p></p>
-<p><strong>Extended Curriculum</strong>
+<p><strong>Extended Curriculum</strong> 
 <br>A week of extended curriculum is planned for Secondary Three students
 in term four during the school vacation. This is to prepare them for the
 rigour needed when they proceed to Secondary 4 the following year.</p>
