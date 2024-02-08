@@ -425,11 +425,11 @@ interest in Math.</p>
 </div>
 <p></p>
 <h4><strong>Key Programmes</strong></h4>
-<p><strong>Mathematics/ POA Week</strong>
+<p><strong>Mathematics/ POA Week</strong> 
 <br>Each year, we run our inaugural Mathematics and POA Week. During the week,
 students were introduced to a wide range of enriching and engaging activities
 to deepen their appreciation of Mathematics.</p>
-<p><strong>&lt;Read More&gt;</strong>
+<p><strong>&lt;Read More&gt;</strong> 
 <br>The inaugural Math Week was an exciting and engaging experience for everyone.
 Students were introduced to Diophantus and were challenged to solve a riddle
 set by the Mathematician himself. Students also took part in a LIVE Pi
@@ -442,7 +442,7 @@ to functions. Through participating in these fun-filled activities with
 their peers, students get to apply the mathematical concepts they have
 learnt and appreciate that Mathematics is everywhere!</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/Live_School_Wide_Sudoku_Challenge.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Live School Wide Sudoku Challenge </div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/Live_School_Wide_Sudoku_Challenge.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Live School Wide Sudoku Challenge</div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -454,10 +454,55 @@ learnt and appreciate that Mathematics is everywhere!</p>
 <div class="isomer-card-description">That is an amazing feat!</div>
 <div class="isomer-card-link"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/Math_Week.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Showcase of students’ work during Math Week</div><div class="isomer-card-link"> </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/Math_Week.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Showcase of students’ work during Math Week</div><div class="isomer-card-link"></div></div></a>
 </div>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/game.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Students having fun playing Math games</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/prize.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Congrats to the winners for the daily Math challenge.</div>
+<div class="isomer-card-link"></div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/success.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Celebrating success!</div><div class="isomer-card-link"> </div></div></a>
+</div>
+<p><strong>Sec 1 Mathematics Fiesta</strong>
+</p>
+<p>To enhance students’ Math learning experiences, Secondary One students
+participate in an in-house Math Fiesta where they have fun through playing
+Math games and puzzles organised by the seniors. The highlights of the
+Math Fiesta include mathematical challenges such as Sudoku, and Tangrams
+in which students had to pit against one another in solving challenging
+Math problems and puzzles.</p>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/sec_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Students using their ipads in the Sudoku challenge</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/sec_1_2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Students working as a team in the Tangram Challenge</div>
+<div class="isomer-card-link"></div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/sec_1_3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Students racking their brains when solving sticks puzzles</div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.loyangviewsec.moe.edu.sg/department/Mathematics/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Other Matters/Math/sec_1_4.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Students having fun learning through Mathematics based games</div>
+<div class="isomer-card-link"></div>
+</div>
+</a>
+</div>
 <p>We have two different types of programmes to cater to the learning needs
 of the levels and specific needs of students where required. Our programmes
 can be classified as:</p>
