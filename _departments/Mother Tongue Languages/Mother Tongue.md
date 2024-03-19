@@ -10,8 +10,13 @@ variant: tiptap
 </div>
 <h1>Mother Tongue</h1>
 <h3>Our Staff</h3>
+<table>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL%20Dept%20Teachers%20Day%20Lunch.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Org/MTL/MTL_Dept.jpg">
 </div>
 <table>
 <tbody>
