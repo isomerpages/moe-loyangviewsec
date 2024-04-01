@@ -47,6 +47,8 @@ She works together with students (individually or in small groups) to help them:
 
 To make an appointment with Ms Cheryl, please scan the QR code below, or click on [https://go.gov.sg/ecg-lvss](https://go.gov.sg/ecg-lvss).
 
+![](/images/ECG/ECG_1.png)
+
   **USEFUL LINKS**
 
 <table style="width:490.25pt;border-collapse:collapse;border:none;mso-border-alt:
