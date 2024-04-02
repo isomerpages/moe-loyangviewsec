@@ -73,7 +73,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Rahul Rajasabhai
-<br><a href="mailto:rahul_rajasabhai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahul_rajasabhai@moe.edu.sg</a>
+<br><a href="mailto:rahul_rajasabhai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahul_rajasabhai@moe.edu.sg</a> 
 <br>
 </p>
 </td>
