@@ -1,0 +1,5 @@
+collections:
+  lvss-kaleidoscope:
+    output: true
+    order:
+      - LVSS Kaleidoscope 2024.md
