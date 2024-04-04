@@ -18,8 +18,8 @@ sections:
         - title: Achievements
           description: ""
           url: /news/Achievements/
-        - title: Sec 1 Registration [For 2024 cohort]
+        - title: LVSS Kaleidoscope 2024
           description: NEW
-          url: /sec-1-registration/sec1registration2024/
+          url: /lvss-kaleidoscope-2024/
       variant: center
 ---
