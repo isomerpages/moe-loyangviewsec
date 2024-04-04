@@ -1,4 +1,5 @@
 collections:
   lvss-kaleidoscope:
     output: true
-    order: []
+    order:
+      - LVSS Kaleidoscope 2024.md
