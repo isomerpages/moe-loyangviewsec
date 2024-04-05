@@ -17,6 +17,6 @@ from 6.00 - 7.30 pm. This event will feature performances from our dance,
 drama and symphonic band CCAs, The 8th Continent rock ensemble and Music
 students, poetry slam recitals, an exhibition of curriculum artworks, live
 mural art drawing, and culinary food station!</p>
-<p>Get your free e-tickets <a href="https://linktr.ee/loyangviewss" rel="noopener noreferrer nofollow" target="_blank">here</a> and join us as we celebrate
-our students' talents and passions. See you there!</p>
+<p>Get your free e-tickets at <a href="https://linktr.ee/loyangviewss" rel="noopener noreferrer nofollow" target="_blank">https://linktr.ee/loyangviewss</a> and
+join us as we celebrate our students' talents and passions. See you there!</p>
 <p>Thank you!</p>
