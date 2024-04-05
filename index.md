@@ -7,7 +7,8 @@ permalink: /
 notification: Sign up for our LVSS Kaleidoscope 2024  by clicking on the button below!
 sections:
   - hero:
-      background: /images/cover_krXv7X3iieVGp016q3tX8DCKqNTz7mfs.jpg
+      background: /images/School
+        Org/New_School_Banner_with_Kaledioscope_2024_reducedSize.gif
       key_highlights:
         - title: Announcements
           description: ""
