@@ -6,8 +6,20 @@ variant: tiptap
 ---
 <h1>Latest Happenings</h1>
 <hr>
+<h3>LVSS Kaleidoscope 2024</h3>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Adhoc Pics/kaleidoscope_image.png">
+</div>
+<p>Our inaugural <strong>LVSS Kaleidoscope 2024</strong> was successfully held
+on Friday evening, with at least 365 attendees, most of whom were our parents
+and students.</p>
+<p>For those among us who were there, basking in the energy of the event,
+we felt proud to see our students take the stage and shine. Their performances
+were a testament to their hard work, dedication, and passion for their
+craft, and provided us with a glimpse of the talent and creative potential
+that lie within them.</p>
+<p>Well done everyone!</p>
 <hr>
 <p></p>
 <h3>Yearbook 2023</h3>
