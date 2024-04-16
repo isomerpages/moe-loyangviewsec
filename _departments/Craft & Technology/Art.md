@@ -3,8 +3,8 @@ title: Art
 permalink: /department/Craft-and-Technology/Art/
 description: ""
 third_nav_title: Craft & Technology
+variant: markdown
 ---
-
 ![](/images/Banner.jpg)
 
 Art
@@ -23,7 +23,7 @@ Our volunteer, Ex-MP Mdm Cynthia Phua conducted a series of Ceramic Workshops fo
 
 2. **Community Batik**
 
-All our ec2s students worked together to create a large traditional batik in the ‘gotong–royong’ spirit. Wishing our school ‘A Happy & Caring School’
+All our secondary 2 students worked together to create a large traditional batik in the ‘gotong–royong’ spirit. Wishing our school ‘A Happy & Caring School’
 
 ![](/images/Art1.png)
 
