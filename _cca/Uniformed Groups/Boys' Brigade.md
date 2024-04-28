@@ -88,7 +88,7 @@ ahead.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Activities for 2019 (in chronological order)</strong>
+<p><strong>Activities for 2019 (in chronological order)</strong> 
 <br>• Kayaking Course
 <br>• Recruits’ Training Camp and Leadership Development Course (March)
 <br>• BB Blaze (April)
