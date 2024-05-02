@@ -416,8 +416,8 @@ variant: tiptap
 <p>3A2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ram Pyaree
-<br><a href="mailto:ram_pyaree_taker_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ram_pyaree_taker_singh@moe.edu.sg</a>
+<p>Nurul Farhana
+<br><a href="mailto:nurul_farhana_mohamed_kass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_farhana_mohamed_kass@moe.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
