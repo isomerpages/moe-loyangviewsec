@@ -62,7 +62,4 @@ culture in their respective classes. Leadership training workshops on how
 to build a caring class community are conducted to equip them with practical
 knowledge. Class leaders are given opportunities to design and implement
 rapport-building activities for their classes throughout the year.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
-</div>
 <p></p>
