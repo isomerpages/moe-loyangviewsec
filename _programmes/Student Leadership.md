@@ -63,3 +63,23 @@ to build a caring class community are conducted to equip them with practical
 knowledge. Class leaders are given opportunities to design and implement
 rapport-building activities for their classes throughout the year.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other Matters/Students Leadership/WhatsApp_Image_2024_07_04_at_13_58_17.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other Matters/Students Leadership/WhatsApp_Image_2024_07_04_at_13_58_17__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other Matters/Students Leadership/WhatsApp_Image_2024_07_04_at_13_58_17__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other Matters/Students Leadership/WhatsApp_Image_2024_07_04_at_13_58_17__3_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other Matters/Students Leadership/WhatsApp_Image_2024_07_04_at_13_58_17__4_.jpg">
+</div>
+<p></p>
