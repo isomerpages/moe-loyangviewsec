@@ -20,8 +20,22 @@ leadership competencies, dispositions and values. Our curriculum is grounded
 in Barry Posner and James M. Kouzes’ Leadership Challenge where Student
 Leaders take ownership in the conceptualisation, planning and enactment
 of projects and events.</p>
-<p>Our Student Leadership comprises of four tiers: • Student Councillors
-• CCA Leaders • Peer Support Leaders • Class Leaders</p>
+<p>Our Student Leadership comprises of four tiers:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Student Councillors</p>
+</li>
+<li>
+<p>CCA Leaders</p>
+</li>
+<li>
+<p>Peer Support Leaders</p>
+</li>
+<li>
+<p>Class Leaders</p>
+</li>
+</ul>
+<p></p>
 <p><strong>The Student Council</strong>, being the representatives of the
 student population, works closely with various stakeholders to foster a
 vibrant and caring community. Student Councillors develop and hone their
