@@ -20,7 +20,7 @@ leadership competencies, dispositions and values. Our curriculum is grounded
 in Barry Posner and James M. Kouzes’ Leadership Challenge where Student
 Leaders take ownership in the conceptualisation, planning and enactment
 of projects and events.</p>
-<p>Our Student Leadership comprises of four tiers:</p>
+<p>Our Student Leadership comprises four tiers:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Student Councillors</p>
@@ -35,7 +35,6 @@ of projects and events.</p>
 <p>Class Leaders</p>
 </li>
 </ul>
-<p></p>
 <p><strong>The Student Council</strong>, being the representatives of the
 student population, works closely with various stakeholders to foster a
 vibrant and caring community. Student Councillors develop and hone their
@@ -63,7 +62,24 @@ culture in their respective classes. Leadership training workshops on how
 to build a caring class community are conducted to equip them with practical
 knowledge. Class leaders are given opportunities to design and implement
 rapport-building activities for their classes throughout the year.</p>
+<h4><strong>CCA Open House</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other Matters/Students Leadership/WhatsApp_Image_2024_07_04_at_13_58_17.jpg">
+</div>
+<h4><strong>Class Leaders' Investiture</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other Matters/Students Leadership/WhatsApp_Image_2024_07_04_at_13_58_17__1_.jpg">
+</div>
+<h4><strong>PSL Sharing</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other Matters/Students Leadership/WhatsApp_Image_2024_07_04_at_13_58_17__2_.jpg">
+</div>
+<h4><strong>Sec 1 Orientation</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other Matters/Students Leadership/WhatsApp_Image_2024_07_04_at_13_58_17__3_.jpg">
+</div>
+<h4><strong>Student Leaders' Investiture</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other Matters/Students Leadership/WhatsApp_Image_2024_07_04_at_13_58_17__4_.jpg">
 </div>
 <p></p>
