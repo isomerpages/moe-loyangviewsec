@@ -18,5 +18,8 @@ sections:
         - title: Achievements
           description: ""
           url: /news/Achievements/
+        - title: ACCOLADES
+          description: OUR HEARTIEST CONGRATULATIONS!
+          url: ""
       variant: center
 ---
