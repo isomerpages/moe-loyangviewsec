@@ -1,4 +1,5 @@
 collections:
   accolades:
     output: true
-    order: []
+    order:
+      - ACCOLADES.md
