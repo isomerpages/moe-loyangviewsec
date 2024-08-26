@@ -2,32 +2,30 @@
 title: School Examinations
 permalink: /for-parents/school-examinations/
 description: ""
+variant: tiptap
 ---
-![](/images/Banner.jpg)
-
-School Examinations
-===================
-### Sec 1 to 3 End of Year Examinations 2023
------------------------------
-Please refer to the following PDF files with regards to our upcoming Sec 1 to 3 End of Year Examinations.
-
-##### Downloadable PDF Files:
-* Sec 1: [2023-LVSS-Sec 1-EOY-TT](/files/Exam%20Related%20Matters/lvss_sec%201_eoy%20exam%20tt_final.pdf)
-* Sec 2: [2023-LVSS-Sec 2-EOY-TT](/files/Exam%20Related%20Matters/lvss_sec%202_eoy%20exam%20tt_final.pdf)
-* Sec 3: [2023-LVSS-Sec 3-EOY-TT](/files/Exam%20Related%20Matters/lvss_sec%203_eoy%20exam%20tt_final.pdf)
-
-### Preliminary Examinations 2023
------------------------------
-
-Please refer to the following PDF files with regards to our upcoming Sec 4/5 Preliminary.
-
-##### Downloadable PDF Files:
-
-* Sec 4 Normal Academic: [2023-4NA-Prelim-Timetable.pdf](/files/Exam%20Related%20Matters/2023-4na-prelim%20timetable.pdf)
-
-* Sec 4 Normal Technical: [2023-4NT-Prelim-Timetable](/files/Exam%20Related%20Matters/2023-4nt-prelim%20timetable.pdf)
-
-* Sec 4 Express / 5 Normal Academic: [2023-4E5N-Prelim-Timetable](/files/Exam%20Related%20Matters/2023-4e5n-prelim%20timetable.pdf)
-
-
-
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
+</div>
+<h1>School Examinations</h1>
+<h3>Sec 1 to 3 End of Year Examinations 2024</h3>
+<hr>
+<p>Please refer to the following PDF files with regards to our upcoming Sec
+1 to 3 End of Year Examinations.</p>
+<h5>Downloadable PDF Files:</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 1: <a href="/files/Exam Related Matters/2024/LVSS_Sec_1_EOY_Exam_TT_Final_22_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-LVSS-Sec 1-EOY-TT</a>
+</p>
+</li>
+<li>
+<p>Sec 2: <a href="/files/Exam Related Matters/2024/LVSS_Sec_2_EOY_Exam_TT_Final_22_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-LVSS-Sec 2-EOY-TT</a>
+</p>
+</li>
+<li>
+<p>Sec 3: <a href="/files/Exam Related Matters/2024/LVSS_Sec_3_EOY_Exam_TT_Final_22_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-LVSS-Sec 3-EOY-TT</a>
+</p>
+</li>
+</ul>
+<h3></h3>
+<p></p>

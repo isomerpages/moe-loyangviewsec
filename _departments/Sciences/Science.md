@@ -3,6 +3,7 @@ title: Science
 permalink: /department/Science/Science/
 description: ""
 third_nav_title: Sciences
+variant: markdown
 ---
 <img src="/images/Banner.jpg">
 

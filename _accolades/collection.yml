@@ -1,0 +1,6 @@
+collections:
+  accolades:
+    output: true
+    order:
+      - Accolades.md
+      - STAFF ACCOLADES.md
