@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Sec 2: <a href="/files/Exam Related Matters/2024/LVSS_Sec_2_EOY_Exam_TT_Final_22_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-LVSS-Sec 2-EOY-TT</a>
+<p>Sec 2: <a href="/files/Exam Related Matters/2024/LVSS_Sec_2_EOY_Exam_TT_Final_26_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">2024-LVSS-Sec 2-EOY-TT</a>
 </p>
 </li>
 <li>
