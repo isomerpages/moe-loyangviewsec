@@ -32,7 +32,7 @@ students support one another in achieving their best in an outdoor environment.<
 that cannot be replicated in the classroom. They offer authentic contexts
 in which students apply what they have learnt from Character and Citizenship
 Education (CCE) and Outdoor Education in Physical Education (OE in PE)
-lessons. The richness and complexity of these experiences, such as</p>
-<p>working with their peers to overcome challenges or navigating in a new
-environment during a journey, allow them to extend and deepen their learning
-from the classroom into real life.</p>
+lessons. The richness and complexity of these experiences, such as working
+with their peers to overcome challenges or navigating in a new environment
+during a journey, allow them to extend and deepen their learning from the
+classroom into real life.</p>
