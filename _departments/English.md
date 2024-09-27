@@ -4,9 +4,6 @@ permalink: /english/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
-</div>
 <h3>Signature Programme 1 - Poetry Slam</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/EL/Poetry_Slam_photo1___Tsui_Fen_Yong.jpg">
