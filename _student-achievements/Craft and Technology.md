@@ -324,7 +324,11 @@ Continent</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYF 2024 Art Exhibition" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition_Photo_1__Hope____Saiful_Idris.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Celebrations_Photo_1___Saiful_Idris.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition_Photo_1__Hope____Saiful_Idris.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
