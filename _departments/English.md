@@ -25,7 +25,17 @@ creativity in language use with stage performance.</p>
 <p>Secondary Two students transform into junior playwrights through this
 drama enrichment programme. They adapt personal stories into short skits
 and inject life to the narratives through an inter-class drama competition.
-In the process, students grow in confidence as they perform on stage and
-develop greater appreciation for language in theatrical arts.</p>
+In the process, students grow in confidence as they</p>
 <hr>
-<p>Signareu</p>
+<h3>Signature Programme 3 - Green Spaces Literary Augmented Reality (AR) Trail Design</h3>
+<p>Through collaboration with the National Arts Council via the Artist-in-School
+Scheme, selected Secondary Two and Three students learn from a professional
+poet to compose a literary anthology of poems and artwork, which are transposed
+to an interactive, multi-sensory AR learning experience in our school's
+green spaces.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/EL/Green_Spaces_Anthology_2024_Photo_1___Tsui_Fen_Yong.png">
+</div>
+<h4>Green Spaces Anthology 2024: <a href="https://go.gov.sg/lvss-greenspaces-anthology-2024" rel="noopener nofollow" target="_blank">https://go.gov.sg/lvss-greenspaces-anthology-2024 </a></h4>
+<p></p>
