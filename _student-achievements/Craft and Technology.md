@@ -128,12 +128,6 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h3>Certificate of Recognition: Hope</h3>
 <table style="minWidth: 50px">
 <colgroup>
