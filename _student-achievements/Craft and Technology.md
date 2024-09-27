@@ -5,6 +5,49 @@ variant: tiptap
 description: ""
 ---
 <h1>Singapore Youth Festival 2024 Art Exhibition</h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Certificate of Participation: Eternal Bonds &amp; Hands Intertwined: An
+Ode to Friendship</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Certificate of Participation: Eternal Bonds &amp; Hands Intertwined: An
 Ode to Friendship</p>
 <p>Dausen Paulo Ran Oliveros (1A)</p>
