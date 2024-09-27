@@ -173,7 +173,69 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><u>Honourable Mention</u></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhang Yongmeng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Science/student_achievement___2023_09_26_Singapore_Junior_Biology_Olympiad_006___Tan_Kia_Hock.jpg">
 </div>
+<p></p>
+<h1>Singapore Junior Chemistry Olympiad 2023</h1>
+<h4><u>Merit</u></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Tan Zi Yan</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhang Yuwei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
