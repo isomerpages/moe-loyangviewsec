@@ -145,18 +145,115 @@ Ode to Friendship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Name</p>
+<p><u>Student Name</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><u>Class</u>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ashleen Thong Rui Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Castro Reynelle Clariz Castillo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leanda Jheramico Odviar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2A1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Zirui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phan Thi Huynh Nhu (2T1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Certificate of Recognition: A Glimpse of the Future</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Student Name</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Class</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Francesca Chua Xin Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lily Ellie Aurelia Binte Mohamad Fadaly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Neo Xin Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Yu Lin Velynn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Verma Ayanna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E2</p>
 </td>
 </tr>
 </tbody>
@@ -167,17 +264,12 @@ Ode to Friendship</p>
 <p></p>
 <p></p>
 <p></p>
-<p>Ashleen Thong Rui Yi (2E1)</p>
-<p>Castro Reynelle Clariz Castillo (2E1)</p>
-<p>Leanda Jheramico Odviar (2A1)</p>
-<p>Wang Zirui (2E1)</p>
-<p>Phan Thi Huynh Nhu (2T1)</p>
-<p>Certificate of Recognition: A Glimpse of the Future</p>
-<p>Francesca Chua Xin Yi (2E2)</p>
-<p>Lily Ellie Aurelia Binte Mohamad Fadaly (2E2)</p>
-<p>Neo Xin Ying (2E2)</p>
-<p>Ng Yu Lin Velynn (2E2)</p>
-<p>Verma Ayanna (2E2)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>Singapore Youth Festival 2024 Celebrations @ Gardens by the Bay: The 8th
 Continent</p>
 <p>Jumao-As Nicholas Lim (3E1)</p>
