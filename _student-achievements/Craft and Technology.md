@@ -64,6 +64,11 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h3>Certificate of Participation: Terra Titans</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -71,16 +76,13 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p>Certificate of Participation: Terra Titans</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -125,6 +127,14 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h3>Certificate of Recognition: Hope</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -132,16 +142,13 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p>Certificate of Recognition: Hope</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -178,14 +185,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Phan Thi Huynh Nhu (2T1)</p>
+<p>Phan Thi Huynh Nhu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2T1</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h3>Certificate of Recognition: A Glimpse of the Future</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -193,17 +202,12 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p>Certificate of Recognition: A Glimpse of the Future</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>Name</p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p>Class</p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -247,6 +251,8 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
+<h3>Singapore Youth Festival 2024 Celebrations @ Gardens by the Bay: The 8th Continent</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -254,18 +260,12 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p>Singapore Youth Festival 2024 Celebrations @ Gardens by the Bay: The 8th
-Continent</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>Name</p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p>Class</p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
