@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - English.md
-      - Mother Tongue Languages/.keep
       - Sciences/.keep
       - Craft & Technology/.keep
       - CCE/.keep
