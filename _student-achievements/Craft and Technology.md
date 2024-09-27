@@ -5,53 +5,168 @@ variant: tiptap
 description: ""
 ---
 <h1>Singapore Youth Festival 2024 Art Exhibition</h1>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Certificate of Participation: Eternal Bonds &amp; Hands Intertwined: An
 Ode to Friendship</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dausen Paulo Ran Oliveros (1A)</p>
+<p><u>Student Name</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Class</u>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Aaleyah Binte Muhammad Hairi (1C)</p>
+<p>Dausen Paulo Ran Oliveros</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Olivia Loh Yin Maan (1C)</p>
+<p>Nur Aaleyah Binte Muhammad Hairi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1C</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joleen Lee Hui Si (1E)</p>
+<p>Olivia Loh Yin Maan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joleen Lee Hui Si</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chen Qixuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1F</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Certificate of Participation: Terra Titans</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Student Name</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Class</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ayra Binte Azahari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jayden Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malabag Brianna Ricci Tanguamos</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Adriena Nasha Binte Jamain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sofya Shasmin Binte Mohamed Rizal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Certificate of Recognition: Hope</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Chen Qixuan (1F)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>Certificate of Participation: Terra Titans</p>
-<p>Ayra Binte Azahari (3A2)</p>
-<p>Jayden Wong (3A2)</p>
-<p>Malabag Brianna Ricci Tanguamos (3A2)</p>
-<p>Nur Adriena Nasha Binte Jamain (3A2)</p>
-<p>Sofya Shasmin Binte Mohamed Rizal (3A2)</p>
-<p>Certificate of Recognition: Hope</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>Ashleen Thong Rui Yi (2E1)</p>
 <p>Castro Reynelle Clariz Castillo (2E1)</p>
 <p>Leanda Jheramico Odviar (2A1)</p>
