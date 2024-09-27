@@ -14,6 +14,9 @@ students. We also had a lively poetry slam, an exhibition showcasing stunning
 artwork, live mural drawing in action, and culinary stations serving up
 delicious treats. It was a true feast for the senses!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYF 2024 Celebrations" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Celebrations_Photo_1___Saiful_Idris.jpg">
+</div>
 <hr>
 <h1>Art, Music, Design &amp; Technology and Nutrition &amp; Food Science Enrichment Programmes</h1>
 <p>Our school offers a variety of enrichment programmes that complement and
@@ -24,6 +27,7 @@ Journey for Secondary 2 students, there is something for everyone. Secondary
 Secondary 3 Art, Music, D&amp;T and NFS students enjoy industrial learning
 journeys and workshops to get a firsthand experience of how their learning
 in craft and technology subjects can be applied in the workplace.</p>
+<p></p>
 <hr>
 <h1>The Spotlight</h1>
 <p>To be launched in 2025, The Spotlight programme is our talent development
@@ -70,6 +74,14 @@ Continent</p>
 <p>Tatiana Rose Martinez Sia (4E1)</p>
 <p>Kam Ynzaaq (4E3)</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYF 2024 Art Exhibition" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition_Photo_1__Hope____Saiful_Idris.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition__A_Glimpse_of_the_Future__Photo_1___Saiful_Idris.png">
+</div>
 <p></p>
 <hr>
 <h1></h1>
