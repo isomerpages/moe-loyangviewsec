@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Science.md
-      - Humanities.md
       - Craft and Technology.md
       - PE & CCA.md
       - English.md
