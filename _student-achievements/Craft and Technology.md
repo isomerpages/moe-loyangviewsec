@@ -18,15 +18,27 @@ Ode to Friendship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dausen Paulo Ran Oliveros (1A)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dausen Paulo Ran Oliveros (1A)</p>
 <p>Nur Aaleyah Binte Muhammad Hairi (1C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Olivia Loh Yin Maan (1C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Joleen Lee Hui Si (1E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <p>Chen Qixuan (1F)</p>
 </td>
 </tr>
