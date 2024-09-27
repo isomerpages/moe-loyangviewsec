@@ -2,12 +2,12 @@ collections:
   departments:
     output: true
     order:
-      - PE & CCA.md
-      - Humanities.md
-      - Craft & Technology.md
+      - English.md
       - Mathematics.md
       - Science.md
-      - English.md
+      - Humanities.md
+      - Craft & Technology.md
+      - PE & CCA.md
       - CCE/.keep
       - CCE/CCE.md
       - CCE/Values in Education.md
