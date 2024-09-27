@@ -5,10 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h1>Singapore Youth Festival 2024 Art Exhibition</h1>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -17,44 +15,19 @@ description: ""
 <p>Certificate of Participation: Eternal Bonds &amp; Hands Intertwined: An
 Ode to Friendship</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Certificate of Participation: Eternal Bonds &amp; Hands Intertwined: An
-Ode to Friendship</p>
 <p>Dausen Paulo Ran Oliveros (1A)</p>
 <p>Nur Aaleyah Binte Muhammad Hairi (1C)</p>
 <p>Olivia Loh Yin Maan (1C)</p>
 <p>Joleen Lee Hui Si (1E)</p>
 <p>Chen Qixuan (1F)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Certificate of Participation: Terra Titans</p>
 <p>Ayra Binte Azahari (3A2)</p>
 <p>Jayden Wong (3A2)</p>
