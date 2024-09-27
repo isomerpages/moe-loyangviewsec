@@ -4,42 +4,6 @@ permalink: /craft-and-technology/
 variant: tiptap
 description: ""
 ---
-<h1>LVSS Kaleidoscope</h1>
-<p>LVSS Kaleidoscope is a biennial showcase of student talent and passion
-in the visual, culinary, literary and performing arts. First held in 2024,
-the inaugural event was packed with excitement, featuring performances
-from our dance, drama, and symphonic band CCAs, along with a scintillating
-performance from the school’s pop-rock band, The 8th Continent, and Music
-students. We also had a lively poetry slam, an exhibition showcasing stunning
-artwork, live mural drawing in action, and culinary stations serving up
-delicious treats. It was a true feast for the senses!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYF 2024 Celebrations" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Celebrations_Photo_1___Saiful_Idris.jpg">
-</div>
-<hr>
-<h1>Art, Music, Design &amp; Technology and Nutrition &amp; Food Science Enrichment Programmes</h1>
-<p>Our school offers a variety of enrichment programmes that complement and
-enhance the formal curriculum. From vibrant art, music, and dance workshops
-for all lower secondary students to the Performing Arts-based Learning
-Journey for Secondary 2 students, there is something for everyone. Secondary
-3 Art students collaborate with guest artists on special projects. Additionally,
-Secondary 3 Art, Music, D&amp;T and NFS students enjoy industrial learning
-journeys and workshops to get a firsthand experience of how their learning
-in craft and technology subjects can be applied in the workplace.</p>
-<p></p>
-<hr>
-<h1>The Spotlight</h1>
-<p>To be launched in 2025, The Spotlight programme is our talent development
-programme for students with a passion for art, music, and performance.
-It brings together our ongoing efforts to nurture and elevate students’
-talents in these fields. Those in The Spotlight can look forward to an
-exciting three-year journey designed to help them build technical confidence,
-master their craft, and communicate powerfully—both through words and their
-art, in the process discovering and expressing their own unique creative
-voices.</p>
-<hr>
-<p></p>
 <h1>Singapore Youth Festival 2024 Art Exhibition</h1>
 <p>Certificate of Participation: Eternal Bonds &amp; Hands Intertwined: An
 Ode to Friendship</p>
