@@ -4,7 +4,6 @@ collections:
     order:
       - Science.md
       - English.md
-      - Sciences/.keep
       - Craft & Technology/.keep
       - CCE/.keep
       - CCE/CCE.md
