@@ -4,7 +4,6 @@ collections:
     order:
       - Mother Tongue Languages/.keep
       - Sciences/.keep
-      - Humanities.md
       - Craft & Technology/.keep
       - Craft & Technology/Craft & Technology.md
       - Craft & Technology/Art.md
