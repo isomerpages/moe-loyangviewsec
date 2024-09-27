@@ -19,12 +19,10 @@ Ode to Friendship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Student Name</u>
-</p>
+<p>Name</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Class</u>
-</p>
+<p>Class</p>
 </td>
 </tr>
 <tr>
@@ -82,12 +80,10 @@ Ode to Friendship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Student Name</u>
-</p>
+<p>Name</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Class</u>
-</p>
+<p>Class</p>
 </td>
 </tr>
 <tr>
@@ -145,12 +141,10 @@ Ode to Friendship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Student Name</u>
-</p>
+<p>Name</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Class</u>
-</p>
+<p>Class</p>
 </td>
 </tr>
 <tr>
@@ -208,12 +202,10 @@ Ode to Friendship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Student Name</u>
-</p>
+<p>Name</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Class</u>
-</p>
+<p>Class</p>
 </td>
 </tr>
 <tr>
@@ -272,12 +264,10 @@ Continent</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Student Name</u>
-</p>
+<p>Name</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Class</u>
-</p>
+<p>Class</p>
 </td>
 </tr>
 <tr>
