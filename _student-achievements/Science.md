@@ -4,38 +4,176 @@ permalink: /science/
 variant: tiptap
 description: ""
 ---
-<h1>Science Amazing Race</h1>
-<p>To ignite a passion for Science among our Secondary One students, we offer
-students a unique and engaging experience at the Science Centre. Through
-this programme, students not only get to explore the diverse and fascinating
-exhibits at the Science Centre but also develop crucial skills in collaboration
-and effective communication. As they work together to solve challenges
-and uncover the secrets of the exhibits, they gain insights that extend
-beyond conventional curriculum. This hands-on experience promises to spark
-curiosity and enthusiasm for Science learning, fostering a deeper appreciation
-and understanding of the subject in a fun and memorable way.</p>
+<h1>Singapore Junior Physics Olympiad 2024</h1>
+<h4><u>Bronze Award</u></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Jared Nathaniel John</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arcilla Jose Lorenzo Juarez</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><u>Honourable Mention</u></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Ahnaf Sufi Putera Suratman</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Balachandar Mohit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choi Soeun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Connor Louie Yuen Wei Ren</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dai Keyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Zheng Xing Lucas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Haoyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Zhang Ting Justin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhang Shanyuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
-<h1>Science Challenge</h1>
-<p>Each year, all Secondary Two students embark on an exciting quest to tackle
-a unique challenge designed by Science teachers. With a new challenge each
-year, students have the opportunity to engage in creative problem-solving
-and practical application of scientific principles. As students work together
-to devise and implement their solutions, they not only showcase their creativity
-but also gain a deeper understanding of the scientific concepts that underpin
-their designs, while acquiring skills in innovation, teamwork and effective
-communication.</p>
-<hr>
-<h1>Sungei Buloh Eco-Trekking</h1>
-<p>Secondary Two students embark on an immersive exploration of the Sungei
-Buloh Nature Wetland Reserve, where they gain a profound understanding
-of the vital role that mangrove swamps play in our ecosystem. This hands-on
-experience offers students an opportunity to observe firsthand the intricate
-ways in which various animals and insects have evolved to thrive in this
-unique environment. Students also gain insights into the fascinating relationships
-within the mangrove ecosystem, including symbiotic and mutualistic interactions.
-This enriching experience not only deepens their appreciation for biodiversity
-but also enhances their knowledge of ecological principles in a real-world
-context.</p>
-<hr>
-<h1></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Science/student_achievement___2023_09_26_Singapore_Junior_Physics_Olympiad_019___Tan_Kia_Hock.jpg">
+</div>
+<h1>Singapore Junior Biology Olympiad 2023</h1>
+<h4><u>Bronze</u></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Gabrielle Chng En</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Huang Jingwen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Xuan En, Mel-Ee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Science/student_achievement___2023_09_26_Singapore_Junior_Biology_Olympiad_006___Tan_Kia_Hock.jpg">
+</div>
 <p></p>
