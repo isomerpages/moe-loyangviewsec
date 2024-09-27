@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1>Singapore Youth Festival 2024 Art Exhibition</h1>
+<h3>Certificate of Participation: Eternal Bonds &amp; Hands Intertwined: An Ode to Friendship</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -12,17 +13,13 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p>Certificate of Participation: Eternal Bonds &amp; Hands Intertwined: An
-Ode to Friendship</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 </tr>
 <tr>
