@@ -37,5 +37,5 @@ green spaces.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/EL/Green_Spaces_Anthology_2024_Photo_1___Tsui_Fen_Yong.png">
 </div>
-<h4>Green Spaces Anthology 2024: <a href="https://go.gov.sg/lvss-greenspaces-anthology-2024" rel="noopener nofollow" target="_blank">https://go.gov.sg/lvss-greenspaces-anthology-2024 </a></h4>
+<h4>Green Spaces Anthology 2024: <a href="https://go.gov.sg/lvss-greenspaces-anthology-2024" rel="noopener nofollow" target="_blank">https://go.gov.sg/lvss-greenspaces-anthology-2024</a></h4>
 <p></p>
