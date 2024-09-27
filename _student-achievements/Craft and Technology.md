@@ -258,26 +258,70 @@ Ode to Friendship</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <p>Singapore Youth Festival 2024 Celebrations @ Gardens by the Bay: The 8th
 Continent</p>
-<p>Jumao-As Nicholas Lim (3E1)</p>
-<p>Gabriel Sean Rommel Naces (4E1)</p>
-<p>Qaisara Carissa Binte Mohamad Fadli (4E1)</p>
-<p>Tatiana Rose Martinez Sia (4E1)</p>
-<p>Kam Ynzaaq (4E3)</p>
-<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Student Name</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Class</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jumao-As Nicholas Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gabriel Sean Rommel Naces</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Qaisara Carissa Binte Mohamad Fadli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tatiana Rose Martinez Sia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kam Ynzaaq</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E3</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SYF 2024 Art Exhibition" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition_Photo_1__Hope____Saiful_Idris.png">
