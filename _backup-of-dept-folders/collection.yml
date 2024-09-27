@@ -2,4 +2,5 @@ collections:
   backup-of-dept-folders:
     output: true
     order:
+      - Mother Tongue.md
       - English.md
