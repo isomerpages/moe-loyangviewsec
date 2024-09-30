@@ -2,8 +2,8 @@ collections:
   student-achievements:
     output: true
     order:
+      - English.md
       - Mother Tongue.md
       - Mathematics.md
       - Science.md
       - Craft and Technology.md
-      - English.md
