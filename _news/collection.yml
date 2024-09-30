@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Students Achievements/English.md
-      - Students Achievements/Achievements.md
       - Students Achievements/.keep
       - Latest Happenings.md
       - Announcements.md
