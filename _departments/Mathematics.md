@@ -4,7 +4,7 @@ permalink: /mathematics/
 variant: tiptap
 description: ""
 ---
-<h3>Signature Programe 1: Mathematics Talent Development Programme</h3>
+<h3>Signature Programme 1: Mathematics Talent Development Programme</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/Math/Math_Dept_Talent_Development_Programme_photo_1___Hui_Min_Lie.jpg">
@@ -46,7 +46,7 @@ students are trained to participate in various exciting competitions:</p>
 </li>
 </ul>
 <hr>
-<h3>Signature Programe 2: Mathematics Week</h3>
+<h3>Signature Programme 2: Mathematics Week</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/Math/Math_Dept_Math_Week_photo_1___Hui_Min_Lie.jpg">
@@ -65,7 +65,7 @@ Through participation in these fun-filled activities with their peers,
 students get to apply the mathematical concepts they have learnt and appreciate
 the importance of Mathematics in everyday life.</p>
 <hr>
-<h3>Signature Programe 3: Mathematics Trail</h3>
+<h3>Signature Programme 3: Mathematics Trail</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/Math/Math_Dept_Math_Trail_photo_1___Hui_Min_Lie.jpg">
