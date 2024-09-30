@@ -4,7 +4,7 @@ permalink: /craft-technology/
 variant: tiptap
 description: ""
 ---
-<h3>Signature Programe 1: LVSS Kaleidoscope</h3>
+<h3>Signature Programme 1: LVSS Kaleidoscope</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/C&amp;T/resize_LVSS_Kaleidoscope_Photo_1___Saiful_Idris.jpg">
@@ -18,7 +18,7 @@ students. We also had a lively poetry slam, an exhibition showcasing stunning
 artwork, live mural drawing in action, and culinary stations serving up
 delicious treats. It was a true feast for the senses!</p>
 <hr>
-<h3>Signature Programe 2: Art, Music, Design &amp; Technology and Nutrition &amp; Food Science Enrichment Programmes</h3>
+<h3>Signature Programme 2: Art, Music, Design &amp; Technology and Nutrition &amp; Food Science Enrichment Programmes</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/C&amp;T/C_T_Enrichment_Photo_1.jpg">
 </div>
@@ -31,7 +31,7 @@ Secondary 3 Art, Music, D&amp;T and NFS students enjoy industrial learning
 journeys and workshops to get a firsthand experience of how their learning
 in craft and technology subjects can be applied in the workplace.</p>
 <hr>
-<h3>Signature Programe 3: The Spotlight</h3>
+<h3>Signature Programme 3: The Spotlight</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/C&amp;T/The_Spotlight_photo_1___Saiful_Idris.jpg">
