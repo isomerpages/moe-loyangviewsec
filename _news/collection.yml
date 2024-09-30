@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Students Achievements/.keep
-      - Students Achievements/Mother Tongue.md
       - Students Achievements/Mathematics.md
       - Students Achievements/Science.md
       - Students Achievements/Craft and Technology.md
