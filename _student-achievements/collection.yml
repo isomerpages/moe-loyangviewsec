@@ -2,5 +2,4 @@ collections:
   student-achievements:
     output: true
     order:
-      - Science.md
       - Craft and Technology.md
