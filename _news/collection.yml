@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Students Achievements/.keep
-      - Students Achievements/Craft and Technology.md
       - Latest Happenings.md
       - Announcements.md
