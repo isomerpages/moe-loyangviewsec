@@ -17,7 +17,7 @@ sections:
           url: /Latest-Happenings/
         - title: Students Achievements
           description: ""
-          url: /news/Students-Achievements/
+          url: /Students-Achievements/
         - title: ACCOLADES
           description: OUR HEARTIEST CONGRATULATIONS!
           url: ""
