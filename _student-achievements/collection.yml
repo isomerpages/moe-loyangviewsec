@@ -2,4 +2,5 @@ collections:
   student-achievements:
     output: true
     order:
+      - Mother Tongue.md
       - English.md
