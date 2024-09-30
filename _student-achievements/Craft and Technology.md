@@ -127,6 +127,9 @@ description: ""
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition_Photo_1__Hope____Saiful_Idris.png">
+</div>
 <p></p>
 <h3>Certificate of Recognition: Hope</h3>
 <table style="minWidth: 50px">
@@ -187,6 +190,9 @@ description: ""
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition__A_Glimpse_of_the_Future__Photo_1___Saiful_Idris.png">
+</div>
 <p></p>
 <h3>Certificate of Recognition: A Glimpse of the Future</h3>
 <table style="minWidth: 50px">
@@ -247,6 +253,9 @@ description: ""
 </table>
 <p></p>
 <h3>Singapore Youth Festival 2024 Celebrations @ Gardens by the Bay: The 8th Continent</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Celebrations_Photo_1___Saiful_Idris.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -304,17 +313,8 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Celebrations_Photo_1___Saiful_Idris.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition_Photo_1__Hope____Saiful_Idris.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition__A_Glimpse_of_the_Future__Photo_1___Saiful_Idris.png">
-</div>
 <p></p>
 <hr>
 <h1></h1>
