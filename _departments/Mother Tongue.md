@@ -4,7 +4,7 @@ permalink: /mother-tongue/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Philosophy</strong></h2>
+<h2><strong>Department Philosophy</strong></h2>
 <blockquote>
 <h3>To nurture a new generation who love the learning of Mother Tongue Languages (MTL) and are highly proficient in their Mother Tongue.</h3>
 </blockquote>
