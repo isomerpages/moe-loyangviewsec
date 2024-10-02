@@ -6,11 +6,14 @@ description: ""
 ---
 <h2><strong>Department Philosophy</strong></h2>
 <blockquote>
-<p>In Loyang View, we believe every child is unique and worthy; everyone
-can be a leader and achieve different peaks of excellence. We commit to
-guide every child to discover his/her individual talent and interest via
-structured talent identification process and we strive to support every
-student to maximise potential possible.</p>
+<p>The Physical Education Department believes that every child is unique
+and capable of achieving their own peak of excellence. Our mission is to
+guide students in discovering their talents and interests through personalised
+profiling and exposure to a wide range of games, physical activities, and
+outdoor experiences. We aim to cultivate leadership, resilience, and teamwork,
+empowering students to demonstrate physical skills and core values both
+individually and collaboratively. Our ultimate goal is to equip every student
+with the knowledge and practices for a lifetime of active and healthy living.</p>
 <hr>
 <p></p>
 </blockquote>
