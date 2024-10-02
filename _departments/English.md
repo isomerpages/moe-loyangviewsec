@@ -6,7 +6,7 @@ description: ""
 ---
 <h2><strong>Department Philosophy</strong></h2>
 <blockquote>
-<h4>To develop a solid foundation in grammar and vocabulary, hone students’ sensitivity to language use and inculcate critical and inventive thinking skills, our EL and Literature curricula are built on rich print and multimodal materials with imaginative content that engage and stimulate students’ imagination, focusing on effective and impactful communication as well as exploration of character, mood and theme.&nbsp;</h4>
+<h4>The English Language and Literature Department believes that each student has his/her unique voice which can shape the world into a better place. We aim to develop our students into effective and empathetic communicators who are well-prepared to face the challenges of the future. To instill a passion for language and literature learning, we provide vibrant, enriching and authentic programmes that are customised to hone each student’s linguistic abilities to the fullest and encourage student voice. </h4>
 </blockquote>
 <p></p>
 <hr>
