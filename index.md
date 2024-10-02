@@ -22,4 +22,12 @@ sections:
           description: OUR HEARTIEST CONGRATULATIONS!
           url: ""
       variant: center
+  - infopic:
+      title: POWER YOUR FUTURE
+      id: infopic
+      description: "ALP: Sustainability through STEM"
+      button: Find out more
+      url: ALP
+      image: /images/Site Design/IGNITE_YOUR_ADVENTURE_resize.jpg
+      alt: Image alt text
 ---
