@@ -28,12 +28,14 @@ sections:
       description: "ALP: Sustainability through STEM"
       button: Find out more
       url: /programmes/Applied-Learning-Programme-ALP/
-      image: /images/Site Design/IGNITE_YOUR_ADVENTURE_resize.jpg
+      image: /images/Site Design/POWER_YOUR_FUTURE_resize.jpg
       alt: Image alt text
   - infopic:
       title: IGNITE YOUR ADVENTURE
       id: infopic
       description: "LLP: Sport and Outdoor Education"
-      button: Button Text
+      button: Find out more
       alt: Image alt text
+      url: /programmes/Learning-For-Life-Programme-LLP/
+      image: /images/Site Design/IGNITE_YOUR_ADVENTURE_resize.jpg
 ---
