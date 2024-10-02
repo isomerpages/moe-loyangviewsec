@@ -16,10 +16,10 @@ description: ""
 <hr>
 <h3>2024 Singapore Math Kangaroo Competition (SMKC)</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Math/SMKC.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Math/Math_Kangaroo.png">
+</div>
 <h4>1 Gold</h4>
 <h4>3 Silver</h4>
 <h4>1 Bronze</h4>
