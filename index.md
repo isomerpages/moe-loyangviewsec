@@ -19,7 +19,7 @@ sections:
           description: ""
           url: /sa-english/
         - title: ACCOLADES
-          description: OUR HEARTIEST CONGRATULATIONS!
+          description: ""
           url: ""
       variant: center
   - infopic:
