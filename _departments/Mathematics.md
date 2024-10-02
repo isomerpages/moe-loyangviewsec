@@ -4,7 +4,7 @@ permalink: /mathematics/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Philosophy</strong></h2>
+<h2><strong>Department Philosophy</strong></h2>
 <blockquote>
 <p>Align with the school vision, the department works towards helping our
 students to build strong conceptual understanding, skills proficiency and
