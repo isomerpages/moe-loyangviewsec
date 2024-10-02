@@ -4,7 +4,18 @@ permalink: /pe-cca/
 variant: tiptap
 description: ""
 ---
-<h3>Signature Programme 1: Level Sports Carnivals</h3>
+<h2><strong>Department Philosophy</strong></h2>
+<blockquote>
+<p>In Loyang View, we believe every child is unique and worthy; everyone
+can be a leader and achieve different peaks of excellence. We commit to
+guide every child to discover his/her individual talent and interest via
+structured talent identification process and we strive to support every
+student to maximise potential possible.</p>
+<hr>
+<p></p>
+</blockquote>
+<h2><strong>Signature Programme</strong></h2>
+<h3>Level Sports Carnivals</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/PE/Level_Sports_Carnivals__Photo1___Gabriel_Wie.jpg">
 </div>
@@ -12,8 +23,7 @@ description: ""
 taught during PE lessons, while enhancing teamwork and class camaraderie
 through inter-class competitions. These competitions encourage personal
 growth, collaboration and a strong sense of class camaraderie.</p>
-<hr>
-<h3>Signature Programme 2: Cross Country Meet</h3>
+<h3>Cross Country Meet</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/PE/Cross_Country.jpg">
 </div>
@@ -23,8 +33,7 @@ students to challenge themselves, set personal goals and embrace the benefits
 of outdoor activities. Through collaboration with our Parent Support Group
 and alumni, this event also fosters school unity and community spirit as
 students support one another in achieving their best in an outdoor environment.</p>
-<hr>
-<h3>Signature Programme 3: Outdoor Adventure Learning Cohort Camps</h3>
+<h3>Outdoor Adventure Learning Cohort Camps</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/PE/Outdoor_Adventure_Learning_Cohort_Camp_Photo1___Gabriel_Wie.jpg">
 </div>
