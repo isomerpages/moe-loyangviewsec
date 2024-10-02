@@ -27,7 +27,7 @@ sections:
       id: infopic
       description: "ALP: Sustainability through STEM"
       button: Find out more
-      url: ALP
+      url: /programmes/Applied-Learning-Programme-ALP/
       image: /images/Site Design/IGNITE_YOUR_ADVENTURE_resize.jpg
       alt: Image alt text
 ---
