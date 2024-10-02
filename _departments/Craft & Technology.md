@@ -6,14 +6,15 @@ description: ""
 ---
 <h2><strong>Department Philosophy</strong></h2>
 <blockquote>
-<p>The Craft &amp; Technology Department comprises Art, Design and Technology,
-Food &amp; Nutrition and Music. The teachers believe that education is
-about providing positive experiences and developing joy of learning by
-engaging students with issues that are relevant and interesting to their
-lives. Students are motivated as they learn to appreciate their subjects
-beyond classrooms and connect their learning experiences to the outside
-world. Teachers adopt an inquiry-based approach to teaching and promote
-questioning among students.</p>
+<p>The Craft &amp; Technology Department oversees students’ learning in four
+key disciplines: Art, Design &amp; Technology, Music, and Nutrition &amp;
+Food Science. Our mission is to foster students’ creativity, innovation
+and practical skills, and equip them with the knowledge, skills and dispositions
+needed to excel in these fields. We are dedicated to helping students discover
+their passions, engage in authentic examinations of the world around them,
+and recognise their unique value to others. Our department offers a supportive
+and stimulating environment where students can pursue their interests,
+hone their talents and prepare for a successful and fulfilling career.</p>
 <hr>
 <p></p>
 </blockquote>
