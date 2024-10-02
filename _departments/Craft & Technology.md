@@ -4,7 +4,21 @@ permalink: /craft-technology/
 variant: tiptap
 description: ""
 ---
-<h3>Signature Programme 1: LVSS Kaleidoscope</h3>
+<h2><strong>Department Philosophy</strong></h2>
+<blockquote>
+<p>The Craft &amp; Technology Department comprises Art, Design and Technology,
+Food &amp; Nutrition and Music. The teachers believe that education is
+about providing positive experiences and developing joy of learning by
+engaging students with issues that are relevant and interesting to their
+lives. Students are motivated as they learn to appreciate their subjects
+beyond classrooms and connect their learning experiences to the outside
+world. Teachers adopt an inquiry-based approach to teaching and promote
+questioning among students.</p>
+<hr>
+<p></p>
+</blockquote>
+<h2><strong>Signature Programme</strong></h2>
+<h3>LVSS Kaleidoscope</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/C&amp;T/resize_LVSS_Kaleidoscope_Photo_1___Saiful_Idris.jpg">
@@ -17,8 +31,7 @@ performance from the school’s pop-rock band, The 8th Continent, and Music
 students. We also had a lively poetry slam, an exhibition showcasing stunning
 artwork, live mural drawing in action, and culinary stations serving up
 delicious treats. It was a true feast for the senses!</p>
-<hr>
-<h3>Signature Programme 2: Art, Music, Design &amp; Technology and Nutrition &amp; Food Science Enrichment Programmes</h3>
+<h3>Art, Music, Design &amp; Technology and Nutrition &amp; Food Science Enrichment Programmes</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/C&amp;T/C_T_Enrichment_Photo_1.jpg">
 </div>
@@ -30,8 +43,7 @@ Journey for Secondary 2 students, there is something for everyone. Secondary
 Secondary 3 Art, Music, D&amp;T and NFS students enjoy industrial learning
 journeys and workshops to get a firsthand experience of how their learning
 in craft and technology subjects can be applied in the workplace.</p>
-<hr>
-<h3>Signature Programme 3: The Spotlight</h3>
+<h3>The Spotlight</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/C&amp;T/The_Spotlight_photo_1___Saiful_Idris.jpg">
