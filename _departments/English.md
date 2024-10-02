@@ -4,7 +4,7 @@ permalink: /english/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Philosophy</strong></h2>
+<h2><strong>Department Philosophy</strong></h2>
 <blockquote>
 <h4>To develop a solid foundation in grammar and vocabulary, hone students’ sensitivity to language use and inculcate critical and inventive thinking skills, our EL and Literature curricula are built on rich print and multimodal materials with imaginative content that engage and stimulate students’ imagination, focusing on effective and impactful communication as well as exploration of character, mood and theme.&nbsp;</h4>
 </blockquote>
