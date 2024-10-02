@@ -4,15 +4,15 @@ permalink: /mother-tongue/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Philosophy</strong></h3>
+<h2><strong>Philosophy</strong></h2>
 <blockquote>
 <h3>To nurture a new generation who love the learning of Mother Tongue Languages (MTL) and are highly proficient in their Mother Tongue.</h3>
 </blockquote>
 <p></p>
 <hr>
 <p></p>
-<h3><strong>Signature Programmes</strong></h3>
-<h4>Mother Tongue Languages Fortnight</h4>
+<h2><strong>Signature Programmes</strong></h2>
+<h3>Mother Tongue Languages Fortnight</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/MTL/MTL_Fortnight_Photo_1___Nurul_Farhana_Mohamed_Kassim.jpg">
 </div>
@@ -22,7 +22,7 @@ and values associated with each language. Through vibrant cultural activities,
 the event fosters joy of learning and enhances students' ability to think
 critically and express their ideas with confidence, both in written and
 spoken forms of their Mother Tongue Languages.</p>
-<h4>Festival Celebrations</h4>
+<h3>Festival Celebrations</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/MTL/Festival_Celebration_Photo_2___Nurul_Farhana_Mohamed_Kassim.jpg">
 </div>
@@ -31,7 +31,7 @@ Chinese New Year, Hari Raya Aidilfitri, and Deepavali with various classroom
 activities and concerts. These events highlight the cultural significance
 of each festival, helping students appreciate and respect the rich traditions
 of our diverse community.</p>
-<h4>Audio and Video Challenge</h4>
+<h3>Audio and Video Challenge</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/MTL/Audio___Video_project.jpg">
 </div>
