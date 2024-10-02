@@ -38,4 +38,22 @@ sections:
       alt: Image alt text
       url: /programmes/Learning-For-Life-Programme-LLP/
       image: /images/Site Design/IGNITE_YOUR_ADVENTURE_resize.jpg
+  - infopic:
+      title: GROW YOUR CHARACTER
+      id: infopic
+      description: Urban Farming
+      image: /images/Site Design/resize_GROW_YOUR_CHARACTER.jpg
+      alt: Image alt text
+  - infopic:
+      title: DESIGN YOUR SUCCESS STORY
+      id: infopic
+      description: Future-Ready Programme
+      image: /images/Site Design/resize_DESIGN_YOUR_SUCCESS_STORY.jpg
+      alt: Image alt text
+  - infopic:
+      title: SHAPE THE FUTURE
+      id: infopic
+      description: Stretch Programme
+      image: /images/Site Design/resize_SHAPE_THE_FUTURE.jpg
+      alt: Image alt text
 ---
