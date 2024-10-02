@@ -252,7 +252,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h3>Singapore Youth Festival 2024 Celebrations @ Gardens by the Bay: The 8th Continent</h3>
+<h1>Singapore Youth Festival 2024 Celebrations @ Gardens by the Bay: The 8th Continent</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Celebrations_Photo_1___Saiful_Idris.jpg">
 </div>
