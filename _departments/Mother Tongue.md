@@ -6,7 +6,7 @@ description: ""
 ---
 <h2><strong>Department Philosophy</strong></h2>
 <blockquote>
-<h3>To nurture a new generation who love the learning of Mother Tongue Languages (MTL) and are highly proficient in their Mother Tongue.</h3>
+<h3>The Mother Tongue Languages (MTL) Department aims to nurture students who are not only enthusiastic about learning their Mother Tongue but also highly proficient in the language. To foster this enthusiasm and raise proficiency in language use, our department implements a range of purposefully designed programmes and activities. These initiatives are aimed at making learning experiences engaging and rewarding, thereby deepening students' appreciation of their Mother Tongue and enhancing their language skills.</h3>
 </blockquote>
 <p></p>
 <hr>
