@@ -33,7 +33,7 @@ beyond conventional curriculum. This hands-on experience promises to spark
 curiosity and enthusiasm for Science learning, fostering a deeper appreciation
 and understanding of the subject in a fun and memorable way.</p>
 <hr>
-<h3>Signature Programme 2: Science Challenge</h3>
+<h3>Science Challenge</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/Science/Science_Challenge_001___Tan_Kia_Hock.jpg">
@@ -47,7 +47,7 @@ but also gain a deeper understanding of the scientific concepts that underpin
 their designs, while acquiring skills in innovation, teamwork and effective
 communication.</p>
 <hr>
-<h3>Signature Programme 3: Sungei Buloh Eco-Trekking</h3>
+<h3>Sungei Buloh Eco-Trekking</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/Science/Sungei_Buloh_001___Tan_Kia_Hock.jpg">
