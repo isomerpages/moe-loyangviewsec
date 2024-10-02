@@ -6,14 +6,13 @@ description: ""
 ---
 <h2><strong>Department Philosophy</strong></h2>
 <blockquote>
-<p>The Humanities Department oversees 3 subjects: Social Studies, Geography
-and History.&nbsp;&nbsp;The department teachers engage students through
-Humanities Explorations to hone their critical thinking skills as well
-as inculcate values of good citizens to develop students into wholesome
-individuals.</p>
-<p>The Humanities teachers promote students’ passion and joy in learning
-through designing engaging lessons and outdoor experiential learning aligned
-to curriculum objectives.</p>
+<p>The Humanities Department believes that every child is unique and can
+learn. We aim to hone our students’ critical thinking skills and inculcate
+values of good citizens to develop them into wholesome individuals through
+our Humanities curriculum. The Humanities teachers promote students’ passion
+for Humanities and joy of learning through designing lessons and activities
+which are relevant, appealing and personal, as well as aligned to the curriculum
+objectives.</p>
 </blockquote>
 <hr>
 <h2><strong>Signature Programme</strong></h2>
