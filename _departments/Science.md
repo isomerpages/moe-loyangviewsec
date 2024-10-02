@@ -6,15 +6,13 @@ description: ""
 ---
 <h2><strong>Department Philosophy</strong></h2>
 <blockquote>
-<p>To enthuse and nurture all students to be scientifically literate and
-to provide students with strong Science foundation to innovate and pursue
-STEM for future learning and work.</p>
-<p>Our Science Department’s direction is driven by the Inquiry-Based Learning
-Approach, with teachers being the leaders of inquiry, within and outside
-the Science classroom. Teachers facilitate the learning of Science by constantly
-arousing students’ curiosity about the world and guiding them in the construction
-of new knowledge.</p>
-<p>With this, we seek <em>to develop in every student the passion and joy of learning Science</em>.</p>
+<p>The Science Department envisions fostering a dynamic learning environment
+where students are inspired to explore, inquire, and innovate. Our programmes
+aim to cultivate critical thinking, scientific literacy and a deep understanding
+of core scientific principles. Through hands-on experimentation, collaborative
+learning, and interdisciplinary approaches, we prepare students to tackle
+real-world challenges, pursue advanced studies, and contribute meaningfully
+to a rapidly evolving, science-driven world.</p>
 </blockquote>
 <hr>
 <h2><strong>Signature Programme</strong></h2>
