@@ -6,32 +6,13 @@ description: ""
 ---
 <h2><strong>Department Philosophy</strong></h2>
 <blockquote>
-<p>Align with the school vision, the department works towards helping our
-students to build strong conceptual understanding, skills proficiency and
-to nurture them to become competent and confident problem solvers. This
-is achieved by providing students the opportunity to learn through exploration,
-mathematical discourse and self-directed learning. Beyond the learning
-of mathematical concepts and skills proficiency, the development of cognitive
-and metacognitive process skills are equally important. Students should
-have the opportunities to discuss and articulate ideas to develop mathematical
-reasoning skills through presentations and other platforms and apply learnt
-concepts through real-world context problems and authentic mathematical
-modelling tasks. Students should have the opportunities to think about
-their learning through alternative assessments such as performance tasks
-and thus, develop their metacognition.</p>
-<p></p>
-<p>The department has been planning and designing various programmes to cater
-to the different learning needs of the students.&nbsp; The department is
-constantly exploring and refining their teaching pedagogy in areas such
-as Differentiated Instructions (DI), Assessment and E-Pedagogy to enhance
-students’ learning. For instance, teachers to develop teaching packages
-leveraging the use of ICT through Students Learning Space (SLS), Ace-Learning
-(an E-learning portal in supporting independent and self-directed learning
-for lower sec normal stream students) and other ICT tools e.g. GeoGebra,
-Desmos, Kahoot for deep learning. The lesson packages are designed in such
-a way that it incorporates self-directed and collaborative learning and
-elements of DI and AfL are infused so to ensure learners achieve deep learning
-by managing and taking ownership for their learning.</p>
+<p>The Mother Tongue Languages (MTL) Department aims to nurture students
+who are not only enthusiastic about learning their Mother Tongue but also
+highly proficient in the language. To foster this enthusiasm and raise
+proficiency in language use, our department implements a range of purposefully
+designed programmes and activities. These initiatives are aimed at making
+learning experiences engaging and rewarding, thereby deepening students'
+appreciation of their Mother Tongue and enhancing their language skills.</p>
 </blockquote>
 <hr>
 <h2><strong>Signature Programme</strong></h2>
