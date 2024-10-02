@@ -15,7 +15,7 @@ sections:
         - title: Latest Happenings
           description: ""
           url: /Latest-Happenings/
-        - title: Students Achievements
+        - title: Achievements
           description: ""
           url: /sa-english/
         - title: ACCOLADES
