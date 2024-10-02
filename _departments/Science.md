@@ -4,7 +4,21 @@ permalink: /science/
 variant: tiptap
 description: ""
 ---
-<h3>Signature Programme 1: Science Amazing Race</h3>
+<h2><strong>Department Philosophy</strong></h2>
+<blockquote>
+<p>To enthuse and nurture all students to be scientifically literate and
+to provide students with strong Science foundation to innovate and pursue
+STEM for future learning and work.</p>
+<p>Our Science Department’s direction is driven by the Inquiry-Based Learning
+Approach, with teachers being the leaders of inquiry, within and outside
+the Science classroom. Teachers facilitate the learning of Science by constantly
+arousing students’ curiosity about the world and guiding them in the construction
+of new knowledge.</p>
+<p>With this, we seek <em>to develop in every student the passion and joy of learning Science</em>.</p>
+</blockquote>
+<hr>
+<h2><strong>Signature Programme</strong></h2>
+<h3>Science Amazing Race</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/Science/Science_Centre_Amazing_Race_001___Tan_Kia_Hock.jpg">
