@@ -30,4 +30,10 @@ sections:
       url: /programmes/Applied-Learning-Programme-ALP/
       image: /images/Site Design/IGNITE_YOUR_ADVENTURE_resize.jpg
       alt: Image alt text
+  - infopic:
+      title: IGNITE YOUR ADVENTURE
+      id: infopic
+      description: "LLP: Sport and Outdoor Education"
+      button: Button Text
+      alt: Image alt text
 ---
