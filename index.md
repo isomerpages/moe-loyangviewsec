@@ -51,7 +51,7 @@ sections:
       image: /images/Site Design/resize_DESIGN_YOUR_SUCCESS_STORY.jpg
       alt: Image alt text
   - infopic:
-      title: SHAPE THE FUTURE
+      title: SHAPE YOUR FUTURE
       id: infopic
       description: Stretch Programme
       image: /images/Site Design/resize_SHAPE_THE_FUTURE.jpg
