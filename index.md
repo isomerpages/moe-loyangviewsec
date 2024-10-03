@@ -21,7 +21,7 @@ sections:
         - title: ACCOLADES
           description: ""
           url: ""
-      variant: center
+      variant: image
   - infopic:
       title: POWER YOUR FUTURE
       id: infopic
