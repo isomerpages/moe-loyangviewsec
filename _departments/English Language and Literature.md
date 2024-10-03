@@ -6,7 +6,13 @@ description: ""
 ---
 <h2><strong>Department Philosophy</strong></h2>
 <blockquote>
-<h4>The English Language and Literature Department believes that each student has his/her unique voice which can shape the world into a better place. We aim to develop our students into effective and empathetic communicators who are well-prepared to face the challenges of the future. To instill a passion for language and literature learning, we provide vibrant, enriching and authentic programmes that are customised to hone each student’s linguistic abilities to the fullest and encourage student voice.</h4>
+<p>The English Language and Literature Department believes that each student
+has his/her unique voice which can shape the world into a better place.
+We aim to develop our students into effective and empathetic communicators
+who are well-prepared to face the challenges of the future. To instill
+a passion for language and literature learning, we provide vibrant, enriching
+and authentic programmes that are customised to hone each student’s linguistic
+abilities to the fullest and encourage student voice.</p>
 </blockquote>
 <p></p>
 <hr>
