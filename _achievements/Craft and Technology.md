@@ -6,9 +6,6 @@ description: ""
 ---
 <h1>Singapore Youth Festival 2024 Art Exhibition</h1>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition__Eternal_Bonds__Photo_1___Saiful_Idris__1_.png">
-</div>
 <h3>Certificate of Participation: Eternal Bonds &amp; Hands Intertwined: An Ode to Friendship</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -69,10 +66,10 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition__Terra_Titans__Photo_1___Saiful_Idris.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition__Eternal_Bonds__Photo_1___Saiful_Idris__1_.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <h3>Certificate of Participation: Terra Titans</h3>
@@ -135,7 +132,7 @@ description: ""
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition_Photo_1__Hope____Saiful_Idris.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition__Terra_Titans__Photo_1___Saiful_Idris.jpg">
 </div>
 <p></p>
 <h3>Certificate of Recognition: Hope</h3>
@@ -198,7 +195,7 @@ description: ""
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition__A_Glimpse_of_the_Future__Photo_1___Saiful_Idris.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition_Photo_1__Hope____Saiful_Idris.png">
 </div>
 <p></p>
 <h3>Certificate of Recognition: A Glimpse of the Future</h3>
@@ -258,6 +255,9 @@ description: ""
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition__A_Glimpse_of_the_Future__Photo_1___Saiful_Idris.png">
+</div>
 <p></p>
 <h1>Singapore Youth Festival 2024 Celebrations @ Gardens by the Bay: The 8th Continent</h1>
 <div class="isomer-image-wrapper">
