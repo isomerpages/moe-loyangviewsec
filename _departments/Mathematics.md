@@ -6,13 +6,13 @@ description: ""
 ---
 <h2><strong>Department Philosophy</strong></h2>
 <blockquote>
-<p>The Mother Tongue Languages (MTL) Department aims to nurture students
-who are not only enthusiastic about learning their Mother Tongue but also
-highly proficient in the language. To foster this enthusiasm and raise
-proficiency in language use, our department implements a range of purposefully
-designed programmes and activities. These initiatives are aimed at making
-learning experiences engaging and rewarding, thereby deepening students'
-appreciation of their Mother Tongue and enhancing their language skills.</p>
+<p>In line with our school vision, the Mathematics Department seeks to inculcate
+in students strong conceptual understanding, analytical and reasoning skills
+in Mathematics to nurture them to become competent and confident problem
+solvers. Students are given opportunities to discuss and articulate ideas
+to develop mathematical reasoning skills and metacognition through presentations
+and apply learnt concepts through real-world context problems and authentic
+mathematical modelling tasks.</p>
 </blockquote>
 <hr>
 <h2><strong>Signature Programme</strong></h2>
