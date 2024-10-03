@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h1>Singapore Youth Festival 2024 Art Exhibition</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition__Eternal_Bonds__Photo_1___Saiful_Idris__1_.png">
+</div>
 <h3>Certificate of Participation: Eternal Bonds &amp; Hands Intertwined: An Ode to Friendship</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -66,6 +70,9 @@ description: ""
 </table>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Craft &amp; Tech/SYF_2024_Art_Exhibition__Terra_Titans__Photo_1___Saiful_Idris.jpg">
+</div>
 <p></p>
 <p></p>
 <h3>Certificate of Participation: Terra Titans</h3>
