@@ -56,4 +56,12 @@ sections:
       description: Stretch Programme
       image: /images/Site Design/resize_SHAPE_THE_FUTURE.jpg
       alt: Image alt text
+  - infopic:
+      title: EXPAND YOUR HORIZONS
+      subtitle: Add an image and text
+      id: infopic
+      description: Overseas Enrichment Programme
+      button: Button Text
+      image: /images/Site Design/EXPAND_YOUR_HORIZONS.jpg
+      alt: Image alt text
 ---
