@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - English Language and Literature.md
-      - Mother Tongue.md
+      - Mother Tongue Languages.md
       - Mathematics.md
       - Science.md
       - Humanities.md
