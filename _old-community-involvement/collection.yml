@@ -1,5 +1,5 @@
 collections:
-  community-involvement:
+  old-community-involvement:
     output: true
     order:
       - Students' COVID19 Vaccination.md
