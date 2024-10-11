@@ -1,0 +1,9 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - English Language and Literature.md
+      - Mother Tongue Languages.md
+      - Mathematics.md
+      - Science.md
+      - Craft and Technology.md

@@ -2,6 +2,13 @@
 title: Term Letters
 permalink: /for-parents/termletters/
 description: ""
+variant: tiptap
 ---
-##### Term Letters 2023
-[Year-End Term Letter](/files/Term%20Letters/end-of-year%20letter.pdf)[Year End Letter](/files/Term%20Letters/2023%20Term%201%20Letter.pdf)
+<h2>Term Letters 2024</h2>
+<h3>Sec 1 - 3</h3>
+<p><a href="/files/Term Letters/2024/S1_3_Term_4_2024_Notification.pdf" rel="noopener nofollow" target="_blank">Sec 1 - 3 Term 4-2024 Notification</a>
+</p>
+<p></p>
+<h3>Sec 4/5</h3>
+<p><a href="/files/Term Letters/2024/S4_5_Term_4_2024_Notification.pdf" rel="noopener nofollow" target="_blank">Sec 4-5 Term 4 2024 Notification</a>
+</p>

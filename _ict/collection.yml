@@ -1,0 +1,7 @@
+collections:
+  ict:
+    output: true
+    order:
+      - Guides to DMA.md
+      - Device Management Application (DMA).md
+      - National Digital Literacy Programme (NDLP).md

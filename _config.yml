@@ -2,19 +2,19 @@ title: Loyang View Secondary
 url: https://www.loyangviewsec.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#3167b6"
-  secondary-color: "#9b9b9b"
+  primary-color: "#ff7c35"
+  secondary-color: "#006e89"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#ff7c35"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#ff7c35"
     - title: media-color-three
-      color: "#00838f"
+      color: "#ff7c35"
     - title: media-color-four
-      color: "#00838f"
+      color: "#ff7c35"
     - title: media-color-five
-      color: "#00838f"
+      color: "#ff7c35"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
