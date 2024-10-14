@@ -115,6 +115,3 @@ to make an appointment prior to visiting the school.</p>
 <p>Pasir Ris</p>
 <hr>
 <p></p>
-<p><strong>mosyle-verification-864753328</strong>
-</p>
-<p></p>
