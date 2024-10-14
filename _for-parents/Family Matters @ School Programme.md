@@ -2,8 +2,8 @@
 title: Family Matters @ School Programme
 permalink: /for-parents/familymatters/
 description: ""
+variant: markdown
 ---
-
 Family Matters @ School Programme
 ================================
 
@@ -35,7 +35,6 @@ Download the MWS Triple P PDF file below for more details and click [**HERE**]
 
   
 
-[Write Up on MWS FSP.pdf](https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/Connecting%20with%20our%20Community/Write%20Up%20on%20MWS%20FSP.pdf)
+[Write Up on MWS FSP](/files/Write%20Up%20on%20MWS%20FSP.pdf)
 
   
-![FMS02.PNG](https://www.loyangviewsec.moe.edu.sg/qql/slot/u783/Character%20Development/CCE/FMS/FMS02.PNG)

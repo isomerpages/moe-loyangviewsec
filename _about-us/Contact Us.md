@@ -23,7 +23,11 @@ variant: tiptap
 </p>
 <p><strong>School Opening Hours</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -51,14 +55,19 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="width: 0px">
+<colgroup></colgroup>
 <tbody>
 <tr></tr>
 </tbody>
 </table>
 <p><strong>General Office Operating Hours</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -105,7 +114,4 @@ to make an appointment prior to visiting the school.</p>
 </p>
 <p>Pasir Ris</p>
 <hr>
-<p></p>
-<p><strong>mosyle-verification-864753328</strong>
-</p>
 <p></p>

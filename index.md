@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Site Design/website_banner_centralised.jpg
+      background: /images/Site Design/Hero_banner_adjusted_14thOct.png
       key_highlights:
         - title: Announcements
           description: ""
@@ -44,7 +44,7 @@ sections:
       id: infopic
       description: Overseas Enrichment Programme
       button: Find out more
-      image: /images/Site Design/EXPAND_YOUR_HORIZONS.jpg
+      image: /images/Site Design/EXPAND_YOUR_HORIZONS_2.jpg
       alt: Image alt text
       url: /programmes/Overseas-Educational-Programme/
   - infopic:
