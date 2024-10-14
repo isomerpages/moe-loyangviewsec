@@ -40,7 +40,6 @@ sections:
       image: /images/Site Design/IGNITE_YOUR_ADVENTURE_resize.jpg
   - infopic:
       title: EXPAND YOUR HORIZONS
-      subtitle: Add an image and text
       id: infopic
       description: Overseas Enrichment Programme
       button: Find out more
