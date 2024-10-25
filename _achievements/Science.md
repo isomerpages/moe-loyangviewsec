@@ -266,9 +266,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Science/student_achievement___2023_09_26_Singapore_Junior_Biology_Olympiad_006___Tan_Kia_Hock.jpg">
 </div>
-<p></p>
 <h1>Singapore Junior Chemistry Olympiad 2023</h1>
 <h4><u>Merit</u></h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -303,4 +303,173 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h1></h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Zi Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhang Yuwei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>Singapore Junior Physics Olympiad 2023</h1>
+<h4><u>Bronze</u></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jared Nathaniel John</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arcilla Jose Lorenzo Juarez</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><u>Honourable Mention</u></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ahnaf Sufi Putera Suratman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Balachandar Mohit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choi Soeun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Connor Louie Yuen Wei Ren</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dai Keyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Zheng Xing Lucas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Haoyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Zhang Ting Justin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhang Shanyuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Junior_Physics_2023.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
