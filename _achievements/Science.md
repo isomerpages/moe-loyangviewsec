@@ -131,10 +131,7 @@ description: ""
 </tbody>
 </table>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Achievements/Science/student_achievement___2023_09_26_Singapore_Junior_Physics_Olympiad_019___Tan_Kia_Hock.jpg">
-</div>
-<p></p>
+<h1>Singapore Physics League</h1>
 <h1>Singapore Junior Biology Olympiad 2023</h1>
 <h4><u>Bronze</u></h4>
 <table style="minWidth: 50px">
