@@ -303,39 +303,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h1></h1>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Name</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Class</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Zi Yan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4E1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Zhang Yuwei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4E1</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h1>Singapore Junior Physics Olympiad 2023</h1>
 <h4><u>Bronze</u></h4>
 <table style="minWidth: 50px">
