@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/Site Design/Hero_25thOct_2.jpg
       key_highlights:
+        - title: OPEN HOUSE 2024
+          description: ""
+          url: OPEN-HOUSE-2024
         - title: Announcements
           description: ""
           url: /Announcements/
@@ -18,9 +21,6 @@ sections:
         - title: Achievements
           description: ""
           url: /sa-english/
-        - title: ACCOLADES
-          description: ""
-          url: ""
       variant: image
   - infopic:
       title: POWER YOUR FUTURE
