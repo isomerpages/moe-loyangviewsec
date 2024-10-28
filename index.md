@@ -4,7 +4,7 @@ title: Loyang View Secondary
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Click on "Open House 2024" to find out more about our upcoming open house!
 sections:
   - hero:
       background: /images/Site Design/Hero_25thOct_2.jpg
