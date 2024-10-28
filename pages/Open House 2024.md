@@ -10,5 +10,5 @@ image: /images/Other Matters/Open House/Openhouse_2024.png
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other Matters/Open House/Openhouse_2024.png">
 </div>
 <p></p>
-<h2>You can click <a href="https://linktr.ee/loyangviewss" rel="noopener nofollow" target="_blank">here</a> to register and connect with us too.</h2>
+<h2>Alternatively, click <a href="https://linktr.ee/loyangviewss" rel="noopener nofollow" target="_blank">here</a> to register and connect with us too.</h2>
 <p></p>
