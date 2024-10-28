@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: OPEN HOUSE 2024
           description: ""
-          url: OPEN-HOUSE-2024
+          url: /OPEN-HOUSE-2024/
         - title: Announcements
           description: ""
           url: /Announcements/
