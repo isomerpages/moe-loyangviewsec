@@ -68,100 +68,49 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>2024 Booklists</h3>
-<p><strong>Secondary One 2024</strong>
+<h3>2025 Booklists</h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Secondary One*</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>* Secondary One 2025 booklist will be uploaded in December.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Secondary Two</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_2_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 2 G3/G2/G1</a>
 </p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>SEC 1 2024</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SEC 2 2024</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SEC 3 2024</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SEC 4 2024</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SEC 5 2024</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP MATTERS/2024 Sec 1/1G3_141223_LYSS___Sec_1_G3G2G1__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">1G3</a>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Secondary Three</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_3E_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 Express</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%202e).pdf" rel="noopener noreferrer nofollow" target="_blank">2EXP</a>
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_3NA_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 Normal Academic</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%203e).pdf" rel="noopener noreferrer nofollow" target="_blank">3EXP</a>
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_3NT_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 Normal Technical</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%204e).pdf" rel="noopener noreferrer nofollow" target="_blank">4EXP</a>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Secondary Four</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_4E_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Express</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)-2024%20booklist%202024-5na.pdf" rel="noopener noreferrer nofollow" target="_blank">5NA</a>
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_4NA_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Academic</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP MATTERS/2024 Sec 1/G2_41223_LYSS___Sec_1_G3G2G1__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">1G2</a>
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_4NT_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Technical</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%202na).pdf" rel="noopener noreferrer nofollow" target="_blank">2NA</a>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Secondary Five</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_5NA_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal Academic</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%203na).pdf" rel="noopener noreferrer nofollow" target="_blank">3NA</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%204na).pdf" rel="noopener noreferrer nofollow" target="_blank">4NA</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP MATTERS/2024 Sec 1/G1_41223_LYSS___Sec_1_G3G2G1__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">1G1</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%202nt).pdf" rel="noopener noreferrer nofollow" target="_blank">2NT</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%203%20nt).pdf" rel="noopener noreferrer nofollow" target="_blank">3NT</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%204nt).pdf" rel="noopener noreferrer nofollow" target="_blank">4NT</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3></h3>
+</div>
+</details>
+</div>
 <p></p>
