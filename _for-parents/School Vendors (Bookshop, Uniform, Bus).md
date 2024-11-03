@@ -97,15 +97,19 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Secondary Four</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Sec 4 Express</p>
-<p>Sec 4 Normal Academic</p>
-<p>Sec 4 Normal Technical</p>
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_4E_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Express</a>
+</p>
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_4NA_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Academic</a>
+</p>
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_4NT_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Technical</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Secondary Five</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Sec 5 Normal Academic</p>
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_5NA_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal Academic</a>
+</p>
 </div>
 </details>
 </div>
