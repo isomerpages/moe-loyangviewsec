@@ -71,31 +71,31 @@ variant: tiptap
 <h3>2025 Booklists</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>Secondary One*</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>* Secondary One 2025 booklist will be uploaded in December.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Secondary Two</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Secondary Three</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Secondary Four</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Secondary Five</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
