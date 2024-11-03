@@ -68,9 +68,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>2024 Booklists</h3>
-<p><strong>Secondary One 2024</strong>
-</p>
+<h3>2025 Booklists</h3>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -82,24 +80,24 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>SEC 1 2024</p>
+<p>SEC 1 2025</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>SEC 2 2024</p>
+<p>SEC 2 2025</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>SEC 3 2024</p>
+<p>SEC 3 2025</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>SEC 4 2024</p>
+<p>SEC 4 2025</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>SEC 5 2024</p>
+<p>SEC 5 2025</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP MATTERS/2024 Sec 1/1G3_141223_LYSS___Sec_1_G3G2G1__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">1G3</a>
+<p><a href="/files/BOOKSHOP MATTERS/2024 Sec 1/1G3_141223_LYSS___Sec_1_G3G2G1__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">1G3*</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP MATTERS/2024 Sec 1/G2_41223_LYSS___Sec_1_G3G2G1__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">1G2</a>
+<p><a href="/files/BOOKSHOP MATTERS/2024 Sec 1/G2_41223_LYSS___Sec_1_G3G2G1__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">1G2*</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,7 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP MATTERS/2024 Sec 1/G1_41223_LYSS___Sec_1_G3G2G1__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">1G1</a>
+<p><a href="/files/BOOKSHOP MATTERS/2024 Sec 1/G1_41223_LYSS___Sec_1_G3G2G1__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">1G1*</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,5 +161,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3></h3>
+<p>* Secondary One 2025 booklist will be uploaded in December.</p>
 <p></p>
