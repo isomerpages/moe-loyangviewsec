@@ -69,97 +69,36 @@ variant: tiptap
 </tbody>
 </table>
 <h3>2025 Booklists</h3>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>SEC 1 2025</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SEC 2 2025</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SEC 3 2025</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SEC 4 2025</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>SEC 5 2025</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP MATTERS/2024 Sec 1/1G3_141223_LYSS___Sec_1_G3G2G1__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">1G3*</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%202e).pdf" rel="noopener noreferrer nofollow" target="_blank">2EXP</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%203e).pdf" rel="noopener noreferrer nofollow" target="_blank">3EXP</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%204e).pdf" rel="noopener noreferrer nofollow" target="_blank">4EXP</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)-2024%20booklist%202024-5na.pdf" rel="noopener noreferrer nofollow" target="_blank">5NA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP MATTERS/2024 Sec 1/G2_41223_LYSS___Sec_1_G3G2G1__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">1G2*</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%202na).pdf" rel="noopener noreferrer nofollow" target="_blank">2NA</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%203na).pdf" rel="noopener noreferrer nofollow" target="_blank">3NA</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%204na).pdf" rel="noopener noreferrer nofollow" target="_blank">4NA</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP MATTERS/2024 Sec 1/G1_41223_LYSS___Sec_1_G3G2G1__Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">1G1*</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%202nt).pdf" rel="noopener noreferrer nofollow" target="_blank">2NT</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%203%20nt).pdf" rel="noopener noreferrer nofollow" target="_blank">3NT</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/BOOKSHOP%20MATTERS/loyang%20view%20sec%20sch%20(lvss)%20-%202024%20booklist%202024%20(sec%204nt).pdf" rel="noopener noreferrer nofollow" target="_blank">4NT</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>* Secondary One 2025 booklist will be uploaded in December.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
