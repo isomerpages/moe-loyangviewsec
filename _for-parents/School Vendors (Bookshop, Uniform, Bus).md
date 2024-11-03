@@ -79,7 +79,8 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Secondary Two</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_2_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 2 G3/G2/G1</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
