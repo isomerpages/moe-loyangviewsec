@@ -86,19 +86,26 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Secondary Three</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_3E_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 Express</a>
+</p>
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_3NA_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 Normal Academic</a>
+</p>
+<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_3NT_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 Normal Technical</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Secondary Four</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Sec 4 Express</p>
+<p>Sec 4 Normal Academic</p>
+<p>Sec 4 Normal Technical</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Secondary Five</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Sec 5 Normal Academic</p>
 </div>
 </details>
 </div>
