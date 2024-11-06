@@ -1,7 +1,8 @@
 ---
 title: Food & Nutrition
-permalink: /department/Craft-and-Technology/Food-and-Nutrition/
+permalink: /123/
 description: ""
+variant: tiptap
 ---
 ![](/images/Banner.jpg)
 

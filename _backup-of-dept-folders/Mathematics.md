@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /department/Mathematics/
+permalink: /123/
 description: ""
 variant: tiptap
 ---

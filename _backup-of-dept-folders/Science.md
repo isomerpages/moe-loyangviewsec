@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /department/Science/Science/
+permalink: /123/
 description: ""
 variant: markdown
 ---

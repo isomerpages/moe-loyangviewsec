@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue
-permalink: /department/Mother-Tongue/
+permalink: /123/
 description: ""
 variant: tiptap
 ---

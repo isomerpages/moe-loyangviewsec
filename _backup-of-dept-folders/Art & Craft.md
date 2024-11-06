@@ -1,6 +1,6 @@
 ---
-title: Art
-permalink: /department/Craft-and-Technology/Art/
+title: Art & Craft
+permalink: /123/
 description: ""
 variant: markdown
 ---

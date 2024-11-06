@@ -1,7 +1,8 @@
 ---
 title: Humanities
-permalink: /department/Humanities/
+permalink: /123/
 description: ""
+variant: tiptap
 ---
 ![](/images/Banner.jpg)
 

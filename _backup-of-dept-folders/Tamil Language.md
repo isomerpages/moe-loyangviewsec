@@ -1,7 +1,8 @@
 ---
 title: Tamil Language
-permalink: /department/Mother-Tongue/Tamil-Language/
+permalink: /123/
 description: ""
+variant: tiptap
 ---
 ![](/images/Banner.jpg)
 

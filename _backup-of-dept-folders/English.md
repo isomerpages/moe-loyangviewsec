@@ -1,7 +1,8 @@
 ---
 title: English
-permalink: /department/English/
+permalink: /123/
 description: ""
+variant: tiptap
 ---
 ![](/images/Banner.jpg)
 

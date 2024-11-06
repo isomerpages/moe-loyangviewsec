@@ -1,7 +1,8 @@
 ---
 title: Craft & Technology
-permalink: /department/Craft-and-Technology/Craft-and-Technology/
+permalink: /123/
 description: ""
+variant: tiptap
 ---
 ![](/images/Banner.jpg)
 

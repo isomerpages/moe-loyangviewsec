@@ -1,7 +1,8 @@
 ---
 title: Malay Language
-permalink: /department/Mother-Tongue/Malay-Language/
+permalink: /123/
 description: ""
+variant: tiptap
 ---
 ![](/images/Banner.jpg)
 
