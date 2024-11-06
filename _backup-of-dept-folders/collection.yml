@@ -2,6 +2,7 @@ collections:
   backup-of-dept-folders:
     output: true
     order:
+      - Science.md
       - PE & CCA Department.md
       - Design & Technology.md
       - Food & Nutrition.md
@@ -9,7 +10,6 @@ collections:
       - Art & Craft.md
       - Craft & Technology.md
       - Humanities.md
-      - Science.md
       - Mathematics.md
       - Tamil Language.md
       - Malay Language.md
