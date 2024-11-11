@@ -2,6 +2,7 @@
 title: Applied Learning Programme (ALP)
 permalink: /programmes/Applied-Learning-Programme-ALP/
 description: ""
+variant: markdown
 ---
 ![](/images/Banner.jpg)
 
@@ -10,16 +11,18 @@ Applied Learning Programme (ALP)
 
   
 
-### APPLIED LEARNING PROGRAMME (ALP) - SUSTAINABILITY
+# Programme Philosophy
+
+Our Applied Learning Programme (ALP) helps students develop STEM skills through design-based science activities. Focused on sustainability and aligned with the United Nation's Affordable and Clean Energy goal, students use the Design Thinking framework to solve problems and collaborate with stakeholders to create sustainable solutions.
 
 
-Our Applied Learning Programme (ALP) provides our students with the opportunity to delve into STEM (Science, Technology, Engineering and Mathematics) fields while applying design-thinking skills to solve real-world issues. Through the engaging activities, we seek to cultivate a scientific mindset in our students.   
+# Signature Programmes
 
-Sustainability is the key theme of our programme. Our students, as future-ready and active citizens, partake in discussions and experiences with peers, teachers and industry partners as they strive to keep Singapore sustainable for our future, in line with one of the United Nations’ Sustainable Development Goals – Affordable and Clean Energy. 
 
-Sustainability is the key theme of our programme, as we seek to instill mindset of keeping Singapore sustainable for our future generations. The activities designed aim to be in line with one of United Nation’s Sustainable Development Goals – **Affordable and Clean Energy**.
-
-![](/images/ALP/ALP.png)
+Sec 1 Design &amp; Engineering
+Students learn about science &amp; engineering concepts by conducting hands-on experiments to design and fabricate solar cars for children.
+The cars are built using recycled materials to promote less waste and sustainability of resources.
+The students then participate in a race to determine the fastest solar car.
 
 Students make use of the Design Thinking framework and learn to solve problems using scientific knowledge. They collaborate and communicate with different stakeholders such as school, family and community as well as engineer solutions that add value and seek to solve problems in these areas.
 
@@ -29,7 +32,7 @@ All these are accomplished through design-based science activities that the ALP 
 
 #### _Junior Solar Sprint – Secondary One Students_
 
-In Secondary One, students design and fabricate toy solar cars that are suitable for children 7-10 years of age.  Students are taken through a series of hands-on experiments to learn science and engineering concepts which they apply in the design and fabrication of their solar car.
+In Secondary One, students design and fabricate toy solar cars that are suitable for children 7-10 years of age.&nbsp;&nbsp;Students are taken through a series of hands-on experiments to learn science and engineering concepts which they apply in the design and fabrication of their solar car.
 
 
 |                    **Concept**                    |                                  **Activities**                                  |
@@ -71,19 +74,19 @@ In Secondary One, students design and fabricate toy solar cars that are suitable
 
 
 
-<figure><img src="/images/ALP/ALP9.png" style="width:100%"><figcaption> Prototyping & Fabrication of Solar Cars: Creation of solar cars with the use of recyclable materials</figcaption></figure>
+<figure><img src="/images/ALP/ALP9.png" style="width:100%"><figcaption> Prototyping &amp; Fabrication of Solar Cars: Creation of solar cars with the use of recyclable materials</figcaption></figure>
 
 
 
-<figure><img src="/images/ALP/ALP10.jpeg" style="width:100%"><figcaption> Prototyping & Fabication of Solar Cars: Group photo before the final race day</figcaption></figure>
+<figure><img src="/images/ALP/ALP10.jpeg" style="width:100%"><figcaption> Prototyping &amp; Fabication of Solar Cars: Group photo before the final race day</figcaption></figure>
 
 
 
-<figure><img src="/images/ALP/ALP11.jpeg" style="width:100%"><figcaption> Prototyping & Fabrication of Solar Cars: Final race day of student-designed solar car prototypes</figcaption></figure>
+<figure><img src="/images/ALP/ALP11.jpeg" style="width:100%"><figcaption> Prototyping &amp; Fabrication of Solar Cars: Final race day of student-designed solar car prototypes</figcaption></figure>
 
 
 
-<figure><img src="/images/ALP/ALP12.png" style="width:100%"><figcaption> Prototyping & Fabrication of Solar Cars: Student Prototypes</figcaption></figure>
+<figure><img src="/images/ALP/ALP12.png" style="width:100%"><figcaption> Prototyping &amp; Fabrication of Solar Cars: Student Prototypes</figcaption></figure>
 
 
 In order for students to understand the relevance and make meaning of their learning, learning journeys are also incorporated within the curriculum to enable students to witness the applications and potential of STEM concepts.
@@ -92,7 +95,7 @@ In order for students to understand the relevance and make meaning of their lear
 
 ### _Clean Energy Innovation – Secondary Two Students_
 
-In Secondary Two, students are exposed to various clean energy sources through a series of hands-on activities and experiments.  Thereafter, they apply the science and engineering concepts learnt in their innovation of a toy/gadget that runs on clean energy.
+In Secondary Two, students are exposed to various clean energy sources through a series of hands-on activities and experiments.&nbsp;&nbsp;Thereafter, they apply the science and engineering concepts learnt in their innovation of a toy/gadget that runs on clean energy.
 
 
 |           **Concept**          |                                                              **Activities**                                                             |
@@ -133,19 +136,19 @@ In 2018, the Secondary 2 students also had the opportunity to undergo a 2-day wo
 
 #### _**Applied Sciences and Engineering – Secondary Three Students**_
 
-In Secondary Three, students are given the opportunity to deepen their science knowledge in specialised areas of interest and apply their knowledge in real-life applications based on end-user needs. 
+In Secondary Three, students are given the opportunity to deepen their science knowledge in specialised areas of interest and apply their knowledge in real-life applications based on end-user needs.&nbsp;
 
-The programme aims to promote joy of learning and broaden students' interest various in STEM-related industries. In addition to learning new skills in Science and Technology, students are encouraged to think creatively and inventively as they build their prototypes for the showcase. They also got the opportunity to go on a learning journey to A\*Star and Seletar Airbase to see how scientists and aviation engineers work. 
+The programme aims to promote joy of learning and broaden students' interest various in STEM-related industries. In addition to learning new skills in Science and Technology, students are encouraged to think creatively and inventively as they build their prototypes for the showcase. They also got the opportunity to go on a learning journey to A\*Star and Seletar Airbase to see how scientists and aviation engineers work.&nbsp;
 
 Programmes offered each year are as listed below:
 
-**2021** – 3D Printing, Drones and Life Sciences
+**2021**&nbsp;– 3D Printing, Drones and Life Sciences
 
-**2019** – Biotechnolgy and Aeronautical Engineering
+**2019**&nbsp;– Biotechnolgy and Aeronautical Engineering
 
-**2018** – Robotics, Sustainable Infrastructure and 3D Printing
+**2018**&nbsp;– Robotics, Sustainable Infrastructure and 3D Printing
 
-**2017** – Robotics & Mechatronics, Biotechnology and Applied Food Sciences
+**2017**&nbsp;– Robotics &amp; Mechatronics, Biotechnology and Applied Food Sciences
 
 #### **2021 – Drones, Cosmetics and 3D Printing**
 
@@ -183,7 +186,7 @@ In the 3D Printing module, students are equipped with the fundamental understand
 
 **Tier 2: Opportunities for Students with Higher Interest and Ability in STEM Fields**
 
-Students with higher interest and ability in STEM fields are given opportunities to further develop their passion and potential in STEM and Design Thinking.  These include opportunities to attend STEM symposiums, showcase projects at national platforms, take part in national competitions as well as embark on overseas learning experiences.
+Students with higher interest and ability in STEM fields are given opportunities to further develop their passion and potential in STEM and Design Thinking.&nbsp;&nbsp;These include opportunities to attend STEM symposiums, showcase projects at national platforms, take part in national competitions as well as embark on overseas learning experiences.
 
 ![](/images/ALP/ALP33.png)
 
@@ -201,7 +204,7 @@ Every year, Nanyang Polytechnic School of Engineering invites students to partic
 
 #### STEM Festival at Victoria Junior College (VJC)
 
-East Zone Science & Technology Centre @ VJC organises the annual STEM  Festival @ VJC to encourage students from schools to be actively engaged in the learning and applications of Science, Technology, Engineering and Math (STEM) through a series of activities and events.  
+East Zone Science &amp; Technology Centre @ VJC organises the annual STEM &nbsp;Festival @ VJC to encourage students from schools to be actively engaged in the learning and applications of Science, Technology, Engineering and Math (STEM) through a series of activities and events.  
   
 Our students participated in the virtual Amazing Race Competition in 2021 and emerged First Runner Up in the competition. During the competition, students had to apply their Biology, Chemistry and Physics knowledge and analytical skills to solve problems in a race against time.
 
@@ -216,7 +219,7 @@ Our students also participated in the marine aquascaping competition during the 
 
   
 
-NXplorers 2020 is a competition championed by Science Centre Singapore and Shell Singapore for young people to develop sustainable solutions to food, water and energy challenges.  
+NXplorers 2020 is a competition championed by Science Centre Singapore and Shell Singapore for young people to develop sustainable solutions to food, water and energy challenges.&nbsp;&nbsp;
 
 Our students decided to tackle the food waste problem that is happening in Singapore.
 
@@ -225,13 +228,13 @@ Our students decided to tackle the food waste problem that is happening in Singa
 ![](/images/ALP/ALP42.png)
 ![](/images/ALP/ALP43.png)
 
-#### _Schools Challenge 2019_ 
+#### _Schools Challenge 2019_&nbsp;
 
-Under the Applied Learning Programme (ALP), several of our students were selected to represent LVSS in the Schools Challenge 2019. Schools Challenge is co-organised by Junior Achievement Singapore (JA Singapore) and JP Morgan, supported by Tampines GRC and Housing & Development Board.
+Under the Applied Learning Programme (ALP), several of our students were selected to represent LVSS in the Schools Challenge 2019. Schools Challenge is co-organised by Junior Achievement Singapore (JA Singapore) and JP Morgan, supported by Tampines GRC and Housing &amp; Development Board.
 
 ![](/images/ALP/ALP44.png)
 
-Schools Challenge - Live Smart @ The East is a STEM-focused social innovation programme for lower secondary students. The programme aims to broaden students' interest and learning of various STEM disciplines, encouraging them to co-create innovative and practical solutions that improve the living environment for residents in the east and help to transform the east into a pioneer Smart City in Singapore. Throughout the programme, each student team was mentored by business volunteers from JP Morgan and supported by SUTD student leaders.
+Schools Challenge - Live Smart @ The East is a STEM-focused social innovation programme for lower secondary students. The programme aims to broaden students' interest and&nbsp;learning of various STEM disciplines, encouraging them to co-create innovative and practical solutions that improve the living environment for residents in the east and help to transform the east into a pioneer Smart City in Singapore. Throughout the programme, each student team was mentored by business volunteers from JP Morgan and supported by SUTD student leaders.
 
 ![](/images/ALP/ALP45.png)
 ![](/images/ALP/ALP46.png)
@@ -246,9 +249,9 @@ With the aim of increasing global awareness and encouraging entrepreneurial spir
 
 Key highlights of the overseas learning experience include site-visits to real-world applications of STEM, immersion programmes at overseas colleges and exploration of learning institutes.
 
-Destinations under the Overseas Learning Experience of the Applied Learning Programme have included Cairns & Townsville, Australia (2019), Townsville & Brisbane, Australia (2018) and Kuala Selangor (2019 & 2018).
+Destinations under the Overseas Learning Experience of the Applied Learning Programme have included Cairns &amp; Townsville, Australia (2019), Townsville &amp; Brisbane, Australia (2018) and Kuala Selangor (2019 &amp; 2018).
 
-#### Cairns & Townsville, Australia (2019)
+#### Cairns &amp; Townsville, Australia (2019)
 
 ![](/images/OEP/Australia/Aus1.png)
 ![](/images/OEP/Australia/Aus2.png)
@@ -257,7 +260,7 @@ Destinations under the Overseas Learning Experience of the Applied Learning Prog
 ![](/images/OEP/Australia/Aus5.png)
 ![](/images/OEP/Australia/Aus6.png)
 
-#### Townsville & Brisbane, Australia (2018)
+#### Townsville &amp; Brisbane, Australia (2018)
 
 ![](/images/OEP/Australia/Aus7.png)
 ![](/images/OEP/Australia/Aus8.png)
@@ -266,7 +269,7 @@ Destinations under the Overseas Learning Experience of the Applied Learning Prog
 ![](/images/OEP/Australia/Aus11.png)
 ![](/images/OEP/Australia/Aus12.png)
 
-#### Kuala Selangor, Malaysia (2018 & 2019)
+#### Kuala Selangor, Malaysia (2018 &amp; 2019)
 
 ![](/images/Msia1.png)
 ![](/images/Msia2.png)
