@@ -49,6 +49,9 @@ can solve global challenges, focusing on air pollution.</p>
 <p>Students also interact with engineers from Dyson, learning about the life
 of an engineer and processes involved in prototyping solutions.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Sec3JamesDysonFoundationProgramme.jpg">
+</div>
 <p><u>STEM Playground</u>
 <br>STEM Playground is a competition organised by MOE’s Curriculum Planning
 and Development Division, Singapore Science Centre and James Dyson Foundation
