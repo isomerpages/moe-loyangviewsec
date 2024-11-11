@@ -59,6 +59,9 @@ to encourage students’ interest, curiosity and creativity in STEM activities.<
 <p>At LVSS, all Sec 1 and 2 students have the opportunity to participate
 in this competition.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/STEMPlayground.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
