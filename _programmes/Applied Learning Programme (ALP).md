@@ -34,6 +34,9 @@ to design and fabricate a gadget to solve real world issues on sustainability.</
 <p>Their gadgets are built using recycled materials and are powered by clean
 energy.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Sec2DesignEngineering.jpg">
+</div>
 <p><u>Sec 3 Applied Science Enrichment</u>
 <br>Students explore and deepen their interest in various STEM-related fields
 of their choice.</p>
