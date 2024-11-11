@@ -23,7 +23,9 @@ sustainability of resources.
 <br>The students then participate in a race to determine the fastest solar
 car.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Sec1DesignEngineering.jpg">
+</div>
 <p></p>
 <p><u>Sec 2 Design &amp; Engineering</u>
 <br>Students learn about different types of clean energy sources through a
