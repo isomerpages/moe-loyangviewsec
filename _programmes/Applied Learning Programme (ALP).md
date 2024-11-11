@@ -15,7 +15,7 @@ aligned with the United Nation's Affordable and Clean Energy goal, students
 use the Design Thinking framework to solve problems and collaborate with
 stakeholders to create sustainable solutions.</p>
 <h1>Signature Programmes</h1>
-<h4><u>Sec 1 Design &amp; Engineering </u></h4>
+<h4><u>Sec 1 Design &amp; Engineering</u></h4>
 <p>Students learn about science &amp; engineering concepts by conducting
 hands-on experiments to design and fabricate solar cars for children.
 <br>
@@ -45,12 +45,14 @@ to think creatively and critically as they showcase their learning that
 aims to solve real-world issues.</p>
 <p>Students also go on learning journeys where they get to interact with
 industrial experts and see how they work.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Sec3AppliedScienceEnrichment.jpg">
+</div>
 <h4><u>Sec 3 James Dyson Foundation Programme</u></h4>
 <p>In collaboration with James Dyson Foundation, students explore how engineers
 can solve global challenges, focusing on air pollution.</p>
 <p>Students also interact with engineers from Dyson, learning about the life
 of an engineer and processes involved in prototyping solutions.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/Sec3JamesDysonFoundationProgramme.jpg">
 </div>
@@ -60,7 +62,6 @@ and Development Division, Singapore Science Centre and James Dyson Foundation
 to encourage students’ interest, curiosity and creativity in STEM activities.</p>
 <p>At LVSS, all Sec 1 and 2 students have the opportunity to participate
 in this competition.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP/STEMPlayground.jpg">
 </div>
