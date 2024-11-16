@@ -5,7 +5,6 @@ description: ""
 third_nav_title: CCE
 variant: markdown
 ---
-![](/images/Banner.jpg)
 
 CHARACTER & CITIZENSHIP EDUCATION
 ===
