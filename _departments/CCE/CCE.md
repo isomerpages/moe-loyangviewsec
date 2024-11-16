@@ -5,45 +5,40 @@ description: ""
 third_nav_title: CCE
 variant: markdown
 ---
-
 CHARACTER & CITIZENSHIP EDUCATION
 ===
-
-
 
 ## Overview  
 ##### CCE is key to our vision of developing our students as future-ready leaders and active citizens, to lead purposeful lives with robust character so they contribute actively to the community, persevere through challenges, exemplify the school values of Integrity, Respect, Resilience, Responsibility & Compassion. and inspire others.
 
 ##### With reference to MOE CCE 2021 framework and undergirded by ‘Relevant, Appealing, Personal' as a pedagogical guideline, our CCE lessons are designed based on the Clarify–Sensitise–Influence (CSI) frame for asking questions that help students develop their self-awareness, reflection, and empathy. The teacher intentionally guides the thought process of students to provide a platform for them to practise and to internalise sound values in self-management and decision making. Through this process, students are guided to take greater ownership of their decisions and opinions.
 
-![](/images/CCE_areas.png)
-
-CCE programmes and activities are designed to achieve objectives in these 4 areas:   
-
-*   To develop qualities and values that define a civilised society
-*   To develop competencies and values for survival in the 21st century workforce
-*   To promote unity, social cohesion and student engagement in the community
-*   To promote nationhood and a shared identity
+##### CCE is delivered through formal curriculum time, infused in academic and non-academic areas, engaging student development experiences, use of specially designed lesson packages and celebration of the core NE events.
 
   
-CCE is delivered through lessons during curriculum time, infused in academic and non-academic areas, engaging students in CCA programmes and other enrichment activities, use of specially designed lesson packages and celebration of the core NE events (Total Defence Day, International Friendship Day, Racial Harmony Day, Kindness Day and National Day).
 
-##### Signature Programmes 
+### Signature 1: NewsEd
 
-**Invigorating Morning Assembly**
+##### This is a unique LVSS programme to increase our students’ awareness of contemporary issues covering a wide range of themes, and their impact at the personal, national and global level through weekly sharing and engagement with students during morning assembly periods,
 
-Exciting, Engaging and Enriching programmes are planned every morning between 7.20am -7.50am so students can look forward to something interesting to pique their curiosity everyday,
+##### Through this platform, our students are provided with opportunities to participate actively as well as share their views and experiences on issues that are relevant to their development and life experiences.
 
-**Farmers’ Market**
+![](/images/CCE/NewsEd_.jpg)**\[NewsEd\]**  
+  
+### **Signature 2: Caught-In-The Act**
 
-Our Lower Sec students adopt plots of land within the school compound and regularly tend to the vegetation and plants grown in the allocated areas. These fresh veggies and produce are later packaged, turned into delectable goodies and sold by the students. This imbues public-spiritedness and immerses them in innovative ventures as they tap on their entrepreneurship skills to market their products.
-
-**FutureForward Skills Workshop**
-
-The FutureForward Skills Workshop is organised for graduating classes. The intent is to enrich minds, instil confidence and increase the motivation level of students through transforming mindsets and attitudes to pursue meaningful success. It also aims to equip students with practical skill sets for the future work place – how to ace the interview and make informed decisions for career planning
-so they become socially confident and pursue success with passion for learning.
+#### Our school is committed to fostering an environment where students are encouraged to develop the moral courage needed to make values-based decisions, no matter the circumstances they face. This commitment extends to recognising and affirming students who embody the school's core values and demonstrate exemplary character through termly nominations by staff and peers. By doing so, we aim to promote a culture of integrity and respect, highlighting and celebrating positive behaviour as a model for others to follow.
 
 
-![](/images/CCE01.png)
+![](/images/CCE/CITA.jpg)\[CITA\]
 
-![](/images/CCE02.png)
+
+  
+### Signature 3: Champion Class Awards
+
+
+##### The inter-class champion awards are designed to foster a positive class culture and provide students with opportunities to feel a strong sense of belonging within the school community. These awards encourage healthy competition and collaboration among different classes, creating an environment where students can celebrate their achievements together. By participating in various challenges and activities, students not only strive for excellence but also develop bonds of camaraderie and mutual respect. This initiative helps to instill pride in their class identity while reinforcing values such as teamwork, perseverance, and school spirit, ultimately nurturing an inclusive, vibrant and supportive atmosphere throughout the school.  
+  
+
+
+\[Pic on Champion Class\]
