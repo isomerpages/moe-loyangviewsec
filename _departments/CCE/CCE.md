@@ -3,18 +3,19 @@ title: CCE
 permalink: /department/CCE/CCE/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-
 ![](/images/Banner.jpg)
 
-CCE
+CHARACTER & CITIZENSHIP EDUCATION
 ===
 
-![](/images/CCE%201.png)
 
-**CCE in Loyang View**
 
-Our vision for CCE is to nurture confident and self-directed citizens with robust character who contribute to the betterment of community and the world. Through providing quality character and citizenship education, we aim to achieve our desired outcomes of developing our students to be wholesome individuals with **Integrity, Respect, Resilience & Compassion**. As **wholesome individuals**, Loyang View students will also be able to **embrace diversity**, have an **innovative spirit**, demonstrate **public-spiritedness**, have **passion for learning** and be **socially confident.**
+## Overview  
+##### CCE is key to our vision of developing our students as future-ready leaders and active citizens, to lead purposeful lives with robust character so they contribute actively to the community, persevere through challenges, exemplify the school values of Integrity, Respect, Resilience, Responsibility & Compassion. and inspire others.
+
+##### With reference to MOE CCE 2021 framework and undergirded by ‘Relevant, Appealing, Personal' as a pedagogical guideline, our CCE lessons are designed based on the Clarify–Sensitise–Influence (CSI) frame for asking questions that help students develop their self-awareness, reflection, and empathy. The teacher intentionally guides the thought process of students to provide a platform for them to practise and to internalise sound values in self-management and decision making. Through this process, students are guided to take greater ownership of their decisions and opinions.
 
 ![](/images/CCE_areas.png)
 
