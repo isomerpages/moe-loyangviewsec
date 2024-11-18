@@ -60,12 +60,14 @@ sections:
       description: Urban Farming
       image: /images/Site Design/resize_GROW_YOUR_CHARACTER.jpg
       alt: Image alt text
-      url: /programmes/Urban-Farming/
+      url: /programmes/urban-farming/
+      button: Find out more
   - infopic:
       title: SHAPE YOUR FUTURE
       id: infopic
-      description: Stretch Programme
+      description: Futurist Programme
       image: /images/Site Design/resize_SHAPE_THE_FUTURE.jpg
       alt: Image alt text
-      url: /programmes/Stretch-Programme/
+      url: /programmes/futurist-programme/
+      button: Find out more
 ---

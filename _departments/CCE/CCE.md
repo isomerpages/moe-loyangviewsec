@@ -3,47 +3,64 @@ title: CCE
 permalink: /department/CCE/CCE/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
-
-![](/images/Banner.jpg)
-
-CCE
-===
-
-![](/images/CCE%201.png)
-
-**CCE in Loyang View**
-
-Our vision for CCE is to nurture confident and self-directed citizens with robust character who contribute to the betterment of community and the world. Through providing quality character and citizenship education, we aim to achieve our desired outcomes of developing our students to be wholesome individuals with **Integrity, Respect, Resilience & Compassion**. As **wholesome individuals**, Loyang View students will also be able to **embrace diversity**, have an **innovative spirit**, demonstrate **public-spiritedness**, have **passion for learning** and be **socially confident.**
-
-![](/images/CCE_areas.png)
-
-CCE programmes and activities are designed to achieve objectives in these 4 areas:   
-
-*   To develop qualities and values that define a civilised society
-*   To develop competencies and values for survival in the 21st century workforce
-*   To promote unity, social cohesion and student engagement in the community
-*   To promote nationhood and a shared identity
-
-  
-CCE is delivered through lessons during curriculum time, infused in academic and non-academic areas, engaging students in CCA programmes and other enrichment activities, use of specially designed lesson packages and celebration of the core NE events (Total Defence Day, International Friendship Day, Racial Harmony Day, Kindness Day and National Day).
-
-##### Signature Programmes 
-
-**Invigorating Morning Assembly**
-
-Exciting, Engaging and Enriching programmes are planned every morning between 7.20am -7.50am so students can look forward to something interesting to pique their curiosity everyday,
-
-**Farmers’ Market**
-
-Our Lower Sec students adopt plots of land within the school compound and regularly tend to the vegetation and plants grown in the allocated areas. These fresh veggies and produce are later packaged, turned into delectable goodies and sold by the students. This imbues public-spiritedness and immerses them in innovative ventures as they tap on their entrepreneurship skills to market their products.
-
-**FutureForward Skills Workshop**
-
-The FutureForward Skills Workshop is organised for graduating classes. The intent is to enrich minds, instil confidence and increase the motivation level of students through transforming mindsets and attitudes to pursue meaningful success. It also aims to equip students with practical skill sets for the future work place – how to ace the interview and make informed decisions for career planning
-so they become socially confident and pursue success with passion for learning.
-
-
-![](/images/CCE01.png)
-
-![](/images/CCE02.png)
+<h1><strong>CHARACTER &amp; CITIZENSHIP EDUCATION</strong></h1>
+<h2><strong>Overview</strong></h2>
+<blockquote>
+<h5>CCE is key to our vision of developing our students as future-ready leaders and active citizens, to lead purposeful lives with robust character so they contribute actively to the community, persevere through challenges, exemplify the school values of Integrity, Respect, Resilience, Responsibility &amp; Compassion. and inspire others.</h5>
+<h5>With reference to MOE CCE 2021 framework and undergirded by ‘Relevant, Appealing, Personal' as a pedagogical guideline, our CCE lessons are designed based on the Clarify–Sensitise–Influence (CSI) frame for asking questions that help students develop their self-awareness, reflection, and empathy. The teacher intentionally guides the thought process of students to provide a platform for them to practise and to internalise sound values in self-management and decision making. Through this process, students are guided to take greater ownership of their decisions and opinions.</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_Frame.png">
+</div>
+<h5>CCE is delivered through formal curriculum time, infused in academic and non-academic areas, engaging student development experiences, use of specially designed lesson packages and celebration of the core NE events.</h5>
+<p>The learning of CCE is supported by caring and enabling environment, which
+included positive teacher-student relationship, promoting peer support
+relationship within class and school, student empowerment through students
+voices and choices.</p>
+<blockquote>
+<p></p>
+</blockquote>
+</blockquote>
+<h2><strong>Signature Programmes</strong></h2>
+<h3><strong>NewsEd</strong></h3>
+<p>This is a unique LVSS programme to increase our students’ awareness of
+contemporary issues covering a wide range of themes, and their impact at
+the personal, national and global level through weekly sharing and engagement
+with students during morning assembly periods,</p>
+<p>Through this platform, our students are provided with opportunities to
+participate actively as well as share their views and experiences on issues
+that are relevant to their development and life experiences.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NewsEd_.jpg">
+</div>
+<p><strong>[NewsEd]</strong>
+</p>
+<h3><strong>Caught-In-The Act</strong></h3>
+<p>Our school is committed to fostering an environment where students are
+encouraged to develop the moral courage needed to make values-based decisions,
+no matter the circumstances they face. This commitment extends to recognising
+and affirming students who embody the school's core values and demonstrate
+exemplary character through termly nominations by staff and peers. By doing
+so, we aim to promote a culture of integrity and respect, highlighting
+and celebrating positive behaviour as a model for others to follow.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CITA.jpg">
+</div>
+<p>[CITA]</p>
+<h3>Signature 3: Champion Class Awards</h3>
+<p>The inter-class champion awards are designed to foster a positive class
+culture and provide students with opportunities to feel a strong sense
+of belonging within the school community. These awards encourage healthy
+competition and collaboration among different classes, creating an environment
+where students can celebrate their achievements together. By participating
+in various challenges and activities, students not only strive for excellence
+but also develop bonds of camaraderie and mutual respect. This initiative
+helps to instill pride in their class identity while reinforcing values
+such as teamwork, perseverance, and school spirit, ultimately nurturing
+an inclusive, vibrant and supportive atmosphere throughout the school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Class_Champion.jpg">
+</div>
+<p>[Champion Class]</p>
