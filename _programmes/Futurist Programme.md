@@ -22,7 +22,6 @@ today</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Futurist Programme/FuturistProgramme1.jpg">
 </div>
 <p>Cinewav</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Futurist Programme/FuturistProgramme2.jpg">
 </div>
