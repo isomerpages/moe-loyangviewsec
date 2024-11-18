@@ -60,4 +60,7 @@ helps to instill pride in their class identity while reinforcing values
 such as teamwork, perseverance, and school spirit, ultimately nurturing
 an inclusive, vibrant and supportive atmosphere throughout the school.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Class_Champion.jpg">
+</div>
 <p>[Champion Class]</p>
