@@ -64,8 +64,8 @@ sections:
   - infopic:
       title: SHAPE YOUR FUTURE
       id: infopic
-      description: Stretch Programme
+      description: Futurist Programme
       image: /images/Site Design/resize_SHAPE_THE_FUTURE.jpg
       alt: Image alt text
-      url: /programmes/Stretch-Programme/
+      url: /programmes/Futurist-Programme/
 ---
