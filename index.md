@@ -67,5 +67,5 @@ sections:
       description: Futurist Programme
       image: /images/Site Design/resize_SHAPE_THE_FUTURE.jpg
       alt: Image alt text
-      url: /programmes/Futurist-Programme/
+      url: /programmes/futurist-programme/
 ---
