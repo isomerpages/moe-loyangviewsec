@@ -18,7 +18,6 @@ to making a positive impact on the world.</p>
 <p>Workshops, Learning Journeys and Interactions with thought leaders of
 today</p>
 <p>Google Singapore</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Futurist Programme/FuturistProgramme1.jpg">
 </div>
@@ -28,7 +27,6 @@ today</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Futurist Programme/FuturistProgramme2.jpg">
 </div>
 <p>SUTD</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Futurist Programme/FuturistProgramme3.jpg">
 </div>
