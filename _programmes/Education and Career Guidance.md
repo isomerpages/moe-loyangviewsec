@@ -4,69 +4,110 @@ permalink: /programmes/Education-and-Career-Guidance/
 description: ""
 variant: tiptap
 ---
+<h2><strong>Overview</strong></h2>
+<p>Education and Career Guidance in Loyang View is about equipping students
+with the necessary knowledge, skills, and values to make informed decisions
+at each key education stage for successful transition from school to further
+education or work.</p>
+<h2><strong>Signature Programmes</strong></h2>
+<h3>Exposure Programmes</h3>
+<p>Our Sec 1 students embark on a journey of self-discovery by using the
+information and tools on the SkillsFuture Portal and are made aware of
+various job skills and occupations through assembly programmes and CCE
+lessons. They identify their values, interests, personality and work values
+based on the RIASEC profiling tool and relate to suitable career options.
+<br>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCE/ECG_Exposure_Progs.jpg">
 </div>
-<h1>Education and Career Guidance</h1>
-<p>Education and Career Guidance (ECG) is about equipping students with the
-necessary knowledge, skills and values to make informed decisions at each
-key education stage for successful transition from school to further education
-or work. At secondary schools, the focus is on exploration; to help students
-understand themselves better in their skills, interests and abilities and
-guide their exploration of different education and career pathways. Through
-ECG, social emotional competencies and qualities of proactivity, adaptability
-and resilience are developed to prepare students for the 21st century.</p>
-<p><strong>INTRODUCTION</strong>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">F1 Engineering Assembly Talk</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCE/ECG_Exposure_Progs___F1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">F1 Engineering Exhibition</div>
+</div>
+</div>
+</div>
+<h3>ApLm@Schools Programme</h3>
+<p>Our Sec 2 students are provided with opportunities to explore their strengths
+and interests, enabling them to make more informed career choices by signing
+up for enrichment modules (e.g. Culinary, Digital Animation, F1 Engineering)
+that include learning journeys to related industries for hands-on experience.
+The students will present their learning and reflections as part of an
+integrated showcase at the end of the 3-day experience.
+<br>
+<br>
 </p>
-<p>Education and Career Guidance (ECG) is about equipping students with the
-necessary knowledge, skills and values to make informed decisions at each
-key education stage for successful transition from school to further education
-or work. The goals of ECG are to support students in:</p>
-<p><strong>Discovering Purpose – Who am I?</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG_ApLM___Schools.jpg">
+</div>
+<h3>ApLm@Poly &amp; ITE Programme</h3>
+<p>Sec 3 students are provided with the opportunity to experience hands-on
+and project-oriented learning in the tertiary institutions to develop critical
+reasoning skills and gain better understanding of the fundamentals of select
+modules that they may be interested in pursuing either at the Polytechnic
+or ITE.</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCE/ECG_ApLM___Poly_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Applied Learning Module @ Poly</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCE/ECG_ApLm___ITE.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Applied Learning Module @ ITE</div>
+</div>
+</div>
+</div>
+<h3>Future-Ready Programme</h3>
+<p>This programme&nbsp; provides our graduating students with valuable experiences
+and equips them with the relevant knowledge and skills in their exploration
+of educational pathways and future career options. As part of this programme,
+our school arranges visits to tertiary institutions and invites guest speakers
+from a range of industry sectors to speak with our students. In addition,
+every student will also have an opportunity to visit an organisation of
+their choice based on their preferred career sector.
+<br>
 </p>
-<p>Nurture students’ self-awareness to support them in discovering how they
-can meaningfully play a part in their community</p>
-<p><strong>Exploring Opportunities – Where do I want to go?</strong>
-</p>
-<p>Develop students’ self-directedness and confidence to explore and leverage
-education and career opportunities while respecting the value of all occupations</p>
-<p><strong>Staying Relevant – How do I get there?</strong>
-</p>
-<p>Build students’ adaptability and resilience to embrace the need for lifelong
-learning</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/FutureReady_1.jpg">
+</div>
+<p></p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/12ass4FSCcg"></iframe>
 </div>
-<p><strong>ECG COUNSELLING</strong>
-</p>
-<p>Our ECG Counsellor, Ms Cheryl Low, is in school on <strong>Mondays</strong> and <strong>Thursdays</strong>.</p>
-<p>She works together with students (individually or in small groups) to
-help them:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Discover their&nbsp;<strong>Interests, Strengths &amp; Aspirations</strong>
-</p>
-</li>
-<li>
-<p>Explore the various&nbsp;<strong>Education Pathways and Career Opportunities</strong>&nbsp;</p>
-</li>
-<li>
-<p>Make informed decisions relating to&nbsp;<strong>Subject Combinations</strong>&nbsp;and&nbsp;<strong>Post-secondary Pathways/Courses</strong>
-</p>
-</li>
-<li>
-<p>Prepare their write-ups, portfolios and interviews for <strong>Aptitude-based Admissions</strong>&nbsp;such
-as DSA to JC and EAE to Poly/ITE</p>
-</li>
-</ul>
-<p>To make an appointment with Ms Cheryl, please scan the QR code below,
-or click on <a href="https://go.gov.sg/ecg-lvss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-lvss</a>.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ECG/ECG_1.png">
-</div>
 <p><strong>USEFUL LINKS</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
