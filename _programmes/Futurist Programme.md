@@ -4,7 +4,7 @@ permalink: /programmes/futurist-programme/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Programme Philosophy</strong></h1>
+<h2><strong>Programme Philosophy</strong></h2>
 <p>The Futurist Programme is our flagship talent development programme, building
 on the foundation of our current Stretch Programme, with the aim of nurturing
 tomorrow’s thought leaders. It offers a curriculum with challenging, engaging
@@ -14,3 +14,15 @@ and potential.</p>
 essential 21st century competencies, prioritising critical thinking skills,
 effective communications and innovation all anchored in a shared commitment
 to making a positive impact on the world.</p>
+<h2><strong>Signature Learning Experiences</strong></h2>
+<p>Workshops, Learning Journeys and Interactions with thought leaders of
+today</p>
+<p>Google Singapore</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
