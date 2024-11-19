@@ -308,7 +308,7 @@ view the video.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Kayaking</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -318,7 +318,7 @@ view the video.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">CCA Experience</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -328,7 +328,7 @@ view the video.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">CCA Experience</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -338,7 +338,7 @@ view the video.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">BB Bonding</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -348,7 +348,7 @@ view the video.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">BB RLTC</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -358,7 +358,7 @@ view the video.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">BB RLTC</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -368,7 +368,7 @@ view the video.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">BB Outing</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -378,7 +378,7 @@ view the video.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">BB Outing</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -388,7 +388,7 @@ view the video.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">BB Hiking</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -398,7 +398,7 @@ view the video.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">BB Hiking</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -408,7 +408,7 @@ view the video.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">BB Hiking</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -418,7 +418,7 @@ view the video.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">BB Outdoor Cooking</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -428,7 +428,7 @@ view the video.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">BB Day</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -438,7 +438,7 @@ view the video.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">BB Annual Camp</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>

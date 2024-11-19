@@ -17,15 +17,29 @@ takes a lot of discipline and dedication. Therefore, having the right motivation
 is our key ingredient to continuously keep improving our players’ basketball
 skills.</p>
 </blockquote>
-<p><em>“I can accept failure, everyone fails at something. But I can’t accept not trying.”</em>
-</p>
-<p>- Michael Jordan</p>
-<p>During our training, the basketball team focuses both on the athletic
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><em>“I can accept failure, everyone fails at something. But I can’t accept not trying.”   </em>-
+Michael Jordan</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>During our training, the basketball team focuses both on the athletic
 aspects of the sport as well as on character building, leadership and sportsmanship.
 Values such as resilience, integrity and respect are instilled in every
 player throughout all our activities. Besides training, our players also
 have their share of fun during annual camps and team building activities
-to foster team spirit and strong camaraderie in the team.</p>
+to foster team spirit and strong camaraderie in the team.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <h3><strong>Organisation Chart:</strong></h3>
 <h4><strong>Teachers-In-Charge</strong></h4>
@@ -48,7 +62,7 @@ to foster team spirit and strong camaraderie in the team.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/WhatsApp_Image_2024_08_19_at_4_22_33_PM___Jit_Hui_Clement_Lim.jpg">
 </div>
-<h4><strong>Training</strong></h4>
+<h4><strong>Our Team in Action</strong></h4>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -58,7 +72,7 @@ to foster team spirit and strong camaraderie in the team.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Presenting the NSG award to our Principal</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -68,7 +82,7 @@ to foster team spirit and strong camaraderie in the team.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Team Success Over Individual Glory</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -78,17 +92,17 @@ to foster team spirit and strong camaraderie in the team.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Always Ready</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="In Action" src="/images/CCA/Basketball/IMG_6902.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/IMG_6902.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">In Action</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -98,7 +112,7 @@ to foster team spirit and strong camaraderie in the team.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Celebrating Success in School</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -108,7 +122,7 @@ to foster team spirit and strong camaraderie in the team.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">The Team</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>

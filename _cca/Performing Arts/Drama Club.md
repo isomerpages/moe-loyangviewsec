@@ -5,13 +5,27 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h1>Drama Club</h1>
-<p><strong>Training Schedule</strong>
-</p>
+<h2><strong>Overview</strong></h2>
+<blockquote>
+<p>The Loyang View Drama Club is a vibrant performing arts group that aims
+to build social confidence in young people and further their appreciation
+for the theatre. Members get to work on various aspects of a theatrical
+performance –acting and presenting, props and costume design and making,
+sound and stage management.</p>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Members participate in the biannual Singapore Youth Festival Presentation
+(Drama) and other school and external performances.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<h4><strong>Training Schedule</strong></h4>
 <p>Thursdays : 2.30 to 5pm
 <br>Tuesdays : 3.30 to 5.30pm (Additional)</p>
-<p><strong>Teachers-in-charge</strong>
-</p>
+<h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Nelson Tum&nbsp; (OIC)&nbsp;</p>
@@ -23,18 +37,9 @@ variant: tiptap
 <p>Ms Suhailah</p>
 </li>
 </ul>
-<p><strong>Description</strong>
-</p>
-<p>The Loyang View Drama Club is a vibrant performing arts group that aims
-to build social confidence in young people and further their appreciation
-for the theatre. Members get to work on various aspects of a theatrical
-performance –acting and presenting, props and costume design and making,
-sound and stage management. Members participate in the biannual Singapore
-Youth Festival Presentation (Drama) and other school and external performances.</p>
-<p><strong>Notable Past Achievements</strong>
-</p>
-<p><strong>2024</strong>
-</p>
+<p></p>
+<h3><strong>Notable Past Achievements</strong></h3>
+<h4><strong>2024</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Kaleidoscope – Performing Arts Showcase</p>
@@ -46,8 +51,7 @@ Youth Festival Presentation (Drama) and other school and external performances.<
 <p>Teachers’ Day Concert</p>
 </li>
 </ul>
-<p><strong>2023</strong>
-</p>
+<h4><strong>2023</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF Presentation (Drama) - Certificate of Commendation</p>
@@ -62,8 +66,7 @@ Youth Festival Presentation (Drama) and other school and external performances.<
 <p>Performing Arts Showcase</p>
 </li>
 </ul>
-<p><strong>2021</strong>
-</p>
+<h4><strong>2021</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Awarded Certificate of Commendation at the Singapore Youth Festival Presentation

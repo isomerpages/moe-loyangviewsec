@@ -5,16 +5,37 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
-</div>
-<h1>Girl Guides</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG___Company.jpg">
 </div>
+<h2><strong>Overview</strong></h2>
+<blockquote>
+<p>Being a part of the Girl Guides provides an incredible opportunity for
+students to develop leadership skills, form lasting friendships, and contribute
+to the community through meaningful service projects. Girl Guides CCA encourages
+personal growth, teamwork, and the pursuit of new skills in a fun and supportive
+environment.</p>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Whether it's learning new outdoor skills, engaging in community service,
+or building self-confidence, Girl Guides offers a diverse range of activities
+that empower young girls to become responsible and compassionate citizens.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Join us in making a positive impact while growing as individuals and contributing
+to the betterment of society.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h2>Introduction to Girl Guides</h2>
+</div>
+</details>
+</div>
 <p></p>
 <h3><strong>Vision</strong></h3>
 <p>The VISION of the Girl Guides Singapore is to become the voice of girls
@@ -24,17 +45,8 @@ world.</p>
 <p>The MISSION of the Girl Guides Singapore is to develop girls and young
 women to develop their fullest potential as responsible citizens of the
 world.</p>
-<p>Being a part of the Girl Guides provides an incredible opportunity for
-students to develop leadership skills, form lasting friendships, and contribute
-to the community through meaningful service projects. Girl Guides CCA encourages
-personal growth, teamwork, and the pursuit of new skills in a fun and supportive
-environment.</p>
-<p>&nbsp;Whether it's learning new outdoor skills, engaging in community
-service, or building self-confidence, Girl Guides offers a diverse range
-of activities that empower young girls to become responsible and compassionate
-citizens. Join us in making a positive impact while growing as individuals
-and contributing to the betterment of society.</p>
-<h3>Teachers-in-charge</h3>
+<p></p>
+<h4><strong>Teachers-in-charge</strong></h4>
 <ul>
 <li>
 <p>Ms Amanda Chua (OIC)</p>
@@ -50,22 +62,22 @@ and contributing to the betterment of society.</p>
 <p></p>
 </li>
 </ul>
-<h3>Achievement</h3>
+<h3><strong>Achievement</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Puan&nbsp;Noor&nbsp;Aishah&nbsp;(PNA) Award Year of Assessment 2018 to
 2023 – Gold</p>
 </li>
 </ul>
-<h3>CCA schedule and activities</h3>
+<h3><strong>CCA schedule and activities</strong></h3>
 <p>Day: Every Thursdays
 <br>* Tuesday is also a CCA day if the need arises
 <br>* Some Saturdays (HQ events, camps, ad-hoc activities)</p>
 <p></p>
-<p>Time: 2:30 PM – 5:30 PM</p>
+<p>Time: 2:30 p.m – 5:30 p.m</p>
 <p>Location: Parade Square (Outdoors) or Art Room (Indoors)</p>
 <p></p>
-<h4><em>Activities we do:</em></h4>
+<h4><strong>Activities we do:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Girl Guides 5-point program</p>
@@ -108,7 +120,7 @@ and contributing to the betterment of society.</p>
 competitions</p>
 </li>
 </ul>
-<h4><em>Opportunities to grow:</em><br></h4>
+<h4><strong>Opportunities to grow:</strong><br></h4>
 <p>Leadership Development: Opportunities to plan events, lead teams, and
 take on various responsibilities.</p>
 <p>Badge Programs: Gain new skills and earn badges in areas like art, technology,

@@ -5,23 +5,21 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
-</div>
-<h1>National Police Cadet Corps</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC.jpeg">
-</div>
-<p><strong>Teachers-In-Charge</strong>
-</p>
+<h2><strong>Overview</strong></h2>
+<blockquote>
+<p>National Police Cadet Corps is the largest uniformed group for youths
+in Singapore. It is one of the National Uniformed Groups of Singapore alongside
+NCC and NCDCC.</p>
+</blockquote>
+<p></p>
+<h4><strong>Teachers-In-Charge</strong></h4>
 <p>OC Unit: Insp (NPCC) Chow Wei Yuan</p>
 <p>2IC: Insp (NPCC) Ahmad Ismail</p>
 <p>Insp (NPCC): Naeem Ahamed Ali Khan</p>
 <p>ASP (NPCC): Harry Wong (Advisor)</p>
 <p>Mr Norman Long Ser Wee</p>
 <p></p>
-<p><strong>Training Details</strong>
-</p>
+<h4><strong>Training Details</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -45,36 +43,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1530 – 1800</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NPCC Full Uniform</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1530 – 1800</p>
+<p>2.30 p.m – 6 p.m</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>NPCC Full Uniform</p>
+</li>
+<li>
 <p>PT Kit
 <br>(T-shirt with track pants)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>About NPCC</strong>
-</p>
-<p>National Police Cadet Corps is the largest uniformed group for youths
-in Singapore. It is one of the National Uniformed Groups of Singapore alongside
-NCC and NCDCC.</p>
-<p><strong>Mission and Vision</strong>
-</p>
+<p></p>
+<h4><strong>Mission and Vision</strong></h4>
 <p>The&nbsp;<strong>MISSION</strong>&nbsp;of the National Police Cadet Corps
 is to develop our members to be active citizens and community leaders,
 by working in partnership with Singapore Police Force to fight crime and
@@ -82,8 +71,7 @@ keep Singapore safe.</p>
 <p>The&nbsp;<strong>VISION</strong>&nbsp;of the National Police Cadet Corps
 is to become the best youth organisation in Singapore, one that actively
 helps to make Singapore the safest place in the world.</p>
-<p><strong>NPCC Pledge</strong>
-</p>
+<h4><strong>NPCC Pledge</strong></h4>
 <p>We, the members of the National Police Cadet Corps, do here and now solemnly
 and sincerely pledge that:</p>
 <p>We will always bear true faith and allegiance to the President and our
@@ -91,8 +79,7 @@ Republic of Singapore;</p>
 <p>We will always be loyal and true to our country, our people and the government;</p>
 <p>We will always be prepared to serve our country and the community;</p>
 <p>We will always preserve the peace and uphold the law.</p>
-<p><strong>NPCC Values – RISE &amp; PICARDS</strong>
-</p>
+<h4><strong>NPCC Values – RISE &amp; PICARDS</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -121,8 +108,7 @@ Republic of Singapore;</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Highlights</strong>
-</p>
+<h4><strong>Highlights</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Core Training: Drills, Campcraft, Physical
 Training, Leadership &amp; Mentoring&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Police Training: Police Knowledge, Unarmed
@@ -131,83 +117,139 @@ Tactics, Crime Scene Investigation, Police Establishment Visits</p>
 First Aid Course</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camps: Annual Camp, Sec 2 &amp; 3 Camp
 @ Pulau Ubin, Sec 2 Leadership Camp</p>
-<p><strong>Website</strong>
-</p>
-<p>NPCC HQ –&nbsp;<a href="https://www.npcc.org.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.npcc.gov.sg</a>
-</p>
-<p>Loyang NPCC –&nbsp;<a href="https://sites.google.com/moe.edu.sg/lvssnpcc/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/lvssnpcc/home</a>
-</p>
+<h4><strong>Social Media</strong></h4>
+<p>Instagram: @lvssnpcc</p>
+<h4><strong>Unit Overall Proficiency Award (UOPA):</strong></h4>
+<p>2023: DISTINCTION
+<br>2022: DISTINCTION
+<br>2021: GOLD
+<br>2020: GOLD
+<br>2019: GOLD
+<br>2018: GOLD
+<br>2017: GOLD
+<br>2016: GOLD
+<br>2015: GOLD</p>
 <p></p>
-<p><strong>Achievement 2020</strong>
-</p>
-<p><strong>1</strong>.SPF-NPCC Badge Awardee SI (NPCC) Valen Chee Wei Xuan
-(4E1) &amp; SI (NPCC) Sumayyah Bte Norazni (4E2)</p>
+<h4><strong>Achievement (2024):</strong></h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Area 5 Games Day at Hai Sing Catholic School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inter-Unit Drills Competition (Area 5 qualification round)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gryphon Initiative Crime Prevention Video Competition organised by NPCC
+HQ in collaboration with the Singapore Police Force (SPF)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge Awardee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Trisya Amanda</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Station Inspector Ranks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Trisya Amanda,</p>
+<p>Irfan Danish,</p>
+<p>Syed Haafiz</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Irfan Danish,</p>
+<p>Puteri Ally</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC5.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/UG   NPCC/NPCC_Annual_Unit_Camp.jpg">
 </div>
-<p><strong>Achievement 2019</strong>
-</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC6.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/UG   NPCC/NPCC_Inter_Unit_Drill_Competition_Photo.jpg">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC7.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/UG   NPCC/Sec_2_Leadership_Programme.jpg">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC8.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/UG   NPCC/Year_End_Enrichment_Bonding.jpg">
 </div>
-<p><strong>Achievement 2018</strong>
-</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UG   NPCC/LVSS_NPCC_Unit_2024.jpg">
 </div>
-<p><strong>Achievement 2017</strong>
-</p>
-<p>1. SPF-NPCC Badge Awardee – SI (NPCC) Radhi Priya Janakiraman (4E1)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC10.jpeg">
-</div>
-<p><strong>Achievement 2016</strong>
-</p>
-<p>1. Unit Overall Proficiency Award – Gold Award</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC11.jpeg">
-</div>
-<p>2. SPF-NPCC Badge Awardee – SSgt (NPCC) R Yuvadharani Naidu (4A4)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC12.jpeg">
-</div>
-<p>3. Greenview Secondary School NPCC Unit Area 8 Games Day (Team 2nd)</p>
-<p>4. Chung Cheng High School (Main) NPCC Unit Area 11 Games Day – All on
-One Side (Team 3rd)</p>
-<p>5. Victoria School NPCC Unit Area 11 Games Day – (Team 2nd)</p>
-<p><strong>Achievement 2015</strong>
-</p>
-<p>1. Unit Overall Proficiency Award – Gold Award</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC13.jpeg">
-</div>
-<p>2. SPF-NPCC Badge Awardee – SI (NPCC) Goo Yi Hao (4A1) &amp; SI (NPCC)
-Siti Khadijah (4A2)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC14.jpeg">
-</div>
-<p>3. Tanjong Katong Secondary School NPCC Unit Inter-Unit Competition: Hit
-the Cup – 1st Place
-<br>4. Chung Cheng High School (Main) NPCC Unit Inter-Unit Competition: Calculator
-– 2nd
-<br>5. Junyuan Secondary School NPCC Unit Inter-Unit Frisbee Competition –
-4th</p>
-<p><strong>Achievement 2014</strong>
-</p>
-<p>1. Unit Overall Proficiency Award – Silver Award</p>
-<p>2. SPF-NPCC Badge Awardee – SI (NPCC) Celine Phua (4E2) &amp; SI (NPCC)
-Tan Hong Yi (4E1), SSgt (NPCC) Shahira Banu (4E1)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC15.jpeg">
-</div>
-<p>3. East View Secondary School NPCC Unit Area 8 Mini Campcraft Competition
-(Girls Team 3rd)
-<br>4. Dunman Secondary School NPCC Unit Area 8 Games Day (Team 2nd)
-<br>5. Hai Sing Catholic School NPCC Unit Inter-Unit Badminton Championships
-(Team 4th)</p>
+<p></p>
