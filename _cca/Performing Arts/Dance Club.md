@@ -113,6 +113,118 @@ performance</p>
 <h4><strong>TIME AND DATE FOR THE CCA</strong></h4>
 <p>Thursday 3 p.m - 6 p.m</p>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/3.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/4.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/5.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/6.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/7.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/8.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/9.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/10.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/11.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <p>
