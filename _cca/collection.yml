@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Performing Arts.md
       - Performing Arts/.keep
       - Performing Arts/Loyang View Symphonic Band.md
       - Performing Arts/Dance Club.md
