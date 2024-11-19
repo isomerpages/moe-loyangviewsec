@@ -8,8 +8,8 @@ variant: tiptap
 <h1>Drama Club</h1>
 <p><strong>Training Schedule</strong>
 </p>
-<p>Tuesdays Thursdays
-<br>Thursdays 3.30 to 5.30pm</p>
+<p>Thursdays 2.30 to 5.30pm
+<br>Tuesdays 3.30 to 5.30pm (Additional)</p>
 <p><strong>Teachers-in-charge</strong>
 </p>
 <ul data-tight="true" class="tight">
