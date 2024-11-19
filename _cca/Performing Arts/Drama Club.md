@@ -8,8 +8,8 @@ variant: tiptap
 <h1>Drama Club</h1>
 <p><strong>Training Schedule</strong>
 </p>
-<p>Thursdays 2.30 to 5.30pm
-<br>Tuesdays 3.30 to 5.30pm (Additional)</p>
+<p>Thursdays : 2.30 to 5pm
+<br>Tuesdays : 3.30 to 5.30pm (Additional)</p>
 <p><strong>Teachers-in-charge</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -33,6 +33,35 @@ sound and stage management. Members participate in the biannual Singapore
 Youth Festival Presentation (Drama) and other school and external performances.</p>
 <p><strong>Notable Past Achievements</strong>
 </p>
+<p><strong>2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kaleidoscope – Performing Arts Showcase</p>
+</li>
+<li>
+<p>National Day Concert</p>
+</li>
+<li>
+<p>Teachers’ Day Concert</p>
+</li>
+</ul>
+<p><strong>2023</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Presentation (Drama) - Certificate of Commendation</p>
+</li>
+<li>
+<p>Racial Harmony Day</p>
+</li>
+<li>
+<p>Teachers’ Day Concert</p>
+</li>
+<li>
+<p>Performing Arts Showcase</p>
+</li>
+</ul>
 <p><strong>2021</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -44,64 +73,12 @@ Youth Festival Presentation (Drama) and other school and external performances.<
 <p>Teachers’ Day Concert</p>
 </li>
 </ul>
-<p><strong>2019</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Awarded Certificate of Accomplishment at the Singapore Youth Festival
-Presentation (Drama)</p>
-</li>
-<li>
-<p>Loyang View Extravangaza&nbsp;(LoVE) 2019 - The Bicentennial Edition</p>
-</li>
-<li>
-<p>Teachers' Day Concert</p>
-</li>
-</ul>
-<p><strong>2018</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Participation in Human Values Drama Festival&nbsp;at Republic Polytechnic&nbsp;organised
-by&nbsp;Sri Sathya Sai Organisation of Singapore</p>
-</li>
-<li>
-<p>Loyang View Extravaganza (LoVE) at Festive Arts Theatre</p>
-</li>
-</ul>
-<p><strong>2017</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Awarded Certificate of Accomplishment at the Singapore Youth Festival
-Presentation (Drama) (representing Loyang Secondary School)</p>
-</li>
-<li>
-<p>Awarded Certificate of Commendation at the Singapore Youth Festival Presentation
-(Drama) (representing Greenview Secondary School</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama1.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama2.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama3.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama4.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama5.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama6.jpeg">
-</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
