@@ -6,7 +6,6 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h2><strong>Overview</strong></h2>
-<blockquote>
 <p>Loyang View Symphonic Band was formed from the merging of Greenview and
 Loyang Symphonic Bands in 2018. The band performs actively in school events,
 taking the stage during National Day Parades, Commendation Day performances
@@ -14,7 +13,6 @@ and school Aesthetics showcase "Kaleidoscope". Additionally, the band serenades
 the public at outreach performances regularly, such as at Our Tampines
 Hub, and the Pasir East Community Centre for its National Day Celebrations
 &amp; the recent combined band showcase in SOTA.</p>
-</blockquote>
 <p>Our members also seek to develop their musicality by participating in
 external workshops and band festivals such as attending the WBAS Band Student
 Leader Workshops and the WBAS Youth Band Festival.</p>
@@ -145,4 +143,159 @@ Leader Workshops and the WBAS Youth Band Festival.</p>
 Secondary School, and Meridian Secondary School</p>
 </li>
 </ul>
+<hr>
+<h3><strong><u>Symphonic Band in Action</u></strong></h3>
+<h4><strong>Commendation Day 2024</strong></h4>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Band/1__CD_1___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Band/1__CD_2___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Band/1__CD_3___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="pic" src="/images/CCA/Band/1__CD_4___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
+<p></p>
+<h4><strong>LVSS Kaleidoscope 2024</strong></h4>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Band/1__LVSS_Kaleidoscope_24_1___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Band/1__LVSS_Kaleidoscope_24_2___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Band/1__LVSS_Kaleidoscope_24_3___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="pic" src="/images/CCA/Band/1__LVSS_Kaleidoscope_24_4___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
+<h4><strong>Meridian Sec School Exchange</strong></h4>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Band/1__Meridian_Sec_school_exchange_1___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Band/1__Meridian_Sec_school_exchange_2___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Band/1__Meridian_Sec_school_exchange_3___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/CCA/Band/1__Meridian_Sec_school_exchange_4___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="pic" src="/images/CCA/Band/1__Meridian_Sec_school_exchange_5___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image" src="/images/CCA/Band/1__Meridian_Sec_school_exchange_6___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
 <p></p>
