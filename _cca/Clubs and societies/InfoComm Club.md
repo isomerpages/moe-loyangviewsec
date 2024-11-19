@@ -23,9 +23,7 @@ Club serves as a platform to foster creativity, technical expertise, and
 teamwork among students who are passionate about technology</p>
 <h2>Teachers-in-charge&nbsp;&nbsp;</h2>
 <p>Mrs Ng-Kok Shu Ling
-<br>Ms Rayna Yun Jie
-<br>
-</p>
+<br>Ms Rayna Yun Jie</p>
 <h2>Time and Day for CCA</h2>
 <ul data-tight="true" class="tight">
 <li>
@@ -65,6 +63,5 @@ ad-hoc school events)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CLUB INFOCOM/IFC4_NOV2024.jpg">
 </div>
-<p></p>
 <p></p>
 <p></p>
