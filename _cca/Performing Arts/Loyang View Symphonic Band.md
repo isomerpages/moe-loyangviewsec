@@ -5,12 +5,20 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
-</div>
-<h1>Loyang View Symphonic Band</h1>
-<h2>Band Designation</h2>
-<h4>Band Conductors/Teachers</h4>
+<h2><strong>Overview</strong></h2>
+<blockquote>
+<p>Loyang View Symphonic Band was formed from the merging of Greenview and
+Loyang Symphonic Bands in 2018. The band performs actively in school events,
+taking the stage during National Day Parades, Commendation Day performances
+and school Aesthetics showcase "Kaleidoscope". Additionally, the band serenades
+the public at outreach performances regularly, such as at Our Tampines
+Hub, and the Pasir East Community Centre for its National Day Celebrations
+&amp; the recent combined band showcase in SOTA.</p>
+</blockquote>
+<p>Our members also seek to develop their musicality by participating in
+external workshops and band festivals such as attending the WBAS Band Student
+Leader Workshops and the WBAS Youth Band Festival.</p>
+<h3><strong>Band Conductors/Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -101,19 +109,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>About the CCA</h2>
-<p>Loyang View Symphonic Band was formed from the merging of Greenview and
-Loyang Symphonic Bands in 2018. The band performs actively in school events,
-taking the stage during National Day Parades, Commendation Day performances
-and school Aesthetics showcase "Kaleidoscope". Additionally, the band serenades
-the public at outreach performances regularly, such as at Our Tampines
-Hub, and the Pasir East Community Centre for its National Day Celebrations
-&amp; the recent combined band showcase in SOTA.</p>
-<p>Our members also seek to develop their musicality by participating in
-external workshops and band festivals such as attending the WBAS Band Student
-Leader Workshops and the WBAS Youth Band Festival.</p>
 <p></p>
-<h4>Band Training Schedule</h4>
+<h3><strong>Band Training Schedule</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tuesday 3.30 - 6pm</p>
@@ -122,7 +119,7 @@ Leader Workshops and the WBAS Youth Band Festival.</p>
 <p>Thursday 2.30 - 6pm</p>
 </li>
 </ul>
-<h4>Past Achievements</h4>
+<h3><strong>Past Achievements</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore International Band Festival Competition (Division 2B) – Silver</p>
@@ -132,7 +129,7 @@ Leader Workshops and the WBAS Youth Band Festival.</p>
 2023)</p>
 </li>
 </ul>
-<h4>Signature Programmes</h4>
+<h3><strong>Signature Programmes</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Band SYF Camp in March&nbsp;</p>
@@ -148,22 +145,4 @@ Leader Workshops and the WBAS Youth Band Festival.</p>
 Secondary School, and Meridian Secondary School</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band1.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band2.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band3.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band4.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band5.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band7.jpeg">
-</div>
 <p></p>
