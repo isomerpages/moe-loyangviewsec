@@ -5,29 +5,46 @@ description: ""
 third_nav_title: Clubs and societies
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
-</div>
-<h1>InfoComm Club</h1>
-<h2>Overview</h2>
+<h2><strong>Overview</strong></h2>
 <hr>
+<blockquote>
 <p>The InfoComm Club (IFC) is a merger of AV (Audio Visual) and PVC (Photography
 and Videography). It is an exciting and dynamic Co-Curricular Activity
 (CCA) that focuses on the ever-evolving world of information and communications
-technology (ICT). In this club, students are taught how to set up the audio
-visual equipments required for school events and how to capture the world
-through their lens. The club also provides students opportunities to explore
-and develop skills in other aspects of technology, such as coding and digital
-media production. As the digital landscape continues to grow, the InfoComm
-Club serves as a platform to foster creativity, technical expertise, and
-teamwork among students who are passionate about technology</p>
+technology (ICT).</p>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>In this club, students are taught how to set up the audio visual equipments
+required for school events and how to capture the world through their lens.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>The club also provides students opportunities to explore and develop skills
+in other aspects of technology, such as coding and digital media production.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>As the digital landscape continues to grow, the InfoComm Club serves as
+a platform to foster creativity, technical expertise, and teamwork among
+students who are passionate about technology.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <h2>Teachers-in-charge&nbsp;&nbsp;</h2>
 <p>Mrs Ng-Kok Shu Ling
 <br>Ms Rayna Yun Jie</p>
 <h2>Time and Day for CCA</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>CCA meeting on every Thursday, 2.30 pm – 5.30 pm</p>
+<p>CCA meeting on every Thursday, 2.30 p.m – 5.30 p.m</p>
 </li>
 <li>
 <p>Duty roster (on a rotational basis) for morning assembly programmes and
