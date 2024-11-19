@@ -73,8 +73,8 @@ performance
 <p><strong>Past Achievements</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SYF Arts Presentation
-– Certificate of Distinction</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Super 24 – Finalists&nbsp;</p>
+– Certificate of Distinction
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Super 24 – Finalists&nbsp;</p>
 <p><strong>TIME AND DATE FOR THE CCA</strong>
 </p>
 <p>Thursday 3pm - 6pm</p>
