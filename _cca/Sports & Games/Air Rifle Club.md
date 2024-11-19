@@ -79,3 +79,66 @@ for the sport and their own lives through various activities.</p>
 </ul>
 <p>&nbsp;</p>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Air Rifle/Picture1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Competition 1</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Air Rifle/Picture2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Competition 2</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Air Rifle/Picture3.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Competition 3</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/CCA/Air Rifle/Picture4.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Competition 4</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/CCA/Air Rifle/Picture5.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Competition 5</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image" src="/images/CCA/Air Rifle/Picture6.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Competition 6</div>
+</div>
+</div>
+</div>
+<p></p>
