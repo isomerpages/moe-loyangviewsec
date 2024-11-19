@@ -145,4 +145,51 @@ Leader Workshops and the WBAS Youth Band Festival.</p>
 Secondary School, and Meridian Secondary School</p>
 </li>
 </ul>
+<hr>
+<h3><strong><u>Symphonic Band in Action</u></strong></h3>
+<h4><strong>Commendation Day 2024</strong></h4>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Band/1__CD_1___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Band/1__CD_2___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Band/1__CD_3___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="pic" src="/images/CCA/Band/1__CD_4___Lim_Chiang_Siew.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
+<p></p>
 <p></p>
