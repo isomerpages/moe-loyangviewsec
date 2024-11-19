@@ -59,34 +59,56 @@ and contributing to the betterment of society.</p>
 </ul>
 <h3>CCA schedule and activities</h3>
 <p>Day: Every Thursdays
-<br>*Tuesday is also a CCA day if the need arises
-<br>&nbsp; *Some Saturdays (HQ events, camps, ad-hoc activities)</p>
-<p>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>* Tuesday is also a CCA day if the need arises
+<br>* Some Saturdays (HQ events, camps, ad-hoc activities)</p>
 <p></p>
 <p>Time: 2:30 PM – 5:30 PM</p>
 <p>Location: Parade Square (Outdoors) or Art Room (Indoors)</p>
-<p><em>Activities we do:</em>
-</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Girl Guides 5-point program</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proficiency Badges</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Camp Craft (Gadgets Making,
-Tent Pitching)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outdoor-Cooking</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Foot drills</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Initiatives</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HQ and School Yeoman services</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VIA Programmes</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; St John Home of the Elderly
-Service Learning</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dining in the Dark</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To fulfil and achieve both
-the NYAA Bronze and Silver Awards</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Annual GG Bonding &amp; Training&nbsp;Camp</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate at&nbsp;HQ,&nbsp;Division,
-National camps,&nbsp;events&nbsp;and competitions</p>
-<p><em>Opportunities to grow:</em>
-</p>
+<p></p>
+<h4><em>Activities we do:</em></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Girl Guides 5-point program</p>
+</li>
+<li>
+<p>Proficiency Badges</p>
+</li>
+<li>
+<p>Camp Craft (Gadgets Making, Tent Pitching)</p>
+</li>
+<li>
+<p>Outdoor-Cooking</p>
+</li>
+<li>
+<p>Foot drills</p>
+</li>
+<li>
+<p>Initiatives</p>
+</li>
+<li>
+<p>HQ and School Yeoman services</p>
+</li>
+<li>
+<p>VIA Programmes</p>
+</li>
+<li>
+<p>St John Home of the Elderly Service Learning</p>
+</li>
+<li>
+<p>Dining in the Dark</p>
+</li>
+<li>
+<p>To fulfil and achieve both the NYAA Bronze and Silver Awards</p>
+</li>
+<li>
+<p>Annual GG Bonding &amp; Training&nbsp;Camp</p>
+</li>
+<li>
+<p>Participate at&nbsp;HQ,&nbsp;Division, National camps,&nbsp;events&nbsp;and
+competitions</p>
+</li>
+</ul>
+<h4><em>Opportunities to grow:</em><br></h4>
 <p>Leadership Development: Opportunities to plan events, lead teams, and
 take on various responsibilities.</p>
 <p>Badge Programs: Gain new skills and earn badges in areas like art, technology,
@@ -94,11 +116,29 @@ sports, and more.</p>
 <p>Friendship &amp; Fun: Create lasting friendships while participating in
 fun activities with like-minded peers.</p>
 <p></p>
-<h4></h4>
-<h5></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG1a___Team_Bonding.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG1b___Team_Bonding_Edited.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG2___Service_Learning.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG3___Outdoor_life_skills_Edited.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG_4___East_Division_Activities.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG___Join_us_.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
