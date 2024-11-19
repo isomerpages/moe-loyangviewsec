@@ -6,7 +6,6 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h2><strong>Overview</strong></h2>
-<blockquote>
 <p>Loyang View Symphonic Band was formed from the merging of Greenview and
 Loyang Symphonic Bands in 2018. The band performs actively in school events,
 taking the stage during National Day Parades, Commendation Day performances
@@ -14,7 +13,6 @@ and school Aesthetics showcase "Kaleidoscope". Additionally, the band serenades
 the public at outreach performances regularly, such as at Our Tampines
 Hub, and the Pasir East Community Centre for its National Day Celebrations
 &amp; the recent combined band showcase in SOTA.</p>
-</blockquote>
 <p>Our members also seek to develop their musicality by participating in
 external workshops and band festivals such as attending the WBAS Band Student
 Leader Workshops and the WBAS Youth Band Festival.</p>
