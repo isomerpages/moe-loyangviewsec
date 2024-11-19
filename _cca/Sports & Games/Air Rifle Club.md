@@ -13,10 +13,23 @@ about shooting. They are committed and dedicated to trainings and are always
 enthusiastic about improving their skills for every training session. The
 club aims to develop our shooters’ mastery in their marksmanship, leadership,
 physical fitness as well as character.&nbsp;</p>
-<p>In addition, we aim to develop focused, robust and resilient students
-for the sport and their own lives through various activities.</p>
-<p>Finally, the club also aims to bring out the champion in every shooter.&nbsp;</p>
+<p></p>
 </blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>In addition, we aim to develop focused, robust and resilient students
+for the sport and their own lives through various activities.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Finally, the club also aims to bring out the champion in every shooter.&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h4><br><strong>Club’s Vision:</strong></h4>
 <p>Air Rifle Club is a club where athletes excel in the sport and character.&nbsp;</p>
 <h4><strong>Teachers-in-charge:</strong>&nbsp;</h4>
@@ -58,10 +71,7 @@ for the sport and their own lives through various activities.</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<p>
-<br>
-</p>
+<p></p>
 <h3><strong>Competitions</strong></h3>
 <ul>
 <li>
@@ -77,7 +87,7 @@ for the sport and their own lives through various activities.</p>
 <p>National Shooting Championship C Division (July)</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -87,7 +97,7 @@ for the sport and their own lives through various activities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Competition 1</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -97,7 +107,7 @@ for the sport and their own lives through various activities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Competition 2</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -107,7 +117,7 @@ for the sport and their own lives through various activities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Competition 3</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -117,7 +127,7 @@ for the sport and their own lives through various activities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Competition 4</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -127,7 +137,7 @@ for the sport and their own lives through various activities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Competition 5</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -137,7 +147,7 @@ for the sport and their own lives through various activities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Competition 6</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -152,7 +162,7 @@ for the sport and their own lives through various activities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Training 1</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -162,7 +172,7 @@ for the sport and their own lives through various activities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Training 2</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -172,7 +182,7 @@ for the sport and their own lives through various activities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Training 3</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -187,7 +197,7 @@ for the sport and their own lives through various activities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Bonding 1</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -197,7 +207,7 @@ for the sport and their own lives through various activities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Bonding 2</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -207,7 +217,7 @@ for the sport and their own lives through various activities.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Bonding 3</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
