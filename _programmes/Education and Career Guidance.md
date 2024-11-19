@@ -5,10 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Overview</strong></h2>
+<blockquote>
 <p>Education and Career Guidance in Loyang View is about equipping students
 with the necessary knowledge, skills, and values to make informed decisions
 at each key education stage for successful transition from school to further
 education or work.</p>
+</blockquote>
 <h2><strong>Signature Programmes</strong></h2>
 <h3>Exposure Programmes</h3>
 <p>Our Sec 1 students embark on a journey of self-discovery by using the
