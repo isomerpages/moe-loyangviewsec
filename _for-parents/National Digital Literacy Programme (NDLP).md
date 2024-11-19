@@ -36,7 +36,7 @@ the affordances of the iPad as a learning tool. The bundle also includes
 3 years of AppleCare+ coverage and insurance.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LVSS_Choice_of_PLD.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/iPad_Bundle.png">
 </div>
 <p><strong>Why did the school choose the iPad as the PLD?</strong>
 </p>
