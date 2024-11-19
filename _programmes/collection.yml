@@ -2,11 +2,11 @@ collections:
   programmes:
     output: true
     order:
-      - Futurist Programme.md
       - Applied Learning Programme (ALP).md
       - Learning For Life Programme (LLP).md
-      - Urban Farming.md
-      - Education and Career Guidance.md
-      - Future Ready Programme.md
-      - Student Leadership.md
       - Overseas Educational Programme.md
+      - Future Ready Programme.md
+      - Urban Farming.md
+      - Futurist Programme.md
+      - Education and Career Guidance.md
+      - Student Leadership.md
