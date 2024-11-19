@@ -5,9 +5,48 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h1>Dance Club</h1>
-<p><strong>DEPARTMENT/ CCA STRUCTURE/ NAME WITH DESIGNATION</strong>
-</p>
+<h2><strong>Overview</strong></h2>
+<blockquote>
+<p>DanceVersity is the banner name of our CCA Dance Club that offers many
+platforms to students keen in expressing themselves through techniques-rich
+and scintillating choreography.&nbsp;</p>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Street dance and hip-hop genres are the staples in our choreographies
+and the students are trained rigorously by professionally qualified instructors,
+twice a week.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Our dance showcases grace the school stage in the milestones events every
+year such as the Chinese New Year, Commendation Day, National Day and Open
+House concerts.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>The students are also diligently trained for the biannual Singapore Youth
+Festival (SYF) competition and other illustrious external competitions
+for increased exposure and added learning</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Under the guidance and support of our teachers, DanceVersity aims to inculcate
+in our dancers, passion in performance arts, resilience, tenacity, heightened
+responsibility and good fitness.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h3><strong>CCA Structure</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -42,53 +81,152 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>ABOUT THE CCA</strong>
-</p>
+<p></p>
+<h3><strong>Signature Programmes</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Youth Festival</p>
+</li>
+<li>
+<p>Dance Competitions</p>
+</li>
+<li>
+<p>School performances - Morning assembly, Commendation day, etc.</p>
+</li>
+<li>
+<p>External performances - Chinese New Year performance, Autumn Festival
+performance</p>
+</li>
+<li>
+<p>Annual dance camp</p>
+</li>
+</ul>
+<h3><strong>Achievements</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Arts Presentation – Certificate of Distinction</p>
+</li>
+<li>
+<p>Super 24 – Finalists&nbsp;</p>
+</li>
+</ul>
+<h4><strong>TIME AND DATE FOR THE CCA</strong></h4>
+<p>Thursday 3 p.m - 6 p.m</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/1.jpg">
 </div>
-<p>DanceVersity is the banner name of our CCA Dance Club that offers many
-platforms to students keen in expressing themselves through techniques-rich
-and scintillating choreography.</p>
-<p>Street dance and hip hop genres are the staples in our choreographies
-and the students are trained rigorously by well qualified instructors,
-twice a week.</p>
-<p>Our dance showcases grace the school stage in the milestones events every
-year such as the Chinese New Year, Commendation Day, National Day and Open
-House concerts.</p>
-<p>The students are also diligently trained for the biannual Singapore Youth
-Festival (SYF) competition and other illustrious external competitions
-for increased exposure and added learning</p>
-<p>Under the guidance and support of our teachers, Danceversity aims to inculcate
-in our dancers, passion in performance arts, resilience, tenacity, heightened
-responsibility and good fitness.</p>
-<p><strong>SIGNATURE/ KEY PROGRAMME FOR THE DEPARTMENT</strong>
-</p>
-<p>• Singapore Youth Festival
-<br>• Dance Competitions
-<br>• School performances - Morning assembly, Commendation day, etc.
-<br>• External performances - Chinese New Year performance, Autumn Festival
-performance
-<br>•&nbsp;Annual dance camp</p>
-<p><strong>Past Achievements</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SYF Arts Presentation
-– Certificate of Distinction</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Super 24 – Finalists&nbsp;</p>
-<p><strong>TIME AND DATE FOR THE CCA</strong>
-</p>
-<p>Thursday 3pm - 6pm</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/3.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/4.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/5.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/6.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/7.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/8.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/9.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/10.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Dance/11.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance3.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance4.jpeg">
-</div>
 <p>
 <br>
 </p>

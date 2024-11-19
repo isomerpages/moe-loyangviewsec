@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Performing Arts.md
       - Performing Arts/.keep
       - Performing Arts/Loyang View Symphonic Band.md
       - Performing Arts/Dance Club.md
@@ -13,7 +12,6 @@ collections:
       - Sports & Games/FloorBall.md
       - Sports & Games/Netball.md
       - Sports & Games/Rock Climbing Club.md
-      - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Cadet Corps (Land).md

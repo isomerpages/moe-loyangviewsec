@@ -5,4 +5,270 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg"></div><h1>Rock Climbing Club</h1><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/RockClimb.png"></div><h3>LOYANG VIEW ROCK CLIMBING (LVRC)</h3><hr><p><strong>TEACHERS-IN-CHARGE</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Overall teacher-in-charge:</strong></p></th><td rowspan="1" colspan="1"><p>Ms Wan Hanee Iskandar</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>2nd Overall teacher-in-charge:</strong></p></td><td rowspan="1" colspan="1"><p>Mrs Wennie Lim-Ang Woon Nee</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Teacher-in-charge</strong></p></td><td rowspan="1" colspan="1"><p>Ms Nurasyikin</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Coach:</strong></p></td><td rowspan="1" colspan="1"><p>COACH ROZIHAN ANWAR (YAN)</p></td></tr></tbody></table><p></p><p><strong>TRAINING SCHEDULE</strong></p><p>Tuesdays &amp; Thursdays (3:30pm to 5:30pm)</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/RockClimb2.png"></div><p><strong>ABOUT THE CCA</strong>&nbsp;</p><p><strong>Loyang View Rock Climbing (LVRC)</strong>&nbsp;has high expectations of our climbers because we strongly believe that every climber is capable and has enormous potential for growth. In this CCA, every member is important and together we are a family.</p><p><em>“In climbing you are always faced with new problems in which you must perform using intuitive movements, and then later analyze them to figure out why they work, and then learn from them.” – Wolfgang Gullich</em></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rockclimb3.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rockclimb4.png"></div><p><strong>KEY PROGRAMMES</strong></p><p>Our climbers have persevered and improved throughout the years, learning the various technical skills of climbing as well as teamwork and resilience. Our climbers get the opportunity to train and experience climbing at Boulder World, Tampines-Meridian Junior College, The Rock School at Our Tampines Hub, Onsight Climbing Gym, Boulder+ and Climb Central. During our year-end CCA camp, the climbers bonded through various engaging activities such as our first outdoor cooking activity, banner painting and climbing at the augmented reality wall at Climbers’ Laboratory.</p><p>LVRC climbers contributed to the community through meaningful Values-In-Action (VIA) activities related to rock climbing. Our climbers have rendered their service and skills as rock climbing guides for NPCC, NCC and Boys Brigade (BB) cadets.&nbsp;</p><p>LVRC has also produced competitive climbers whose hard work and dedication have qualified them for finals. Some of them have also won medals in their respective categories. Throughout the years, our climbers have been exposed to different forms of competitive as well as recreational climbing through rock climbing events like SMU Gravical, French School Vertical Marathon, National Schools Bouldering Championship (NSBC), National Schools Sports Climbing Championships (NSSCC), National Youth Trials at SUTD, Springfield Let’s Rock, NTU Pumpfest, NUS Boulderactive, NTU UMC Transend and Boys’ Town Sport Climbing Competition. In 2020, we held our first Boulder Carnival for our lower secondary climbers.&nbsp;</p><p>In 2021, our seniors came back as Chief Route Judge &amp; Chief Route Setter for the carnival. The school also replaced our old high wall with a new rockwall equipped with an auto-belay system.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rockclimb5.png"></div><p><strong>ACHIEVEMENTS</strong></p><p><em>“The best climber in the world is the one having the most fun!” – Alex Lowe</em></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Date</p></th><th rowspan="1" colspan="1"><p>Competition</p></th><th rowspan="1" colspan="1"><p>Student</p></th><th rowspan="1" colspan="1"><p>Class</p></th><th rowspan="1" colspan="1"><p>Category</p></th><th rowspan="1" colspan="1"><p>Achievement</p></th></tr><tr><td rowspan="1" colspan="1"><p>3 Mar 2018</p></td><td rowspan="1" colspan="1"><p>Ground Up Defvity<br>@Ground Up Climbing Gym</p></td><td rowspan="1" colspan="1"><p>YANG JUN FENG WESLEY</p></td><td rowspan="1" colspan="1"><p>S3-A3</p></td><td rowspan="1" colspan="1"><p>U16 Boys</p></td><td rowspan="1" colspan="1"><p>Qualified for finals (7th)</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>NURUL JANNAH BTE MOBIN</p></td><td rowspan="1" colspan="1"><p>S5-A1</p></td><td rowspan="1" colspan="1"><p>Novice Women</p></td><td rowspan="1" colspan="1"><p>Qualifiers: 10th out of 29 climbers</p></td></tr><tr><td rowspan="1" colspan="1"><p>30 May – 1 June 2018</p></td><td rowspan="1" colspan="1"><p>Springfield Let’s Rock<br>@Springfield Secondary School</p></td><td rowspan="1" colspan="1"><p>NUR ALAWIYAH BINTE ZULFIKKAR ALI</p></td><td rowspan="1" colspan="1"><p>S2-E1</p></td><td rowspan="1" colspan="1"><p>C Div Girls</p></td><td rowspan="1" colspan="1"><p>Qualified for finals (7th)</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>NUR AKRAM BIN KAMSOR</p></td><td rowspan="1" colspan="1"><p>S1-T1</p></td><td rowspan="1" colspan="1"><p>C Div Boys</p></td><td rowspan="1" colspan="1"><p>Qualified for finals (Qualifiers: 4th)</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>16 Feb 2019</p></td><td rowspan="1" colspan="1"><p>The French School Vertical Marathon<br>@Lycée Français de Singapour</p></td><td rowspan="1" colspan="1"><p>LIM TECK SENG</p></td><td rowspan="1" colspan="1"><p>S3-E2</p></td><td rowspan="1" colspan="1"><p>Youth B Boys</p></td><td rowspan="1" colspan="1"><p>Qualifiers: 13th</p></td></tr><tr><td rowspan="1" colspan="1"><p>22 March 2019</p></td><td rowspan="1" colspan="1"><p>National Schools Bouldering Championship (NSBC)<br>@Xin Min Secondary School</p></td><td rowspan="1" colspan="1"><p>RENNELL KAYLA KHONG JHO ING</p></td><td rowspan="1" colspan="1"><p>S2-E1</p></td><td rowspan="1" colspan="1"><p>C Div Girls</p></td><td rowspan="1" colspan="1"><p>Qualifiers: 11th out of 39 climbers</p></td></tr><tr><td rowspan="1" colspan="1"><p>6-8 June 2019</p></td><td rowspan="1" colspan="1"><p><br><br><br><br>Springfield Let’s Rock<br>@Springfield Secondary School</p></td><td rowspan="1" colspan="1"><p>RENNELL KAYLA KHONG JHO ING</p></td><td rowspan="1" colspan="1"><p>S2-E1</p></td><td rowspan="1" colspan="1"><p>C Div Girls</p></td><td rowspan="1" colspan="1"><p>Potential Top Rope Finalist<br>Qualified for Speed finals (5th)</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>NEO XIN YUNN</p></td><td rowspan="1" colspan="1"><p>S1-E1</p></td><td rowspan="1" colspan="1"><p>C Div Girls</p></td><td rowspan="1" colspan="1"><p>Potential Top Rope Finalist</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>AMANDA KONG LIONG HAO YI</p></td><td rowspan="1" colspan="1"><p>S1-A1</p></td><td rowspan="1" colspan="1"><p>C Div Girls</p></td><td rowspan="1" colspan="1"><p>Qualified for Speed finals (6th)</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>MUHAMMAD HARITH BIN ROSLEE</p></td><td rowspan="1" colspan="1"><p>S2-A1</p></td><td rowspan="1" colspan="1"><p>C Div Boys</p></td><td rowspan="1" colspan="1"><p>Qualified for Speed finals (Qualifiers: 6th)</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>LIM TECK SENG</p></td><td rowspan="1" colspan="1"><p>S3-E2</p></td><td rowspan="1" colspan="1"><p>B Div Boys</p></td><td rowspan="1" colspan="1"><p>Qualified for Speed finals (5th )</p></td></tr><tr><td rowspan="1" colspan="1"><p>13 June 2019</p></td><td rowspan="1" colspan="1"><p>NTU Pumpfest<br>@Our Tampines Hub</p></td><td rowspan="1" colspan="1"><p>LIM TECK SENG</p></td><td rowspan="1" colspan="1"><p>S3-E2</p></td><td rowspan="1" colspan="1"><p>U17 Boys</p></td><td rowspan="1" colspan="1"><p>Qualifiers: 16th</p></td></tr><tr><td rowspan="1" colspan="1"><p>27 June 2016</p></td><td rowspan="1" colspan="1"><p>NTU UMC Transend<br>@J Cube</p></td><td rowspan="1" colspan="1"><p>LIM TECK SENG</p></td><td rowspan="1" colspan="1"><p>S3-E2</p></td><td rowspan="1" colspan="1"><p>U17 Boys</p></td><td rowspan="1" colspan="1"><p>Qualifiers: 18th</p></td></tr><tr><td rowspan="1" colspan="1"><p>25 July 2019</p></td><td rowspan="1" colspan="1"><p>NUS Boulderactive<br>@Singpost Centre</p></td><td rowspan="1" colspan="1"><p>LIM TECK SENG</p></td><td rowspan="1" colspan="1"><p>S3-E2</p></td><td rowspan="1" colspan="1"><p>U17 Boys</p></td><td rowspan="1" colspan="1"><p>Qualified for finals (8th)</p></td></tr><tr><td rowspan="1" colspan="1"><p>30 Aug 2019</p></td><td rowspan="1" colspan="1"><p>Boys’ Town Sport Climbing Competition<br>@Boys’ Town Adventure Centre</p></td><td rowspan="1" colspan="1"><p>LIM TECK SENG<br>NUR ALAWIYAH BINTE ZULFIKKAR ALI<br>NUR FATASYA BINTE AMRAN</p></td><td rowspan="1" colspan="1"><p>S3-E2<br>S3-E1<br>S2-E3</p></td><td rowspan="1" colspan="1"><p>Team (Cat A: 14-17yr)</p></td><td rowspan="1" colspan="1"><p>Qualified 7th</p></td></tr><tr><td rowspan="1" colspan="1"><p>30 Jan 2020</p></td><td rowspan="1" colspan="1"><p>SMU Gravical<br>@SMU School of Law</p></td><td rowspan="1" colspan="1"><p>RENNELL KAYLA KHONG JHO ING</p></td><td rowspan="1" colspan="1"><p>S2-E1</p></td><td rowspan="1" colspan="1"><p>U17 Girls</p></td><td rowspan="1" colspan="1"><p>Qualified for finals (Qualifiers: 6th)</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>LIM TECK SENG</p></td><td rowspan="1" colspan="1"><p>S3-E2</p></td><td rowspan="1" colspan="1"><p>U17 Boys</p></td><td rowspan="1" colspan="1"><p>Qualified for finals (Qualifers: 5th)</p></td></tr></tbody></table><p><strong>Secondary 1 Rock Climbers</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rockclimb6.png"></div><p><strong>Secondary 2 Rock Climbers</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rockclimb7.png"></div><p><strong>Secondary 3 Rock Climbers</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rockclimb8.png"></div><p><strong>LVRC Teams</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rockclimb9.png"></div><p><strong>Team BTAC</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rock.png"></div><p><strong>Photos from Past Years in LVRC</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rock2.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rock3.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rock4.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rock5.png"></div><p><strong>Video Gallery of LVRC</strong></p><h3>Past LVRC CCA Leaders</h3><hr><p><strong>LVRC EXCO 2020/2021</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Captain</strong></p></th><th rowspan="1" colspan="1"><p>RENNELL KAYLA KHONG JHO ING</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Vice-Captain</strong></p></td><td rowspan="1" colspan="1"><p>NUR FATASYA BINTE AMRAN</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Training Officers</strong></p></td><td rowspan="1" colspan="1"><p>TAN ANGELINA <br>MUHAMMAD DANIAL ALIY BIN ABDULLAH <br>NATALIA ANN RAGUNATH <br>NUR AKRAM BIN KAMSOR</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Quartermasters</strong></p></td><td rowspan="1" colspan="1"><p>MUHAMMAD HARITH BIN ROSLEE<br>YONG RONG XIANG (BENSON)</p></td></tr></tbody></table><p><strong>LVRC EXCO 2019/2020</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Captain</strong></p></th><th rowspan="1" colspan="1"><p>LIM TECK SENG</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Vice-Captain</strong></p></td><td rowspan="1" colspan="1"><p>MUHAMMAD NUR AIMAN BIN AZMI</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Secretary</strong></p></td><td rowspan="1" colspan="1"><p>NUR ALAWIYAH BINTE ZULFIKKAR ALI</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Quartermaster</strong></p></td><td rowspan="1" colspan="1"><p>MOHAMMAD HAIRIE BIN MOHD SHAH</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Discipline IC</strong></p></td><td rowspan="1" colspan="1"><p>AKID DANISH BIN JEFRY</p></td></tr></tbody></table><p><strong>LVRC EXCO 2018/2019</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Captain</strong></p></th><th rowspan="1" colspan="1"><p>WONG HUI TING</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Vice-Captain</strong></p></td><td rowspan="1" colspan="1"><p>SITI NUR 'AQILAH BTE JAMALUDIN</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Training Officer</strong></p></td><td rowspan="1" colspan="1"><p>KAYLAN YIP KIT YEN</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Training Officer</strong></p></td><td rowspan="1" colspan="1"><p>MUHAMMAD FIRDAUS B IMRAN</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Quartermaster</strong></p></td><td rowspan="1" colspan="1"><p>MUHAMAD HAZIQ B RUTHLAN</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Quartermaster</strong></p></td><td rowspan="1" colspan="1"><p>MUHAMMAD IKRAM BIN ROHANI</p></td></tr></tbody></table><p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rockclimb5.png">
+</div>
+<p></p>
+<h2><strong>Overview</strong></h2>
+<blockquote>
+<p><strong>Loyang View Rock Climbing (LVRC)</strong>&nbsp;has high expectations
+of our climbers because we strongly believe that every climber is capable
+and has enormous potential for growth. In this CCA, every member is important
+and together we are a family.</p>
+</blockquote>
+<hr>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><em>“In climbing you are always faced with new problems in which you must perform using intuitive movements, and then later analyze them to figure out why they work, and then learn from them.” – Wolfgang Gullich</em>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Our climbers have persevered and improved throughout the years, learning
+the various technical skills of climbing as well as teamwork and resilience.
+Our climbers get the opportunity to train and experience climbing at Boulder
+World, Tampines-Meridian Junior College, The Rock School at Our Tampines
+Hub, Onsight Climbing Gym, Boulder+ and Climb Central. During our year-end
+CCA camp, the climbers bonded through various engaging activities such
+as our first outdoor cooking activity, banner painting and climbing at
+the augmented reality wall at Climbers’ Laboratory.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>LVRC climbers contributed to the community through meaningful Values-In-Action
+(VIA) activities related to rock climbing. Our climbers have rendered their
+service and skills as rock climbing guides for NPCC, NCC and Boys Brigade
+(BB) cadets.&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>LVRC has also produced competitive climbers whose hard work and dedication
+have qualified them for finals. Some of them have also won medals in their
+respective categories. Throughout the years, our climbers have been exposed
+to different forms of competitive as well as recreational climbing through
+rock climbing events like SMU Gravical, French School Vertical Marathon,
+National Schools Bouldering Championship (NSBC), National Schools Sports
+Climbing Championships (NSSCC), National Youth Trials at SUTD, Springfield
+Let’s Rock, NTU Pumpfest, NUS Boulderactive, NTU UMC Transend and Boys’
+Town Sport Climbing Competition.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong>TEACHERS-IN-CHARGE</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Overall teacher-in-charge:</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Ms Wan Hanee Iskandar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2nd Overall teacher-in-charge:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Wennie Lim-Ang Woon Nee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurasyikin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Coach:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coach Rozihan Anwar (Yan)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>TRAINING SCHEDULE</strong></h4>
+<p>Tuesdays &amp; Thursdays (3:30 p.m to 5:30 p.m)</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/3.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/4.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/5.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/6.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/7.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/8.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/9.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/10.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/11.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/12.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/13.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/14.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Rock Climbing/15.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h3></h3>
+<p></p>

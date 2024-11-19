@@ -10,16 +10,29 @@ variant: tiptap
 <p>Loyang View Netball (LVNB) aims to develop our netballers to be disciplined
 and reflective players who strives for excellence in all their learning
 experiences both on and off the court.&nbsp;</p>
-<p>Through the netball activities and values-driven programmes that were
+<p></p>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Through the netball activities and values-driven programmes that were
 set in place, we hope to empower our netballers to become a better player
 and learn key values like teamwork, strategic thinking, perseverance and
-resilience.&nbsp;</p>
-<p>&nbsp;Over the years, we are proud to announce that some of our LVNB netballers
+resilience.&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Over the years, we are proud to announce that some of our LVNB netballers
 have been talent-spotted to train with the Zonal or National Netball Under
 14 (U14) and Under 17 (U17) developmental squad. With strong support from
 the school and stakeholders, the Loyang View Netball Team is committed
-to bring Netball CCA to greater heights.&nbsp;</p>
-</blockquote>
+to bring Netball CCA to greater heights.&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <h3><strong>Teachers-in-charge</strong></h3>
 <table style="minWidth: 50px">
@@ -140,7 +153,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">1</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -150,7 +163,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -160,17 +173,17 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">3</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="4" src="/images/CCA/Netball/Deloitte_Pesta_Sukan_Netball_Carnival_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Deloitte_Pesta_Sukan_Netball_Carnival_3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">4</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -184,7 +197,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">1</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -194,7 +207,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -204,7 +217,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">3</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -218,7 +231,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">1</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -228,7 +241,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -238,7 +251,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">3</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
@@ -252,7 +265,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">1</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -262,7 +275,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -272,7 +285,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">3</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -282,7 +295,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">4</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -292,7 +305,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">5</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -302,7 +315,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">6</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
