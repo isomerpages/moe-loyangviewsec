@@ -325,10 +325,60 @@ deepening students’ commitment and rootedness to Singapore.</p>
 </div>
 <hr>
 <h3>OEP Trip to Thailand</h3>
-<hr>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thailand.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Thailand/SKN_Twinning_Photo5___Amanda_Chua.jpg">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Thailand/SKN_Twinning_Photo6___Amanda_Chua.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Thailand/SKN_Twinning_Photo7___Amanda_Chua.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Thailand/SKN_Twinning_Photo8___Amanda_Chua.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Thailand/SKN_Twinning_Photo9___Amanda_Chua.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
+<hr>
 <h3>OEP Trip to Vietnam</h3>
 <hr>
 <div class="isomer-image-wrapper">
