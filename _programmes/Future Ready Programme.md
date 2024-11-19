@@ -29,7 +29,7 @@ specific skills and knowledge required in their preferred career sectors.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">1</div>
+<div class="isomer-card-title">Visit to Changi General Hospital</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -39,7 +39,7 @@ specific skills and knowledge required in their preferred career sectors.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2</div>
+<div class="isomer-card-title">Visit to post secondary education institutions</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -49,7 +49,7 @@ specific skills and knowledge required in their preferred career sectors.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">3</div>
+<div class="isomer-card-title">Visit to Apple office</div>
 </div>
 </div>
 </div>
