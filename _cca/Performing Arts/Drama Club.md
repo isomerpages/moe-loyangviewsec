@@ -5,4 +5,98 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h1>Drama Club</h1><p><strong>Training Schedule</strong></p><p>Tuesdays and Thursdays 3.30 to 5.30pm</p><p><strong>Teachers-in-charge</strong></p><ul data-tight="true" class="tight"><li><p>Mr Nelson Tum&nbsp; (OIC)&nbsp;</p></li><li><p>Mdm&nbsp;Victoria Chang Ping Sze (2IC)&nbsp;</p></li><li><p>Ms Suhailah</p></li></ul><p><strong>Description</strong></p><p>The Loyang View Drama Club is a vibrant performing arts group that aims to build social confidence in young people and further their appreciation for the theatre. Members get to work on various aspects of a theatrical performance –acting and presenting, props and costume design and making, sound and stage management. Members participate in the biannual Singapore Youth Festival Presentation (Drama) and other school and external performances.</p><p><strong>Notable Past Achievements</strong></p><p><strong>2021</strong></p><ul data-tight="true" class="tight"><li><p>Awarded Certificate of Commendation at the Singapore Youth Festival Presentation (Drama)</p></li><li><p>Teachers’ Day Concert</p></li></ul><p><strong>2019</strong></p><ul data-tight="true" class="tight"><li><p>Awarded Certificate of Accomplishment at the Singapore Youth Festival Presentation (Drama)</p></li><li><p>Loyang View Extravangaza&nbsp;(LoVE) 2019 - The Bicentennial Edition</p></li><li><p>Teachers' Day Concert</p></li></ul><p><strong>2018</strong></p><ul data-tight="true" class="tight"><li><p>Participation in Human Values Drama Festival&nbsp;at Republic Polytechnic&nbsp;organised by&nbsp;Sri Sathya Sai Organisation of Singapore</p></li><li><p>Loyang View Extravaganza (LoVE) at Festive Arts Theatre</p></li></ul><p><strong>2017</strong></p><ul data-tight="true" class="tight"><li><p>Awarded Certificate of Accomplishment at the Singapore Youth Festival Presentation (Drama) (representing Loyang Secondary School)</p></li><li><p>Awarded Certificate of Commendation at the Singapore Youth Festival Presentation (Drama) (representing Greenview Secondary School</p></li></ul><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama1.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama2.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama3.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama4.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama5.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama6.jpeg"></div><p></p>
+<h1>Drama Club</h1>
+<p><strong>Training Schedule</strong>
+</p>
+<p>Thursdays : 2.30 to 5pm
+<br>Tuesdays : 3.30 to 5.30pm (Additional)</p>
+<p><strong>Teachers-in-charge</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Nelson Tum&nbsp; (OIC)&nbsp;</p>
+</li>
+<li>
+<p>Mdm&nbsp;Victoria Chang Ping Sze (2IC)&nbsp;</p>
+</li>
+<li>
+<p>Ms Suhailah</p>
+</li>
+</ul>
+<p><strong>Description</strong>
+</p>
+<p>The Loyang View Drama Club is a vibrant performing arts group that aims
+to build social confidence in young people and further their appreciation
+for the theatre. Members get to work on various aspects of a theatrical
+performance –acting and presenting, props and costume design and making,
+sound and stage management. Members participate in the biannual Singapore
+Youth Festival Presentation (Drama) and other school and external performances.</p>
+<p><strong>Notable Past Achievements</strong>
+</p>
+<p><strong>2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kaleidoscope – Performing Arts Showcase</p>
+</li>
+<li>
+<p>National Day Concert</p>
+</li>
+<li>
+<p>Teachers’ Day Concert</p>
+</li>
+</ul>
+<p><strong>2023</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Presentation (Drama) - Certificate of Commendation</p>
+</li>
+<li>
+<p>Racial Harmony Day</p>
+</li>
+<li>
+<p>Teachers’ Day Concert</p>
+</li>
+<li>
+<p>Performing Arts Showcase</p>
+</li>
+</ul>
+<p><strong>2021</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Awarded Certificate of Commendation at the Singapore Youth Festival Presentation
+(Drama)</p>
+</li>
+<li>
+<p>Teachers’ Day Concert</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA Drama/2024_Teachers__Day_Concert_2__1_.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA Drama/20240411_164327_1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA Drama/20231027_101251__1_.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA Drama/20230321_164201__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA Drama/IMG_20230321_WA0040__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA Drama/DRS94_24.jpg">
+</div>
+<p></p>
