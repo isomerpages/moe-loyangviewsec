@@ -64,12 +64,12 @@ in our dancers, passion in performance arts, resilience, tenacity, heightened
 responsibility and good fitness.</p>
 <p><strong>SIGNATURE/ KEY PROGRAMME FOR THE DEPARTMENT</strong>
 </p>
-<p>• Singapore Youth Festival</p>
-<p>• Dance Competitions</p>
-<p>• School performances - Morning assembly, Commendation day, etc.</p>
-<p>• External performances - Chinese New Year performance, Autumn Festival
-performance</p>
-<p>•&nbsp;Annual dance camp</p>
+<p>• Singapore Youth Festival
+<br>• Dance Competitions
+<br>• School performances - Morning assembly, Commendation day, etc.
+<br>• External performances - Chinese New Year performance, Autumn Festival
+performance
+<br>•&nbsp;Annual dance camp</p>
 <p><strong>Past Achievements</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SYF Arts Presentation
@@ -89,4 +89,6 @@ performance</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance4.jpeg">
 </div>
-<p></p>
+<p>
+<br>
+</p>
