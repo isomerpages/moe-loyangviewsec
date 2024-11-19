@@ -23,9 +23,50 @@ healthy, impactful lives both now and in the future.</p>
 <br>Mrs Josephine Neo
 <br>Mr Suhaimi Daud</p>
 <h2>Training Schedule for 2025</h2>
-<p>Mondays &nbsp;&nbsp;After-Lesson Running Programme
-<br>Tuesdays &nbsp;&nbsp;3:30 p.m. to 6 p.m.
-<br>Thursdays 2:30 p.m. to 6 p.m.
-<br>Saturdays &nbsp; 8:30 a.m. to 11:30 a.m.</p>
+<p>Mondays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After-Lesson
+Running Programme
+<br>Tuesdays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3:30 p.m. to 6 p.m.
+<br>Thursdays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2:30 p.m. to 6 p.m.
+<br>Saturdays &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8:30 a.m. to 11:30 a.m.</p>
+<h2>Signature Programmes</h2>
+<p>Youth Floorball League 2024 [ongoing]
+<br>Singapore Floorball League 2025
+<br>March 2D1N Bonding Camp
+<br>Year-End 3-Day Training Camp
+<br>Team-building Activities
+<br>National School Games
+<br>Miscellaneous Tournaments
+<br>(Red K.O., Pesta Sukan, etc.)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/National_School_Games_Photo_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/Friendly_Springfield_TrainingCamp2024.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/Friendly_SJI_TrainingCamp2024.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/EatingTogether_TrainingCamp2024.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/Bonding_Camp_Photo_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/Bonding_Camp_Photo_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/Bonding_Camp_Photo_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/Bonding_Camp_Photo_1.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
