@@ -63,8 +63,7 @@ Town Sport Climbing Competition.</summary>
 </details>
 </div>
 <p></p>
-<p><strong>TEACHERS-IN-CHARGE</strong>
-</p>
+<h4><strong>TEACHERS-IN-CHARGE</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -110,8 +109,7 @@ Town Sport Climbing Competition.</summary>
 </tbody>
 </table>
 <p></p>
-<p><strong>TRAINING SCHEDULE</strong>
-</p>
+<h4><strong>TRAINING SCHEDULE</strong></h4>
 <p>Tuesdays &amp; Thursdays (3:30 p.m to 5:30 p.m)</p>
 <p></p>
 <div class="isomer-card-grid">
