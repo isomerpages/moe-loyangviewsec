@@ -113,13 +113,13 @@ Hub, and the Pasir East Community Centre for its National Day Celebrations
 external workshops and band festivals such as attending the WBAS Band Student
 Leader Workshops and the WBAS Youth Band Festival.</p>
 <p></p>
-<h4>Rehearsal Schedule</h4>
+<h4>Band Training Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Main Band: Tuesdays &amp; Thursdays, 3.30 - 6pm</p>
+<p>Tuesday 3.30 - 6pm</p>
 </li>
 <li>
-<p>Junior Band: Tuesdays &amp; Wednesdays, 3.30 - 6pm</p>
+<p>Thursday 2.30 - 6pm</p>
 </li>
 </ul>
 <h4>Past Achievements</h4>
@@ -128,8 +128,8 @@ Leader Workshops and the WBAS Youth Band Festival.</p>
 <p>Singapore International Band Festival Competition (Division 2B) – Silver</p>
 </li>
 <li>
-<p>SYF Arts Presentation: Certificate of Accomplishment (2019) – Certificate
-of Accomplishment</p>
+<p>SYF Arts Presentation: Certificate of Accomplishment (2019, 2021 &amp;
+2023)</p>
 </li>
 </ul>
 <h4>Signature Programmes</h4>
