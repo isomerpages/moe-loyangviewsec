@@ -113,3 +113,36 @@ to foster team spirit and strong camaraderie in the team.</p>
 </div>
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/BB1_NOV2024.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/BB2_NOV2024.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/BB3_NOV2024.jpg">
+</div>
+<h4>Reflections</h4>
+<p>Being the Captain for B Division 2024 and next year 2025 I can say without
+a doubt that Loyang View’s basketball has improved over the 3 years I have
+been in this school. This is thanks to the amazing support the team gets
+from the teachers Mr. Clement, Mr. Chua, Mr. Melky and Coach Mao Hai Bin.
+They guided us to be the best basketball players that we can be. They make
+sure we give our all during CCA&nbsp; as well as care for us when we are
+feeling frustrated during games and trainings. Besides basketball, we have
+camps, barbecue and other enrichment activities that help bond the team
+together and create memories. My Goal for next year is that the team will
+persevere and be resilient in the face of difficulties so we can bring
+back a trophy for Loyang View Secondary school. When I step off as captain
+next year, I hope my juniors will still strive towards winning more trophies
+for Loyang View. Furthermore, I hope they grow a passion for the sport
+and aspire to play at a higher level even after secondary school. Basketball
+teaches you important lifelong values.</p>
+<p>David De Castro Sacro 3A1</p>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
