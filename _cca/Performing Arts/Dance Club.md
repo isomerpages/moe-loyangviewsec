@@ -5,4 +5,82 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h1>Dance Club</h1><p><strong>DEPARTMENT/ CCA STRUCTURE/ NAME WITH DESIGNATION</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>NAME</strong></p></th><th rowspan="1" colspan="1"><p><strong>DESIGNATION</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Gabriel Palai</p></td><td rowspan="1" colspan="1"><p>Overall Teacher IC</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Zubaidah</p></td><td rowspan="1" colspan="1"><p>2nd Overall Teacher IC</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Pyaree</p></td><td rowspan="1" colspan="1"><p>Teacher IC</p></td></tr></tbody></table><p><strong>ABOUT THE CCA</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance1.jpeg"></div><p>DanceVersity is a well-established group and has regularly featured in various school events. Since its founding, it has been dedicated to developing and nurturing students with interest and talent in dancing and to giving colours to school and community events. In recent years, the dance has matured steadily; they have been participating in major competitions such as Super24 and World Supremacy Battleground (WSB). The dance is committed to challenging itself to master different genres of dance under the guidance of its dance instructors, Ms JJ Chan, Mr Ryan Wein, and Mr Kelvin; and shall continue to strive for excellence in the field of dance.</p><p><strong>SIGNATURE/ KEY PROGRAMME FOR THE DEPARTMENT</strong></p><p>• Singapore Youth Festival</p><p>• Dance Competitions</p><p>• School performances - Morning assembly, Commendation day, etc.</p><p>• External performances - Chinese New Year performance, Autumn Festival performance</p><p>•&nbsp;Annual dance camp</p><p><strong>Past Achievements</strong></p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SYF Arts Presentation – Certificate of Distinction</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Super 24 – Finalists&nbsp;</p><p><strong>TIME AND DATE FOR THE CCA</strong></p><p>Thursday 3pm - 6pm</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance2.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance3.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance4.jpeg"></div><p></p>
+<h1>Dance Club</h1>
+<p><strong>DEPARTMENT/ CCA STRUCTURE/ NAME WITH DESIGNATION</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>NAME</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>DESIGNATION</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Gabriel Palai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overall Teacher IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zubaidah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Overall Teacher IC</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>ABOUT THE CCA</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance1.jpeg">
+</div>
+<p>DanceVersity is a well-established group and has regularly featured in
+various school events. Since its founding, it has been dedicated to developing
+and nurturing students with interest and talent in dancing and to giving
+colours to school and community events. In recent years, the dance has
+matured steadily; they have been participating in major competitions such
+as Super24 and World Supremacy Battleground (WSB). The dance is committed
+to challenging itself to master different genres of dance under the guidance
+of its dance instructors, Ms JJ Chan, Mr Ryan Wein, and Mr Kelvin; and
+shall continue to strive for excellence in the field of dance.</p>
+<p><strong>SIGNATURE/ KEY PROGRAMME FOR THE DEPARTMENT</strong>
+</p>
+<p>• Singapore Youth Festival</p>
+<p>• Dance Competitions</p>
+<p>• School performances - Morning assembly, Commendation day, etc.</p>
+<p>• External performances - Chinese New Year performance, Autumn Festival
+performance</p>
+<p>•&nbsp;Annual dance camp</p>
+<p><strong>Past Achievements</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SYF Arts Presentation
+– Certificate of Distinction</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Super 24 – Finalists&nbsp;</p>
+<p><strong>TIME AND DATE FOR THE CCA</strong>
+</p>
+<p>Thursday 3pm - 6pm</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance2.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance3.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance4.jpeg">
+</div>
+<p></p>
