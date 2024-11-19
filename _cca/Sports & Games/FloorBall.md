@@ -23,9 +23,8 @@ healthy, impactful lives both now and in the future.</p>
 <br>Mrs Josephine Neo
 <br>Mr Suhaimi Daud</p>
 <h2>Training Schedule for 2025</h2>
-<p>Mondays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After-Lesson
-Running Programme
-<br>Tuesdays &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3:30 p.m. to 6 p.m.
+<p>Mondays &nbsp;&nbsp;After-Lesson Running Programme
+<br>Tuesdays &nbsp;&nbsp;3:30 p.m. to 6 p.m.
 <br>Thursdays 2:30 p.m. to 6 p.m.
 <br>Saturdays &nbsp; 8:30 a.m. to 11:30 a.m.</p>
 <p></p>
