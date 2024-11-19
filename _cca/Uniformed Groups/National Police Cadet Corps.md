@@ -5,23 +5,21 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
-</div>
-<h1>National Police Cadet Corps</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC.jpeg">
-</div>
-<p><strong>Teachers-In-Charge</strong>
-</p>
+<h2><strong>Overview</strong></h2>
+<blockquote>
+<p>National Police Cadet Corps is the largest uniformed group for youths
+in Singapore. It is one of the National Uniformed Groups of Singapore alongside
+NCC and NCDCC.</p>
+</blockquote>
+<p></p>
+<h4><strong>Teachers-In-Charge</strong></h4>
 <p>OC Unit: Insp (NPCC) Chow Wei Yuan</p>
 <p>2IC: Insp (NPCC) Ahmad Ismail</p>
 <p>Insp (NPCC): Naeem Ahamed Ali Khan</p>
 <p>ASP (NPCC): Harry Wong (Advisor)</p>
 <p>Mr Norman Long Ser Wee</p>
 <p></p>
-<p><strong>Training Details</strong>
-</p>
+<h4><strong>Training Details</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -45,45 +43,48 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1530 – 1800</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NPCC Full Uniform</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1530 – 1800</p>
+<p>2.30 p.m – 6 p.m</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>NPCC Full Uniform</p>
+</li>
+<li>
 <p>PT Kit
 <br>(T-shirt with track pants)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>About NPCC</strong>
-</p>
-<p>National Police Cadet Corps is the largest uniformed group for youths
-in Singapore. It is one of the National Uniformed Groups of Singapore alongside
-NCC and NCDCC.</p>
-<p><strong>Mission and Vision</strong>
-</p>
-<p>The&nbsp;<strong>MISSION</strong>&nbsp;of the National Police Cadet Corps
+<p></p>
+<h4><strong>Mission and Vision</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>The&nbsp;<strong>MISSION</strong>&nbsp;of the National Police Cadet Corps
 is to develop our members to be active citizens and community leaders,
 by working in partnership with Singapore Police Force to fight crime and
-keep Singapore safe.</p>
-<p>The&nbsp;<strong>VISION</strong>&nbsp;of the National Police Cadet Corps
+keep Singapore safe.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>The&nbsp;<strong>VISION</strong>&nbsp;of the National Police Cadet Corps
 is to become the best youth organisation in Singapore, one that actively
-helps to make Singapore the safest place in the world.</p>
-<p><strong>NPCC Pledge</strong>
-</p>
+helps to make Singapore the safest place in the world.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong>NPCC Pledge</strong></h4>
 <p>We, the members of the National Police Cadet Corps, do here and now solemnly
 and sincerely pledge that:</p>
 <p>We will always bear true faith and allegiance to the President and our
