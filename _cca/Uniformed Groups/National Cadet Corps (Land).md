@@ -5,10 +5,32 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
+<h2><strong>Overview</strong></h2>
+<blockquote>
+<p>The Loyang View National Cadet Corps (Land) provides an overall great
+experience for all cadets to learn discipline and leadership skills, build
+self-confidence and teamwork through fun and exciting activities which
+includes the adventure course, paintball, repelling, flying fox, high rope
+elements, kayaking and camps.</p>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>We are the only CCA that gives cadets the opportunity to fire a SAR 21
+rifle with real bullets.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
-<h1>National Cadet Corps (Land)</h1>
+</details>
+<details class="isomer-details">
+<summary>On top of that, cadets also learn foot drills, arms drills, individual
+field craft and individual marksmanship training which are some of the
+fundamental activities that all NCC cadets are required to be proficient
+in so that they will be well-prepared for National Service.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p><strong>CCA TEACHERS</strong>
 </p>
 <table style="minWidth: 50px">
@@ -75,20 +97,16 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>ABOUT OUR CCA</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC.png">
 </div>
-<p><strong>Vision</strong>
-</p>
+<h4><strong>Vision</strong></h4>
 <p>Extraordinary Youth Leaders</p>
-<p><strong>Mission</strong>
-</p>
+<h4><strong>Mission</strong></h4>
 <p>To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous
 And Military-related Activities</p>
-<p><strong>NCC – Core Values</strong>
-</p>
+<h4><strong>NCC – Core Values</strong></h4>
 <p>Loyalty to country</p>
 <p>Uprightness</p>
 <p>Leadership</p>
@@ -111,32 +129,25 @@ to maintain a good level of physical fitness and adopt healthy eating habits.</p
 a strong sense of purpose to serve the cadet’s team, school and nation.
 Cadet learns passionately to develop cadet’s own abilities and proactively
 contributes towards wherever the cadet is.</p>
-<p><strong>ABOUT THE CCA</strong>
-</p>
-<p>The Loyang View National Cadet Corps (Land) provides an overall great
-experience for all cadets to learn discipline and leadership skills, build
-self-confidence and teamwork through fun and exciting activities which
-includes the adventure course, paintball, repelling, flying fox, high rope
-elements, kayaking and camps. We are the only CCA that gives cadets the
-opportunity to fire a SAR 21 rifle with real bullets. On top of that, cadets
-also learn foot drills, arms drills, individual field craft and individual
-marksmanship training which are some of the fundamental activities that
-all NCC cadets are required to be proficient in so that they will be well-prepared
-for National Service.</p>
+<p></p>
 <h3>Training Programme &amp; Schedule</h3>
 <hr>
+<ul data-tight="true" class="tight">
+<li>
 <p>NCC (Land) trainings are on Tuesday and Thursday afternoons, 3:30pm to
 5:30pm but may extend to 5:45pm for competition team preparations for Sports
 &amp; Games or Orienteering Competition etc.</p>
+</li>
+<li>
 <p>HQ NCC trainings (Technical Handling, Specialist Assessment, IMT, Live
 Range) may be scheduled on weekdays, 12:00pm to 5:00pm (6:00pm or later
 for cadet leaders’ Live Ranges) at various locations [eg. HQ NCC, Amoy
 Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
-<p>HQ NCC trainings (Technical Handling, Specialist Assessment, IMT, Live
-Range) may be scheduled on weekdays, 12:00pm to 5:00pm (6:00pm or later
-for cadet leaders’ Live Ranges) at various locations [eg. HQ NCC, Amoy
-Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
+</li>
+<li>
 <p>HQ NCC camps/courses are held at HQ NCC, Amoy Quee Camp (Yio Chu Kang):</p>
+</li>
+</ul>
 <p>for junior cadets: Camp FORGE,</p>
 <p>for senior cadets: Camp STEEL,</p>
 <p>for cadet leaders: Senior Specialist Leaders Course</p>
@@ -158,42 +169,15 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups NCC/Total_Defence_Badge_program_GOTC_card_game.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups NCC/Total_Defence_Badge_program_CPR.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups NCC/NCC_Passing_out_parade.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups NCC/NCC_Inter_school_Soccer_Tournament.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups NCC/NCC_Inter_school_Frisbee_Tournament.jpg">
-</div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups NCC/Laser_run_competition.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups NCC/Initiative_enrichment_program_saber_tag.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups NCC/Initiative_enrichment_program_laser_tag.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups NCC/Initiative_enrichment_program_combat_archery.jpg">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
