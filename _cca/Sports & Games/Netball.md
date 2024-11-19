@@ -306,4 +306,12 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 </div>
+<h4><strong>5. LVNB Team Bonding Activities 2024</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teachers_vs_Students_Netball_Game.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/seniorsfarewell.jpg">
+</div>
 <p></p>
