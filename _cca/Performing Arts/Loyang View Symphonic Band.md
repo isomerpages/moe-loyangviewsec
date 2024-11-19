@@ -111,7 +111,8 @@ Hub, and the Pasir East Community Centre for its National Day Celebrations
 &amp; the recent combined band showcase in SOTA.</p>
 <p>Our members also seek to develop their musicality by participating in
 external workshops and band festivals such as attending the WBAS Band Student
-Leader Workshops and the WBAS Youth Band Festival.&nbsp;</p>
+Leader Workshops and the WBAS Youth Band Festival.</p>
+<p></p>
 <h4>Rehearsal Schedule</h4>
 <ul data-tight="true" class="tight">
 <li>
