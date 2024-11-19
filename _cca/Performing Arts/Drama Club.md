@@ -74,11 +74,29 @@ Youth Festival Presentation (Drama) and other school and external performances.<
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA Drama/2024_Teachers__Day_Concert_2__1_.jpg">
+</div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA Drama/20240411_164327_1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA Drama/20231027_101251__1_.jpg">
+</div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA Drama/20230321_164201__1_.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA Drama/IMG_20230321_WA0040__1_.jpg">
+</div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA Drama/DRS94_24.jpg">
+</div>
 <p></p>
