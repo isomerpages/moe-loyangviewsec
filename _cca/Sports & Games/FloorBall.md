@@ -73,6 +73,9 @@ Running Programme
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/YouthFloorballLeague2024_Match1.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/National_Day_TeamPhoto_2024.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
