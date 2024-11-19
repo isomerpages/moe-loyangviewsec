@@ -379,9 +379,89 @@ deepening students’ commitment and rootedness to Singapore.</p>
 </div>
 </div>
 <hr>
-<h3>OEP Trip to Vietnam</h3>
-<hr>
+<h3>OEP Trip to Yogyakarta</h3>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vietnam.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Yogyakarta/OEP_Jogjakarta_Photo_1___Nurul_Farhana_Mohamed_Kassim.jpg">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Yogyakarta/OEP_Jogjakarta_Photo_2___Nurul_Farhana_Mohamed_Kassim.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Yogyakarta/OEP_Jogjakarta_Photo_3___Nurul_Farhana_Mohamed_Kassim.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Yogyakarta/OEP_Jogjakarta_Photo_4___Nurul_Farhana_Mohamed_Kassim.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Yogyakarta/OEP_Jogjakarta_Photo_5___Nurul_Farhana_Mohamed_Kassim.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Yogyakarta/OEP_Jogjakarta_Photo_8___Nurul_Farhana_Mohamed_Kassim.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Yogyakarta/OEP_Jogjakarta_Photo_9___Nurul_Farhana_Mohamed_Kassim.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="pic" src="/images/OEP/Yogyakarta/OEP_Jogjakarta_Photo_10___Nurul_Farhana_Mohamed_Kassim.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
+<hr>
 <p></p>
