@@ -158,12 +158,77 @@ deepening students’ commitment and rootedness to Singapore.</p>
 </div>
 </div>
 <hr>
+<h3>OEP Trip to South Korea</h3>
 <p></p>
-<h3>OEP Trip to Kuantan</h3>
-<hr>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kuantan.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Korea/OEP_SK_Photo_1_School_Visit_Incheon_Misong_Middle_School___Hui_Min_Lie.jpg">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">School Visit</div>
+<div class="isomer-card-description">Incheon Misong Middle School</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Korea/OEP_SK_Photo_2_School_Visit_Incheon_Misong_Middle_School___Hui_Min_Lie.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">School Visit</div>
+<div class="isomer-card-description">Incheon Misong Middle School</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Korea/OEP_SK_Photo_3_Industry_Visit_Seoul_Energy_Dream_Centre___Hui_Min_Lie.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Industry Visit</div>
+<div class="isomer-card-description">Seoul Energy Dream Centre</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Korea/OEP_SK_Photo_4_Industry_Visit_Arirang_TV___Hui_Min_Lie.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Industry Visit</div>
+<div class="isomer-card-description">Arirang TV</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Korea/OEP_SK_Photo_5_Cultural_Visit_Gyeongbokgung___Hui_Min_Lie.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cultural Visit</div>
+<div class="isomer-card-description">Gyeongbokgung</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/OEP/Korea/OEP_SK_Photo_6_Cultural_Visit_Gyeongbokgung___Hui_Min_Lie.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cultural Visit</div>
+<div class="isomer-card-description">Gyeongbokgung</div>
+</div>
+</div>
+</div>
+<hr>
 <h3>OEP Trip to Selangor</h3>
 <hr>
 <div class="isomer-image-wrapper">
