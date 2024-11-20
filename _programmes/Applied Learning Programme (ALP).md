@@ -4,9 +4,6 @@ permalink: /programmes/Applied-Learning-Programme-ALP/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
-</div>
 <h1>Applied Learning Programme (ALP)</h1>
 <h1>Programme Philosophy</h1>
 <p>Our Applied Learning Programme (ALP) helps students develop STEM skills
