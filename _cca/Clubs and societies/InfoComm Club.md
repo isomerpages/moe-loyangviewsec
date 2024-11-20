@@ -77,8 +77,8 @@ ad-hoc school events)</p>
 </div>
 <p></p>
 <p>Finalists at the Air land Conquest 2024 – Drone Maze Tournament</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CLUB INFOCOM/IFC4_NOV2024.jpg">
 </div>
-<p></p>
 <p></p>
