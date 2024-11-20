@@ -177,7 +177,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-link"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -187,7 +187,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-link"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -197,7 +197,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-link"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -207,7 +207,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-link"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -217,7 +217,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-link"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -227,7 +227,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-link"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -237,7 +237,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-link"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -247,7 +247,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-link"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -257,12 +257,14 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
+<div class="isomer-card-link"></div>
 </div>
 </div>
 </div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups NCC/NCC_Nov2024.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
