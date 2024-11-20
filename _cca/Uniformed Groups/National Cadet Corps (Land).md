@@ -176,9 +176,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Uniformed Groups NCC/Total_Defence_Badge_program_GOTC_card_game.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
+<div class="isomer-card-body"></div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -186,9 +184,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Uniformed Groups NCC/Total_Defence_Badge_program_CPR.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
+<div class="isomer-card-body"></div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -196,9 +192,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Uniformed Groups NCC/NCC_Passing_out_parade.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
+<div class="isomer-card-body"></div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -206,9 +200,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Uniformed Groups NCC/NCC_Inter_school_Soccer_Tournament.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
+<div class="isomer-card-body"></div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -216,9 +208,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Uniformed Groups NCC/NCC_Inter_school_Frisbee_Tournament.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
+<div class="isomer-card-body"></div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -226,9 +216,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Uniformed Groups NCC/Laser_run_competition.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
+<div class="isomer-card-body"></div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -236,9 +224,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Uniformed Groups NCC/Initiative_enrichment_program_saber_tag.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
+<div class="isomer-card-body"></div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -246,9 +232,7 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Uniformed Groups NCC/Initiative_enrichment_program_laser_tag.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
+<div class="isomer-card-body"></div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -256,13 +240,13 @@ Quee Camp (Yio Chu Kang), Pasir Laba Camp (Jurong), Nee Soon Camp (Yishun)].</p>
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Uniformed Groups NCC/Initiative_enrichment_program_combat_archery.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
+<div class="isomer-card-body"></div>
 </div>
 </div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups NCC/NCC_Nov2024.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
