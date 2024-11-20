@@ -9,8 +9,7 @@ variant: tiptap
 <p>With the emphasis on developing 21st&nbsp;Century Competencies in our
 students and to create an internationalisation experience for our students,
 Loyang View Secondary School organises trips to various countries as part
-of our signature Overseas Educational Program (OEP) for all Secondary 3
-students.</p>
+of our signature Overseas Educational Program (OEP) for Secondary 3 students.</p>
 </blockquote>
 <h3>The key objectives are:</h3>
 <ul data-tight="true" class="tight">
