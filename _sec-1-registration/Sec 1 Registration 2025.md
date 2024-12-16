@@ -1,6 +1,6 @@
 ---
-title: Sec 1 Registration 2024
-permalink: /sec-1-registration/sec1registration2024/
+title: Sec 1 Registration 2025
+permalink: /sec-1-registration/sec1registration2025/
 variant: tiptap
 description: ""
 ---
