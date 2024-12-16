@@ -124,14 +124,13 @@ the completed form to your child/ward’s Form Teacher by Tuesday, 7 January
 2025.
 <br>
 <br>Please click refer to MOE website (<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>)
-for more information on SBB.</p>
-<p>&nbsp;</p>
+for more information on SBB.
+<br>
+</p>
 <p>You may also contact Ms. Christina Chew, our SBB Coordinator for further
-clarification.</p>
-<p>&nbsp;</p>
-<p>Contact Details: 65821727 ext 198 or email chew_pei_jun_christina@moe.edu.sg</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+clarification.
+<br>
+<br>Contact Details: 65821727 ext 198 or email chew_pei_jun_christina@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
