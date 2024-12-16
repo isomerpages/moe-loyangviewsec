@@ -175,7 +175,6 @@ Languages Department: Contact Details: 65821727 ext 144 or email nurul_farhana_m
 <li>
 <p>Mr. Mohamed Nasir B Rahmat Ali, our Year Head Lower Secondary: Contact
 Details: 65821727 ext 122 or email mohamed_nasir@moe.edu.sg</p>
-<p></p>
 </li>
 </ul>
 </td>
@@ -186,108 +185,83 @@ Details: 65821727 ext 122 or email mohamed_nasir@moe.edu.sg</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>a) Book List</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>You may download the book list by clicking <a href="/sec-1-registration/permalink/2024sec1booklist/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>b) Online</strong>
-<br><strong>Purchase Details</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Website for online purchase:
-<br><a rel="noopener noreferrer nofollow" target="_blank">www.lvss.cascoedusupply.com.sg</a>
-</p>
-<p><u>Dates to Shop online: </u>
-<br>From 19/12/2023 to 25/12/2023
-<br>
-</p>
-<p>Online payment mode: PayNow and Credit Card</p>
-<p>&nbsp;Choose between ‘Home Delivery’ (recommended) or ‘Self-Collection’</p>
-<p>&nbsp;Delivery fee: $13.00 per location</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>c) Onsite Sales</strong>
-</p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Venue:
-<br>Loyang View Secondary School
-<br>12 Pasir Ris Street 11
-<br>Singapore 519073</p>
-<p></p>
-<p>For 2024 Sec 1, please refer to the dates and time below:</p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20 Dec 2023 to 22 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00am to 3.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00am to 12.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 Dec 2023 to 29 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00am to 3.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00am to 12.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>d) Exchange Details</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<p>School Bookshop Services</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students to exchange textbooks directly at school bookshop within 7 working
-days from date of purchase.</p>
+<p>Vendor Name: <strong>Casco Educational Supply Pte Ltd</strong>
+</p>
 </li>
 <li>
-<p>Please produce your receipt and booklist for verification.</p>
+<p>Tel: 624 0438 (Bookshop direct line) or</p>
 </li>
 <li>
-<p>Exchange Dates/Time: Please refer to the Dates/Time stated in the booklist.</p>
+<p>Tel: 6547 4204 (Office for General Enquiries relating to order status
+or technical issues with online order)</p>
 </li>
 <li>
-<p>Venue:
-<br>Loyang View Secondary School
-<br>12 Pasir Ris Street 11
-<br>Singapore 519073</p>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a>
+</p>
 </li>
 </ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
