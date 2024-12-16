@@ -205,7 +205,61 @@ or technical issues with online order)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
+<p>Link to S1 Textbook List
+<br>If your child/ward is purchasing his/her textbooks through our School
+Bookshop, please refer to the following information:
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Online Purchase Details</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Website for online purchase:<a href="http://www.cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.cascoedusupply.com.sg</a>
+</p>
+</li>
+<li>
+<p>Dates to Shop online: From 18 Dec 2024 to 25 Dec 2024</p>
+</li>
+<li>
+<p>Online payment mode: PayNow, GrabPay, ShopeePay and Credit Card</p>
+</li>
+<li>
+<p>Choose between ‘Home Delivery’ (recommended) or ‘Self-Collection’</p>
+</li>
+<li>
+<p>Delivery fee: $13.50 per location</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 <tr>
