@@ -78,11 +78,12 @@ to confirm that you are taking up the place at our school.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Orientation Programme</p>
+<p>&nbsp;Orientation Programme</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="/sec-1-registration/s10p2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access the Sec 1 Orientation Programme.</p>
+<p>We will provide the details via Parent Gateway (PG).</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
