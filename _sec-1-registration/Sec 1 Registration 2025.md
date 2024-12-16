@@ -114,27 +114,24 @@ assistance at 65821727 or email <a href="mailto:loyangview_ss@moe.edu.sg" rel="n
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject-Based Banding (SBB) Eligibility to take a subject at a higher
-course of study</p>
+<p>Subject-Based Banding (SBB)
+<br>Eligibility to take a subject at a higher course of study</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>If your child/ward is eligible for SBB, you will receive the form on the
-afternoon of Thursday, 20 December 2023 via Parents Gateway (PG) or email.</p>
-</li>
-<li>
-<p>Please respond to the form via YES / NO directly by <strong>26th December 2023</strong>.</p>
-</li>
-<li>
-<p>You may click <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on SBB.</p>
-</li>
-<li>
-<p>Our SBB Coordinator, Ms. Christina Chew, may be contacted for further
-clarificaation through 6582-1727 ext 198 or chew_pei_jun_christina@moe.edu.sg.</p>
-</li>
-</ul>
+afternoon of Thursday, 19 December 2024 via PG or email. Please return
+the completed form to your child/ward’s Form Teacher by Tuesday, 7 January
+2025.
+<br>
+<br>Please click refer to MOE website (<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>)
+for more information on SBB.</p>
+<p>&nbsp;</p>
+<p>You may also contact Ms. Christina Chew, our SBB Coordinator for further
+clarification.</p>
+<p>&nbsp;</p>
+<p>Contact Details: 65821727 ext 198 or email chew_pei_jun_christina@moe.edu.sg</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
