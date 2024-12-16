@@ -138,7 +138,7 @@ clarification.
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Enquiries relating to:</p>
+<p>Enquires relating to</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mother Tongue Language</p>
@@ -152,33 +152,32 @@ clarification.
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>You may also contact the following officers for further clarification.
-<br>For <strong><u>Mother Tongue Language matters</u></strong>:</p>
+<p>You may also contact the following officers for further clarification.</p>
+<p>&nbsp;</p>
+<p>For <strong>Mother Tongue Language matters</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm. Liu Yan, our Head of Department at 6582-1727 ext 119 or <a href="mailto:liu_yan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yan_a@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Ms. Farhana, our Subject Head at 6582-1727 ext 144 or <a href="mailto:nurul_farhana_mohamed_kassim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_farhana_mohamed_kassim@moe.edu.sg</a>.</p>
+<p>Mdm. Nurul Farhana Bte Mohd Kassim, our Subject Head of Mother Tongue
+Languages Department: Contact Details: 65821727 ext 144 or email nurul_farhana_mohamed_kass@moe.edu.sg</p>
 </li>
 </ul>
-<p>For <strong><u>PE/CCA</u></strong>  <strong><u>matters:</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr. Gabriel Wie, our Head of Department at 6582-1727 ext 215 or <a rel="noopener noreferrer nofollow" target="_blank">wie_chouw_siang@moe.edu.sg</a>;</p>
-</li>
-<li>
-<p>Mr. Raymond Tan, our Subject Head at 6582-1727 ext 213 or <a rel="noopener noreferrer nofollow" target="_blank">tan_siew_heng_raymond@moe.edu.sg</a>
-</p>
-</li>
-</ul>
-<p>For <strong><u>Special Needs matters:</u></strong>
-<br>Mr. Mohamed Nasir B Rahmat Ali, our Year Head Lower Secondary at 6582-1727
-ext 122 or <a rel="noopener noreferrer nofollow" target="_blank">mohamed_nasir@moe.edu.sg.</a>
-</p>
 <p></p>
+<p>For <strong>PE/CCA matters</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr. Gabriel Wie, our Head of Department: Contact Details: 65821727 ext
+118 or email <a href="mailto:wie_chouw_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wie_chouw_siang@moe.edu.sg</a>
+</p>
+</li>
+</ul>
+<p>&nbsp;For <strong>Special Needs matters</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr. Mohamed Nasir B Rahmat Ali, our Year Head Lower Secondary: Contact
+Details: 65821727 ext 122 or email mohamed_nasir@moe.edu.sg</p>
+<p></p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
