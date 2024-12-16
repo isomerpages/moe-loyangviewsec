@@ -94,32 +94,19 @@ to confirm that you are taking up the place at our school.</p>
 <p>Financial Assistance Scheme (FAS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>If your child is a new FAS applicant, you may either submit an online
-application form at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> or
-a hardcopy application form, which can be collected from the school General
-Office.</p>
-</li>
-<li>
-<p>You may refer to the website <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance/</a> for
+application form at <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> or a hardcopy
+application form, which can be collected from the school General Office.</p>
+<p>You may refer to the website <a href="https://www.moe.gov.sg/financial-matters/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance/</a> for
 information on MOE FAS.</p>
-</li>
-<li>
 <p>Please complete the form online or submit the hardcopy application with
-the required documents to your child/ward’s Form Teacher on Tuesday, 2
-January 2024.</p>
-</li>
-<li>
-<p><u>If your child is an approved FAS applicant</u>, you may bring your
-approved FAS letter to our school for our processing from Wednesday, 20
-December 2023 onwards.</p>
-</li>
-<li>
+the required documents to your child/ward’s Form Teacher on Thursday, 2
+January 2025.</p>
+<p>If your child is an approved FAS applicant, you may bring your approved
+FAS letter to our school for our processing from Thursday, 19 December
+2024 onwards.</p>
 <p>If you have other queries, you may also call our staff Ms Aida for further
-assistance at 65821727 or email <a rel="noopener noreferrer nofollow" target="_blank">loyangview_ss@moe.edu.sg</a>.</p>
-</li>
-</ul>
+assistance at 65821727 or email <a href="mailto:loyangview_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loyangview_ss@moe.edu.sg</a>.</p>
 </td>
 </tr>
 <tr>
