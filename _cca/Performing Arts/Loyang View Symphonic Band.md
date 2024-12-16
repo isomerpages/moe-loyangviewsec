@@ -57,16 +57,7 @@ Leader Workshops and the WBAS Youth Band Festival.</summary>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Pan Zhiwen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Main Band Consultant</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Fabian Lim</p>
+<p>Mr Shawn Yap</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +114,7 @@ Leader Workshops and the WBAS Youth Band Festival.</summary>
 <p>Tuesday 3.30 - 6pm</p>
 </li>
 <li>
-<p>Thursday 2.30 - 6pm</p>
+<p>Thursday 2.30 - 5pm</p>
 </li>
 </ul>
 <h3><strong>Past Achievements</strong></h3>
@@ -148,8 +139,8 @@ Leader Workshops and the WBAS Youth Band Festival.</summary>
 <p>Morning Assembly Performances&nbsp;</p>
 </li>
 <li>
-<p>Band Workshops conducted by WBAS and Yamaha Music Band Exchanges at Yuying
-Secondary School, and Meridian Secondary School</p>
+<p>Band Workshops conducted by WBAS and Music Band Exchanges at Yuying Secondary
+School, and Meridian Secondary School</p>
 </li>
 </ul>
 <hr>
