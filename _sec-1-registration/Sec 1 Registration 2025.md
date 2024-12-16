@@ -45,33 +45,20 @@ at our school.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Time to report: 7.25 a.m.</p>
-</li>
-<li>
-<p>Attire: Students may wear their Primary 6 school uniform if they have
-not purchased our school uniform.</p>
-</li>
-<li>
-<p>Items to bring: Notebook, stationery and water bottle.</p>
-</li>
-<li>
-<p>Where to report: Parade Square in the school. Our student councillors
-will be around to welcome you and guide your child/ward to the reporting
-venue.</p>
-</li>
-<li>
-<p>If your child/ward is unable to report to our school on Tuesday, 2 January
-2024, <strong>please contact our Sec 1 Year Head, Mr. Abu Sufyan Bin Bedin</strong>,
-to confirm that you are taking up the place at our school.
-<br>
-<br><strong>Mr. Abu Sufyan Bin Bedin,</strong>
-<br>Year Head, Secondary One
-<br>Contact Details: 65821727 ext. 121 or email <a href="abu_sufyan_bedin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abu_sufyan_bedin@schools.gov.sg</a>
-</p>
-</li>
-</ul>
+<p><strong>Time to report to School:</strong>	7.25 a.m.
+<br><strong>Dismissal Time:	12.30 </strong>p.m.
+<br><strong>Attire:</strong>	Students may wear their Primary 6 school uniform
+if they have not purchased our school uniform</p>
+<p>Items to bring Notebook, stationery and water bottle.</p>
+<p>Where to report: Parade Square in the school</p>
+<p>Our student councillors will be around to welcome you and guide your child/ward
+to the reporting venue.</p>
+<p>If your child/ward is unable to report to our school on Thursday, 2 January
+2025, please contact our Assistant Year Head, Ms Lim Mengrui Carol Joanne,
+to confirm that you are taking up the place at our school.</p>
+<p>Ms Lim Mengrui Carol Joanne</p>
+<p>Assistant Year Head, Lower Secondary</p>
+<p></p>
 </td>
 </tr>
 <tr>
