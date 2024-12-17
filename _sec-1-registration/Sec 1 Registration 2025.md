@@ -364,10 +364,6 @@ receipt and booklist for verification.</p>
 <br>If your child/ward is purchasing his/her School Uniform, please refer
 to the following information:</p>
 <p>&nbsp;</p>
-<p><a href="/files/Sec1 2025/Loyang_View_Secondary_School_2025___Uniform_Order_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Link to Uniform Price Information </a>
-<br>If your child/ward is purchasing his/her School Uniform, please refer
-to the following information:</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
