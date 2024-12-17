@@ -10,16 +10,16 @@ School. Their PSLE score must meet the school's cut-off point of the posting
 year. Transfer will be subject to available vacancies and the school’s
 admission criteria.</p>
 <p></p>
-<h4>Notes: </h4>
+<h4>Notes:</h4>
 <p>The personal information provided in this form will be solely used for
 the purpose of appealing for secondary school transfer based on non-medical
 reasons. For appeals based on medical reasons (serious medical conditions
 or severe physical impairments), please request through the posted school
 by 12pm on the following working day after the release of posting results.</p>
 <p></p>
-<p>The deadline for the submission of appeals is on <strong><u>27 December 2024, 12pm.</u></strong> 
+<p>The deadline for the submission of appeals is on <strong><u>27 December 2024, 12pm.</u></strong>
 </p>
-<p><strong>Late submission will not be allowed. </strong>
+<p><strong>Late submission will not be allowed.</strong>
 </p>
 <p></p>
 <p>Schools will not disclose reasons for selection / non-selection of students.</p>
