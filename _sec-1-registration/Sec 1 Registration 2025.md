@@ -222,7 +222,7 @@ Bookshop, please refer to the following information:
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Website for online purchase:<a href="http://www.cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.cascoedusupply.com.sg</a>
+<p>Website for online purchase: <a href="https://cascoedusupply.com.sg/" rel="noopener nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
 </li>
 <li>
