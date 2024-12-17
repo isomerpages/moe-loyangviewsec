@@ -338,7 +338,7 @@ receipt and booklist for verification.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>7</strong>
 </p>
 </td>
@@ -482,139 +482,15 @@ delivered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>§ Should there be a need, students may exchange uniforms directly at the
+<ul data-tight="true" class="tight">
+<li>
+<p>Should there be a need, students may exchange uniforms directly at the
 retail store within 14 days from the date of purchase (Asencio’s terms
 and condition applies.). Please produce your receipt for verification.</p>
-<p>&nbsp;</p>
-<p>§ Exchange of uniforms is only conducted at the retail store. Please call
+</li>
+<li>
+<p>Exchange of uniforms is only conducted at the retail store. Please call
 and make an appointment (Tel: 67643102)</p>
-<p>&nbsp;</p>
-<p>§ Venue:</p>
-<p>Asencio Pte Ltd</p>
-<p>120 Hillview Avenue,</p>
-<p>#05-02 Kewalram Hillview</p>
-<p>Singapore 669594</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>b) Online Purchase Details</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Website for online purchase: <a rel="noopener noreferrer nofollow" target="_blank">www.asencio.com.sg</a>
-</p>
-</li>
-<li>
-<p>Dates to Shop online: From 19 Dec 2023 onwards</p>
-</li>
-<li>
-<p>Online payment mode: PayNow<strong>,</strong> Debit Card and Credit Card</p>
-</li>
-<li>
-<p>Choose between ‘Home Delivery’ (recommended) or ‘Self-Collection’</p>
-</li>
-<li>
-<p>Delivery fee: $6.00 per location</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>c) Onsite Sales</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Venue:
-<br>Loyang View Secondary School
-<br>12 Pasir Ris Street 11
-<br>Singapore 519073</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20 Dec 2023 to 22 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00am to 3.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00am to 12.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 Dec 2023 to 29 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00am to 3.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00am to 12.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Alternatively, you may drop by their retail store to make the purchase
-directly.
-<br><strong>Asencio Pte Ltd</strong>
-<br>120 Hillview Avenue,
-<br>#05-02 Kewalram Hillview
-<br>Singapore 669594</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Weekdays : 9.00am to 5.00pm</p>
-</li>
-<li>
-<p>Saturdays : 9.00am to 1.00pm</p>
-</li>
-<li>
-<p>Sunday, PH Eve &amp; PH Closed</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>d) Exchange Details</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students to exchange uniforms directly at the retail store within 7 days
-from the date of purchase.&nbsp;</p>
-</li>
-<li>
-<p>Please produce your receipt for verification.</p>
-</li>
-<li>
-<p>Exchange of uniforms is only conducted at the retail store.</p>
-</li>
-<li>
-<p>Please call and make an appointment
-<br>(Tel: 6764-3102)</p>
 </li>
 <li>
 <p>Venue:
@@ -624,6 +500,11 @@ from the date of purchase.&nbsp;</p>
 <br>Singapore 669594</p>
 </li>
 </ul>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
