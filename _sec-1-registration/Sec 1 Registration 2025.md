@@ -466,13 +466,13 @@ delivered.</p>
 <br>Asencio Pte Ltd
 <br>120 Hillview Avenue,
 <br>#05-02 Kewalram Hillview
-<br>Singapore 669594</p>
+<br>Singapore 669594
+<br>
+<br>o&nbsp;&nbsp; Weekdays : 9.00am to 5.00pm
+<br>o&nbsp;&nbsp; Saturdays : 9.00am to 1.00pm
+<br>o&nbsp;&nbsp; Sunday, PH Eve &amp; PH Closed</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>o&nbsp;&nbsp; Weekdays : 9.00am to 5.00pm</p>
-<p>o&nbsp;&nbsp; Saturdays : 9.00am to 1.00pm</p>
-<p>o&nbsp;&nbsp; Sunday, PH Eve &amp; PH Closed</p>
 <p>&nbsp;</p>
 </td>
 </tr>
