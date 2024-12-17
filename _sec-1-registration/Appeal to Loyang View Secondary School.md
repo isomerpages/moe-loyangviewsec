@@ -18,6 +18,7 @@ reasons. For appeals based on medical reasons (serious medical conditions
 or severe physical impairments), please request through the posted school
 by 12pm on the following working day after the release of posting results.
 <br>
+<br>
 </p>
 </li>
 <li>
