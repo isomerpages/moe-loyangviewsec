@@ -203,8 +203,9 @@ or technical issues with online order)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec1 2025/Sec_1_Book_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Link to S1 Textbook List </a>
-<br>If your child/ward is purchasing his/her textbooks through our School
+<p><a href="/files/Sec1 2025/Sec_1_Book_List.pdf" rel="noopener nofollow" target="_blank">Link to Sec 1 Booklist</a>
+</p>
+<p>If your child/ward is purchasing his/her textbooks through our School
 Bookshop, please refer to the following information:
 <br>
 </p>
@@ -222,7 +223,7 @@ Bookshop, please refer to the following information:
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Website for online purchase:<a href="http://www.cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.cascoedusupply.com.sg</a>
+<p>Website for online purchase: <a href="https://cascoedusupply.com.sg/" rel="noopener nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
 </li>
 <li>
@@ -497,4 +498,4 @@ View Secondary School.
 </tr>
 </tbody>
 </table>
-<p>information:</p>
+<p></p>
