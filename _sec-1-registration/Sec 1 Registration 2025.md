@@ -203,6 +203,8 @@ or technical issues with online order)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Sec1 2025/Sec_1_Book_List.pdf" rel="noopener nofollow" target="_blank">Link to Sec 1 Booklist</a>
+</p>
 <p>If your child/ward is purchasing his/her textbooks through our School
 Bookshop, please refer to the following information:
 <br>
