@@ -208,25 +208,17 @@ or technical issues with online order)</p>
 Bookshop, please refer to the following information:
 <br>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<h4><strong>Online Purchase Details</strong></h4>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Online Purchase Details</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -250,9 +242,10 @@ Bookshop, please refer to the following information:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Onsite Sales</strong>
-</p>
+<h4><strong>Onsite Sales</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -261,26 +254,17 @@ Bookshop, please refer to the following information:
 </ul>
 <p><strong><u>For 2025 Sec 1</u></strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Dec 2024 to 20 Dec 2024
-<br>23 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>9.00 a.m. to 3.00 p.m.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>24 Dec 2024</p>
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>9.00 a.m. to 12.00 p.m.
 <br>
@@ -288,10 +272,6 @@ Bookshop, please refer to the following information:
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>26 Dec 2024 to 27 Dec 2024</p>
-<p>30 Dec 2024</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>9.00 a.m. to 3.00 p.m.</p>
 </td>
@@ -306,14 +286,15 @@ Bookshop, please refer to the following information:
 <br>Singapore 519073</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Exchange Details</strong>
-</p>
+<h4><strong>Exchange Details</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -363,22 +344,17 @@ receipt and booklist for verification.</p>
 <p><a href="/files/Sec1 2025/Loyang_View_Secondary_School_2025___Uniform_Order_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Link to Uniform Price Information </a>
 <br>If your child/ward is purchasing his/her School Uniform, please refer
 to the following information:</p>
-<p>&nbsp;</p>
-<p><a href="/files/Sec1 2025/Loyang_View_Secondary_School_2025___Uniform_Order_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Link to Uniform Price Information </a>
-<br>If your child/ward is purchasing his/her School Uniform, please refer
-to the following information:</p>
-<p>&nbsp;</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Online Purchase Details</strong>
-</p>
+<h4><strong>Online Purchase Details</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -406,9 +382,10 @@ delivered.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Onsite Sales</strong>
-</p>
+<h4><strong>Onsite Sales</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -471,16 +448,17 @@ delivered.</p>
 <br>o&nbsp;&nbsp; Weekdays : 9.00am to 5.00pm
 <br>o&nbsp;&nbsp; Saturdays : 9.00am to 1.00pm
 <br>o&nbsp;&nbsp; Sunday, PH Eve &amp; PH Closed</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Exchange Details</strong>
-</p>
+<h4><strong>Exchange Details</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
