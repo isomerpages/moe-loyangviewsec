@@ -34,7 +34,7 @@ variant: tiptap
 <p>Casco Educational Supply Pte Ltd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">www.lvss.cascoedusupply.com.sg</a>
+<p><a href="https://cascoedusupply.com.sg/" rel="noopener nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
 <p>Tel: 62140438 (Bookshop Direct Line)
 <br>Tel: 65474204 (Main Office for General Equiries)</p>
