@@ -498,9 +498,9 @@ and make an appointment (Tel: 67643102)</p>
 <br>120 Hillview Avenue,
 <br>#05-02 Kewalram Hillview
 <br>Singapore 669594</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 </tbody>
