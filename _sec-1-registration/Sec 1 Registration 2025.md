@@ -250,28 +250,10 @@ Bookshop, please refer to the following information:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Online Purchase Details</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Website for online purchase:<a href="http://www.cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.cascoedusupply.com.sg</a>
-</p>
-</li>
-<li>
-<p>&nbsp;Dates to Shop online: From 18 Dec 2024 to 25 Dec 2024</p>
-</li>
-<li>
-<p>&nbsp;Online payment mode: PayNow, GrabPay, ShopeePay and Credit Card</p>
-</li>
-<li>
-<p>Choose between ‘Home Delivery’ (recommended) or ‘Self-Collection’</p>
-</li>
-<li>
-<p>Delivery fee: $13.50 per location</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
