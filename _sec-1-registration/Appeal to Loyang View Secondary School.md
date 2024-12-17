@@ -20,8 +20,8 @@ Late submission will not be allowed.</p>
 <p></p>
 <p>3.Schools will not disclose reasons for selection / non-selection of students.</p>
 <p></p>
-<p>4.Students should still report to the posted secondary school on 2 January
-2025.</p>
+<p>4.Students should still report to the posted secondary school on <em>2 January 2025.</em>
+</p>
 <p></p>
 <p>5.The application is deemed to be unsuccessful if you do not hear from
 the school by<em> 2 January 2025.</em>
