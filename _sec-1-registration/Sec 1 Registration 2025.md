@@ -250,18 +250,82 @@ Bookshop, please refer to the following information:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Onsite Sales</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please refer to the dates and time below:</p>
+</li>
+</ul>
+<p><strong><u>For 2025 Sec 1</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Dec 2024 to 20 Dec 2024
+<br>23 Dec 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 a.m. to 3.00 p.m.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>24 Dec 2024</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9.00 a.m. to 12.00 p.m.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Dec 2024 to 27 Dec 2024</p>
+<p>30 Dec 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 a.m. to 3.00 p.m.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Venue:
+<br>Loyang View Secondary School
+<br>12 Pasir Ris Street 11
+<br>Singapore 519073</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Exchange Details</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>§ Should there be a need, students may exchange textbooks directly at
+school bookshop within 7 working days from date of purchase. Please produce
+your receipt and booklist for verification.</p>
+<p>&nbsp;</p>
+<p>§ Exchange Dates/Time: Please refer to the Dates/Time stated in the booklist.</p>
+<p>&nbsp;</p>
+<p>§ Venue:</p>
+<p>Loyang View Secondary School</p>
+<p>12 Pasir Ris Street 11</p>
+<p>Singapore 519073</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
