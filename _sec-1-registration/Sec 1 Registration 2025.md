@@ -280,7 +280,7 @@ Bookshop, please refer to the following information:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Dec 2024 to 26 Dec 2024
+<p>26 Dec 2024 to 27 Dec 2024
 <br>&amp; 30 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
