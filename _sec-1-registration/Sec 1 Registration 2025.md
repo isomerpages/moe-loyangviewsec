@@ -482,7 +482,4 @@ from the date of purchase.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>Link to S1 Textbook List</p>
-<p>&nbsp;</p>
-<p>If your child/ward is purchasing his/her textbooks through our School
-Bookshop, please refer to the following information:</p>
+<p>information:</p>
