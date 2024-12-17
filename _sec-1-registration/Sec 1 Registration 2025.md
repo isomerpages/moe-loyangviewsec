@@ -423,7 +423,7 @@ delivered.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>19 Dec 2024 to 20 Dec 2024
-<br>23 Dec 2024</p>
+<br>&amp; 23 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.00 a.m. to 3.00 p.m.</p>
@@ -441,7 +441,7 @@ delivered.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>26 Dec 2024 to 27 Dec 2024
-<br>30 Dec 2024</p>
+<br>&amp; 30 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.00 a.m. to 3.00 p.m.</p>
