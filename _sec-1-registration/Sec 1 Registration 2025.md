@@ -315,17 +315,22 @@ Bookshop, please refer to the following information:
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>§ Should there be a need, students may exchange textbooks directly at
-school bookshop within 7 working days from date of purchase. Please produce
-your receipt and booklist for verification.</p>
-<p>&nbsp;</p>
-<p>§ Exchange Dates/Time: Please refer to the Dates/Time stated in the booklist.</p>
-<p>&nbsp;</p>
-<p>§ Venue:</p>
-<p>Loyang View Secondary School</p>
-<p>12 Pasir Ris Street 11</p>
-<p>Singapore 519073</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Should there be a need, students may exchange textbooks directly at school
+bookshop within 7 working days from date of purchase. Please produce your
+receipt and booklist for verification.</p>
+</li>
+<li>
+<p>Exchange Dates/Time: Please refer to the Dates/Time stated in the booklist.</p>
+</li>
+<li>
+<p>Venue:
+<br>Loyang View Secondary School
+<br>12 Pasir Ris Street 11
+<br>Singapore 519073</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
