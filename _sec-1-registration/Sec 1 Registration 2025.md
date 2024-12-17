@@ -203,7 +203,7 @@ or technical issues with online order)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Link to S1 Textbook List
+<p><a href="/files/Sec1 2025/Sec_1_Book_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Link to S1 Textbook List </a>
 <br>If your child/ward is purchasing his/her textbooks through our School
 Bookshop, please refer to the following information:
 <br>
@@ -360,7 +360,7 @@ receipt and booklist for verification.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Link to Uniform Price Information
+<p><a href="/files/Sec1 2025/Loyang_View_Secondary_School_2025___Uniform_Order_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Link to Uniform Price Information </a>
 <br>If your child/ward is purchasing his/her School Uniform, please refer
 to the following information:</p>
 <p>&nbsp;</p>
