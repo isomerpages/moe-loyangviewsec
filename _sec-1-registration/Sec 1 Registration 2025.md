@@ -457,17 +457,18 @@ delivered.</p>
 <li>
 <p>Venue:
 <br>Loyang View Secondary School
-<br>12 Pasir Ris Street 11</p>
+<br>12 Pasir Ris Street 11
+<br>Singapore 519073</p>
+</li>
+<li>
+<p>Onsite Sales
+<br>Asencio Retail Store
+<br>Asencio Pte Ltd
+<br>120 Hillview Avenue,
+<br>#05-02 Kewalram Hillview
+<br>Singapore 669594</p>
 </li>
 </ul>
-<p>Singapore 519073</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>§ Onsite Sales at Asencio Retail Store</p>
-<p>Asencio Pte Ltd</p>
-<p>120 Hillview Avenue,</p>
-<p>#05-02 Kewalram Hillview</p>
-<p>Singapore 669594</p>
 <p>&nbsp;</p>
 <p>o&nbsp;&nbsp; Weekdays : 9.00am to 5.00pm</p>
 <p>o&nbsp;&nbsp; Saturdays : 9.00am to 1.00pm</p>
