@@ -255,26 +255,44 @@ Bookshop, please refer to the following information:
 </ul>
 <p><strong><u>For 2025 Sec 1</u></strong>
 </p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.00 a.m. to 3.00 p.m.</p>
+<p>19 Dec 2024 to 20 Dec 2024
+<br>&amp; 23 Dec 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 a.m to 3.00 p.m.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.00 a.m. to 12.00 p.m.
-<br>
-</p>
+<p>24 Dec 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 a.m to 12.00 p.m.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.00 a.m. to 3.00 p.m.</p>
+<p>26 Dec 2024 to 26 Dec 2024
+<br>&amp; 30 Dec 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 a.m to 3.00 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
