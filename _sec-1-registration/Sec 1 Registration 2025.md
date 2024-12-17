@@ -507,6 +507,16 @@ and make an appointment (Tel: 67643102)</p>
 </table>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>We appreciate your understanding and cooperation and look forward to working
+closely with you in the holistic development of your child/ward at Loyang
+View Secondary School.
+<br>
+</p>
+<p>Loyang View Secondary School</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>information:</p>
