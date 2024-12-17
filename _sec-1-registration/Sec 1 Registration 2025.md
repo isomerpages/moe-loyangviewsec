@@ -208,26 +208,18 @@ or technical issues with online order)</p>
 Bookshop, please refer to the following information:
 <br>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <td rowspan="1" colspan="1">
 <p><strong>Online Purchase Details</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Online Purchase Details</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -251,10 +243,6 @@ Bookshop, please refer to the following information:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Onsite Sales</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Please refer to the dates and time below:</p>
@@ -262,26 +250,17 @@ Bookshop, please refer to the following information:
 </ul>
 <p><strong><u>For 2025 Sec 1</u></strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Dec 2024 to 20 Dec 2024
-<br>23 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>9.00 a.m. to 3.00 p.m.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>24 Dec 2024</p>
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>9.00 a.m. to 12.00 p.m.
 <br>
@@ -289,10 +268,6 @@ Bookshop, please refer to the following information:
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>26 Dec 2024 to 27 Dec 2024</p>
-<p>30 Dec 2024</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>9.00 a.m. to 3.00 p.m.</p>
 </td>
@@ -314,6 +289,8 @@ Bookshop, please refer to the following information:
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -322,23 +299,13 @@ Bookshop, please refer to the following information:
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Exchange Details</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
