@@ -497,4 +497,4 @@ View Secondary School.
 </tr>
 </tbody>
 </table>
-<p>information:</p>
+<p></p>
