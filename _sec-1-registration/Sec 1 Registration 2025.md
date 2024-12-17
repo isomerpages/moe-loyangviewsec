@@ -215,8 +215,7 @@ Bookshop, please refer to the following information:
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Online Purchase Details</strong>
-</p>
+<h4><strong>Online Purchase Details</strong></h4>
 </td>
 </tr>
 <tr>
@@ -239,6 +238,11 @@ Bookshop, please refer to the following information:
 <p>Delivery fee: $13.50 per location</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Onsite Sales</strong></h4>
 </td>
 </tr>
 <tr>
@@ -282,27 +286,12 @@ Bookshop, please refer to the following information:
 <br>Singapore 519073</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<h4><strong>Exchange Details</strong></h4>
 </td>
 </tr>
 <tr>
@@ -355,18 +344,17 @@ receipt and booklist for verification.</p>
 <p><a href="/files/Sec1 2025/Loyang_View_Secondary_School_2025___Uniform_Order_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Link to Uniform Price Information </a>
 <br>If your child/ward is purchasing his/her School Uniform, please refer
 to the following information:</p>
-<p>&nbsp;</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Online Purchase Details</strong>
-</p>
+<h4><strong>Online Purchase Details</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -394,9 +382,10 @@ delivered.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Onsite Sales</strong>
-</p>
+<h4><strong>Onsite Sales</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -459,16 +448,17 @@ delivered.</p>
 <br>o&nbsp;&nbsp; Weekdays : 9.00am to 5.00pm
 <br>o&nbsp;&nbsp; Saturdays : 9.00am to 1.00pm
 <br>o&nbsp;&nbsp; Sunday, PH Eve &amp; PH Closed</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Exchange Details</strong>
-</p>
+<h4><strong>Exchange Details</strong></h4>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
