@@ -60,8 +60,9 @@ providers and then apply for hawker licence from the Singapore Food Agency
 </li>
 </ul>
 <h4><strong>Application Procedure</strong></h4>
-<p>Application form (as attached) must be completed and submitted soonest
-to our school’s General Office by 31 Dec 2024 with the following documents:</p>
+<p>Application form (click <a href="/files/Canteen/School_Application_for_canteen_stall.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download) must be completed and submitted soonest to our school’s General
+Office by <u>31 Dec 2024</u> with the following documents:</p>
 <p>(i) Proposed menu and pricing</p>
 <p>(ii) Photocopy of the applicant’s NRIC (front and back)</p>
 <p>(iii) Photocopy of relevant certificates such as Basic Food Hygiene, etc.</p>
