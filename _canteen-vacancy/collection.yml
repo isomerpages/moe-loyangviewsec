@@ -1,0 +1,4 @@
+collections:
+  canteen-vacancy:
+    output: true
+    order: []
