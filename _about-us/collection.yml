@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Canteen.md
       - Principal's Message.md
       - School Ethos/.keep
       - School Ethos/Vision.md
@@ -14,5 +13,6 @@ collections:
       - School Ethos/School Rules.md
       - School Organisation Chart.md
       - Prospectus.md
+      - School Canteen.md
       - Form Classes 2024.md
       - Contact Us.md
