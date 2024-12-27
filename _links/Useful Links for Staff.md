@@ -28,7 +28,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://intranet.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
+<p><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
 </p>
 </li>
 <li>
