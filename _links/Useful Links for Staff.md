@@ -43,6 +43,10 @@ variant: tiptap
 <p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System</a>
 </p>
 </li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/lvss-e-pd-hub?usp=sharing" rel="noopener nofollow" target="_blank">LVSS E³ PD Hub</a>
+</p>
+</li>
 </ul>
 <p></p>
 <p></p>
