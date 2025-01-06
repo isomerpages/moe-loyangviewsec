@@ -392,14 +392,13 @@ variant: tiptap
 <p>3E1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sim Lye Eng
-<br><a href="mailto:sim_lye_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_lye_eng@moe.edu.sg</a>
+<p>Josephine Oh
+<br><a href="mailto:oh_wan_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_wan_ping@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gwendolin Oi
-<br><a href="mailto:oi_sihui_gwendolin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oi_sihui_gwendolin@moe.edu.sg</a>
-</p>
+<p>Yee Kah Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -410,14 +409,16 @@ variant: tiptap
 <p>3E2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Elvina Abu Hasan
-<br><a href="mailto:elvina_abu_hasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elvina_abu_hasan@moe.edu.sg</a>
+<p>Lim Chiang Siew
+<br><a href="mailto:lim_chiang_siew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chiang_siew@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Clement Lim
-<br><a href="mailto:lim_jit_hui_clement@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jit_hui_clement@moe.edu.sg</a>
+<p>Norman Long
+<br><a href="mailto:long_ser_wee_norman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_ser_wee_norman@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -425,19 +426,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E3</p>
+<p>3A1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nelson Tum
-<br><a href="mailto:tum_cheong_kiong_nelson@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tum_cheong_kiong_nelson@moe.edu.sg</a>
+<p>Simon Lim</p>
+<p><a href="mailto:lim_seow_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_seow_leong@moe.edu.sg</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>Ram Pyaree
+<br><a href="mailto:ram_pyaree_taker_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ram_pyaree_taker_singh@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Suhaimi Daud
-<br><a href="mailto:suhaimi_daud@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhaimi_daud@moe.edu.sg</a>
+<p>Christina Chew
+<br><a href="mailto:chew\_pei_jun_christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_pei_jun_christina@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
