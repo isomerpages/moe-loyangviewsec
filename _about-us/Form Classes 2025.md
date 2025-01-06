@@ -4,7 +4,7 @@ permalink: /about-us/form-classes-2024/
 description: ""
 variant: tiptap
 ---
-<h1>Form Classes 2024</h1>
+<h1>Form Classes 2025</h1>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
