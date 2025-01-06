@@ -435,8 +435,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Ram Pyaree
+<p>Ram Pyaree
 <br><a href="mailto:ram_pyaree_taker_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ram_pyaree_taker_singh@moe.edu.sg</a>
 </p>
 </td>
