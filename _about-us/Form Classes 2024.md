@@ -679,9 +679,15 @@ variant: tiptap
 <p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ahmad Ismail
+<br><a href="mailto:ahmad_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_ismail@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Siti Nawal
+<br><a href="mailto:siti_nawal_hussein_mattar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nawal_hussein_mattar@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -693,6 +699,9 @@ variant: tiptap
 <p>5A1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Kok Shu Ling
+<br><a href="mailto:kok_shu_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kok_shu_ling@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
