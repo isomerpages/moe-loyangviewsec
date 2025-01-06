@@ -1,6 +1,6 @@
 ---
 title: Form Classes 2025
-permalink: /about-us/form-classes-2024/
+permalink: /about-us/form-classes/
 description: ""
 variant: tiptap
 ---
