@@ -78,15 +78,15 @@ variant: tiptap
 <p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rahul Rajasabhai
-<br><a href="mailto:rahul_rajasabhai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahul_rajasabhai@moe.edu.sg</a> 
-<br>
+<p>Nithia Devan
+<br><a href="mailto:nithia_devan_sahadevan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nithia_devan_sahadevan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Suhailah
-<br><a href="mailto:nur_suhailah_mohamed_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_suhailah_mohamed_nor@moe.edu.sg</a>
+<p>Nurasyikin
+<br><a href="mailto:nurasyikin_kassim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurasyikin_kassim@schools.gov.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
