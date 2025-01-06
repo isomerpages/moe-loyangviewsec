@@ -8,8 +8,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
 </div>
 <h2>School Organisation Chart</h2>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Org/SchoolLeaders%204.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Org/SLs_2025_modified.png">
 </div>
 <h3>Our School Leaders</h3>
 <hr>
@@ -47,10 +48,10 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Chor Hiang</p>
+<p>Mdm Tan Shao May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan_Chor_Hiang@schools.gov.sg</p>
+<p>Tan_Shao_May@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +111,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 1)</p>
+<p>Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abu Sufyan Bedin</p>
@@ -121,7 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 3)</p>
+<p>Year Head (Sec 4/5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Nasir B Rahmat Ali</p>
@@ -146,21 +147,10 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chew-Swee Mei Yein</p>
+<p>Mdm Norita Bte Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>swee_mei_yein@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD/ Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Liu Yan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>liu_yan_a@moe.edu.sg</p>
+<p>norita_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -168,10 +158,10 @@ variant: tiptap
 <p>HOD/ Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Premlatha Selvaraj</p>
+<p>Mr Lee Kah Wai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>premlatha_selvaraj@moe.edu.sg</p>
+<p>lee_kah_wai@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -352,7 +342,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 2)</p>
+<p>Assistant Year Head (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Carol Lim</p>
@@ -363,7 +353,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 4)</p>
+<p>Assistant Year Head (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nurul Imma Wong</p>
