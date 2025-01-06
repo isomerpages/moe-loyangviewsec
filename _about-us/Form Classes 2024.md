@@ -6,7 +6,13 @@ variant: tiptap
 ---
 <h1>Form Classes 2024</h1>
 <p></p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
@@ -36,17 +42,16 @@ variant: tiptap
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chow Wei Yuan
-<br><em><a href="mailto:%20chow_wei_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chow_wei_yuan@moe.edu.sg</u></a></em>
+<p>Nurzatushuhadah Mohd Razif
+<br><a href="mailto:nurzatushuhadah_binte_mohamed_razif@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurzatushuhadah_binte_mohamed_razif@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Victoria Chang
-<br><a href="mailto:%20chang_ping_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ping_sze@moe.edu.sg</a>
-</p>
+<p>Wennie Ang
+<br><a href="mailto:ang_woon_nee_wennie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_woon_nee_wennie@moe.edu.sg</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Agalya</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +165,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
@@ -315,7 +326,13 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
@@ -417,7 +434,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Nurul Farhana
-<br><a href="mailto:nurul_farhana_mohamed_kass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_farhana_mohamed_kass@moe.edu.sg</a> 
+<br><a href="mailto:nurul_farhana_mohamed_kass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_farhana_mohamed_kass@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -483,7 +500,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
