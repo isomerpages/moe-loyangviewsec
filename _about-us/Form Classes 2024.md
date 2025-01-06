@@ -472,9 +472,15 @@ variant: tiptap
 <p>3A3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Jacqueline Cheng
+<br><a href="mailto:cheng_su_ming_jacqueline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_su_ming_jacqueline@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Sharina Nadia Suleiman
+<br><a href="mailto:sharina_nadia_suleiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharina_nadia_suleiman@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -486,6 +492,9 @@ variant: tiptap
 <p>3T1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ian Tay
+<br><a href="mailto:tay_yuxiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_yuxiang@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
