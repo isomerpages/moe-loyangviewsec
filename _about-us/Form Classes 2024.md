@@ -498,6 +498,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ryan Tan
+<br><a href="mailto:tan_wei_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_ming@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
