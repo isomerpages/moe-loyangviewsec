@@ -264,9 +264,15 @@ variant: tiptap
 <p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Nur Suhailah
+<br><a href="mailto:nur_suhailah_mohamed_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_suhailah_mohamed_nor@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Rahul Rajasabhai
+<br><a href="mailto:rahul_rajasabhai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahul_rajasabhai@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -275,17 +281,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2A2</p>
+<p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Candice Seet
-<br><a href="mailto: candice_seet_siew_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> </a><em><a href="mailto: candice_seet_siew_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">candice_seet_siew_yan@moe.edu.sg</a></em>
+<p>Darien Chua
+<br><a href="mailto:chua_hong_yang_darien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hong_yang_darien@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wan Hanee
-<br><a href="mailto: wan_hanee_wan_iskandar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> </a><em><a href="mailto: wan_hanee_wan_iskandar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wan_hanee_wan_iskandar@moe.edu.sg</a></em>
+<p>Zubaidah
+<br><a href="mailto:zubaidah_mohd_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zubaidah_mohd_noor@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -293,43 +301,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2A3</p>
+<p>2E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lau Yuan Zhen
-<br><a href="mailto: lau_yuan_zhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> </a><em><a href="mailto: lau_yuan_zhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_yuan_zhen@moe.edu.sg</a></em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kamaruddin
-<br><a href="mailto: kamaruddin_mohd_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> </a><em><a href="mailto: kamaruddin_mohd_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamaruddin_mohd_ibrahim@moe.edu.sg</a></em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rabiatuladawiyah Binte Mohamed Razif
-<br><a href="mailto:rabiatuladawiyah_mohd_razif@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rabiatuladawiyah_mohd_razif@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2T1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ian Tay
-<br><a href="mailto: tay_yuxiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> </a><em><a href="mailto: tay_yuxiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_yuxiang@moe.edu.sg</a></em>
+<p>Azlina Kassim
+<br><a href="mailto:azlina_kassim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azlina_kassim@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chester Tan
-<br><a href="mailto: chester_tan_yue_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> </a><em><a href="mailto: chester_tan_yue_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chester_tan_yue_jun@moe.edu.sg</a></em>
+<p>Vong Suk Yi
+<br><a href="mailto:vong_suk_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vong_suk_yi@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ryan Tan
-<br><a href="mailto: tan_wei_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> </a><em><a href="mailto: tan_wei_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_ming@moe.edu.sg</a></em>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Karen Sing
+<br><a href="mailto:lai_siu_mey_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_siu_mey_karen@moe.edu.sg</a>
 </p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rayna Yun Jie
+<br><a href="mailto:rayna_yun_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rayna_yun_jie@moe.edu.sg</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
