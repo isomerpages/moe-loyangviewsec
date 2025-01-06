@@ -59,14 +59,15 @@ variant: tiptap
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Heng Ching Fei
-<br><em><a href="mailto:%20heng_ching_fei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>heng_ching_fei@moe.edu.sg</u></a></em>
+<p>Iliyasa Ong
+<br><a href="mailto:ong_lishen_iliyasa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lishen_iliyasa@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Siew Yian
-<br><a href="mailto:lee_siew_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_yan@moe.edu.sg</a>
+<p>Tan Wen Siu
+<br><a href="mailto:tan_wen_siu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wen_siu@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
