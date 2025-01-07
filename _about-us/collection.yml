@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Form Teachers Info/.keep
       - Principal's Message.md
       - School Ethos/.keep
       - School Ethos/Vision.md
