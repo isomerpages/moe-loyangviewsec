@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Form Teachers Info/Form Classes 2025.md
+      - Form Teachers Info/Sec 1 Form Classes 2025.md
       - Form Teachers Info/.keep
       - Principal's Message.md
       - School Ethos/.keep
