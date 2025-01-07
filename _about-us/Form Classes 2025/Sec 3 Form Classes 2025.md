@@ -36,7 +36,16 @@ third_nav_title: Form Classes 2025
 <td rowspan="1" colspan="1">
 <p>Josephine Oh
 <br><a href="mailto:oh_wan_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_wan_ping@moe.edu.sg</a>
-<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yee Kah Leong
+<br><a href="mailto:yee_kah_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_kah_leong@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
