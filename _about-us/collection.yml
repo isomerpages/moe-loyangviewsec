@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Form Classes 2025/Sec2 Form Classes 2025.md
       - Form Classes 2025/Sec 1 Form Classes 2025.md
       - Form Classes 2025/.keep
       - Principal's Message.md
