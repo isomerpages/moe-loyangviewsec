@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Form Classes 2025
 ---
-<h1>Sec 1 Form Classes 2025</h1>
+<h1>Sec 2 Form Classes 2025</h1>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
