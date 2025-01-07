@@ -8,16 +8,14 @@ third_nav_title: Form Classes 2025
 <h1>Sec 4 &amp; 5 Form Classes 2025</h1>
 <p></p>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="4">
+<th rowspan="1" colspan="2">
 <p></p>
 </th>
 </tr>
@@ -30,13 +28,6 @@ third_nav_title: Form Classes 2025
 <p><strong>Form Teacher</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -46,13 +37,6 @@ third_nav_title: Form Classes 2025
 <p>Dennis Lim
 <br><a href="mailto:dennis_lim_teck_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dennis_lim_teck_yong@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -65,12 +49,6 @@ third_nav_title: Form Classes 2025
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -80,14 +58,6 @@ third_nav_title: Form Classes 2025
 <p>Elvina Abu Hasan
 <br><a href="mailto:elvina_abu_hasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elvina_abu_hasan@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -100,12 +70,6 @@ third_nav_title: Form Classes 2025
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -115,13 +79,6 @@ third_nav_title: Form Classes 2025
 <p>Nelson Tum
 <br><a href="mailto:tum_cheong_kiong_nelson@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tum_cheong_kiong_nelson@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -134,12 +91,6 @@ third_nav_title: Form Classes 2025
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -149,12 +100,6 @@ third_nav_title: Form Classes 2025
 <p>Ganesan Thiruvalluvan
 <br><a href="mailto:ganesan_thiruvalluvan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ganesan_thiruvalluvan@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -167,12 +112,6 @@ third_nav_title: Form Classes 2025
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -182,13 +121,6 @@ third_nav_title: Form Classes 2025
 <p>Marhanim
 <br><a href="mailto:marhanim_abdullah_thani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marhanim_abdullah_thani@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -201,12 +133,6 @@ third_nav_title: Form Classes 2025
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -216,13 +142,6 @@ third_nav_title: Form Classes 2025
 <p>Suhaila Abdul Ghaffar
 <br><a href="mailto:suhaila_abdul_ghaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhaila_abdul_ghaffar@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -235,12 +154,6 @@ third_nav_title: Form Classes 2025
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -250,13 +163,6 @@ third_nav_title: Form Classes 2025
 <p>Ahmad Ismail
 <br><a href="mailto:ahmad_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_ismail@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -270,12 +176,6 @@ third_nav_title: Form Classes 2025
 <p></p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -287,20 +187,8 @@ third_nav_title: Form Classes 2025
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
