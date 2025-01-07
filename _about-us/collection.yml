@@ -2,11 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Form Classes 2025/.keep
-      - Form Classes 2025/Sec 1 Form Classes 2025.md
-      - Form Classes 2025/Sec 2 Form Classes 2025.md
-      - Form Classes 2025/Sec 3 Form Classes 2025.md
-      - Form Classes 2025/Sec 4 & 5 Form Classes 2025.md
       - Principal's Message.md
       - School Ethos/.keep
       - School Ethos/Vision.md
@@ -19,4 +14,9 @@ collections:
       - School Organisation Chart.md
       - Prospectus.md
       - School Canteen.md
+      - Form Classes 2025/.keep
+      - Form Classes 2025/Sec 1 Form Classes 2025.md
+      - Form Classes 2025/Sec 2 Form Classes 2025.md
+      - Form Classes 2025/Sec 3 Form Classes 2025.md
+      - Form Classes 2025/Sec 4 & 5 Form Classes 2025.md
       - Contact Us.md
