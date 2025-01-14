@@ -86,3 +86,97 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
+<p></p>
+<p><strong>At Loyang View Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+</p>
+<p><strong>Secondary 1</strong>
+</p>
+<p><strong>Secondary 2</strong>
+</p>
+<p><strong>Secondary 3</strong>
+</p>
+<p><strong>Secondary 4</strong>
+</p>
+<p><strong>Secondary 5</strong>
+</p>
+<p></p>
+<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
+by Health Promotion Board, in collaboration with the Ministry of Education,
+to provide Secondary 3 students with accurate information on STIs, HIV
+and protection from a health perspective. <em>eTeens</em> is conducted in
+two segments – a mass talk segment and a classroom-based programme. The
+desired outcome of the <em>eTeens</em> programme is that students are empowered
+to make wise, informed and sensible decisions.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
+as decision-making, assertiveness and negotiation to say “no” to sex and
+negative peer pressure. They also learn that the impact of STIs/HIV extends
+beyond themselves and involves their family, and the importance of responsible
+decision-making and seeking help. Abstinence and upholding family values
+are the key messages.</p>
+<p><strong>At Loyang View Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
+</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Topics/Lessons</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme Learning Objectives</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>(e.g. Term 3 Week 9)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mass Talk delivered through a pre-recorded video</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Raise awareness and provide knowledge on:</p>
+</li>
+</ul>
+<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
+it spreads, how to prevent infection mainly through ABC (abstinence, being
+faithful, correct, and consistent condom use).</p>
+<p>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
+healthy way.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Classroom-based Lesson</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 9</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
