@@ -18,7 +18,6 @@ and learning of SEd is based on respect for the values and beliefs of the
 different ethnic and religious communities in Singapore on sexuality issues.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
 Sexuality Education are to:</p>
-<p></p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
 students in managing their physiological, social and emotional changes
 as they grow up and develop safe and healthy relationships.</p>
