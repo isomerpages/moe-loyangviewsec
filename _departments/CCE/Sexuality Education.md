@@ -85,6 +85,7 @@ which are of prime concern at this age.</p>
 <p></p>
 <p><strong>At Loyang View Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
 </p>
+<p></p>
 <p><strong><a href="/files/CCE Matters/2025 Sed/Secondary1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a></strong>
 </p>
 <p><strong><a href="/files/CCE Matters/2025 Sed/Secondary2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a></strong>
