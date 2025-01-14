@@ -49,9 +49,7 @@ can harm and hurt you and your loved ones.
 </p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h3><strong>Overview of Loyang View Secondary School’s Sexuality Education Programme for 2025</strong></h3>
-<ol data-tight="true" class="tight">
-<li>
+<h3><strong>Overview of Loyang View Secondary School’s Sexuality Education Programme for 2025</strong><br></h3>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
@@ -63,8 +61,6 @@ information on the scope of Sexuality Education in the school curriculum.
 on sexuality include:
 <br>a.&nbsp;&nbsp;&nbsp; Science
 <br>b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
-</li>
-</ol>
 <h4><strong>Sexuality Education Lessons</strong>:</h4>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes of our
 youth towards sexuality are increasingly shaped by their peers, exposure
