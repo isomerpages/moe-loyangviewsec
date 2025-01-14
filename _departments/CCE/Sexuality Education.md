@@ -91,13 +91,13 @@ which are of prime concern at this age.</p>
 </p>
 <p><strong><a href="/files/CCE Matters/2025 Sed/Secondary1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a></strong>
 </p>
-<p><strong>Secondary 2</strong>
+<p><strong><a href="/files/CCE Matters/2025 Sed/Secondary2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a></strong>
 </p>
-<p><strong>Secondary 3</strong>
+<p><strong><a href="/files/CCE Matters/2025 Sed/Secondary3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a></strong>
 </p>
-<p><strong>Secondary 4</strong>
+<p><strong><a href="/files/CCE Matters/2025 Sed/Secondary4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a></strong>
 </p>
-<p><strong>Secondary 5</strong>
+<p><strong><a href="/files/CCE Matters/2025 Sed/Secondary5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a></strong>
 </p>
 <p></p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
