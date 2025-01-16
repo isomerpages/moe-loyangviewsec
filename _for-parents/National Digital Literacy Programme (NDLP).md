@@ -73,9 +73,7 @@ more information.</p>
 </p>
 <p>An online briefing for parents was held in earlier on 15th Jan 2025 to
 explain the details of the PLD.</p>
-<p>A copy of the slides used can be downloaded by clicking here.</p>
-<p>Parents who missed the above, may email <a href="mailto:loyangview_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loyangview_ss@moe.edu.sg</a> for
-the slides too.</p>
+<p>A copy of the slides used can be downloaded by clicking <a href="/files/ICT/PLD_Initiative_Slides_for_Sec_1_Parents_Webinar___2025_ver_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p><strong>PLD Resources for parents</strong>
 </p>
@@ -108,15 +106,10 @@ the school.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DMA5.png">
 </div>
 <p></p>
-<h4>Choice of DMA - Mobile Guardian</h4>
-<p>Mobile Guardian is the choice of DMA.</p>
+<h4>Choice of DMA - JAMF</h4>
+<p>JAMF is the choice of DMA.</p>
 <p>Please refer to the following guides with regards to the 3 options.</p>
-<p><a href="/files/PLD Matters/2024/PORI4___DMA_Parent_Guide_for_Default_Option__iPad__2_Sep_21.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Guide for DMA on Default Option</a>
-</p>
-<p><a href="/files/PLD Matters/2024/PORI5___DMA_Parent_Guide_for_Option_A__iPad__2_Sep_21.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Guide for DMA on Option A</a>
-</p>
-<p><a href="/files/PLD Matters/2024/PORI6___DMA_Parent_Guide_for_Option_B__iPad__2_Sep_21.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Guide for DMA on Option B</a>
-</p>
+<p></p>
 <p></p>
 <p>For any queries on PLD, please contact&nbsp;the HOD ICT, Mr Koe Soon Guan
 via&nbsp;koe_soon_guan@moe.edu.sg</p>
