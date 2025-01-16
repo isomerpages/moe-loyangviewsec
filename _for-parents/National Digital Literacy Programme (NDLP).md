@@ -109,7 +109,12 @@ the school.</p>
 <h4>Choice of DMA - JAMF</h4>
 <p>JAMF is the choice of DMA.</p>
 <p>Please refer to the following guides with regards to the 3 options.</p>
-<p></p>
+<p><a href="/files/ICT/IE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Default Option</a>
+</p>
+<p><a href="/files/ICT/IE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Option A</a>
+</p>
+<p><a href="/files/ICT/IE10_Parent_User_Guide_for_Option_B.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Option B</a>
+</p>
 <p></p>
 <p>For any queries on PLD, please contact&nbsp;the HOD ICT, Mr Koe Soon Guan
 via&nbsp;koe_soon_guan@moe.edu.sg</p>
