@@ -71,10 +71,9 @@ the MOE Financial Assistance Scheme. Please contact the school at 6582
 more information.</p>
 <p><strong>Briefing for Parents</strong>
 </p>
-<p>An online briefing for parents was held in earlier on 12th Jan 2024 to
+<p>An online briefing for parents was held in earlier on 15th Jan 2025 to
 explain the details of the PLD.</p>
-<p>A recording of the briefing and slides were forward to parents via Parents
-Gateway.</p>
+<p>A copy of the slides used can be downloaded by clicking here.</p>
 <p>Parents who missed the above, may email <a href="mailto:loyangview_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loyangview_ss@moe.edu.sg</a> for
 the slides too.</p>
 <p></p>
