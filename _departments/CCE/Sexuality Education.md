@@ -94,7 +94,7 @@ which are of prime concern at this age.</p>
 </p>
 <p><strong><a href="/files/CCE Matters/2025 Sed/Secondary4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a></strong>
 </p>
-<p><strong><a href="/files/CCE Matters/2025 Sed/Secondary5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a></strong>
+<p><strong><a href="/files/CCE Matters/2025 Sed/Sec_5_2025_SED_Lessons.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a></strong>
 </p>
 <p></p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
