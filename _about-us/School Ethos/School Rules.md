@@ -124,8 +124,9 @@ responsibility of all students.</p>
 <p>5.5&nbsp;&nbsp; Being punctual for lessons is expected.</p>
 <p>5.6&nbsp;&nbsp; All files and books must be brought home at the end of
 each school day.</p>
-<p>5.7&nbsp;&nbsp; Students' mobile phones must be placed in the students'
-pockets or in their bags during lessons. <strong>Misuse of mobile phones during lessons would lead to the confiscation of students' phones.</strong>
+<p>5.7&nbsp;&nbsp; All students are to put their mobile phones in their lockers
+during lesson.&nbsp; Students are only allowed to use their phones during
+recess, lunch, and after school. <strong>Misuse of mobile phones during lessons would lead to the confiscation of students’ phones.</strong>
 </p>
 <h3><strong><u>6. School Compound and Properties</u></strong></h3>
 <p>6.1&nbsp;&nbsp; The HOD room, staff rooms and staff toilets are out of
