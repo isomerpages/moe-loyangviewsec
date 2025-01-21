@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/Site Design/Hero_25thOct_2.jpg
       key_highlights:
-        - title: Sec 1 Registration 2025
-          description: ""
-          url: /sec-1-registration/sec1registration2025/
         - title: Announcements
           description: ""
           url: /Announcements/
