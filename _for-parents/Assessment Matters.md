@@ -2,101 +2,204 @@
 title: Assessment Matters
 permalink: /for-parents/assessmentmatters/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Assessment Matters
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Express Course &amp; Sec 5 Normal Academic Course</th>
-    <th colspan="2">Sec 1 - 4 Normal (Academic) Course</th>
-    <th colspan="2">Sec 1- 4 Normal (Technical) Course</th>
-  </tr>
-</thead>
+<h3>Assessment Matters</h3>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td>Grades</td>
-    <td>Marks</td>
-    <td>Grades</td>
-    <td>Marks</td>
-    <td>Grades</td>
-    <td>Marks</td>
-  </tr>
-  <tr>
-    <td>A1</td>
-    <td>75 &amp; Above</td>
-    <td>1</td>
-    <td>75 &amp; above</td>
-    <td>A</td>
-    <td>75 &amp; above</td>
-  </tr>
-  <tr>
-    <td>A2</td>
-    <td>70 – 74</td>
-    <td>2</td>
-    <td>70 – 74</td>
-    <td>B</td>
-    <td>70 – 74</td>
-  </tr>
-  <tr>
-    <td>B3</td>
-    <td>65 – 69</td>
-    <td>3</td>
-    <td>65 – 69</td>
-    <td rowspan="2">C</td>
-    <td rowspan="2">60 – 69</td>
-  </tr>
-  <tr>
-    <td>B4</td>
-    <td>60 – 64</td>
-    <td>4</td>
-    <td>60 – 64</td>
-  </tr>
-  <tr>
-    <td>C5</td>
-    <td>55 – 59</td>
-    <td rowspan="2">5</td>
-    <td rowspan="2">50 – 59</td>
-    <td rowspan="2">D</td>
-    <td rowspan="2">50 – 59</td>
-  </tr>
-  <tr>
-    <td>C6</td>
-    <td>50 – 54</td>
-  </tr>
-  <tr>
-    <td>D7</td>
-    <td>45 – 49</td>
-    <td rowspan="3"> <br>Ungraded</td>
-    <td> <br>0 – 49</td>
-    <td> <br>Ungraded</td>
-    <td> <br>0 – 49</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Express Course &amp; Sec 5 Normal Academic Course</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Sec 3 - 4 Normal (Academic) Course</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Sec 3- 4 Normal (Technical) Course</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Grades</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grades</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grades</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>75 &amp; Above</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>75 &amp; above</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>75 &amp; above</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>70 – 74</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>70 – 74</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>70 – 74</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65 – 69</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65 – 69</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>C</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>60 – 69</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>60 – 64</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>60 – 64</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>55 – 59</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>50 – 59</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>D</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>50 – 59</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50 – 54</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>D7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>45 – 49</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>Ungraded</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>0 – 49</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>Ungraded</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>0 – 49</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-
-
-
-
-#### Grading of Non-Examination Subjects 
-**A**&nbsp;&nbsp;&nbsp;&nbsp; Has very good knowledge and skills in the subject
-
-**B**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has good knowledge and skills in the subject
-
-**C**&nbsp;&nbsp;&nbsp;&nbsp; Has adequate knowledge and skills in the subject 
-
-**D**&nbsp;&nbsp;&nbsp;&nbsp; Has some knowledge and skills in the subject
-
-#### Weighted Assessment Matters
-
-
-[Sec 1 2024 Assessment Information](/files/Exam%20Related%20Matters/2024/WA_Info__Sec_1_2024_Letter_to_Parents_Final.pdf)
-
-[Sec 2 2024 Assessment Information](/files/Exam%20Related%20Matters/2024/WA_Info__Sec_2_2024_Letter_to_Parents_Final.pdf)
-
-[Sec 3 2024 Assessment Information](/files/Exam%20Related%20Matters/2024/WA_Info__Sec_3_2024_Letter_to_Parents_Final.pdf)
-
-[Sec 4&amp;5 2024 Assessment Information](/files/Exam%20Related%20Matters/2024/WA_Info__Sec_4_5_2024_Letter_to_Parents_Final.pdf)
+<h4>Grading of Non-Examination Subjects</h4>
+<p><strong>A</strong>&nbsp;&nbsp;&nbsp;&nbsp; Has very good knowledge and
+skills in the subject</p>
+<p><strong>B</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Has good knowledge and
+skills in the subject</p>
+<p><strong>C</strong>&nbsp;&nbsp;&nbsp;&nbsp; Has adequate knowledge and
+skills in the subject</p>
+<p><strong>D</strong>&nbsp;&nbsp;&nbsp;&nbsp; Has some knowledge and skills
+in the subject</p>
+<h4>Weighted Assessment Matters</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Assessment letters/2025/Sec_1_Assessment_Information_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Assessment Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Assessment letters/2025/Sec_2_Assessment_Information_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Assessment Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Assessment letters/2025/Sec_3_Assessment_Information_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Assessment Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Assessment letters/2025/Sec_4_5_Assessment_Information_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4/5 Assessment Information</a>
+</p>
+</li>
+</ol>
+<p></p>
