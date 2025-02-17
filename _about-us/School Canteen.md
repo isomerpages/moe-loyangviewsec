@@ -25,7 +25,7 @@ description: ""
 <p>Muslim Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday, 31 Dec 2024</p>
+<p>Friday, 28 March 2025</p>
 </td>
 </tr>
 </tbody>
