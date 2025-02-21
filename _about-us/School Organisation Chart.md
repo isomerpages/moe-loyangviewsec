@@ -254,17 +254,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/ PE &amp; CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Raymond Tan Siew Heng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_siew_heng_raymond@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
