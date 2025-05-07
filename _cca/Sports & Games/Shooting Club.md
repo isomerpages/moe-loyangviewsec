@@ -1,37 +1,22 @@
 ---
-title: Air Rifle Club
-permalink: /co-curricular-activities/Sports-and-Games/air-rifle-club/
+title: Shooting Club
+permalink: /co-curricular-activities/sports-and-games/shooting-club/
 description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h1>Shooting Club</h1>
-<h3><strong>Overview</strong></h3>
-<blockquote>
-<p>LVSS Air Rifle Club consists of about 35 student shooters who are passionate
+<h4><strong>Overview</strong></h4>
+<p>LVSS Shooting Club consists of about 35 student shooters who are passionate
 about shooting. They are committed and dedicated to trainings and are always
 enthusiastic about improving their skills for every training session. The
 club aims to develop our shooters’ mastery in their marksmanship, leadership,
 physical fitness as well as character.&nbsp;</p>
-<p></p>
-</blockquote>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>In addition, we aim to develop focused, robust and resilient students
-for the sport and their own lives through various activities.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Finally, the club also aims to bring out the champion in every shooter.&nbsp;</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<h4><br><strong>Club’s Vision:</strong></h4>
-<p>Air Rifle Club is a club where athletes excel in the sport and character.&nbsp;</p>
+<p>In addition, we aim to develop focused, robust and resilient students
+for the sport and their own lives through various activities.</p>
+<p>Finally, the club also aims to bring out the champion in every shooter.&nbsp;</p>
+<h4><strong>Club’s Vision:</strong></h4>
+<p>Shooting Club is a club where athletes excel in both sport and character.&nbsp;</p>
 <h4><strong>Teachers-in-charge:</strong>&nbsp;</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,7 +26,10 @@ for the sport and their own lives through various activities.</summary>
 <p>Mdm Lee Siew Yian</p>
 </li>
 <li>
-<p>Mr Azhar</p>
+<p>Mr Noor Azhar</p>
+</li>
+<li>
+<p>Mr Aaron Yeo</p>
 </li>
 </ul>
 <h4><strong>Coach</strong></h4>
@@ -71,9 +59,8 @@ for the sport and their own lives through various activities.</summary>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3><strong>Competitions</strong></h3>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>NUS Invitational Shoot (February)</p>
 </li>
