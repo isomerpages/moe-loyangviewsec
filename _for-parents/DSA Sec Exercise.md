@@ -76,7 +76,7 @@ trial with shortlisted applicants from&nbsp;<strong>1 July 2025 to 28 August 202
 <p><strong>Outcome of Application</strong>
 </p>
 <p>All applicants will be informed of the results of their DSA-Sec application
-through a letter by&nbsp;<strong>4 September 2025.</strong>
+through a letter by&nbsp;between&nbsp;<strong>25 August and 4 September 2025.</strong>
 </p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
