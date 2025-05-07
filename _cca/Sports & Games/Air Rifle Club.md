@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<h1>Air Rifle Club</h1>
+<h1>Shooting Club</h1>
 <h3><strong>Overview</strong></h3>
 <blockquote>
 <p>LVSS Air Rifle Club consists of about 35 student shooters who are passionate
