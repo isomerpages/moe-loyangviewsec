@@ -21,6 +21,8 @@ abilities to the fullest and encourage student voice.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/EL/Poetry_Slam_photo1___Tsui_Fen_Yong.jpg">
 </div>
+<p><strong>Poetry Slam e-book 2025: </strong><a href="https://go.gov.sg/poetryslam-ebook2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/poetryslam-ebook2025</a>
+</p>
 <p>As an extension of the Secondary One English Language and Literature curriculum,
 all Secondary One students participate in the Poetry Slam programme to
 compose and perform original poems of their own. The programme culminates
