@@ -15,7 +15,12 @@ variant: tiptap
 and O-Level Preliminary Examinations Timetable.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 4E5N:</p>
+<p>Sec 4E5N: <a href="/files/Exam Related Matters/2025/2025_LVSS_Sec_4E5N_Prelim_Exam_TT_Final.pdf" rel="noopener nofollow" target="_blank">2025_LVSS_4E5N_Prelim_Exam_TT</a>
+</p>
+</li>
+<li>
+<p>Sec 4N: <a href="/files/Exam Related Matters/2025/2025_LVSS_Sec_4N_Prelim_Exam_TT_Final.pdf" rel="noopener nofollow" target="_blank">2025_LVSS_Sec_4N_Prelim_Exam_TT</a>
+</p>
 </li>
 </ul>
 <p></p>
