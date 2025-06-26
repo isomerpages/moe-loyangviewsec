@@ -5,6 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Class Timetables</strong></h2>
+<h3><strong>2025 Term 3 Week 1 Timetable</strong></h3>
+<p>Students will be embarking on a special Shine On timetable for 1st week
+of Term 3.</p>
+<p>Click</p>
+<p></p>
+<p></p>
 <h3><strong>2025 Term 1 Timetable</strong></h3>
 <p><em><u>Sec 1 and 2 students</u> </em>will have received the hard copy
 of their Individual Student Timetable from their form teachers from 2nd
