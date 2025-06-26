@@ -8,7 +8,12 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://vle.learning.moe.edu.sg/class-group/view/f4c3c753-d095-4c49-95a3-809076d944c8?tab=resources" rel="noopener nofollow" target="_blank">LV E<sup>3</sup> PD Community (hosted in SLS)</a>
+<p><a href="https://vle.learning.moe.edu.sg/class-group/view/f4c3c753-d095-4c49-95a3-809076d944c8?tab=resources" rel="noopener nofollow" target="_blank">LVSS E<sup>3</sup> PD Community (</a><strong><a href="https://vle.learning.moe.edu.sg/class-group/view/f4c3c753-d095-4c49-95a3-809076d944c8?tab=resources" rel="noopener nofollow" target="_blank">in SLS</a></strong>
+<a href="https://vle.learning.moe.edu.sg/class-group/view/f4c3c753-d095-4c49-95a3-809076d944c8?tab=resources" rel="noopener nofollow" target="_blank">)</a>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/lvss-e-pd-hub?usp=sharing" rel="noopener nofollow" target="_blank">LVSS E³ PD Hub</a>
 </p>
 </li>
 <li>
@@ -46,10 +51,7 @@ variant: tiptap
 <li>
 <p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System</a>
 </p>
-</li>
-<li>
-<p><a href="https://sites.google.com/moe.edu.sg/lvss-e-pd-hub?usp=sharing" rel="noopener nofollow" target="_blank">LVSS E³ PD Hub</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
