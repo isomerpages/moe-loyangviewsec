@@ -6,10 +6,11 @@ variant: tiptap
 ---
 <h2><strong>Class Timetables</strong></h2>
 <h3><strong>2025 Term 3 Week 1 Timetable</strong></h3>
-<p>Students will be embarking on a special Shine On timetable for 1st week
-of Term 3.</p>
-<p>Click</p>
-<p></p>
+<p>The school will be embarking on a special Shine On timetable for <strong><u>1st week of Term 3.</u></strong>
+</p>
+<p>Click <a href="/files/CLASSES TT/Classes_2025_Shine_On_2__T3W1__V6.pdf" rel="noopener nofollow" target="_blank">here </a>to
+download the timetable.</p>
+<hr>
 <p></p>
 <h3><strong>2025 Term 1 Timetable</strong></h3>
 <p><em><u>Sec 1 and 2 students</u> </em>will have received the hard copy
