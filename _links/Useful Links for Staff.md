@@ -8,6 +8,10 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://vle.learning.moe.edu.sg/class-group/view/f4c3c753-d095-4c49-95a3-809076d944c8?tab=resources" rel="noopener nofollow" target="_blank">LV E<sup>3</sup> PD Community (hosted in SLS)</a>
+</p>
+</li>
+<li>
 <p><a href="https://idm.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
 </p>
 </li>
