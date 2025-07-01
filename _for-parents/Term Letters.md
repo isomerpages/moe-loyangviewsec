@@ -13,10 +13,7 @@ variant: tiptap
 <li>
 <p><strong><a href="/files/Term Letters/2025/Term_2_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Letter</a></strong>
 </p>
-</li>
-<li>
-<p><strong><a href="/files/2025_Semester_2_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter</a></strong>
-</p>
+<p></p>
 </li>
 </ul>
 <h2>Term Letters 2024</h2>
