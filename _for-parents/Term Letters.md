@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Semester_2_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter</a>
+<p><strong><a href="/files/2025_Semester_2_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter</a></strong>
 </p>
 </li>
 </ul>
