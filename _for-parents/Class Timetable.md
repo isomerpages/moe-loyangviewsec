@@ -5,6 +5,57 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Class Timetables</strong></h2>
+<h3><strong>2025 Term 3 Week 2-3 Timetable</strong></h3>
+<p>Term 3 Week 2-3 timetable can be downloaded below.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Sec 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sec 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/CLASSES TT/2025/Sec1_2025_Term_3_as_of_1st_Jul.pdf" rel="noopener nofollow" target="_blank">Sec1_2025_Term3-Week2-3</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/CLASSES TT/2025/Sec2_2025_Term_3_as_of_1st_Jul.pdf" rel="noopener nofollow" target="_blank">Sec2_2025_Term3-Week2-3</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 4 / 5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/CLASSES TT/2025/Sec3_2025_Term_3_as_of_1st_Jul.pdf" rel="noopener nofollow" target="_blank">Sec3_2025_Term3-Week2-3</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/CLASSES TT/2025/Sec4_5_2025_Term_3_as_of_1st_Jul.pdf" rel="noopener nofollow" target="_blank">Sec4-5_2025_Term3-Week2-3</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>There will be a new timetable from Week 4 onwards due to some lesson reshuffling.</em>
+</p>
+<hr>
 <h3><strong>2025 Term 3 Week 1 Timetable</strong></h3>
 <p>The school will be embarking on a special Shine On timetable for <strong><u>1st week of Term 3.</u></strong>
 </p>
