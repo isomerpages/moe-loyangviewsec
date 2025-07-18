@@ -8,9 +8,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
 </div>
 <h2>School Organisation Chart</h2>
-<h3></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Org/SLs_2025_modified.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Org/SLs_2nd_Sem_2025.png">
 </div>
 <h3>Our School Leaders</h3>
 <hr>
