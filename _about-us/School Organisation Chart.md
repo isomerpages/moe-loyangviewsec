@@ -10,7 +10,7 @@ variant: tiptap
 <h2>School Organisation Chart</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Org/SLs_2nd_Sem_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Org/4_SLs___2nd_Sem_2025.png">
 </div>
 <h3>Our School Leaders</h3>
 <hr>
