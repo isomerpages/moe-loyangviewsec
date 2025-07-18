@@ -65,6 +65,17 @@ variant: tiptap
 <p>Saadiah_Wylde@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Adeline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liew_xue_ting_adeline@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Our Head of Departments</h3>
