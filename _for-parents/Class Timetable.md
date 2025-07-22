@@ -51,6 +51,7 @@ variant: tiptap
 </table>
 <p><em>There timetable will take place from Term 3 Week 4 onwards.</em>
 </p>
+<hr>
 <p></p>
 <h3><strong>2025 Term 3 Week 2-3 Timetable</strong></h3>
 <p>Term 3 Week 2-3 timetable can be downloaded below.</p>
