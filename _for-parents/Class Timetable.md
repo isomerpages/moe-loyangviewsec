@@ -5,6 +5,53 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Class Timetables</strong></h2>
+<h3><strong>2025 Term 3 Week 4 Timetable</strong></h3>
+<p>Term 3 Week 4 timetable can be downloaded below.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Sec 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sec 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 4 / 5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>There timetable will take place from Term 3 Week 4 onwards.</em>
+</p>
+<p></p>
 <h3><strong>2025 Term 3 Week 2-3 Timetable</strong></h3>
 <p>Term 3 Week 2-3 timetable can be downloaded below.</p>
 <table style="minWidth: 50px">
