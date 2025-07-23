@@ -23,10 +23,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/CLASSES TT/2025/Sec_1_2025_Term_3W4_23rdJul.pdf" rel="noopener nofollow" target="_blank">Sec 1 2025 Term 3 Week 4 TT-23rdJul</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/CLASSES TT/2025/Sec_2_2025_Term_3W4_23rdJul.pdf" rel="noopener nofollow" target="_blank">Sec 2 2025 Term 3 Week 4 TT-23rdJul</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -41,10 +43,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/CLASSES TT/2025/Sec_3_2025_Term_3W4_23rdJul.pdf" rel="noopener nofollow" target="_blank">Sec 3 2025 Term 3 Week 4 TT-23rdJul</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/CLASSES TT/2025/Sec_4_5_2025_Term_3W4_23rdJul.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5_2025 Term 3 Week 4 TT-23rdJul</a>
+</p>
 </td>
 </tr>
 </tbody>
