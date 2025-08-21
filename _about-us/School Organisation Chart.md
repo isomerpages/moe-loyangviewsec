@@ -10,7 +10,7 @@ variant: tiptap
 <h2>School Organisation Chart</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Org/4_SLs___2nd_Sem_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Org/SLs_2nd_Sem_2025.png">
 </div>
 <h3>Our School Leaders</h3>
 <hr>
@@ -59,21 +59,10 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Saadiah Wylde</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Saadiah_Wylde@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Adeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liew_xue_ting_adeline@schools.gov.sg</p>
+<p>Liew_Xue_Ting_Adeline@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
