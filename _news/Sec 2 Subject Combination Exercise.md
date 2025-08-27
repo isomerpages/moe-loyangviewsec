@@ -1,5 +1,5 @@
 ---
-title: Sec 2 Subject Allocation Exercise
+title: Sec 2 Subject Combination Exercise
 permalink: /sec-2-subject-allocation-exercise/
 variant: tiptap
 description: ""

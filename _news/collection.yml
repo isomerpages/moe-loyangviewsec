@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - Sec 2 Subject Combination Exercise.md
       - Students Achievements/.keep
       - Latest Happenings.md
       - Announcements.md
