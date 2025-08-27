@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Sec 2 Subject Allocation Exercise.md
       - Leave of Absence Application.md
       - School Examinations.md
       - Parents Support Group @ LVSS.md
