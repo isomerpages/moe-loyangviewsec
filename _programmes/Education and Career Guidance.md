@@ -123,6 +123,15 @@ their choice based on their preferred career sector.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Book an Appointment with Our ECG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/ecg-lvss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-lvss</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Post-secondary Pathways</p>
 </td>
 <td rowspan="1" colspan="1">
