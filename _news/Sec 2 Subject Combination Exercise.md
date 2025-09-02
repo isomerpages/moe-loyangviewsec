@@ -13,7 +13,7 @@ years.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Exam Related Matters/2024/Letter_for_Parents__Express_.pdf" rel="noopener noreferrer nofollow" target="_blank">For Parents of students in the Express stream </a>
+<p><a href="/files/Exam Related Matters/2024/Letter_for_Parents__Express_.pdf" rel="noopener noreferrer nofollow" target="_blank">For Parents of students in the Express stream</a>
 </p>
 </li>
 <li>
