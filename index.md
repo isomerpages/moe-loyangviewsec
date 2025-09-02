@@ -18,6 +18,9 @@ sections:
         - title: Achievements
           description: ""
           url: /sa-english/
+        - title: Sec 2 Subject Combination Matters
+          description: ""
+          url: ""
       variant: image
   - infopic:
       title: POWER YOUR FUTURE
