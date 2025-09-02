@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Sec 2 Subject Combination Matters.md
       - Leave of Absence Application.md
       - School Examinations.md
       - Parents Support Group @ LVSS.md
