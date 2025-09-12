@@ -19,7 +19,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Term Letters/2025/2025_Term_4_Letter_to_Parents__S1_3_.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter (Sec1-3)</a></strong>
+<p><strong><a href="/files/Term Letters/2025/2025_Term_4_Letter_to_Parents__S1_3_.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter (Sec 1-3)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/files/Term Letters/2025/Start_of_Sem_1_2025_Letter_w_Term_1_Calendar.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter (Sec 4&amp;5)</a></strong>
 </p>
 <p></p>
 </li>
