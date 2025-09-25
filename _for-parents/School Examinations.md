@@ -23,7 +23,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Sec 3: <a href="/files/Exam Related Matters/2025/2025_LVSS_Sec3_EOY_Exam_TT.pdf" rel="noopener nofollow" target="_blank">2025-LVSS-Sec3-EOY-TT</a>
+<p>Sec 3 [Updated as of 16th Sep] :
+<br><a href="/files/Assessment letters/2025/2025_LVSS_Sec3_EOY_Exam_TT_v2.pdf" rel="noopener nofollow" target="_blank">2025-LVSS-Sec3-EOY-TT Ver 2</a>
 </p>
 </li>
 </ul>
