@@ -22,10 +22,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muslim Noodle Stall</p>
+<p><strong>Muslim Indian/Vegetarian Stall</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday, 28 March 2025</p>
+<p>Friday, <strong>28 November 2025</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -60,9 +62,9 @@ providers and then apply for hawker licence from the Singapore Food Agency
 </li>
 </ul>
 <h4><strong>Application Procedure</strong></h4>
-<p>Application form (click <a href="/files/Canteen/School_Application_for_canteen_stall.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Application form (click <a href="/files/Canteen/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">here</a> to
 download) must be completed and submitted soonest to our school’s General
-Office by <u>28th March 2025</u> with the following documents:</p>
+Office by <u>28th November 2025</u> with the following documents:</p>
 <p>(i) Proposed menu and pricing</p>
 <p>(ii) Photocopy of the applicant’s NRIC (front and back)</p>
 <p>(iii) Photocopy of relevant certificates such as Basic Food Hygiene, etc.</p>
