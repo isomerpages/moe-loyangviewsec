@@ -96,7 +96,7 @@ variant: tiptap
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4E_.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express</a>
 </p>
-<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4NA_.pdf" rel="noopener nofollow" target="_blank">Sec 4 Noramal Academic</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4NA_.pdf" rel="noopener nofollow" target="_blank">Sec 4 Normal Academic</a>
 </p>
 <p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Technical</a>
 </p>
