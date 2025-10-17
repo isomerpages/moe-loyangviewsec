@@ -71,41 +71,41 @@ variant: tiptap
 <h3>2026 Booklists</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Secondary One*</summary>
+<summary>Secondary One</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 - 2026</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 </a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Secondary Two</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S2_.pdf" rel="noopener nofollow" target="_blank">Sec2 - 2026</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S2_.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Secondary Three</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S3_.pdf" rel="noopener nofollow" target="_blank">Sec 3 - 2026</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S3_.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Secondary Four</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4E_.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express - 2026</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4E_.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express</a>
 </p>
-<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Academic - 2026</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4NA_.pdf" rel="noopener nofollow" target="_blank">Sec 4 Noramal Academic</a>
 </p>
-<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Technical -2026</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Technical</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Secondary Five</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S5_NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal Academic - 2026</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S5_NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal Academic</a>
 </p>
 </div>
 </details>
