@@ -73,7 +73,8 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Secondary One*</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>* Secondary One 2025 booklist will be uploaded in December.</p>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 - 2026</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -93,18 +94,18 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Secondary Four</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4E_.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4E_.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express - 2026</a>
 </p>
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_4NA_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Academic</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Academic - 2026</a>
 </p>
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_4NT_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Technical</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Technical -2026</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Secondary Five</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_5NA_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal Academic</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S5_NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal Academic - 2026</a>
 </p>
 </div>
 </details>
