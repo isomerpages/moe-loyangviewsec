@@ -73,7 +73,7 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Secondary One</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 </a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
 </div>
 </details>
