@@ -68,7 +68,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>2025 Booklists</h3>
+<h3>2026 Booklists</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Secondary One*</summary>
@@ -79,7 +79,7 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Secondary Two</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_2_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 2 G3/G2/G1</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S2_.pdf" rel="noopener nofollow" target="_blank">Sec2 G3/G2/G1 -2026</a>
 </p>
 </div>
 </details>
