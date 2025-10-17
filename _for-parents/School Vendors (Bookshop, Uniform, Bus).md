@@ -79,25 +79,21 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Secondary Two</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S2_.pdf" rel="noopener nofollow" target="_blank">Sec2 G3/G2/G1 -2026</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S2_.pdf" rel="noopener nofollow" target="_blank">Sec2 - 2026</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Secondary Three</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_3E_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 Express</a>
-</p>
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_3NA_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 Normal Academic</a>
-</p>
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_3NT_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 Normal Technical</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S3_.pdf" rel="noopener nofollow" target="_blank">Sec 3 - 2026</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Secondary Four</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_4E_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Express</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4E_.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express</a>
 </p>
 <p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_4NA_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Academic</a>
 </p>
