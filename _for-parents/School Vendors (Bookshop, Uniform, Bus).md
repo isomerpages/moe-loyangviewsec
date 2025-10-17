@@ -68,47 +68,44 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>2025 Booklists</h3>
+<h3>2026 Booklists</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Secondary One*</summary>
+<summary>Secondary One</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>* Secondary One 2025 booklist will be uploaded in December.</p>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Secondary Two</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_2_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 2 G3/G2/G1</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S2_.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Secondary Three</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_3E_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 Express</a>
-</p>
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_3NA_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 Normal Academic</a>
-</p>
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_3NT_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 Normal Technical</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S3_.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Secondary Four</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_4E_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Express</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4E_.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express</a>
 </p>
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_4NA_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Academic</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4NA_.pdf" rel="noopener nofollow" target="_blank">Sec 4 Normal Academic</a>
 </p>
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_4NT_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Technical</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S4NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal Technical</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Secondary Five</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/BOOKSHOP MATTERS/2025 booklists/LVSS_Sec_5NA_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal Academic</a>
+<p><a href="/files/BOOKSHOP MATTERS/BooksList2026/Final_Booklist_LVSS_2026_Booklist__S5_NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Normal Academic</a>
 </p>
 </div>
 </details>
