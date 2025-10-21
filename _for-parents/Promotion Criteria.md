@@ -4,7 +4,7 @@ permalink: /for-parents/permalink/promotioncriteria/
 variant: tiptap
 description: ""
 ---
-<h4>Secondary 1 Cohort [2024]</h4>
+<h4><strong>Full Subject Based-Banding for Sec 1 and 2 [2024 onwards]</strong></h4>
 <p>Throughout their secondary school education, students can take subjects
 at three subject levels, known as G1, G2, G3 (G stands for General), mapped
 from today's N(T), N(A) and Express standards respectively. Students will
@@ -12,7 +12,12 @@ have the flexibility to adjust their subject levels at appropriate junctures,
 based on their strengths, interests and learning needs. Students will subsequently
 access programmes and post-secondary pathways based on their various subjects
 and subject level combinations.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -83,8 +88,43 @@ and subject level combinations.</p>
 </tr>
 </tbody>
 </table>
-<h4>Promotion Criteria for Sec 2 - 3</h4>
-<table>
+<hr>
+<p></p>
+<h4><strong>Subjects at More Demanding Level (MDL) for Lower Sec Cohort [2025 onwards]</strong></h4>
+<p>We are pleased to inform parents that students who demonstrate strong
+academic performance may be eligible to take subjects at a more demanding
+level (e.g. from G1 to G2). This opportunity allows capable students to
+further challenge themselves and reach their full potential.</p>
+<p><strong>Eligibility Criteria</strong>
+</p>
+<p>Students will be considered for taking up MDL subjects if they achieve
+75% or above in both:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The end-of-year examination for the relevant subject</p>
+</li>
+<li>
+<p>The overall results for the subject throughout the academic year</p>
+</li>
+</ul>
+<p><strong>What This Means for Your Child</strong>
+</p>
+<p>Taking a subject at a more demanding level provides students with greater
+academic rigour and can better prepare them for their future educational
+pathways.</p>
+<p><strong>Next Steps</strong>
+</p>
+<p>If your child meets the eligibility requirements, the school will issue
+a letter of offer through your child's form teacher. This letter will provide
+details about the available options and guidance on making an informed
+decision that best supports your child's academic journey.</p>
+<hr>
+<h4><strong>Promotion Criteria for Sec 3 (2025)</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -98,18 +138,7 @@ and subject level combinations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2</p>
-<p>Express Course</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pass in English Language and a pass percentage in</p>
-<p>the average of all subjects</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 3</p>
-<p>Express Course</p>
+<p>Sec 3 Express Course</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Grade C6 or better in English Language and 2 other</p>
@@ -118,7 +147,7 @@ and subject level combinations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 – 3 Normal Academic Course</p>
+<p>3 Normal Academic Course</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Grade 5 or better in</p>
@@ -129,8 +158,7 @@ or</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 – 3 Normal</p>
-<p>Technical</p>
+<p>Sec 3 Normal Technical</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Grade D or better in 2 subjects, one of which should</p>
@@ -139,8 +167,8 @@ or</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4><strong>Promotion Criteria to Sec 5N</strong></h4>
+<hr>
+<h4><strong>Promotion Criteria to Sec 5N (2025)</strong></h4>
 <p>The promotion criteria from Sec 4N(A) to Sec 5N are follows:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -155,42 +183,5 @@ at the ‘N’ Level Examinations)</p>
 <p><u>All</u> subjects used in the computation of the ELMAB3 aggregate must
 be graded <u>at least an ‘N’ level grade 5.</u>
 </p>
-<h4><strong>Criteria For Lateral Transfer to Express / N (A) Course</strong></h4>
-<p></p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<td rowspan="1" colspan="1">
-<p>N(T) to N(A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-N(A) to Express</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 1 &amp; 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Overall aggregate 70% or higher</p>
-</li>
-<li>
-<p>70% or higher in English, Mother Tongue, Maths, Science and Humanities</p>
-</li>
-<li>
-<p>At least ‘Very Good’ in conduct grade</p>
-</li>
-<li>
-<p>75% or higher in CCA attendance</p>
-</li>
-</ul>
-<p><strong>AND </strong>pass the necessary norming tests.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<h4></h4>
 <p></p>
