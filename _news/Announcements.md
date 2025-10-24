@@ -7,6 +7,10 @@ variant: markdown
 Announcements
 =================
     
+### 		**Joint Advisory from Agencies**
+
+[Joint Advisory from Agencies](/files/Announcements/Joint_Advisory_from_Agencies.pdf)
+		
 ### **Registration for Singpass for Graduating Students 2023**
 
 
