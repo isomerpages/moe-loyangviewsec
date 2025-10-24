@@ -25,6 +25,10 @@ variant: tiptap
 <li>
 <p><strong><a href="/files/Term Letters/2025/2025_Term_4_Letter_to_Parents__S4_5_.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter (Sec 4&amp;5)</a></strong>
 </p>
+</li>
+<li>
+<p><strong><a href="/files/Term Letters/2025/2025_End_of_Year_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 End of Year Letter to Parents</a></strong>
+</p>
 <p></p>
 </li>
 </ul>

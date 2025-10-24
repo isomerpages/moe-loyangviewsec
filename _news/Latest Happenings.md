@@ -4,53 +4,23 @@ permalink: /Latest-Happenings/
 description: ""
 variant: tiptap
 ---
-<h1>Latest Happenings</h1>
+<h1><strong>Stay Connected with Our School Community</strong></h1>
 <hr>
-<h3>LVSS Kaleidoscope 2024</h3>
+<p>For the most up-to-date news, events, and highlights from our school,
+we invite you to follow us on our social media platforms. You'll find regular
+updates on student achievements, school activities, important announcements,
+and much more.</p>
+<p>Connect with us today to stay informed about all the exciting happenings
+in our school community!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.facebook.com/loyangviewss/" rel="noopener nofollow" target="_blank">Facebook</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/loyangviewss/" rel="noopener nofollow" target="_blank">Instagram</a>
+</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Adhoc Pics/kaleidoscope_image.png">
-</div>
-<p>Our inaugural <strong>LVSS Kaleidoscope 2024</strong> was successfully held
-on Friday evening, with at least 365 attendees, most of whom were our parents
-and students.</p>
-<p>For those among us who were there, basking in the energy of the event,
-we felt proud to see our students take the stage and shine. Their performances
-were a testament to their hard work, dedication, and passion for their
-craft, and provided us with a glimpse of the talent and creative potential
-that lie within them.</p>
-<p>Well done everyone!</p>
-<hr>
+</li>
+</ul>
 <p></p>
-<h3>Yearbook 2023</h3>
-<p>Hot off the press: Yearbook 2023! We’re proud to present the highlights
-of 2023 in our inaugural digital yearbook. Visit <a href="https://go.gov.sg/lvss-yearbook-2023" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/lvss-yearbook-2023</a> to
-view!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Other%20Matters/Year_Book_2023.png">
-</div>
-<h3>Commendation Day 2023</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd/comendation.JPG">
-</div>
-<p>In celebration of the holistic achievements of our students from the 2022
-cohort, this year’s Commendation Day theme was Aspire, Believe, Achieve.
-We believe that every student possesses the power to be the best that they
-can be. With diligence and drive, they can inspire one another to achieve
-their aspirations.</p>
-<p>It was inspiring to see so many students receive awards for their academic
-achievements, exemplary conduct and outstanding contributions to the school
-community. We are proud of all our students and their learning. Having
-parents and our SAC members with us to witness this special moment made
-the occasion even more meaningful. Congratulations to our students! We
-hope that this recognition will motivate them to continue reaching for
-greater heights!</p>
-<p>For photos/video, please find them on our official FB page <a href="https://m.facebook.com/story.php?story_fbid=pfbid0eFSQagHSrPhfPfH87fc1FVeLREar3Mwbsfahp1eyHtDBQ9E9Mxsfz4aV6tkfZu52l&amp;id=100063607026843&amp;mibextid=Nif5oz" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
-<h3>Cross Country 2023!</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/x-country%202023.JPG">
-</div>
-<p>After 3 years, we’re back at Pasir Ris Park for Cross Country 2023! Students
-and staff enjoyed their day out and we are especially privileged to have
-our PSG helping and gracing this HOT&nbsp;🌞&nbsp;event!</p>
-<p>For photos/video, please find them on our official FB page <a href="https://www.facebook.com/story.php?story_fbid=pfbid0TC3f4hom284ba9w8RPD6MrXQuL5sXgMe3eC2FekptQ8BbwXEASZqxwtgmVV84i7Sl&amp;id=100063607026843&amp;mibextid=Nif5oz" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
