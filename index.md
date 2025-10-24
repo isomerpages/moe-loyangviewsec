@@ -15,9 +15,6 @@ sections:
         - title: Latest Happenings
           description: ""
           url: /Latest-Happenings/
-        - title: Achievements
-          description: ""
-          url: /sa-english/
         - title: Sec 2 Subject Combination Matters
           description: ""
           url: /sec-2-subject-combination-matters/
