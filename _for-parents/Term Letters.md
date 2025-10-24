@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Exam Related Matters/2025/2025_LVSS_Sec3_EOY_Exam_TT.pdf" rel="noopener nofollow" target="_blank">2025 End of Year Letter to Parents</a></strong>
+<p><strong><a href="/files/Term Letters/2025/2025_End_of_Year_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 End of Year Letter to Parents</a></strong>
 </p>
 <p></p>
 </li>
