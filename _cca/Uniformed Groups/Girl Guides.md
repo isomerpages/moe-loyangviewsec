@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG___Company.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_1.jpg">
 </div>
 <h2><strong>Overview</strong></h2>
 <blockquote>
@@ -44,22 +44,22 @@ world.</p>
 <h3><strong>Mission</strong></h3>
 <p>The MISSION of the Girl Guides Singapore is to develop girls and young
 women to develop their fullest potential as responsible citizens of the
-world.</p>
-<p></p>
+world.
+<br>
+</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul>
 <li>
-<p>Ms Amanda Chua (OIC)</p>
-</li>
-<li>
-<p>Mdm Suhaila A Ghaffar (2IC)</p>
+<p>Mdm Azlina Kassim</p>
 </li>
 <li>
 <p>Ms Lim Yan Chin Hazel</p>
 </li>
 <li>
-<p>Mdm Azlina Kassim</p>
-<p></p>
+<p>Ms Liow Min Yu</p>
+</li>
+<li>
+<p>Mdm Suhaila A Ghaffar</p>
 </li>
 </ul>
 <h3><strong>Achievement</strong></h3>
@@ -72,11 +72,10 @@ world.</p>
 <h3><strong>CCA schedule and activities</strong></h3>
 <p>Day: Every Thursdays
 <br>* Tuesday is also a CCA day if the need arises
-<br>* Some Saturdays (HQ events, camps, ad-hoc activities)</p>
-<p></p>
-<p>Time: 2:30 p.m – 5:30 p.m</p>
-<p>Location: Parade Square (Outdoors) or Art Room (Indoors)</p>
-<p></p>
+<br>* Some Saturdays (HQ events, camps, ad-hoc activities)
+<br>
+<br>Time : 2:30 p.m – 5:30 p.m
+<br>Location: Parade Square (Outdoors) or Art Room (Indoors)</p>
 <h4><strong>Activities we do:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -127,35 +126,30 @@ take on various responsibilities.</p>
 sports, and more.</p>
 <p>Friendship &amp; Fun: Create lasting friendships while participating in
 fun activities with like-minded peers.</p>
-<p></p>
+<p>Team Bonding - Dragon Boating</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG1a___Team_Bonding.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG1b___Team_Bonding_Edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG2___Service_Learning.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG3___Outdoor_life_skills_Edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_8.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG_4___East_Division_Activities.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_9.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG___Join_us_.jpg">
-</div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
