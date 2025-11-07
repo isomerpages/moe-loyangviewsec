@@ -76,7 +76,6 @@ world.
 <br>
 <br>Time : 2:30 p.m – 5:30 p.m
 <br>Location: Parade Square (Outdoors) or Art Room (Indoors)</p>
-<p></p>
 <h4><strong>Activities we do:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
