@@ -44,22 +44,22 @@ world.</p>
 <h3><strong>Mission</strong></h3>
 <p>The MISSION of the Girl Guides Singapore is to develop girls and young
 women to develop their fullest potential as responsible citizens of the
-world.</p>
-<p></p>
+world.
+<br>
+</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul>
 <li>
-<p>Ms Amanda Chua (OIC)</p>
-</li>
-<li>
-<p>Mdm Suhaila A Ghaffar (2IC)</p>
+<p>Mdm Azlina Kassim</p>
 </li>
 <li>
 <p>Ms Lim Yan Chin Hazel</p>
 </li>
 <li>
-<p>Mdm Azlina Kassim</p>
-<p></p>
+<p>Ms Liow Min Yu</p>
+</li>
+<li>
+<p>Mdm Suhaila A Ghaffar</p>
 </li>
 </ul>
 <h3><strong>Achievement</strong></h3>
@@ -73,7 +73,6 @@ world.</p>
 <p>Day: Every Thursdays
 <br>* Tuesday is also a CCA day if the need arises
 <br>* Some Saturdays (HQ events, camps, ad-hoc activities)</p>
-<p></p>
 <p>Time: 2:30 p.m – 5:30 p.m</p>
 <p>Location: Parade Square (Outdoors) or Art Room (Indoors)</p>
 <p></p>
