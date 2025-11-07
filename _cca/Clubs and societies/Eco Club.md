@@ -67,59 +67,66 @@ protect and preserve our planet.</summary>
 </table>
 <p></p>
 <p></p>
-<h4><strong>Our Mission</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Our mission is clear: To foster a greater understanding of environmental
-issues and inspire sustainable living within our school community.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>Our Mission &amp; Vision</strong></h4>
+<p>At Loyang View Secondary School, the Eco Club is a passionate community
+of students committed to protecting our environment and promoting sustainable
+living.</p>
+<p>We aim to nurture <em>environmentally conscious and socially responsible changemakers</em> who
+understand that every small action counts towards a greener and cleaner
+world.</p>
+<p>Through hands-on learning, innovation, and community involvement, we strive
+to inspire others to adopt sustainable habits and make positive contributions
+to our planet.</p>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>We aim to create a culture of environmental consciousness, where every
-action, no matter how small, contributes to a greener and cleaner world.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-</div>
 <p></p>
-<h4><strong>What We Do</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Awareness Campaigns: We organize and participate in events and campaigns
-to raise awareness about various environmental issues such as recycling,
-energy conservation, and biodiversity.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>Signature Programmes &amp; Activities</strong></h4>
+<p>Our members engage in a range of meaningful and creative activities designed
+to deepen their understanding of environmental issues and inspire change
+in school and beyond.</p>
+<p>🌱 Urban Farming, Farmers’ and Makers’ Market</p>
+<p>Students cultivate vegetables and herbs in our school’s hydroponics system
+and harvest them for sale at our annual Farmers’ and Makers’ Market.</p>
+<p>The Farmers’ Market features fresh, home-grown produce from our urban
+farm, while the Makers’ Market showcases students’ creativity through the
+sale of upcycled crafts and pre-loved items.</p>
+<p>Through these initiatives, students learn the values of sustainability,
+entrepreneurship and compassion — as all proceeds are donated to charity
+to support meaningful causes.</p>
+<p>🚗 <strong>Green Wave Eco Racing Car Challenge</strong>
+<br>Our team designed and raced eco-friendly model cars made from recycled
+materials — clinching <strong>3rd Place</strong> in the <em>Pasir Ris-Punggol Greenwave Eco Racing Challenge</em>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>🎥 <strong>Sustainability in Action </strong>
+<br>Students create bite-sized educational videos to promote sustainable habits
+such as upcycling, reducing plastic use, and energy conservation.
+<br>
+</p>
+</li>
+<li>
+<p>🌍 <strong>Learning Journeys &amp; Day Camps</strong>
+<br>The Eco Club visits places like the Botanic Gardens’ <em>Healing Garden</em>,
+e-waste recycling plants, and urban farms to learn about biodiversity and
+sustainable practices.
+<br>
+</p>
+</li>
+<li>
+<p>💧 <strong>Environmental Commemorations</strong>
+<br>We lead whole-school events for <em>World Water Day</em>, <em>Earth Day</em> and <em>World Biodiversity Day</em>,
+including quizzes, exhibitions, and assembly talks.
+<br>
+</p>
+</li>
+<li>
+<p>🏖️ <strong>Values-in-Action (VIA) Projects</strong>
+<br>Members participate in beach clean-ups and engage preschool children as
+well as the elderly in nursing homes in fun eco-learning activities to
+build environmental awareness from a young age.</p>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Educational Initiatives: Through workshops, seminars, and engaging activities,
-we educate our fellow students and teachers about the importance of sustainable
-living.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Community Outreach: We actively engage in community service projects,
-clean-up drives, and collaborate with local organizations to make a positive
-impact beyond our school gates.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Learning Journeys: Explore the wonders of nature and sustainability through
-our educational trips to eco-friendly facilities and nature reserves.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
+</li>
+</ul>
 <h4><strong>Join Us!</strong></h4>
 <p>Are you passionate about the environment and eager to make a difference?
 Join the Loyang View Eco Club and be a part of a community that cares about
