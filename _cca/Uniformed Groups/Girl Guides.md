@@ -150,3 +150,7 @@ fun activities with like-minded peers.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_5.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_6.jpg">
+</div>
+<p></p>
