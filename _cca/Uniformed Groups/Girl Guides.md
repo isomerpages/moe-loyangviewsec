@@ -126,28 +126,30 @@ take on various responsibilities.</p>
 sports, and more.</p>
 <p>Friendship &amp; Fun: Create lasting friendships while participating in
 fun activities with like-minded peers.</p>
-<p></p>
+<p>Team Bonding - Dragon Boating</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_3.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_4.jpg">
-</div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_4A.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_6.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_7.jpg">
 </div>
@@ -158,7 +160,4 @@ fun activities with like-minded peers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_9.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
