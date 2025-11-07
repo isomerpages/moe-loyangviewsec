@@ -72,9 +72,10 @@ world.
 <h3><strong>CCA schedule and activities</strong></h3>
 <p>Day: Every Thursdays
 <br>* Tuesday is also a CCA day if the need arises
-<br>* Some Saturdays (HQ events, camps, ad-hoc activities)</p>
-<p>Time: 2:30 p.m – 5:30 p.m</p>
-<p>Location: Parade Square (Outdoors) or Art Room (Indoors)</p>
+<br>* Some Saturdays (HQ events, camps, ad-hoc activities)
+<br>
+<br>Time : 2:30 p.m – 5:30 p.m
+<br>Location: Parade Square (Outdoors) or Art Room (Indoors)</p>
 <p></p>
 <h4><strong>Activities we do:</strong></h4>
 <ul data-tight="true" class="tight">
