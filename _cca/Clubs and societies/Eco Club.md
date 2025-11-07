@@ -127,78 +127,51 @@ build environmental awareness from a young age.</p>
 <p></p>
 </li>
 </ul>
+<h4><strong>Our Impact &amp; Achievements</strong></h4>
+<p>The Eco Club provides students with authentic experiences that build teamwork,
+communication, and leadership skills while championing sustainability.</p>
+<p><strong>Recent Highlights:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>🏆 <em>3rd Place – Pasir Ris-Punggol Greenwave Eco Racing Challenge</em>
+</p>
+</li>
+<li>
+<p>🤝 <em>Partnership with Green Nudge and preschool centres</em> for outreach
+programmes</p>
+</li>
+<li>
+<p>🌿 <em>Eco Club Day Camp 2025</em> – collaborative planning, learning journey
+and upcycling workshop</p>
+</li>
+<li>
+<p>💡 <em>Paper-Making Workshop</em> – turning waste paper into art</p>
+</li>
+</ul>
+<p><strong>Student Voices:</strong>
+</p>
+<p>“Eco Club taught me how small changes — like reusing materials — can make
+a big difference.”
+<br>“Designing our hydroponics system made me realise how science and sustainability
+go hand-in-hand.”</p>
 <h4><strong>Join Us!</strong></h4>
-<p>Are you passionate about the environment and eager to make a difference?
-Join the Loyang View Eco Club and be a part of a community that cares about
-the planet. We welcome students from all levels who share our vision of
-a greener, cleaner, and more sustainable world. Join us in our journey
-towards a more eco-conscious future!</p>
-<p></p>
-<h4><strong>Time and Venue for CCA</strong></h4>
-<p>Day/Time: <u>Every Thurs, 2.30 p.m - 5.30 p.m</u>
+<p>If you are passionate about protecting the Earth and want to make a difference,
+the Eco Club welcomes you!</p>
+<p><strong>Meeting Day:</strong> Every Thursday
+<br><strong>Time:</strong> 2:30 p.m – 5:30 p.m
+<br><strong>Venue:</strong> ITR 1
+<br>
+<br><strong>Teacher-in-Charge:</strong> Ms Sharina, <em>Mr Ian Tay and Mdm Norsiah</em>
 </p>
-<p>Venue: <u>ITR 2</u>
-</p>
+<p>Come join us, be inspired, and lead the green movement at Loyang View!
+🌏</p>
+<p>&nbsp;</p>
 <p></p>
-<h3><strong>Achievement</strong></h3>
-<h4>3rd Place for Green Wave Pasir Ris - Punggol Eco RC Challenge</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Eco Club/IMG_20240720_WA0011.jpg">
-</div>
+<h3></h3>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Eco Club/2.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Eco Club/3.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Eco Club/5.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Eco Club/6.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Eco Club/7.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
-</div>
-</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
