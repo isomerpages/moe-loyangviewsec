@@ -128,32 +128,36 @@ sports, and more.</p>
 fun activities with like-minded peers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG1a___Team_Bonding.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG1b___Team_Bonding_Edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG2___Service_Learning.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_4.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG3___Outdoor_life_skills_Edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_6.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG_4___East_Division_Activities.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_8.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups Girl Guides/GG___Join_us_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_9.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
