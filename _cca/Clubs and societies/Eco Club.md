@@ -167,27 +167,32 @@ the Eco Club welcomes you!</p>
 <p>Come join us, be inspired, and lead the green movement at Loyang View!
 🌏</p>
 <p></p>
-<p>Learning Journey to Carbon Gallery at Vivacity</p>
+<p><strong>Learning Journey to Carbon Gallery at Vivacity</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO Club/Learning_Journey_to_Carbon_Gallery_at_Vidacity.jpg">
 </div>
 <p></p>
-<p>Plastic Upcycling Workshop</p>
+<p><strong>Plastic Upcycling Workshop</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO Club/Plastic_Upcycling_Workshop.jpg">
 </div>
 <p></p>
-<p>Setting up booth at our Makers Market 1</p>
+<p><strong>Setting up booth at our Makers Market 1</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO Club/Setting_up_booth_at_our_Makers_Market_1.jpg">
 </div>
 <p></p>
-<p>VIA at Kwong Wai Shiu Hospital</p>
+<p><strong>VIA at Kwong Wai Shiu Hospital</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO Club/VIA_at_Kwong_Wai_Shiu_Hospital.jpg">
 </div>
 <p></p>
-<p>Earth Day Inter-School Recycling Competition</p>
+<p><strong>Earth Day Inter-School Recycling Competition</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO Club/Earth_Day_Inter_School_Recycling_Competition.jpg">
 </div>
