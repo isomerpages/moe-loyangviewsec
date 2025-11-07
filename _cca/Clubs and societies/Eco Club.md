@@ -78,8 +78,6 @@ world.</p>
 to inspire others to adopt sustainable habits and make positive contributions
 to our planet.</p>
 <p></p>
-<p></p>
-<p></p>
 <h4><strong>Signature Programmes &amp; Activities</strong></h4>
 <p>Our members engage in a range of meaningful and creative activities designed
 to deepen their understanding of environmental issues and inspire change
