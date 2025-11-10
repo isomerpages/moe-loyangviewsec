@@ -36,7 +36,6 @@ to the betterment of society.</summary>
 </div>
 </details>
 </div>
-<p></p>
 <h3><strong>Vision</strong></h3>
 <p>The VISION of the Girl Guides Singapore is to become the voice of girls
 and young women who influence issues they care about and build a better
