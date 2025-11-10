@@ -45,20 +45,16 @@ world.</p>
 <p>The MISSION of the Girl Guides Singapore is to develop girls and young
 women to develop their fullest potential as responsible citizens of the
 world.</p>
-<p>&nbsp;</p>
 <p>Being a part of the Girl Guides provides an incredible opportunity for
 students to develop leadership skills, form lasting friendships, and contribute
 to the community through meaningful service projects. Girl Guides CCA encourages
 personal growth, teamwork, and the pursuit of new skills in a fun and supportive
 environment.</p>
-<p>&nbsp;</p>
 <p>Whether it's learning new outdoor skills, engaging in community service,
 or building self-confidence, Girl Guides offers a diverse range of activities
 that empower young girls to become responsible and compassionate citizens.
 Join us in making a positive impact while growing as individuals and contributing
-to the betterment of society.
-<br>
-</p>
+to the betterment of society.</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul>
 <li>
@@ -140,8 +136,7 @@ fun activities with like-minded peers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture1.png">
 </div>
-<p>
-<br><strong>Team bonding- Archery &amp; Eco Challenge</strong>
+<p><strong>Team bonding- Archery &amp; Eco Challenge</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture2.png">
