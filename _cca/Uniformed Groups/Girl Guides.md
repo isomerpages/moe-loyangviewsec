@@ -147,12 +147,6 @@ fun activities with like-minded peers.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture2.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture3.png">
-</div>
 <p><strong>Team bonding- Bubble Bump and Laser Tag</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture4.png">
-</div>
 <p></p>
