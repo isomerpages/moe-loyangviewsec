@@ -155,4 +155,4 @@ fun activities with like-minded peers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture4.png">
 </div>
-<p>Service Learning – With the elderly</p>
+<p></p>
