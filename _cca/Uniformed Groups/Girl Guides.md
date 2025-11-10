@@ -137,23 +137,21 @@ take on various responsibilities.</p>
 sports, and more.</p>
 <p>Friendship &amp; Fun: Create lasting friendships while participating in
 fun activities with like-minded peers.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture1.png">
 </div>
-<p><strong>Team bonding- Archery &amp; Eco Challenge</strong>
+<p>
+<br><strong>Team bonding- Archery &amp; Eco Challenge</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture3.png">
 </div>
 <p></p>
 <p><strong>Team bonding- Bubble Bump and Laser Tag</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture4.png">
 </div>
@@ -164,7 +162,6 @@ fun activities with like-minded peers.</p>
 </div>
 <p><strong>Outdoor Life Skills</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture5.png">
 </div>
@@ -179,7 +176,6 @@ fun activities with like-minded peers.</p>
 </div>
 <p><strong>Friendship and Fun</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture9.jpg">
 </div>
