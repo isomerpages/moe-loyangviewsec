@@ -140,14 +140,22 @@ Police Establishment Visits, Community Outreach, Parades</p>
 <br>2016: GOLD
 <br>2015: GOLD</p>
 <p></p>
-<h4><strong>Achievement (2024):</strong></h4>
-<p></p>
+<h4><strong>Achievement :</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement (2024):</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Event</p>
@@ -179,33 +187,6 @@ HQ in collaboration with the Singapore Police Force (SPF)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Top 10</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SPF-NPCC Badge Awardee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Trisya Amanda</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Station Inspector Ranks</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Trisya Amanda,</p>
-<p>Irfan Danish,</p>
-<p>Syed Haafiz</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Best Unit Cadets</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Irfan Danish,</p>
-<p>Puteri Ally</p>
 </td>
 </tr>
 </tbody>
@@ -259,7 +240,5 @@ HQ in collaboration with the Singapore Police Force (SPF)</p>
 </div>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UG   NPCC/LVSS_NPCC_Unit_2024.jpg">
-</div>
+<p></p>
 <p></p>
