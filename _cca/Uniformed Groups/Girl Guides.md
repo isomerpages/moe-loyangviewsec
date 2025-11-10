@@ -177,7 +177,12 @@ fun activities with like-minded peers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture8.jpg">
 </div>
+<p><strong>Friendship and Fun</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture9.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
