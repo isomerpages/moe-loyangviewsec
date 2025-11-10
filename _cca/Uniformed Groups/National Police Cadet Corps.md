@@ -129,7 +129,8 @@ Police Establishment Visits, Community Outreach, Parades</p>
 <h4><strong>Social Media</strong></h4>
 <p>Instagram: @lvssnpcc</p>
 <h4><strong>Unit Overall Proficiency Award (UOPA):</strong></h4>
-<p>2023: DISTINCTION
+<p>2024: DISTINCTION
+<br>2023: DISTINCTION
 <br>2022: DISTINCTION
 <br>2021: GOLD
 <br>2020: GOLD
