@@ -239,7 +239,6 @@ HQ in collaboration with the Singapore Police Force (SPF)</p>
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UG   NPCC/NPCC_2025.jpg">
 </div>
