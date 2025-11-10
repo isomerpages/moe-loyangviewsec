@@ -6,6 +6,9 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture13.jpg">
+</div>
 <h2><strong>Overview</strong></h2>
 <blockquote>
 <p>Being a part of the Girl Guides provides an incredible opportunity for
@@ -134,7 +137,7 @@ take on various responsibilities.</p>
 sports, and more.</p>
 <p>Friendship &amp; Fun: Create lasting friendships while participating in
 fun activities with like-minded peers.</p>
-<p>Team Bonding - Dragon Boating</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
