@@ -147,6 +147,40 @@ fun activities with like-minded peers.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture2.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture3.png">
+</div>
+<p></p>
 <p><strong>Team bonding- Bubble Bump and Laser Tag</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture4.png">
+</div>
+<p><strong>Service Learning – With the elderly</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture10.png">
+</div>
+<p><strong>Outdoor Life Skills</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture8.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
