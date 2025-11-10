@@ -143,7 +143,6 @@ fun activities with like-minded peers.</p>
 </div>
 <p><strong>Team bonding- Archery &amp; Eco Challenge</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture2.png">
 </div>
@@ -156,4 +155,4 @@ fun activities with like-minded peers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture4.png">
 </div>
-<p></p>
+<p>Service Learning – With the elderly</p>
