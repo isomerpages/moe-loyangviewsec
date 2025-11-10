@@ -17,7 +17,6 @@ NCC and NCDCC.</p>
 <p>2IC: Insp (NPCC) Ahmad Ismail</p>
 <p>Insp (NPCC): Naeem Ahamed Ali Khan</p>
 <p>ASP (NPCC): Harry Wong (Advisor)</p>
-<p>Mr Norman Long Ser Wee</p>
 <p></p>
 <h4><strong>Training Details</strong></h4>
 <table style="minWidth: 75px">
