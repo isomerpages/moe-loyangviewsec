@@ -137,12 +137,30 @@ fun activities with like-minded peers.</p>
 </div>
 <p><strong>Team bonding- Archery &amp; Eco Challenge</strong>
 </p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Echo Challenge" src="/images/GirlGuides/Picture2.png">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Archery" src="/images/GirlGuides/Picture3.png">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
+<p></p>
 <p></p>
 <p><strong>Team bonding- Bubble Bump and Laser Tag</strong>
 </p>
@@ -156,17 +174,52 @@ fun activities with like-minded peers.</p>
 </div>
 <p><strong>Outdoor Life Skills</strong>
 </p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture5.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture6.png">
 </div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/GirlGuides/Picture6.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture7.png">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/GirlGuides/Picture8.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
 </div>
 <p><strong>Friendship and Fun</strong>
 </p>
