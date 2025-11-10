@@ -44,7 +44,19 @@ world.</p>
 <h3><strong>Mission</strong></h3>
 <p>The MISSION of the Girl Guides Singapore is to develop girls and young
 women to develop their fullest potential as responsible citizens of the
-world.
+world.</p>
+<p>&nbsp;</p>
+<p>Being a part of the Girl Guides provides an incredible opportunity for
+students to develop leadership skills, form lasting friendships, and contribute
+to the community through meaningful service projects. Girl Guides CCA encourages
+personal growth, teamwork, and the pursuit of new skills in a fun and supportive
+environment.</p>
+<p>&nbsp;</p>
+<p>Whether it's learning new outdoor skills, engaging in community service,
+or building self-confidence, Girl Guides offers a diverse range of activities
+that empower young girls to become responsible and compassionate citizens.
+Join us in making a positive impact while growing as individuals and contributing
+to the betterment of society.
 <br>
 </p>
 <h4><strong>Teachers-in-charge</strong></h4>
@@ -73,8 +85,7 @@ world.
 <p>Day: Every Thursdays
 <br>* Tuesday is also a CCA day if the need arises
 <br>* Some Saturdays (HQ events, camps, ad-hoc activities)
-<br>
-<br>Time : 2:30 p.m – 5:30 p.m
+<br>Time : 2:30 PM – 5:30 PM
 <br>Location: Parade Square (Outdoors) or Art Room (Indoors)</p>
 <h4><strong>Activities we do:</strong></h4>
 <ul data-tight="true" class="tight">
@@ -119,7 +130,7 @@ world.
 competitions</p>
 </li>
 </ul>
-<h4><strong>Opportunities to grow:</strong><br></h4>
+<h4><strong>Opportunities to grow:</strong></h4>
 <p>Leadership Development: Opportunities to plan events, lead teams, and
 take on various responsibilities.</p>
 <p>Badge Programs: Gain new skills and earn badges in areas like art, technology,
