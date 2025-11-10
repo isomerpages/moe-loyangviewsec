@@ -39,6 +39,18 @@ sound and stage management.</p>
 </ul>
 <p></p>
 <h3><strong>Notable Past Achievements</strong></h3>
+<h4><strong>2025</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Presentation (Drama) – Certificate of Accomplishment</p>
+</li>
+<li>
+<p>Drug Victims Remembrance Day</p>
+</li>
+<li>
+<p>Kaleidoscope – Performing Arts Showcase</p>
+</li>
+</ul>
 <h4><strong>2024</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -64,16 +76,6 @@ sound and stage management.</p>
 </li>
 <li>
 <p>Performing Arts Showcase</p>
-</li>
-</ul>
-<h4><strong>2021</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Awarded Certificate of Commendation at the Singapore Youth Festival Presentation
-(Drama)</p>
-</li>
-<li>
-<p>Teachers’ Day Concert</p>
 </li>
 </ul>
 <p></p>

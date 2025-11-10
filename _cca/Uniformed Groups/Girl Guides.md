@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture13.jpg">
 </div>
 <h2><strong>Overview</strong></h2>
 <blockquote>
@@ -36,7 +36,6 @@ to the betterment of society.</summary>
 </div>
 </details>
 </div>
-<p></p>
 <h3><strong>Vision</strong></h3>
 <p>The VISION of the Girl Guides Singapore is to become the voice of girls
 and young women who influence issues they care about and build a better
@@ -44,9 +43,17 @@ world.</p>
 <h3><strong>Mission</strong></h3>
 <p>The MISSION of the Girl Guides Singapore is to develop girls and young
 women to develop their fullest potential as responsible citizens of the
-world.
-<br>
-</p>
+world.</p>
+<p>Being a part of the Girl Guides provides an incredible opportunity for
+students to develop leadership skills, form lasting friendships, and contribute
+to the community through meaningful service projects. Girl Guides CCA encourages
+personal growth, teamwork, and the pursuit of new skills in a fun and supportive
+environment.</p>
+<p>Whether it's learning new outdoor skills, engaging in community service,
+or building self-confidence, Girl Guides offers a diverse range of activities
+that empower young girls to become responsible and compassionate citizens.
+Join us in making a positive impact while growing as individuals and contributing
+to the betterment of society.</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul>
 <li>
@@ -73,8 +80,7 @@ world.
 <p>Day: Every Thursdays
 <br>* Tuesday is also a CCA day if the need arises
 <br>* Some Saturdays (HQ events, camps, ad-hoc activities)
-<br>
-<br>Time : 2:30 p.m – 5:30 p.m
+<br>Time : 2:30 PM – 5:30 PM
 <br>Location: Parade Square (Outdoors) or Art Room (Indoors)</p>
 <h4><strong>Activities we do:</strong></h4>
 <ul data-tight="true" class="tight">
@@ -119,37 +125,57 @@ world.
 competitions</p>
 </li>
 </ul>
-<h4><strong>Opportunities to grow:</strong><br></h4>
+<h4><strong>Opportunities to grow:</strong></h4>
 <p>Leadership Development: Opportunities to plan events, lead teams, and
 take on various responsibilities.</p>
 <p>Badge Programs: Gain new skills and earn badges in areas like art, technology,
 sports, and more.</p>
 <p>Friendship &amp; Fun: Create lasting friendships while participating in
 fun activities with like-minded peers.</p>
-<p>Team Bonding - Dragon Boating</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture1.png">
+</div>
+<p><strong>Team bonding- Archery &amp; Eco Challenge</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture3.png">
 </div>
 <p></p>
+<p><strong>Team bonding- Bubble Bump and Laser Tag</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture4.png">
+</div>
+<p><strong>Service Learning – With the elderly</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture10.png">
+</div>
+<p><strong>Outdoor Life Skills</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture5.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture8.jpg">
+</div>
+<p><strong>Friendship and Fun</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/Picture9.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_5.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_8.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GirlGuides/GirlGuideNov2025_9.jpg">
-</div>
+<p></p>
+<p></p>
 <p></p>

@@ -17,7 +17,6 @@ NCC and NCDCC.</p>
 <p>2IC: Insp (NPCC) Ahmad Ismail</p>
 <p>Insp (NPCC): Naeem Ahamed Ali Khan</p>
 <p>ASP (NPCC): Harry Wong (Advisor)</p>
-<p>Mr Norman Long Ser Wee</p>
 <p></p>
 <h4><strong>Training Details</strong></h4>
 <table style="minWidth: 75px">
@@ -109,18 +108,29 @@ Republic of Singapore;</p>
 </tbody>
 </table>
 <h4><strong>Highlights</strong></h4>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Core Training: Drills, Campcraft, Physical
-Training, Leadership &amp; Mentoring&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Police Training: Police Knowledge, Unarmed
-Tactics, Crime Scene Investigation, Police Establishment Visits</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enrichment: Air Pistol, Bouldering, Kayaking,
-First Aid Course</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camps: Annual Camp, Sec 2 &amp; 3 Camp
-@ Pulau Ubin, Sec 2 Leadership Camp</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Core Training: Drills, Campcraft, Physical Training, Sports, Leadership
+&amp; Mentoring&nbsp;</p>
+</li>
+<li>
+<p>Police Training: Police Knowledge, Unarmed Tactics, Crime Scene Investigation,
+Police Establishment Visits, Community Outreach, Parades</p>
+</li>
+<li>
+<p>Enrichment: Air Pistol, 1-star Kayaking</p>
+</li>
+<li>
+<p>Camps: Annual Unit Camp, Sec 2 Adventure Training Camp @ Pulau Ubin, Sec
+2 Leadership Camp</p>
+</li>
+</ol>
+<p></p>
 <h4><strong>Social Media</strong></h4>
 <p>Instagram: @lvssnpcc</p>
 <h4><strong>Unit Overall Proficiency Award (UOPA):</strong></h4>
-<p>2023: DISTINCTION
+<p>2024: DISTINCTION
+<br>2023: DISTINCTION
 <br>2022: DISTINCTION
 <br>2021: GOLD
 <br>2020: GOLD
@@ -130,14 +140,22 @@ First Aid Course</p>
 <br>2016: GOLD
 <br>2015: GOLD</p>
 <p></p>
-<h4><strong>Achievement (2024):</strong></h4>
-<p></p>
+<h4><strong>Achievement :</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement (2024):</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Event</p>
@@ -169,33 +187,6 @@ HQ in collaboration with the Singapore Police Force (SPF)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Top 10</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SPF-NPCC Badge Awardee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Trisya Amanda</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Station Inspector Ranks</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Trisya Amanda,</p>
-<p>Irfan Danish,</p>
-<p>Syed Haafiz</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Best Unit Cadets</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Irfan Danish,</p>
-<p>Puteri Ally</p>
 </td>
 </tr>
 </tbody>
@@ -248,8 +239,8 @@ HQ in collaboration with the Singapore Police Force (SPF)</p>
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UG   NPCC/LVSS_NPCC_Unit_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UG   NPCC/NPCC_2025.jpg">
 </div>
+<p></p>
 <p></p>
