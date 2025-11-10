@@ -108,14 +108,24 @@ Republic of Singapore;</p>
 </tbody>
 </table>
 <h4><strong>Highlights</strong></h4>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Core Training: Drills, Campcraft, Physical
-Training, Leadership &amp; Mentoring&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Police Training: Police Knowledge, Unarmed
-Tactics, Crime Scene Investigation, Police Establishment Visits</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enrichment: Air Pistol, Bouldering, Kayaking,
-First Aid Course</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camps: Annual Camp, Sec 2 &amp; 3 Camp
-@ Pulau Ubin, Sec 2 Leadership Camp</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Core Training: Drills, Campcraft, Physical Training, Sports, Leadership
+&amp; Mentoring&nbsp;</p>
+</li>
+<li>
+<p>Police Training: Police Knowledge, Unarmed Tactics, Crime Scene Investigation,
+Police Establishment Visits, Community Outreach, Parades</p>
+</li>
+<li>
+<p>Enrichment: Air Pistol, 1-star Kayaking</p>
+</li>
+<li>
+<p>Camps: Annual Unit Camp, Sec 2 Adventure Training Camp @ Pulau Ubin, Sec
+2 Leadership Camp</p>
+</li>
+</ol>
+<p></p>
 <h4><strong>Social Media</strong></h4>
 <p>Instagram: @lvssnpcc</p>
 <h4><strong>Unit Overall Proficiency Award (UOPA):</strong></h4>
