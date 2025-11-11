@@ -141,10 +141,81 @@ team-building activities such as tackling high-element challenges at <strong>For
 testing their agility at <strong>HomeTeamNS Action Motion</strong> in Bedok
 Reservoir.</p>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rock Climbing/Picture6.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rock Climbing/Picture7.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
+<p><em>Our climbers have also represented the school in various </em><strong><em>competitive and recreational climbing events</em></strong><em>, including the </em><strong><em>Youth Bouldering Series</em></strong><em>, </em><strong><em>Inter-School Bouldering League (ISBL)</em></strong><em>, </em><strong><em>Inter-Schools Bouldering Championship (ISBC)</em></strong><em>, </em><strong><em>BFF Verticrux (Speed)</em></strong><em>, </em><strong><em>Springfield Let’s Rock</em></strong><em>, </em><strong><em>Lighthouse Spark</em></strong><em>, and </em><strong><em>Lighthouse Ignite</em></strong><em>. Through these experiences, they continue to display determination, sportsmanship, and a passion for growth — embodying the true spirit of LVRC.</em>
+</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rock Climbing/Picture8.jpg">
+</div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P" src="/images/CCA/Rock Climbing/Picture9.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rock Climbing/Picture10.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rock Climbing/Picture11.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rock Climbing/Picture12.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <p></p>
