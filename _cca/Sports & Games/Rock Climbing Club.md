@@ -86,9 +86,7 @@ honed their climbing techniques and deepened their passion for the sport
 through consistent training and guidance. They also have the opportunity
 to attain the <strong>Singapore National Climbing Standards (SNCS) Level 1 Certification</strong> and
 train at external climbing gyms such as <strong>BFF @ Our Tampines Hub</strong> and <strong>Project Send</strong>.</p>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rock Climbing/Picture2.jpg">
 </div>
