@@ -121,7 +121,7 @@ train at external climbing gyms such as <strong>BFF @ Our Tampines Hub</strong> 
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -131,10 +131,15 @@ train at external climbing gyms such as <strong>BFF @ Our Tampines Hub</strong> 
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
+<p>Beyond technical skills, LVRC places strong emphasis on teamwork and camaraderie.
+During our <strong>year-end CCA camp</strong>, climbers bonded through exciting
+team-building activities such as tackling high-element challenges at <strong>Forest Adventure</strong> and
+testing their agility at <strong>HomeTeamNS Action Motion</strong> in Bedok
+Reservoir.</p>
 <p></p>
 <p></p>
 <p></p>
