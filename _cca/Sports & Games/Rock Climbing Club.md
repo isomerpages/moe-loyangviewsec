@@ -5,16 +5,15 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rockclimb5.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rock Climbing/Picture1.jpg">
+</div>
 <h2><strong>Overview</strong></h2>
 <blockquote>
-<p><strong>Loyang View Rock Climbing (LVRC)</strong>&nbsp;has high expectations
-of our climbers because we strongly believe that every climber is capable
-and has enormous potential for growth. In this CCA, every member is important
-and together we are a family.</p>
+<p><strong>At Loyang View Rock Climbing (LVRC),</strong>&nbsp;we believe
+in every climber’s potential and value each member as part of our supportive
+family.</p>
 </blockquote>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
