@@ -72,39 +72,23 @@ family.</p>
 <p></p>
 <p><strong><u>CCA Description&nbsp;</u></strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong><em>“In climbing you are always faced with new problems in which you must perform using intuitive movements, and then later analyze them to figure out why they work, and then learn from them.” – Wolfgang Gullich</em></strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Loyang View Rock Climbing (LVRC) fosters a supportive and inclusive environment
+<p><strong><em>“In climbing you are always faced with new problems in which you must perform using intuitive movements, and then later analyze them to figure out why they work, and then learn from them.” – Wolfgang Gullich</em></strong>
+</p>
+<p>Loyang View Rock Climbing (LVRC) fosters a supportive and inclusive environment
 where every climber is encouraged to reach their fullest potential. With
 dedication and perseverance, our climbers learn to overcome challenges
 and achieve personal milestones. Every member is valued for their unique
 strengths, and together, we form a close-knit community that uplifts and
-inspires one another.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
+inspires one another.</p>
 <p>At LVRC, climbers grow not only in their technical abilities but also
 in confidence, teamwork, and resilience. Over the years, our members have
 honed their climbing techniques and deepened their passion for the sport
 through consistent training and guidance. They also have the opportunity
 to attain the <strong>Singapore National Climbing Standards (SNCS) Level 1 Certification</strong> and
 train at external climbing gyms such as <strong>BFF @ Our Tampines Hub</strong> and <strong>Project Send</strong>.</p>
-</div>
-</details>
-</div>
-<p></p>
-<p></p>
+<p>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Rock Climbing/Picture2.jpg">
 </div>
