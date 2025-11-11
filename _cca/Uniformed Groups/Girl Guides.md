@@ -73,7 +73,7 @@ to the betterment of society.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Puan&nbsp;Noor&nbsp;Aishah&nbsp;(PNA) Award Year of Assessment 2018 to
-2023 – Gold</p>
+2024 – Gold</p>
 </li>
 </ul>
 <h3><strong>CCA schedule and activities</strong></h3>
