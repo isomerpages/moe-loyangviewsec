@@ -11,9 +11,8 @@ variant: tiptap
 </div>
 <h2><strong>Overview</strong></h2>
 <blockquote>
-<p><strong>At Loyang View Rock Climbing (LVRC),</strong>&nbsp;we believe
-in every climber’s potential and value each member as part of our supportive
-family.</p>
+<p>At Loyang View Rock Climbing (LVRC),&nbsp;we believe in every climber’s
+potential and value each member as part of our supportive family.</p>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
