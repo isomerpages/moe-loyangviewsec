@@ -17,18 +17,7 @@ abilities to the fullest and encourage student voice.</p>
 <p></p>
 <hr>
 <h2><strong>Signature Programmes</strong></h2>
-<h3>Queen’s Commonwealth Essay Competition</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/EL/EL_Queen_Essay.jpg">
-</div>
-<p>Each year, selected students with literary flair are guided by teacher
-mentors to take part in the Queen’s Commonwealth Essay Competition. The
-world’s oldest international writing competition sees more than 50,000
-entries from over 54 countries annually. Access our students’ delightful
-works via the link below.</p>
-<p><a href="https://go.gov.sg/qcec2025-lvss-winning-entries" rel="noopener nofollow" target="_blank">https://go.gov.sg/qcec2025-lvss-winning-entries</a>
-</p>
+<h3></h3>
 <h3>Poetry Slam</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/EL/Poetry_Slam_photo1___Tsui_Fen_Yong.jpg">
@@ -49,6 +38,19 @@ creativity in language use with stage performance.</p>
 drama enrichment programme. They adapt personal stories into short skits
 and inject life to the narratives through an inter-class drama competition.
 In the process, students grow in confidence as they</p>
+<p></p>
+<h3>Queen’s Commonwealth Essay Competition</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/EL/EL_Queen_Essay.jpg">
+</div>
+<p>Each year, selected students with literary flair are guided by teacher
+mentors to take part in the Queen’s Commonwealth Essay Competition. The
+world’s oldest international writing competition sees more than 50,000
+entries from over 54 countries annually. Access our students’ delightful
+works via the link below.</p>
+<p><a href="https://go.gov.sg/qcec2025-lvss-winning-entries" rel="noopener nofollow" target="_blank">https://go.gov.sg/qcec2025-lvss-winning-entries</a>
+</p>
 <h3>Green Spaces Literary Augmented Reality (AR) Trail Design</h3>
 <p>Through collaboration with the National Arts Council via the Artist-in-School
 Scheme, selected Secondary Two and Three students learn from a professional
