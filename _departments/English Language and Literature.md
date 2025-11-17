@@ -18,6 +18,10 @@ abilities to the fullest and encourage student voice.</p>
 <hr>
 <h2><strong>Signature Programmes</strong></h2>
 <h3>Queen’s Commonwealth Essay Competition</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/EL/EL_Queen_Essay.jpg">
+</div>
 <p>Each year, selected students with literary flair are guided by teacher
 mentors to take part in the Queen’s Commonwealth Essay Competition. The
 world’s oldest international writing competition sees more than 50,000
