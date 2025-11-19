@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Site Design/Website_Hero_Banner_OH_2025.png
+      background: /images/Site Design/LVSS_Banner_OH_2025.jpg
       key_highlights:
         - title: Announcements
           description: ""
