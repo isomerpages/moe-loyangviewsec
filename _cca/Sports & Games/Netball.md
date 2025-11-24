@@ -99,13 +99,9 @@ passion and determination.
 <li>
 <p>2023 Top 8 National School Games (C Division)</p>
 </li>
-</ul>
-<ul>
 <li>
-<p>2023 Champion for Springfield Netball Carnival (C Division)&nbsp;</p>
+<p>2023 Champion for Springfield Netball Carnival (C Division)</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>2023 4<sup>th</sup> Place for Springfield Netball Carnival&nbsp; (B Division)</p>
 </li>
