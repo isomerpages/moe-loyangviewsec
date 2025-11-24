@@ -147,7 +147,6 @@ Competition Season]: 8am to 11 am</p>
 </ul>
 <h3><strong>Competitions</strong></h3>
 <h4><strong>1. Deloitte Pesta Sukan Netball Carnival</strong></h4>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -191,7 +190,6 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <h4><strong>2. Netball National School Games (NSG) B Division</strong></h4>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -225,7 +223,6 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <h4><strong>3. Netball National School Games (NSG) C Division</strong></h4>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -259,7 +256,6 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <h4><strong>4. Hungry Games Mental Resilience Day Camp</strong></h4>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -323,7 +319,6 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 <h4><strong>5. LVNB Team Bonding Activities</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teachers_vs_Students_Netball_Game.jpg">
 </div>
