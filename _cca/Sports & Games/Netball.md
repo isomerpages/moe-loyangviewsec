@@ -47,21 +47,12 @@ to bring Netball CCA to greater heights.&nbsp;</summary>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Angelina Ng</p>
+<p>Ms Ng Mui Yun Angelina</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2nd Overall Teacher-in-charge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Marhanim Abdullah Thani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teacher-in-charge</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,11 +70,20 @@ to bring Netball CCA to greater heights.&nbsp;</summary>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Teacher-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Agalya Muthukumarasamy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Coach</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Weeling</p>
+<p>Ms Tan Weeling</p>
 </td>
 </tr>
 </tbody>
@@ -94,7 +94,7 @@ to bring Netball CCA to greater heights.&nbsp;</summary>
 passion and determination.
 <br>
 </p>
-<h3><strong>Achievements &amp; Programmes for LVNB in 2023 and 2024</strong>:</h3>
+<h3><strong>Achievements &amp; Programmes for LVNB</strong>:</h3>
 <ul>
 <li>
 <p>2023 Top 8 National School Games (C Division)</p>
@@ -130,6 +130,9 @@ passion and determination.
 <li>
 <p>Netball Umpiring Workshop &nbsp;&nbsp;</p>
 </li>
+<li>
+<p>LVNB Team Bonding Day &amp; Viewing of Nations Cup</p>
+</li>
 </ul>
 <h3><strong>Netball Training Schedule</strong></h3>
 <p></p>
@@ -143,7 +146,7 @@ Competition Season]: 8am to 11 am</p>
 </li>
 </ul>
 <h3><strong>Competitions</strong></h3>
-<h4><strong>1. Deloitte Pesta Sukan Netball Carnival 2024</strong></h4>
+<h4><strong>1. Deloitte Pesta Sukan Netball Carnival </strong></h4>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -187,7 +190,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 </div>
-<h4><strong>2. Netball National School Games (NSG) B Division 2024</strong></h4>
+<h4><strong>2. Netball National School Games (NSG) B Division </strong></h4>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -221,7 +224,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 </div>
-<h4><strong>3. Netball National School Games (NSG) C Division 2024</strong></h4>
+<h4><strong>3. Netball National School Games (NSG) C Division</strong></h4>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -255,7 +258,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 </div>
-<h4><strong>4. Hungry Games Mental Resilience Day Camp 2024&nbsp;</strong></h4>
+<h4><strong>4. Hungry Games Mental Resilience Day Camp</strong></h4>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -319,12 +322,16 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 </div>
-<h4><strong>5. LVNB Team Bonding Activities 2024</strong></h4>
+<h4><strong>5. LVNB Team Bonding Activities</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teachers_vs_Students_Netball_Game.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/seniorsfarewell.jpg">
+</div>
+<h4><strong>6. LVNB Team Bonding Day and Viewing of Nations Cup</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/LVNB_Team_Bonding_Day_and_Viewing_of_Nations_Cup.png">
 </div>
 <p></p>
