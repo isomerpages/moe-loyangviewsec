@@ -146,7 +146,7 @@ Competition Season]: 8am to 11 am</p>
 </li>
 </ul>
 <h3><strong>Competitions</strong></h3>
-<h4><strong>1. Deloitte Pesta Sukan Netball Carnival </strong></h4>
+<h4><strong>1. Deloitte Pesta Sukan Netball Carnival</strong></h4>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -190,7 +190,7 @@ Competition Season]: 8am to 11 am</p>
 </div>
 </div>
 </div>
-<h4><strong>2. Netball National School Games (NSG) B Division </strong></h4>
+<h4><strong>2. Netball National School Games (NSG) B Division</strong></h4>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
