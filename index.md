@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Site Design/LVSS_Banner_OH_2025.jpg
+      background: /images/Design.png
       key_highlights:
         - title: Announcements
           description: ""
@@ -19,6 +19,7 @@ sections:
           description: ""
           url: /sec-2-subject-combination-matters/
       variant: image
+      url: https://go.gov.sg/lvss-openhouse2025
   - infopic:
       title: POWER YOUR FUTURE
       id: infopic
