@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Primary 6 students who have just received their secondary school posting
-in 2024 may use this <a href="https://go.gov.sg/lvss-2024-s1-appeal" rel="noopener nofollow" target="_blank">form</a> to
+in 2025 may use this <a href="https://go.gov.sg/lvss-2024-s1-appeal" rel="noopener nofollow" target="_blank">form</a> to
 appeal for transfer to Loyang View Secondary School. Their PSLE score must
 meet the school's cut-off point of the posting year. Transfer will be subject
 to available vacancies and the school’s admission criteria.</p>
