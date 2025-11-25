@@ -12,12 +12,12 @@ sections:
         - title: Announcements
           description: ""
           url: /Announcements/
-        - title: Latest Happenings
-          description: ""
-          url: /Latest-Happenings/
         - title: "LVSS Open House 2025: Register"
           description: ""
           url: https://go.gov.sg/lvss-openhouse2025
+        - title: Latest Happenings
+          description: ""
+          url: /Latest-Happenings/
       variant: image
       url: https://go.gov.sg/lvss-openhouse2025
   - infopic:
