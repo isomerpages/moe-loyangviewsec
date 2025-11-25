@@ -7,18 +7,19 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Site Design/LVSS_Banner_OH_2025.jpg
+      background: /images/Design.png
       key_highlights:
         - title: Announcements
           description: ""
           url: /Announcements/
+        - title: "LVSS Open House 2025: Register"
+          description: ""
+          url: https://go.gov.sg/lvss-openhouse2025
         - title: Latest Happenings
           description: ""
           url: /Latest-Happenings/
-        - title: Sec 2 Subject Combination Matters
-          description: ""
-          url: /sec-2-subject-combination-matters/
       variant: image
+      url: https://go.gov.sg/lvss-openhouse2025
   - infopic:
       title: POWER YOUR FUTURE
       id: infopic
