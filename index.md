@@ -15,9 +15,9 @@ sections:
         - title: Latest Happenings
           description: ""
           url: /Latest-Happenings/
-        - title: Sec 2 Subject Combination Matters
+        - title: LVSS Open House 2025
           description: ""
-          url: /sec-2-subject-combination-matters/
+          url: https://go.gov.sg/lvss-openhouse2025
       variant: image
       url: https://go.gov.sg/lvss-openhouse2025
   - infopic:
