@@ -2,6 +2,7 @@ collections:
   ict:
     output: true
     order:
+      - Sec 2 Subject Combination Exercise.md
       - Guides to DMA.md
       - Device Management Application (DMA).md
       - National Digital Literacy Programme (NDLP).md
