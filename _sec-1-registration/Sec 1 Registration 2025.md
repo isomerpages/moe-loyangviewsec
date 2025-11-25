@@ -190,11 +190,12 @@ Details: 65821727 ext 122 or email mohamed_nasir@moe.edu.sg</p>
 </p>
 </li>
 <li>
-<p>Tel: 624 0438 (Bookshop direct line) or</p>
+<p>Bookshop Tel No: 6214 0438
+<br>(9a.m to 3 p.m.)</p>
 </li>
 <li>
-<p>Tel: 6547 4204 (Office for General Enquiries relating to order status
-or technical issues with online order)</p>
+<p>Casco Office Tel No: 6547 4204
+<br>(9 a.m to 3 p.m.)</p>
 </li>
 <li>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a>
@@ -203,12 +204,6 @@ or technical issues with online order)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec1 2025/Sec_1_Book_List.pdf" rel="noopener nofollow" target="_blank">Link to Sec 1 Booklist</a>
-</p>
-<p>If your child/ward is purchasing his/her textbooks through our School
-Bookshop, please refer to the following information:
-<br>
-</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -216,34 +211,37 @@ Bookshop, please refer to the following information:
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Online Purchase Details</strong></h4>
+<h4><strong>Online / Pre-Order</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Website for online purchase: <a href="https://cascoedusupply.com.sg/" rel="noopener nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
+<p>Login to: <a href="https://cascoedusupply.com.sg/" rel="noopener nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
 </li>
 <li>
-<p>Dates to Shop online: From 18 Dec 2024 to 25 Dec 2024</p>
+<p>Online purchase start date: 15th Dec 2025, 9 a.m. onwards</p>
 </li>
 <li>
-<p>Online payment mode: PayNow, GrabPay, ShopeePay and Credit Card</p>
+<p>Online purchase end date: 23rd Dec 2025 by 11.59 p.m.</p>
 </li>
 <li>
-<p>Choose between ‘Home Delivery’ (recommended) or ‘Self-Collection’</p>
+<p>Home delivery fee: $14.20 (inclusive of GST) per address or self-collection
+at school bookshop from 18th Dec 2025 onwards</p>
 </li>
 <li>
-<p>Delivery fee: $13.50 per location</p>
+<p>Mode of Payment: Credit Card (Visa/Master), PayNow, GrabPay and ShopeePay</p>
 </li>
 </ul>
+<p>Note: Due to high order volume during this season, waiting time for home
+delivery service may take up to 2 weeks.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Onsite Sales</strong></h4>
+<h4><strong>Walk-in @ Loyang View Secondary School</strong></h4>
 </td>
 </tr>
 <tr>
@@ -253,8 +251,6 @@ Bookshop, please refer to the following information:
 <p>Please refer to the dates and time below:</p>
 </li>
 </ul>
-<p><strong><u>For 2025 Sec 1</u></strong>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -263,46 +259,49 @@ Bookshop, please refer to the following information:
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Dec 2024 to 20 Dec 2024
-<br>&amp; 23 Dec 2024</p>
+<p><strong><u>Dates</u></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><u>Operating Hours</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18th Dec to 19th Dec 2025</p>
+</td>
+<td rowspan="4" colspan="1">
 <p>9.00 a.m to 3.00 p.m.</p>
+<p>for all days</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00 a.m to 12.00 p.m.</p>
+<p>22nd to 23rd Dec 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Dec 2024 to 27 Dec 2024
-<br>&amp; 30 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00 a.m to 3.00 p.m.</p>
+<p>26th Dec 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>29th Dec to 30th Dec 2025</p>
 </td>
 </tr>
 </tbody>
 </table>
 <ul data-tight="true" class="tight">
 <li>
-<p>Venue:
+<p><strong><u>Venue: </u></strong>
 <br>Loyang View Secondary School
 <br>12 Pasir Ris Street 11
 <br>Singapore 519073</p>
+</li>
+<li>
+<p><strong><u>Mode of Payment</u></strong>: Cash and PayNow</p>
 </li>
 </ul>
 <p></p>
@@ -350,7 +349,7 @@ receipt and booklist for verification.</p>
 </p>
 </li>
 <li>
-<p>Tel :67643102</p>
+<p>Tel :6764 3102</p>
 </li>
 <li>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">uniforms@asencio.com.sg</a>
@@ -360,8 +359,7 @@ receipt and booklist for verification.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec1 2025/Loyang_View_Secondary_School_2025___Uniform_Order_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Link to Uniform Price Information </a>
-<br>If your child/ward is purchasing his/her School Uniform, please refer
+<p>If your child/ward is purchasing his/her School Uniform, please refer
 to the following information:</p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -370,38 +368,35 @@ to the following information:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Online Purchase Details</strong></h4>
+<h4><strong>Online / Pre-Order Details</strong></h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Website for online purchase:
+<p>Login to:
 <br><a rel="noopener noreferrer nofollow" target="_blank">www.asencio.com.sg</a>
 </p>
 </li>
 <li>
-<p>Dates to Shop online: From 18 Dec 2024 to 21 Dec 2024 2359 hours (in order
-to receive before school reopens) Note: Due to high delivery volume during
-festive season, home delivery may take up to 5 to 7 days for items to be
-delivered.</p>
+<p>Online purchase start date: 15th Dec 2025 at 9 a.m.</p>
 </li>
 <li>
-<p>Online payment mode: PayNow, Debit Card and Credit Card</p>
+<p>Home delivery Fee: $6.54 (inclusive of GST) per address or self-collection
+at Loyang View Secondary school from 18th Dec 2025 onwards.</p>
 </li>
 <li>
-<p>Choose between ‘Home Delivery’ (recommended) or ‘Self-Collection’</p>
-</li>
-<li>
-<p>Delivery fee: $6.54 (inclusive of GST) per location</p>
+<p>Mode of payment: Credit Card (Visa/Master), PayNow</p>
 </li>
 </ul>
+<p>Note: Due to high order volume during this season, waiting time for home
+delivery service may take up to 2 weeks.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Onsite Sales</strong></h4>
+<h4><strong>Walk-in @ Loyang View Secondary School</strong></h4>
 </td>
 </tr>
 <tr>
@@ -410,7 +405,6 @@ delivered.</p>
 <li>
 <p>Please refer to dates and times below:
 <br>
-<br><strong><u>For 2025 Sec 1</u></strong>
 </p>
 </li>
 </ul>
@@ -422,54 +416,84 @@ delivered.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Dec 2024 to 20 Dec 2024
-<br>&amp; 23 Dec 2024</p>
+<p><strong><u>Dates</u></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 a.m. to 3.00 p.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24 Dec 2024</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00 a.m. to 12.00 p.m.</p>
+<p><strong><u>Operating Hours</u></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Dec 2024 to 27 Dec 2024
-<br>&amp; 30 Dec 2024</p>
+<p>18th Dec to 19th Dec 2025</p>
 </td>
+<td rowspan="4" colspan="1">
+<p>9 a.m. to 3 p.m.</p>
+<p></p>
+<p>for all days</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>9.00 a.m. to 3.00 p.m.</p>
+<p>22nd Dec to 23rd Dec 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26th Dec 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29th Dec to 30th Dec 2025</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Venue:
+<p><strong>Mode of payment:</strong> Cash and PayNow</p>
+</li>
+<li>
+<p><strong>Venue: </strong>
 <br>Loyang View Secondary School
 <br>12 Pasir Ris Street 11
 <br>Singapore 519073</p>
+<p></p>
 </li>
 <li>
-<p>Onsite Sales
-<br>Asencio Retail Store
-<br>Asencio Pte Ltd
-<br>120 Hillview Avenue,
-<br>#05-02 Kewalram Hillview
-<br>Singapore 669594
-<br>
-<br>o&nbsp;&nbsp; Weekdays : 9.00am to 5.00pm
-<br>o&nbsp;&nbsp; Saturdays : 9.00am to 1.00pm
-<br>o&nbsp;&nbsp; Sunday, PH Eve &amp; PH Closed</p>
+<p><strong>Note:</strong>
+<br>o&nbsp;&nbsp; Tel: 6764 3102 (9 a.m. to 3 p.m.)
+<br>o Email address: uniforms@asencio.com.sg</p>
 <p></p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Walk-in @ Asencio Retail Shop</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Address: </strong>120 Hillview Avenue, #05-02 Kewalram Hillview
+Singapore 669594</p>
+<p><strong>Operating Hours</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monday - Friday (9 a.m. to 5 p.m.)</p>
+</li>
+<li>
+<p>Saturday (9 a.m. to 12 noon)</p>
+</li>
+<li>
+<p>Closed on Sunday, Public Holiday Eve and Public Holidays</p>
+</li>
+</ul>
+<p><strong>Mode of Payment</strong>: Cash and PayNow</p>
 </td>
 </tr>
 <tr>
@@ -487,7 +511,7 @@ and condition applies.). Please produce your receipt for verification.</p>
 </li>
 <li>
 <p>Exchange of uniforms is only conducted at the retail store. Please call
-and make an appointment (Tel: 67643102)</p>
+and make an appointment (Tel: 6764 3102)</p>
 </li>
 <li>
 <p>Venue:
