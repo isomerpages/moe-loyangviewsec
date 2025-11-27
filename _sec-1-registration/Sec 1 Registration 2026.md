@@ -9,7 +9,7 @@ description: ""
 <br>Welcome to Loyang View Secondary School!
 <br>
 <br>We look forward to meeting your child/ward on the first day of school,
-Thursday, 2 January 2025.
+Friday, 2 January 2026.
 <br>
 <br>As students do not need to report to school after receiving their Secondary
 1 Posting Results, please read the information below on Secondary 1 registration
@@ -40,13 +40,13 @@ at our school.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Reporting details for First Day of Academic Year 2025, Thursday, 2 January
+<p>Reporting details for First Day of Academic Year 2025, Friday, 2 January
 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Time to report to School: 7.25 a.m.</p>
+<p>Time to report to School: 7.50 a.m.</p>
 </li>
 <li>
 <p>Dismissal Time: 12.30 p.m.</p>
@@ -62,12 +62,12 @@ not purchased our school uniform</p>
 <p>Where to report: Parade Square in the school
 <br>Our student councillors will be around to welcome you and guide your child/ward
 to the reporting venue.</p>
-<p>If your child/ward is unable to report to our school on Thursday, 2 January
-2025, please contact our Assistant Year Head, Ms Lim Mengrui Carol Joanne,
-to confirm that you are taking up the place at our school.</p>
-<p><strong>Ms Lim Mengrui Carol Joanne</strong>
+<p>If your child/ward is unable to report to our school on Friday, 2 January
+2025, please contact our Assistant Year Head, Mdm Nazeeracany, to confirm
+that you are taking up the place at our school.</p>
+<p><strong>Mdm Nazeeracany</strong>
 <br>Assistant Year Head, Lower Secondary
-<br>Contact Details: 65821727 ext. 141 or email <a rel="noopener noreferrer nofollow" target="_blank">carol_joanne_lim@moe.edu.sg</a>
+<br>Contact Details: 65821727 ext. 164 or email <a href="mailto:nazeeracany_mohamed_husien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazeeracany_mohamed_husien@moe.edu.sg</a>
 </p>
 </li>
 </ul>
@@ -78,7 +78,7 @@ to confirm that you are taking up the place at our school.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Orientation Programme</p>
+<p>Orientation Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>We will provide the details via Parent Gateway (PG).</p>
@@ -151,19 +151,19 @@ clarification.
 </td>
 <td rowspan="1" colspan="1">
 <p>You may also contact the following officers for further clarification.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>For <strong>Mother Tongue Language matters</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm. Nurul Farhana Bte Mohd Kassim, our Subject Head of Mother Tongue
-Languages Department: Contact Details: 65821727 ext 144 or email nurul_farhana_mohamed_kass@moe.edu.sg</p>
+<p>Mdm. Nurul Farhana Bte Mohd Kassim, our Head of Department Contact Details:
+65821727 ext 144 or email nurul_farhana_mohamed_kass@moe.edu.sg</p>
 </li>
 </ul>
 <p></p>
 <p>For <strong>PE/CCA matters</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr. Gabriel Wie, our Head of Department: Contact Details: 65821727 ext
+<p>Mr. Gabriel Wie, our Head of Department Contact Details: 65821727 ext
 118 or email <a href="mailto:wie_chouw_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wie_chouw_siang@moe.edu.sg</a>
 </p>
 </li>
@@ -171,8 +171,8 @@ Languages Department: Contact Details: 65821727 ext 144 or email nurul_farhana_m
 <p>&nbsp;For <strong>Special Needs matters</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr. Mohamed Nasir B Rahmat Ali, our Year Head Lower Secondary: Contact
-Details: 65821727 ext 122 or email mohamed_nasir@moe.edu.sg</p>
+<p>Mr. Mohamed Nasir B Rahmat Ali
+<br>Contact Details: 65821727 ext 197 or email mohamed_nasir@moe.edu.sg</p>
 </li>
 </ul>
 </td>
