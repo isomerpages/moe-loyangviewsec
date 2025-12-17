@@ -18,9 +18,6 @@ sections:
         - title: "LVSS Open House 2025: Register"
           description: ""
           url: https://go.gov.sg/lvss-openhouse2025
-        - title: Announcements
-          description: ""
-          url: /Announcements/
       variant: image
       url: https://go.gov.sg/lvss-openhouse2025
   - infopic:
