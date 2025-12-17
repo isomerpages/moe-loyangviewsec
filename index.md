@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/Design.png
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: /Announcements/
-        - title: "LVSS Open House 2025: Register"
-          description: ""
-          url: https://go.gov.sg/lvss-openhouse2025
+        - title: Sec 1 Registration 2026
+          description: "[NEW]"
+          url: https://www.loyangviewsec.moe.edu.sg/sec-1-registration/sec1registration2026
         - title: Latest Happenings
           description: ""
           url: /Latest-Happenings/
+        - title: "LVSS Open House 2025: Register"
+          description: ""
+          url: https://go.gov.sg/lvss-openhouse2025
       variant: image
       url: https://go.gov.sg/lvss-openhouse2025
   - infopic:
