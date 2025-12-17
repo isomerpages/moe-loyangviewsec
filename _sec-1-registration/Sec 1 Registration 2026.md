@@ -118,8 +118,8 @@ assistance at 65821727 or email <a href="mailto:loyangview_ss@moe.edu.sg" rel="n
 <td rowspan="1" colspan="1">
 <p>If your child/ward is eligible for SBB, you will receive the form on the
 afternoon of Friday, 19 December 2025 via PG or email. Please return the
-completed form to your child/ward’s Form Teacher by Tuesday, 7 January
-2025.
+completed form to your child/ward’s Form Teacher by Tuesday, 6 January
+2026.
 <br>
 <br>Please click refer to MOE website (<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>)
 for more information on SBB.
