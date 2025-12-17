@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Sec 1 Registration 2026
           description: "[NEW]"
-          url: https://www.loyangviewsec.moe.edu.sg/sec-1-registration/sec1registration2026
+          url: /sec-1-registration/sec1registration2026/
         - title: Latest Happenings
           description: ""
           url: /Latest-Happenings/
