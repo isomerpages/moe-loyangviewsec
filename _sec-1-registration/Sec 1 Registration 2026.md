@@ -41,7 +41,7 @@ at our school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Reporting details for First Day of Academic Year 2025, Friday, 2 January
-2025</p>
+2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -63,7 +63,7 @@ not purchased our school uniform</p>
 <br>Our student councillors will be around to welcome you and guide your child/ward
 to the reporting venue.</p>
 <p>If your child/ward is unable to report to our school on Friday, 2 January
-2025, please contact our Assistant Year Head, Mdm Nazeeracany, to confirm
+2026, please contact our Assistant Year Head, Mdm Nazeeracany, to confirm
 that you are taking up the place at our school.</p>
 <p><strong>Mdm Nazeeracany</strong>
 <br>Assistant Year Head, Lower Secondary
@@ -98,11 +98,11 @@ application form, which can be collected from the school General Office.</p>
 <p>You may refer to the website <a href="https://www.moe.gov.sg/financial-matters/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance/</a> for
 information on MOE FAS.</p>
 <p>Please complete the form online or submit the hardcopy application with
-the required documents to your child/ward’s Form Teacher on Thursday, 2
-January 2025.</p>
+the required documents to your child/ward’s Form Teacher on Friday, 2 January
+2026.</p>
 <p>If your child is an approved FAS applicant, you may bring your approved
-FAS letter to our school for our processing from Thursday, 19 December
-2024 onwards.</p>
+FAS letter to our school for our processing from Friday, 19 December 2025
+onwards.</p>
 <p>If you have other queries, you may also call our staff Ms Aida for further
 assistance at 65821727 or email <a href="mailto:loyangview_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loyangview_ss@moe.edu.sg</a>.</p>
 </td>
@@ -117,8 +117,8 @@ assistance at 65821727 or email <a href="mailto:loyangview_ss@moe.edu.sg" rel="n
 </td>
 <td rowspan="1" colspan="1">
 <p>If your child/ward is eligible for SBB, you will receive the form on the
-afternoon of Thursday, 19 December 2024 via PG or email. Please return
-the completed form to your child/ward’s Form Teacher by Tuesday, 7 January
+afternoon of Friday, 19 December 2025 via PG or email. Please return the
+completed form to your child/ward’s Form Teacher by Tuesday, 7 January
 2025.
 <br>
 <br>Please click refer to MOE website (<a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html</a>)
@@ -155,17 +155,18 @@ clarification.
 <p>For <strong>Mother Tongue Language matters</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm. Nurul Farhana Bte Mohd Kassim, our Head of Department Contact Details:
-65821727 ext 144 or email nurul_farhana_mohamed_kass@moe.edu.sg</p>
+<p>Mdm. Nurul Farhana Bte Mohd Kassim, our Head of Department
+<br>Contact Details: 65821727 ext 144 or email nurul_farhana_mohamed_kass@moe.edu.sg</p>
 </li>
 </ul>
 <p></p>
 <p>For <strong>PE/CCA matters</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr. Gabriel Wie, our Head of Department Contact Details: 65821727 ext
-118 or email <a href="mailto:wie_chouw_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wie_chouw_siang@moe.edu.sg</a>
+<p>Mr. Gabriel Wie, our Head of Department
+<br>Contact Details: 65821727 ext 118 or email <a href="mailto:wie_chouw_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wie_chouw_siang@moe.edu.sg</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p>&nbsp;For <strong>Special Needs matters</strong>:</p>
