@@ -4,6 +4,5 @@ permalink: /welcome-letter-to-sec-1s/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <p><a href="/files/Sec 1 2026/2026_Welcome_Letter_to_Sec_1s.pdf" rel="noopener nofollow" target="_blank">2026 Welcome Letter to Sec 1s</a>
 </p>
