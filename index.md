@@ -12,6 +12,9 @@ sections:
         - title: Sec 1 Registration 2026
           description: "[NEW]"
           url: /sec-1-registration/sec1registration2026/
+        - title: 2025 GCE N Levels
+          description: Click for more information
+          url: /2025-gce-n-levels-release-supporting-your-teen-through-the-n-level-results-release/
         - title: Latest Happenings
           description: ""
           url: /Latest-Happenings/
