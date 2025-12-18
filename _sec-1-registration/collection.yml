@@ -2,6 +2,6 @@ collections:
   sec-1-registration:
     output: true
     order:
-      - Welcome Letter to Sec 1s.md
       - Sec 1 Registration 2026.md
+      - Welcome Letter to Sec 1s.md
       - Appeal to Loyang View Secondary School.md
