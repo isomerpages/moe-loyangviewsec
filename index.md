@@ -15,6 +15,9 @@ sections:
         - title: Latest Happenings
           description: ""
           url: /Latest-Happenings/
+        - title: 2025 GCE N Levels
+          description: Click for more information
+          url: /2025_GCE
       variant: image
       url: https://go.gov.sg/lvss-openhouse2025
   - infopic:
