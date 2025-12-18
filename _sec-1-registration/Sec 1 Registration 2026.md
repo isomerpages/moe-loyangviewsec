@@ -362,6 +362,10 @@ receipt and booklist for verification.</p>
 <td rowspan="1" colspan="1">
 <p>If your child/ward is purchasing his/her School Uniform, please refer
 to the following information:</p>
+<p></p>
+<p><strong>Loyang View students are allowed to wear either the formal school uniform or the school Polo T-shirt with prescribed skirt/shorts/pants on all days. Physical Education (PE) attire is used for PE lessons and physical activities. We recommend purchasing at least 1 set of formal school uniform and 2 sets of Polo T-shirt with prescribed bottoms, along with at least 2 sets of PE attire.</strong>
+</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
