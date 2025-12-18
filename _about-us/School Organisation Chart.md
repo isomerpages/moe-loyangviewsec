@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner.jpg">
 </div>
-<h2>School Organisation Chart</h2>
+<h2><strong>School Organisation Chart 2026</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Org/SLs_2nd_Sem_2025.png">
@@ -89,7 +89,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ Student Management</p>
+<p>HOD / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr R Shanmuganathan</p>
@@ -103,15 +103,16 @@ variant: tiptap
 <p>HOD/ Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lie Hui Min</p>
+<p>Mr Chua Teoh Guan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lie_hui_min@moe.edu.sg</p>
+<p><a href="mailto:teoh_guan_chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teoh_guan_chua@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 2)</p>
+<p>Year Head (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abu Sufyan Bedin</p>
@@ -125,21 +126,22 @@ variant: tiptap
 <p>Year Head (Sec 4/5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Nasir B Rahmat Ali</p>
+<p>Ms Nurul Imma Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamed_nasir@moe.edu.sg</p>
+<p>nurul_imma_wong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ Science</p>
+<p>HOD / Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kia Hock</p>
+<p>Mr Mohamed Haniff B Mohamed Said</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_kia_hock@moe.edu.sg</p>
+<p><a href="mailto:mohamed_haniff_mohamed_said@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_haniff_mohamed_said@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +157,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ Character &amp; Citizenship Education</p>
+<p>HOD / Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Kah Wai</p>
@@ -166,7 +168,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ Humanities</p>
+<p>HOD / Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Keng Yam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_keng_yam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_keng_yam@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lau Mui Tian</p>
@@ -177,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ PE &amp; CCA</p>
+<p>HOD / PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wie Chouw Siang Gabriel</p>
@@ -188,7 +202,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/ English &amp; Literature</p>
+<p>HOD / English &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Yong Tsui Fen</p>
@@ -217,6 +231,29 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>saiful_bahri_idris@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Farhana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurul_farhana_mohamed_kass@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / Special Projects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Daryl Tan Yong Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:daryl_tan_yong_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daryl_tan_yong_leng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -287,13 +324,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / Malay Language</p>
+<p>SH / Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Farhana</p>
+<p>Mr Mohammad Suhaimi Bin Omar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurul_farhana_mohamed_kass@moe.edu.sg</p>
+<p><a href="mailto:mohammad_suhaimi_omar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_suhaimi_omar@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -320,7 +358,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH/ English</p>
+<p>Assistant Year Head (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nazeeracany</p>
@@ -331,24 +369,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 1)</p>
+<p>Assistant Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Carol Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>carol_joanne_lim@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nurul Imma Wong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nurul_imma_wong@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

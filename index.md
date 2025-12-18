@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Design.png
+      background: /images/Site Design/Hero_Banner_2026.png
       key_highlights:
         - title: Sec 1 Registration 2026
           description: "[NEW]"
@@ -15,9 +15,6 @@ sections:
         - title: Latest Happenings
           description: ""
           url: /Latest-Happenings/
-        - title: "LVSS Open House 2025: Register"
-          description: ""
-          url: https://go.gov.sg/lvss-openhouse2025
       variant: image
       url: https://go.gov.sg/lvss-openhouse2025
   - infopic:
