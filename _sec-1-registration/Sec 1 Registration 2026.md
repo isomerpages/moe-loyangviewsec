@@ -81,7 +81,8 @@ that you are taking up the place at our school.</p>
 <p>Orientation Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>We will provide the details via Parent Gateway (PG).</p>
+<p>You can find the details inside the <strong><u>2026 Welcome Letter to Sec 1s</u></strong> located
+on the school website or sent via Parents Gateway (PG) directly.</p>
 </td>
 </tr>
 <tr>
