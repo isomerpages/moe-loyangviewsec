@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Site Design/Hero_25thOct_2.jpg
+      background: /images/Site Design/Hero_Banner_2026.png
       key_highlights:
         - title: Sec 1 Registration 2026
           description: "[NEW]"
