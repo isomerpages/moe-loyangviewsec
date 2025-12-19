@@ -238,7 +238,7 @@ variant: tiptap
 <p>HOD / Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Farhana</p>
+<p>Mdm Nurul Farhana Mohd Kassim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nurul_farhana_mohamed_kass@moe.edu.sg</p>
