@@ -76,3 +76,7 @@ experience and advice with younger parents too.</p>
 <h3>Join us</h3>
 <h3>Sign up for PSG membership: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfN2QJn6cSVzlfhw3J817FuEGoCfku3Lkeu4HFco8JCiRRwcg/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG1.jpg">
+</div>
+<p></p>
