@@ -5,8 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h1>Parent Support Group @ LVSS</h1>
-<h4><em>Supporting our children, together as a community</em></h4>
-<p><strong>Why join PSG?</strong>
+<p><strong><em>Supporting our children, together as a community</em></strong>
+</p>
+<p>
+<br><strong>Why join PSG?</strong>
 </p>
 <p>The Parent Support Group (PSG) is a great opportunity for us to be closer
 to our children, understand them better, and help them in their education
