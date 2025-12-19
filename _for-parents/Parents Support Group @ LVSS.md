@@ -85,6 +85,33 @@ environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG7.jpg">
 </div>
+<p>We warmly invite parents to partner our&nbsp; school and support our students
+by volunteering 3Ts.</p>
+<p>&nbsp;</p>
+<p>A) Time</p>
+<p>You may wish to volunteer time to design and conduct the school’s programmes
+and events. Supportive PSG members can help to make the school a safe place
+for our children to learn in, making school life more vibrant and caring.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG9.jpg">
+</div>
+<p>B) Talent</p>
+<p>You can volunteer your expertise, talents, individual interests or personal
+networks. In this way, parents can significantly expand the pool of help
+available to the school and the PSG.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG10.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h3>Sign up for PSG membership: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfN2QJn6cSVzlfhw3J817FuEGoCfku3Lkeu4HFco8JCiRRwcg/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a></h3>
 <p></p>
 <p></p>
