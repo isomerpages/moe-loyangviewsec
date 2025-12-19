@@ -40,7 +40,7 @@ environment.</p>
 <p>journey with our children during school events</p>
 </li>
 </ul>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-link"></div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -77,13 +77,14 @@ environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG6.jpg">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p>provide constructive suggestions for school improvement</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/PSG6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG7.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/PSG7.png">
-</div>
-<h4></h4>
 <h3>Sign up for PSG membership: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfN2QJn6cSVzlfhw3J817FuEGoCfku3Lkeu4HFco8JCiRRwcg/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a></h3>
 <p></p>
 <p></p>
