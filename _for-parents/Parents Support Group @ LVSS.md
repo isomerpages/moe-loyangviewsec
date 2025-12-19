@@ -108,10 +108,21 @@ available to the school and the PSG.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG10.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG12.jpg">
+</div>
+<p>C) Thoughts</p>
+<p>You may work with us in brainstorming and contributing constructive feedback
+and ideas to improve the school and PSG. More experienced parents can share
+experience and advice with younger parents too.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG13.jpg">
+</div>
+<p>Parents interested in joining our PSG, please fill in the application
+form below.</p>
+<p>Sign up for PSG membership <a href="https://docs.google.com/forms/d/e/1FAIpQLSfN2QJn6cSVzlfhw3J817FuEGoCfku3Lkeu4HFco8JCiRRwcg/viewform?usp=pp_url" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <p></p>
-<p></p>
-<p></p>
-<h3>Sign up for PSG membership: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfN2QJn6cSVzlfhw3J817FuEGoCfku3Lkeu4HFco8JCiRRwcg/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a></h3>
-<p></p>
+<h3></h3>
 <p></p>
