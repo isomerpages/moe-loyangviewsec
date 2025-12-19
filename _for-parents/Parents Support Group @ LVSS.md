@@ -12,8 +12,9 @@ variant: tiptap
 to our children, understand them better, and help them in their education
 journey. Our children also benefit when we are more active in their school
 environment.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/PSG.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG1.jpg">
 </div>
 <p>They tend to:</p>
 <ul data-tight="true" class="tight">
@@ -39,44 +40,50 @@ environment.</p>
 <p>journey with our children during school events</p>
 </li>
 </ul>
-<p><strong>We warmly invite parents to partner our&nbsp; school and support our students by volunteering 3Ts.</strong>
-</p>
-<h4>A) Time</h4>
-<p>You may wish to volunteer time to design and conduct the school’s programmes
-and events. Supportive PSG members can help to make the school a safe place
-for our children to learn in, making school life more vibrant and caring.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/PSG4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG3.jpg">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-link"></div>
+</div>
+</a>
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>organise activities to strengthen parent-child bonding</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/PSG5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG4.jpg">
 </div>
-<h4>B) Talent</h4>
-<p>You can volunteer your expertise, talents, individual interests or personal
-networks. In this way, parents can significantly expand the pool of help
-available to the school and the PSG.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>lend support for a meaningful cause</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG5.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>orientate and support our Sec 1 Parents</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG6.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/PSG6.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/PSG7.png">
 </div>
-<h4>C) Thoughts</h4>
-<p>You may work with us in brainstorming and contributing constructive feedback
-and ideas to improve the school and PSG. More experienced parents can share
-experience and advice with younger parents too.</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/PSG8.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/PSG9.png">
-</div>
-<p><strong>Parents interested in helping out with our school activities, please fill in the application form below and email the completed form to&nbsp;<a href="mailto:premlatha_selvaraj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">premlatha_selvaraj@moe.edu.sg</a></strong>
-</p>
-<h3>Join us</h3>
+<h4></h4>
 <h3>Sign up for PSG membership: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfN2QJn6cSVzlfhw3J817FuEGoCfku3Lkeu4HFco8JCiRRwcg/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a></h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG1.jpg">
-</div>
 <p></p>
