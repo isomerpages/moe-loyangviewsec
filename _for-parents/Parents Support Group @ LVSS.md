@@ -42,22 +42,13 @@ environment.</p>
 <p>journey with our children during school events</p>
 </li>
 </ul>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG2and3.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-<div class="isomer-card-link"></div>
-</div>
-</a>
-</div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>organise activities to strengthen parent-child bonding</p>
+<p>organize activities to strengthen parent-child bonding</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
