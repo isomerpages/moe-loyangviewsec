@@ -45,9 +45,10 @@ environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG2and3.jpg">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>organise activities to strengthen parent-child bonding</p>
+<p>organize activities to strengthen parent-child bonding</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
