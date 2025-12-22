@@ -43,6 +43,9 @@ environment.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG2and3.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>organise activities to strengthen parent-child bonding</p>
