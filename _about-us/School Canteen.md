@@ -64,7 +64,7 @@ providers and then apply for hawker licence from the Singapore Food Agency
 <h4><strong>Application Procedure</strong></h4>
 <p>Application form (click&nbsp;<a href="https://www.loyangviewsec.moe.edu.sg/files/Canteen/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 download) must be completed and submitted soonest to our school’s General
-Office by&nbsp;<strong><u>Friday, 30 January 2026</u></strong>&nbsp;with
+Office by&nbsp;<strong><u>Friday,  30 January 2026</u></strong>&nbsp;with
 the following documents:</p>
 <p>(i) Proposed menu and pricing</p>
 <p>(ii) Photocopy of the applicant’s NRIC (front and back)</p>
