@@ -4,6 +4,13 @@ permalink: /for-parents/termletters/
 description: ""
 variant: tiptap
 ---
+<h2>2026 Welcome Letter (Sec 2-5)</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Term Letters/2025/2026_Welcome_Letter__Sec_2_5_.pdf" rel="noopener nofollow" target="_blank">2026 Welcome Letter (Sec 2-5)</a>
+</p>
+</li>
+</ul>
 <h2>Term Letters 2025</h2>
 <ul data-tight="true" class="tight">
 <li>
