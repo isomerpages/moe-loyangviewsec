@@ -53,5 +53,4 @@ variant: tiptap
 </ul>
 <p></p>
 <p></p>
-<h3></h3>
 <p></p>
