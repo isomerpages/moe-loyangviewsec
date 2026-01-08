@@ -113,7 +113,9 @@ third_nav_title: Form Classes 2026
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammed Hafiz Bin Senin</p>
+<p>Mr Muhammed Hafiz Bin Senin
+<br><a href="mailto:Muhammad_Hafiz_Senin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Hafiz_Senin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
