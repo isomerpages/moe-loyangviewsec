@@ -153,7 +153,8 @@ third_nav_title: Form Classes 2026
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Clement Lim
-<br>lim_jit_hui_clement@moe.edu.sg</p>
+<br><a href="mailto:lim_jit_hui_clement@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jit_hui_clement@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
