@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Form Classes 2026
 ---
-<h1>Sec 3 Form Classes 2025</h1>
+<h1>Sec 3 Form Classes 2026</h1>
 <p></p>
 <p></p>
 <table style="minWidth: 50px">
@@ -31,11 +31,11 @@ third_nav_title: Form Classes 2026
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E1</p>
+<p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Josephine Oh
-<br><a href="mailto:oh_wan_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_wan_ping@moe.edu.sg</a>
+<p>Ms Azlina Kassim
+<br><a href="mailto:azlina_kassim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>azlina_kassim@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -44,40 +44,18 @@ third_nav_title: Form Classes 2026
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yee Kah Leong
-<br><a href="mailto:yee_kah_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_kah_leong@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3E2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Chiang Siew
-<br><a href="mailto:lim_chiang_siew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chiang_siew@moe.edu.sg</a>
+<p>Mr Chow Wei Yuan
+<br><a href="mailto:chow_wei_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chow_wei_yuan@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Norman Long
-<br><a href="mailto:long_ser_wee_norman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_ser_wee_norman@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3A1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Simon Lim
-<br><a href="mailto:lim_seow_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_seow_leong@moe.edu.sg</a>
+<p>Mdm Victoria Chang
+<br><a href="mailto:chang_ping_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chang_ping_sze@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -86,8 +64,18 @@ third_nav_title: Form Classes 2026
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ram Pyaree
-<br><a href="mailto:ram_pyaree_taker_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ram_pyaree_taker_singh@moe.edu.sg</a>
+<p>Mr Heng Ching Fei
+<br><a href="mailto:heng_ching_fei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_ching_fei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Suhailah
+<br><a href="mailto:nur_suhailah_mohamed_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_suhailah_mohamed_nor@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -96,20 +84,25 @@ third_nav_title: Form Classes 2026
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christina Chew
-<br><a href="mailto:chew\_pei_jun_christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_pei_jun_christina@moe.edu.sg</a>
+<p>Mr Darien Chua
+<br><a href="mailto:chua_hong_yang_darien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hong_yang_darien@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3A2</p>
+<p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Melky Putera
-<br><a href="mailto:melky_putera_papidunan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">melky_putera_papidunan@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -125,7 +118,7 @@ third_nav_title: Form Classes 2026
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3A3</p>
+<p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jacqueline Cheng
@@ -146,7 +139,7 @@ third_nav_title: Form Classes 2026
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3T1</p>
+<p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ian Tay
