@@ -112,7 +112,9 @@ third_nav_title: Form Classes 2026
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Rahul Rajasabhai
+<br><a href="mailto:rahul_rajasabhai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahul_rajasabhai@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +122,9 @@ third_nav_title: Form Classes 2026
 <p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Karen Sing
+<br><a href="mailto:lai_siu_mey_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_siu_mey_karen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +132,9 @@ third_nav_title: Form Classes 2026
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Toh Choon Gee Justin
+<br><a href="mailto:toh_choon_gee_justin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_choon_gee_justin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +142,9 @@ third_nav_title: Form Classes 2026
 <p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Zubaidah
+<br><a href="mailto:zubaidah_mohd_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zubaidah_mohd_noor@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +152,8 @@ third_nav_title: Form Classes 2026
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Clement Lim
+<br>lim_jit_hui_clement@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
