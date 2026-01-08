@@ -142,8 +142,8 @@ third_nav_title: Form Classes 2026
 <p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Sing
-<br><a href="mailto:lai_siu_mey_karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_siu_mey_karen@moe.edu.sg</a>
+<p>Ms Naeem
+<br><a href="mailto:naeem_ahamed_ali_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">naeem_ahamed_ali_khan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -152,10 +152,19 @@ third_nav_title: Form Classes 2026
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rayna Yun Jie
-<br><a href="mailto:rayna_yun_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rayna_yun_jie@moe.edu.sg</a>
+<p>Ms Liow Min Yu
+<br><a href="mailto:liow_min_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>liow_min_yu@moe.edu.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Nasir
+<br><a href="mailto:mohamed_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_nasir@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
