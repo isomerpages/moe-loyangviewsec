@@ -1,11 +1,11 @@
 ---
-title: Sec 3 Form Classes 2025
-permalink: /about-us/sec3-class/
+title: Sec 4 & 5 Form Classes 2026
+permalink: /about-us/sec45-class/
 variant: tiptap
 description: ""
-third_nav_title: Form Classes 2025
+third_nav_title: Form Classes 2026
 ---
-<h1>Sec 3 Form Classes 2025</h1>
+<h1>Sec 4 &amp; 5 Form Classes 2026</h1>
 <p></p>
 <p></p>
 <table style="minWidth: 50px">
@@ -31,7 +31,7 @@ third_nav_title: Form Classes 2025
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E1</p>
+<p>4E1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Josephine Oh
@@ -44,15 +44,14 @@ third_nav_title: Form Classes 2025
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yee Kah Leong
-<br><a href="mailto:yee_kah_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_kah_leong@moe.edu.sg</a>
+<p>Mdm Marhanim
+<br><a href="mailto:marhanim_abdullah_thani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marhanim_abdullah_thani@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E2</p>
+<p>4E2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Chiang Siew
@@ -65,18 +64,17 @@ third_nav_title: Form Classes 2025
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Norman Long
-<br><a href="mailto:long_ser_wee_norman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_ser_wee_norman@moe.edu.sg</a>
+<p>Ms Elvina Abu Hasan
+<br><a href="mailto:elvina_abu_hasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elvina_abu_hasan@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3A1</p>
+<p>4A1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Simon Lim
+<p>Mr Simon Lim Seow Leong Lin Xiaolong
 <br><a href="mailto:lim_seow_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_seow_leong@moe.edu.sg</a>
 </p>
 </td>
@@ -86,25 +84,14 @@ third_nav_title: Form Classes 2025
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ram Pyaree
+<p>Mdm Ram Pyaree
 <br><a href="mailto:ram_pyaree_taker_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ram_pyaree_taker_singh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Christina Chew
-<br><a href="mailto:chew\_pei_jun_christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_pei_jun_christina@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3A2</p>
+<p>4A2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Melky Putera
@@ -120,12 +107,11 @@ third_nav_title: Form Classes 2025
 <p>Mdm Norsiah
 <br><a href="mailto:norsiah_semuni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norsiah_semuni@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3A3</p>
+<p>4A3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jacqueline Cheng
@@ -141,12 +127,11 @@ third_nav_title: Form Classes 2025
 <p>Ms Sharina Nadia Suleiman
 <br><a href="mailto:sharina_nadia_suleiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharina_nadia_suleiman@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3T1</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ian Tay
@@ -162,6 +147,23 @@ third_nav_title: Form Classes 2025
 <p>Mr Ryan Tan
 <br><a href="mailto:tan_wei_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_ming@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5A1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Angelina Ng
+<br><a href="mailto:ng_mui_yun_angelina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mui_yun_angelina@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
