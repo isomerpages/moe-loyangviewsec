@@ -102,7 +102,9 @@ third_nav_title: Form Classes 2026
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Suhaimi Daud
+<br><a href="mailto:suhaimi_daud@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhaimi_daud@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -110,9 +112,6 @@ third_nav_title: Form Classes 2026
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norsiah
-<br><a href="mailto:norsiah_semuni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norsiah_semuni@moe.edu.sg</a>
-</p>
 <p></p>
 </td>
 </tr>
@@ -121,9 +120,7 @@ third_nav_title: Form Classes 2026
 <p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jacqueline Cheng
-<br><a href="mailto:cheng_su_ming_jacqueline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_su_ming_jacqueline@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -131,9 +128,6 @@ third_nav_title: Form Classes 2026
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sharina Nadia Suleiman
-<br><a href="mailto:sharina_nadia_suleiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharina_nadia_suleiman@moe.edu.sg</a>
-</p>
 <p></p>
 </td>
 </tr>
@@ -142,9 +136,7 @@ third_nav_title: Form Classes 2026
 <p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ian Tay
-<br><a href="mailto:tay_yuxiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_yuxiang@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -152,9 +144,6 @@ third_nav_title: Form Classes 2026
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ryan Tan
-<br><a href="mailto:tan_wei_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_ming@moe.edu.sg</a>
-</p>
 <p></p>
 </td>
 </tr>
