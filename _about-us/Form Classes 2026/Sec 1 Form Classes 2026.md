@@ -34,7 +34,7 @@ third_nav_title: Form Classes 2026
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yang Yin Leong
-<br><a href="mailto:yang_yin_loeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_yin_loeng@moe.edu.sg</a>
+<br><a href="mailto:yang_yin_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_yin_leong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
