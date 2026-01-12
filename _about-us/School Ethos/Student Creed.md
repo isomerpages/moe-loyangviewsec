@@ -3,11 +3,9 @@ title: Student Creed
 permalink: /about-us/School-Ethos/schoolcreed/
 description: ""
 third_nav_title: School Ethos
+variant: markdown
 ---
-
-
-
-Student Creed
+Our Creed
 -------------
 
 ##### ***I am unique and worthy.***
