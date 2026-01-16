@@ -80,15 +80,15 @@ which are of prime concern at this age.</p>
 <p><strong>At Loyang View Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <p></p>
-<p><strong><a href="/files/CCE Matters/2025 Sed/Secondary1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a></strong>
+<p><strong><a href="/files/CCE Matters/SED 2026/SED_Secondary_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a></strong>
 </p>
-<p><strong><a href="/files/CCE Matters/2025 Sed/Secondary2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a></strong>
+<p><strong><a href="/files/CCE Matters/SED 2026/SED_Secondary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a></strong>
 </p>
-<p><strong><a href="/files/CCE Matters/2025 Sed/Secondary3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a></strong>
+<p><strong><a href="/files/CCE Matters/SED 2026/SED_Secondary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a></strong>
 </p>
-<p><strong><a href="/files/CCE Matters/2025 Sed/Secondary4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a></strong>
+<p><strong><a href="/files/CCE Matters/SED 2026/SED_Secondary_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a></strong>
 </p>
-<p><strong><a href="/files/CCE Matters/2025 Sed/Sec_5_2025_SED_Lessons.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a></strong>
+<p><strong><a href="/files/CCE Matters/SED 2026/SED_Secondary_5.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a></strong>
 </p>
 <p></p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
