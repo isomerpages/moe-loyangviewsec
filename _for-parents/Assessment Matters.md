@@ -20,10 +20,10 @@ variant: tiptap
 <p>Express Course &amp; Sec 5 Normal Academic Course</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>Sec 3 - 4 Normal (Academic) Course</p>
+<p>Sec 4 Normal (Academic) Course</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>Sec 3- 4 Normal (Technical) Course</p>
+<p>Sec 4 Normal (Technical) Course</p>
 </th>
 </tr>
 <tr>
