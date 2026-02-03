@@ -10,11 +10,11 @@ sections:
       background: /images/Site Design/Hero_Banner_2026.png
       key_highlights:
         - title: Sec 1 Registration 2026
-          description: "[NEW]"
+          description: ""
           url: /sec-1-registration/sec1registration2026/
-        - title: 2025 GCE N Levels
-          description: Click for more information
-          url: /2025-gce-n-levels-release-supporting-your-teen-through-the-n-level-results-release/
+        - title: LVSS Yearbook
+          description: "[NEW]"
+          url: /year-book/
         - title: Latest Happenings
           description: ""
           url: /Latest-Happenings/
