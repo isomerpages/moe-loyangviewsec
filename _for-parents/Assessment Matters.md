@@ -20,10 +20,10 @@ variant: tiptap
 <p>Express Course &amp; Sec 5 Normal Academic Course</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>Sec 3 - 4 Normal (Academic) Course</p>
+<p>Sec 4 Normal (Academic) Course</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>Sec 3- 4 Normal (Technical) Course</p>
+<p>Sec 4 Normal (Technical) Course</p>
 </th>
 </tr>
 <tr>
@@ -184,22 +184,48 @@ skills in the subject</p>
 <p><strong>D</strong>&nbsp;&nbsp;&nbsp;&nbsp; Has some knowledge and skills
 in the subject</p>
 <h4>Weighted Assessment Matters</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Assessment letters/2025/Sec_1_Assessment_Information_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Assessment Information</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment letters/2026/Sec_1_Assessment_Information_2026_Letter_to_Parents__2Feb_.pdf" rel="noopener nofollow" target="_blank">Sec_1_Assessment_Information_2026_Letter_to_Parents__2Feb_.pdf</a>
 </p>
-</li>
-<li>
-<p><a href="/files/Assessment letters/2025/Sec_2_Assessment_Information_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Assessment Information</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment letters/2026/Sec_2_Assessment_Information_2026_Letter_to_Parents__3Feb_.pdf" rel="noopener nofollow" target="_blank">Sec_2_Assessment_Information_2026_Letter_to_Parents__3Feb_.pdf</a>
 </p>
-</li>
-<li>
-<p><a href="/files/Assessment letters/2025/Sec_3_Assessment_Information_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Assessment Information</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment letters/2026/Sec_3_Assessment_Information_2026_Letter_to_Parents__3Feb_.pdf" rel="noopener nofollow" target="_blank">Sec_3_Assessment_Information_2026_Letter_to_Parents__3Feb_.pdf</a>
 </p>
-</li>
-<li>
-<p><a href="/files/Assessment letters/2025/Sec_4_5_Assessment_Information_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4/5 Assessment Information</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 4/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment letters/2026/Sec_4_5_Assessment_Information_2026_Letter_to_Parents__2Feb_.pdf" rel="noopener nofollow" target="_blank">Sec_4_5_Assessment_Information_2026_Letter_to_Parents__2Feb_.pdf</a>
 </p>
-</li>
-</ol>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
