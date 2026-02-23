@@ -101,7 +101,7 @@ their choice based on their preferred career sector.
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/12ass4FSCcg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/12ass4FSCcg"></iframe>
 </div>
 <p><strong>USEFUL LINKS</strong>
 </p>
@@ -166,10 +166,17 @@ their choice based on their preferred career sector.
 <p>Polytechnic Early Admissions Exercise (Poly EAE)</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/poly-eae" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/poly-eae</a>
 </p>
+<p></p>
+</li>
+<li>
 <p><a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp" rel="noopener noreferrer nofollow" target="_blank">https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp</a>
 </p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -179,11 +186,18 @@ their choice based on their preferred career sector.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/pfp" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/pfp</a>
 </p>
+<p></p>
+</li>
+<li>
 <p><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -201,11 +215,16 @@ their choice based on their preferred career sector.
 <p>Direct-Entry-Scheme to Polytechnic Programme (DPP)</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dpp</a>
 </p>
-<p><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp</a>
-</p>
-<p>&nbsp;</p>
+<p></p>
+</li>
+<li>
+<p><a href="https://www.ite.edu.sg/current-full-time-students/progression/higher-nitec/" rel="noopener nofollow" target="_blank">https://www.ite.edu.sg/current-full-time-students/progression/higher-nitec/</a>&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -214,11 +233,18 @@ their choice based on their preferred career sector.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://www.moe.gov.sg/post-secondary/admissions/ite-eae" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/ite-eae</a>
 </p>
+<p></p>
+</li>
+<li>
 <p><a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -227,12 +253,18 @@ their choice based on their preferred career sector.
 process at their key education stages</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>For O-Level students: <a href="https://go.gov.sg/whats-next-olevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
+</li>
+<li>
 <p>For N-Level students: <a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
