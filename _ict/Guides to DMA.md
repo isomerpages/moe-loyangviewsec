@@ -2,6 +2,7 @@
 title: Guides to DMA
 permalink: /community-involvement/NDLP/Guides-to-DMA/
 description: ""
+variant: markdown
 ---
 ![](/images/Banner.jpg)
 
@@ -14,12 +15,12 @@ You may download the respective DMA guide to understand better how it works base
 
 ##### Default
 
-[DMA Parent Guide v2.0 - Default iPadOS.pdf](/files/DMA%20Parent%20Guide%20v2%200%20-%20Default%20iPadOS.pdf)
+[DMA-Parent-Guide-2026-Default.PDF](/files/PLD%20Matters/2026/iPadOS_DMA_Parent_Default_Option.pdf)
 
 ##### Option A
 
-[DMA-Parent-Guide-v2.0-Option-A-iPadOS.pdf](/files/DMA-Parent-Guide-v2%200-Option-A-iPadOS.pdf)
+[DMA-Parent-Guide-2026-Option A.PDF](/files/PLD%20Matters/2026/iPadOS_DMA_Parent_Option_A_V1_2a.pdf)
 
 ##### Option B
 
-[DMA Parent Guide v2.0 - Option B iPadOS.pdf](/files/DMA%20Parent%20Guide%20v2%200%20-%20Option%20B%20iPadOS.pdf)
+[DMA-Parent-Guide-2026-Option B.PDF](/files/PLD%20Matters/2026/iPadOS_DMA_Parent_Option_B.pdf)
