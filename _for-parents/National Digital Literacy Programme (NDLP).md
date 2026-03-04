@@ -77,9 +77,9 @@ explain the details of the PLD.</p>
 <p></p>
 <p><strong>PLD Resources for parents</strong>
 </p>
-<p><a href="/files/PLD Matters/2024/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I on Learning with a Personal Learning Device</a>
+<p><a href="/files/PLD Matters/2026/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I on Learning with a Personal Learning Device</a>
 </p>
-<p><a href="/files/PLD Matters/2024/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II on Learning with a Personal Learning Device</a>
+<p><a href="/files/PLD Matters/2026/IP3___Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook II on Learning with a Personal Learning Device</a>
 </p>
 <p></p>
 <h4><strong>Device Management Application</strong></h4>
@@ -109,11 +109,11 @@ the school.</p>
 <h4>Choice of DMA - JAMF</h4>
 <p>JAMF is the choice of DMA.</p>
 <p>Please refer to the following guides with regards to the 3 options.</p>
-<p><a href="/files/ICT/IE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Default Option</a>
+<p><a href="/files/PLD Matters/2026/iPadOS_DMA_Parent_Default_Option.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Default Option</a>
 </p>
-<p><a href="/files/ICT/IE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Option A</a>
+<p><a href="/files/PLD Matters/2026/iPadOS_DMA_Parent_Option_A_V1_2a.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Option A</a>
 </p>
-<p><a href="/files/ICT/IE10_Parent_User_Guide_for_Option_B.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Option B</a>
+<p><a href="/files/PLD Matters/2026/iPadOS_DMA_Parent_Option_B.pdf" rel="noopener nofollow" target="_blank">Parent User Guide for Option B</a>
 </p>
 <p></p>
 <p>For any queries on PLD, please contact&nbsp;the HOD ICT, Mr Koe Soon Guan
