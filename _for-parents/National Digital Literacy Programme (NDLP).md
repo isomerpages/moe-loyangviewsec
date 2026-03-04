@@ -71,7 +71,7 @@ the MOE Financial Assistance Scheme. Please contact the school at 6582
 more information.</p>
 <p><strong>Briefing for Parents</strong>
 </p>
-<p>An online briefing for parents was held in earlier on 15th Jan 2025 to
+<p>An online briefing for parents was held in earlier on 15th Jan 2026 to
 explain the details of the PLD.</p>
 <p>A copy of the slides used can be downloaded by clicking <a href="/files/ICT/PLD_Initiative_Slides_for_Sec_1_Parents_Webinar___2025_ver_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
