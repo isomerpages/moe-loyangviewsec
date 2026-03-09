@@ -194,12 +194,113 @@ or illegal</p>
 </li>
 </ul>
 <h2><strong>11. Consequences and Enforcement</strong></h2>
+<h3><strong>11.1 Progressive Discipline Framework</strong></h3>
 <p>Non-compliance with this AUP will lead to disciplinary action in accordance
-with the school's discipline policy. The school employs a progressive discipline
-approach that emphasises learning from mistakes while maintaining clear
-boundaries, with consequences ranging from warnings and temporary restrictions
-to extended suspension of technology privileges and formal disciplinary
-action.</p>
+with the school's discipline policy. Loyang View Secondary School employs
+a progressive discipline approach that emphasises learning from mistakes
+while maintaining clear boundaries. Consequences are determined based on
+the severity of the violation, frequency of incidents, and the student's
+response to corrective guidance.</p>
+<h3><strong>11.2 Consequence Levels</strong></h3>
+<p><strong>Level 1 - Minor Violations</strong> First-time minor infractions
+such as inappropriate use during class time or accessing non-educational
+content may result in:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Verbal warnings and counselling on appropriate use</p>
+</li>
+<li>
+<p>Temporary restriction of device privileges during specific lessons</p>
+</li>
+<li>
+<p>Reflection activities focused on digital citizenship</p>
+</li>
+<li>
+<p>Additional supervision during technology use</p>
+</li>
+<li>
+<p>Review of this AUP with Form Teacher</p>
+</li>
+</ul>
+<p><strong>Level 2 - Moderate Violations</strong> Repeated minor violations
+or moderate infractions such as attempting to bypass security measures,
+inappropriate online communication, or misuse of school platforms may result
+in:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Temporary suspension of PLD privileges for one to several days</p>
+</li>
+<li>
+<p>Parent notification and conference</p>
+</li>
+<li>
+<p>Completion of digital citizenship education modules</p>
+</li>
+<li>
+<p>Written reflection on the impact of actions on the learning community</p>
+</li>
+<li>
+<p>Formal documentation in student records</p>
+</li>
+</ul>
+<p><strong>Level 3 - Serious Violations</strong> Serious infractions such
+as cyberbullying, accessing highly inappropriate content, unauthorised
+recording, or attempting to compromise system security may result in:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Extended suspension of technology privileges</p>
+</li>
+<li>
+<p>Formal disciplinary action according to school policies</p>
+</li>
+<li>
+<p>Mandatory counselling or intervention programmes</p>
+</li>
+<li>
+<p>Involvement of external authorities where appropriate</p>
+</li>
+<li>
+<p>Potential suspension from school activities</p>
+</li>
+</ul>
+<h3><strong>11.3 Device Management Violations</strong></h3>
+<p><strong>Non-Compliance with DMA Requirements:</strong> Devices without
+proper DMA installation will be immediately confiscated and stored in the
+Student Welfare room. Students will face progressive consequences that
+may include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Device confiscation until parents collect personally</p>
+</li>
+<li>
+<p>Temporary suspension from technology-enhanced lessons</p>
+</li>
+<li>
+<p>Additional digital citizenship education requirements</p>
+</li>
+<li>
+<p>Loss of PLD privileges for extended periods</p>
+</li>
+</ul>
+<h3><strong>11.4 Restoration and Learning Focus</strong></h3>
+<p>All disciplinary actions emphasise restoration and learning rather than
+purely punitive measures. Students will have opportunities to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate understanding of appropriate technology use through reflection
+and education</p>
+</li>
+<li>
+<p>Contribute positively to the digital learning community through peer mentoring
+or presentations</p>
+</li>
+<li>
+<p>Rebuild trust through consistent responsible behaviour over time</p>
+</li>
+<li>
+<p>Participate in restorative conversations with affected parties where appropriate</p>
+</li>
+</ul>
 <h2><strong>12. Monitoring and Privacy Considerations</strong></h2>
 <p>The school maintains appropriate monitoring systems to ensure student
 safety, network security, and policy compliance whilst respecting student
