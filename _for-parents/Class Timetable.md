@@ -5,6 +5,57 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Class Timetables</strong></h2>
+<h3><strong>2026 Term 2 Timetable</strong></h3>
+<p>Term 1 timetable can be downloaded below.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Sec 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sec 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/CLASSES TT/2026/2026_Term2_Sec1.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Term 2 Timetable</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/CLASSES TT/2026/2026_Term2_Sec2_V1.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Term 2 Timetable</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 4 / 5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/CLASSES TT/2026/2026_Term2_Sec3.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Term 2 Timetable</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/CLASSES TT/2026/2026_Term2_Sec4_5.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4/5 Term 2 Timetable</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr>
+<p></p>
 <h3><strong>2026 Term 1 Timetable</strong></h3>
 <p>Term 1 timetable can be downloaded below.</p>
 <table style="minWidth: 50px">
