@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2><strong>Class Timetables</strong></h2>
 <h3><strong>2026 Term 2 Timetable</strong></h3>
-<p>Term 1 timetable can be downloaded below.</p>
+<p>Term 2 timetable can be downloaded below.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
