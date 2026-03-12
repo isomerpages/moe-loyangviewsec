@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Class Timetables</strong></h2>
-<h3><strong>2026 Term 2 Timetable</strong></h3>
+<h3><strong>2026 Term 2 Timetable as of 12th March</strong></h3>
 <p>Term 2 class timetable can be downloaded below.</p>
 <table style="minWidth: 50px">
 <colgroup>
