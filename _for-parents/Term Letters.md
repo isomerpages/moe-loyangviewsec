@@ -4,7 +4,7 @@ permalink: /for-parents/termletters/
 description: ""
 variant: tiptap
 ---
-<h2>Start of Semester-1 2026</h2>
+<h2>Term Letters - 2026</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Term Letters/2026/2026_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">Term 2 Letter</a>
