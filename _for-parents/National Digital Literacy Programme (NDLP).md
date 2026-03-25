@@ -32,12 +32,18 @@ in addition to native Apple apps.</p>
 on-the-move and is relatively easy to use. A full charge of the battery
 typically allows students to use the iPad throughout the school day.</p>
 <p>Each iPad comes bundled with the Apple Pencil and keyboard to maximise
-the affordances of the iPad as a learning tool. The bundle also includes
-3 years of AppleCare+ coverage and insurance.</p>
+the affordances of the iPad as a learning tool. As of 2026, the bundle
+also includes 4 years of AppleCare+ coverage and insurance.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/iPad_Bundle.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LVSS_Choice_of_Device_2026.png">
 </div>
+<p><strong>Student Device Information Kit</strong>
+</p>
+<p>You may download the Student Device Information Kit over <a href="/files/ICT/2026/Student_Device_Information_Kit_2026__Apple_iPad_AsiaPac_.pdf" rel="noopener nofollow" target="_blank">here.</a>
+</p>
+<p></p>
 <p><strong>Why did the school choose the iPad as the PLD?</strong>
 </p>
 <p>Using the iPad in teaching and learning is not new to LVSS. We have been
