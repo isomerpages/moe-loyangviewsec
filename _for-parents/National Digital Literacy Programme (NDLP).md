@@ -38,6 +38,10 @@ the affordances of the iPad as a learning tool. The bundle also includes
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/iPad_Bundle.png">
 </div>
+<p><strong>Student Device Information Kit</strong>
+</p>
+<p></p>
+<p></p>
 <p><strong>Why did the school choose the iPad as the PLD?</strong>
 </p>
 <p>Using the iPad in teaching and learning is not new to LVSS. We have been
