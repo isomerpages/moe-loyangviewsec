@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Term Letters/2026/Joint_Advisory__June_2026_.pdf" rel="noopener nofollow" target="_blank">Joint Advisory June</a>
+<p><a href="/files/Term Letters/2026/Joint_Advisory__June_2026_.pdf" rel="noopener nofollow" target="_blank">Joint Advisory - June</a>
 </p>
 </li>
 <li>
