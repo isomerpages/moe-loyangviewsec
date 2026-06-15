@@ -8,23 +8,17 @@ variant: tiptap
 <h2><strong>Overview</strong></h2>
 <blockquote>
 <p>Loyang View Symphonic Band was formed from the merging of Greenview and
-Loyang Symphonic Bands in 2018. The band performs actively in school events,
-taking the stage during National Day Parades, Commendation Day performances
-and school Aesthetics showcase "Kaleidoscope". Additionally, the band serenades
-the public at outreach performances regularly, such as at Our Tampines
-Hub, and the Pasir East Community Centre for its National Day Celebrations
-&amp; the recent combined band showcase in SOTA.</p>
+Loyang Symphonic Bands in 2018. The band performs actively in milestone
+school events, taking the stage during National Day Parades, Commendation
+Day performances and school Aesthetics showcase "Kaleidoscope". Additionally,
+the band serenades the public at outreach performances regularly, such
+as at Our Tampines Hub, and the Pasir East Community Centre for its National
+Day Celebrations and the combined band showcase in SOTA. With the dedicated
+guidance and support of our teachers and conductors, Loyang View Symphonic
+Band aims to cultivate a passion for the performing arts and develop values
+of respect, responsibility, resilience, tenacity, courage, gratitude, and
+teamwork in every member.</p>
 </blockquote>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Our members also seek to develop their musicality by participating in
-external workshops and band festivals such as attending the WBAS Band Student
-Leader Workshops and the WBAS Youth Band Festival.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <h3><strong>Band Conductors/Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -48,7 +42,7 @@ Leader Workshops and the WBAS Youth Band Festival.</summary>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wilson Ong</p>
+<p>Mr Shawn Yap</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +51,7 @@ Leader Workshops and the WBAS Youth Band Festival.</summary>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shawn Yap</p>
+<p>Mr Wilson Ong</p>
 </td>
 </tr>
 <tr>
@@ -84,25 +78,25 @@ Leader Workshops and the WBAS Youth Band Festival.</summary>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Wen Siu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teacher-in-charge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chester</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teacher-in-charge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Hamisah Shek Nahji</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammed Hafiz Bin Senin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No teacher</p>
 </td>
 </tr>
 </tbody>
@@ -111,10 +105,10 @@ Leader Workshops and the WBAS Youth Band Festival.</summary>
 <h3><strong>Band Training Schedule</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday 3.30 - 6pm</p>
+<p>Tuesday 3.00 - 5.30pm</p>
 </li>
 <li>
-<p>Thursday 2.30 - 5pm</p>
+<p>Thursday 3.00 - 5.30pm</p>
 </li>
 </ul>
 <h3><strong>Past Achievements</strong></h3>
@@ -123,8 +117,8 @@ Leader Workshops and the WBAS Youth Band Festival.</summary>
 <p>Singapore International Band Festival Competition (Division 2B) – Silver</p>
 </li>
 <li>
-<p>SYF Arts Presentation: Certificate of Accomplishment (2019, 2021 &amp;
-2023)</p>
+<p>SYF Arts Presentation: Certificate of Accomplishment (2019, 2021, 2023
+&amp; 2025)</p>
 </li>
 </ul>
 <h3><strong>Signature Programmes</strong></h3>
