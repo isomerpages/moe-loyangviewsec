@@ -183,7 +183,7 @@ School, and Meridian Secondary School</p>
 </div>
 </div>
 <p></p>
-<h4><strong>LVSS Kaleidoscope </strong></h4>
+<h4><strong>LVSS Kaleidoscope</strong></h4>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
