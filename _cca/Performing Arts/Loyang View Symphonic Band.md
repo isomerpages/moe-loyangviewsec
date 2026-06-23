@@ -56,6 +56,14 @@ teamwork in every member.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Woodwind Tutor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Simon Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Teacher-in-charge (I/C)</strong>
 </p>
 </td>
@@ -88,15 +96,6 @@ teamwork in every member.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammed Hafiz Bin Senin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teacher-in-charge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No teacher</p>
 </td>
 </tr>
 </tbody>
@@ -139,7 +138,7 @@ School, and Meridian Secondary School</p>
 </ul>
 <hr>
 <h3><strong><u>Symphonic Band in Action</u></strong></h3>
-<h4><strong>Commendation Day 2024</strong></h4>
+<h4><strong>Commendation Day</strong></h4>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -184,7 +183,7 @@ School, and Meridian Secondary School</p>
 </div>
 </div>
 <p></p>
-<h4><strong>LVSS Kaleidoscope 2024</strong></h4>
+<h4><strong>LVSS Kaleidoscope </strong></h4>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
