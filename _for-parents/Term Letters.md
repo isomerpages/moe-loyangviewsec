@@ -7,6 +7,10 @@ variant: tiptap
 <h2>Term Letters - 2026</h2>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Term Letters/2026/2026_Start_of__Semeter_2_Letter_Final.pdf" rel="noopener nofollow" target="_blank">Start of Semeter 2 2026 Letter</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Term Letters/2026/Anti_Vaping_Advisory__June_2026_.pdf" rel="noopener nofollow" target="_blank">Anti Vaping Advisory - June</a>
 </p>
 </li>
