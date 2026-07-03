@@ -26,10 +26,10 @@ right hand raised.</p>
 <p>1.5&nbsp;&nbsp; The school song will be sung during morning assembly on
 Tuesdays.</p>
 <h3><strong><u>2. Attendance</u></strong></h3>
-<p>2.1&nbsp;&nbsp; Punctuality must be observed when reporting for school,
-lessons, examinations and any school activity. Students who are not present
-during attendance-taking at 8.30 a.m. on Mondays and at 7.30 a.m. on Tuesdays
-to Fridays will be considered late for school.</p>
+<p>Punctuality must be observed when reporting for school, lessons, examinations
+and any school activity. The reporting time for attendance-taking is 7.50
+am on Mondays to Fridays. Those who report after 7.50 am will be considered
+late for school.</p>
 <p>2.2&nbsp;&nbsp; Leaving the school compound during school hours must be
 approved with written permission of the Principal or the Vice-Principal.</p>
 <p>2.3&nbsp;&nbsp; Absenteeism from school and CCA</p>
