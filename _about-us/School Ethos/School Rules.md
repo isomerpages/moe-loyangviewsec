@@ -52,9 +52,9 @@ at all times.</p>
 <p>3.2&nbsp;&nbsp; The school uniform, which consists of the school shirt/blouse
 or the school polo t-shirt, together with a pair of shorts, trousers or
 skirt, is to be worn in the proper manner whenever a student comes to school
-and at all school­related activities, including those held during the school
-vacation or beyond the school premises. Should students choose to wear
-an outer clothing, they are only allowed to wear the school windbreaker.</p>
+and at all school ­related activities, including those held during the
+school vacation or beyond the school premises. Should students choose to
+wear an outer clothing, they are only allowed to wear the school windbreaker.</p>
 <p>3.3&nbsp;&nbsp; Students are to wear the prescribed school uniform and
 modification to the uniform is not allowed.</p>
 <p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 3.3.1&nbsp;&nbsp; Skirts must be
