@@ -26,10 +26,10 @@ right hand raised.</p>
 <p>1.5&nbsp;&nbsp; The school song will be sung during morning assembly on
 Tuesdays.</p>
 <h3><strong><u>2. Attendance</u></strong></h3>
-<p>2.1&nbsp;&nbsp; Punctuality must be observed when reporting for school,
-lessons, examinations and any school activity. Students who are not present
-during attendance-taking at 8.30 a.m. on Mondays and at 7.30 a.m. on Tuesdays
-to Fridays will be considered late for school.</p>
+<p>Punctuality must be observed when reporting for school, lessons, examinations
+and any school activity. The reporting time for attendance-taking is 7.50
+am on Mondays to Fridays. Those who report after 7.50 am will be considered
+late for school.</p>
 <p>2.2&nbsp;&nbsp; Leaving the school compound during school hours must be
 approved with written permission of the Principal or the Vice-Principal.</p>
 <p>2.3&nbsp;&nbsp; Absenteeism from school and CCA</p>
@@ -52,9 +52,9 @@ at all times.</p>
 <p>3.2&nbsp;&nbsp; The school uniform, which consists of the school shirt/blouse
 or the school polo t-shirt, together with a pair of shorts, trousers or
 skirt, is to be worn in the proper manner whenever a student comes to school
-and at all school­related activities, including those held during the school
-vacation or beyond the school premises. Should students choose to wear
-an outer clothing, they are only allowed to wear the school windbreaker.</p>
+and at all school ­related activities, including those held during the
+school vacation or beyond the school premises. Should students choose to
+wear an outer clothing, they are only allowed to wear the school windbreaker.</p>
 <p>3.3&nbsp;&nbsp; Students are to wear the prescribed school uniform and
 modification to the uniform is not allowed.</p>
 <p>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 3.3.1&nbsp;&nbsp; Skirts must be
